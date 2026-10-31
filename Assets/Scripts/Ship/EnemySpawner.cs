@@ -4,9 +4,9 @@ using UnityEngine;
 public class EnemySpawner : MonoBehaviour
 {
     [Header("Doğma (Spawn) Ayarları")]
-    public GameObject enemyPrefab; // Hazırladığın balık prefabını buraya sürükle
-    public float spawnInterval = 2f; // Kaç saniyede bir düşman çıkacak
-    public float spawnRadius = 15f; // Kameranın merkezinden ne kadar uzakta doğacağı
+    public GameObject[] enemyPrefabs; // Artık bir dizi. Inspector'dan boyutunu belirleyip prefabları sürükle.
+    public float spawnInterval = 2f;
+    public float spawnRadius = 15f;
 
     private Camera mainCamera;
 
@@ -18,7 +18,6 @@ public class EnemySpawner : MonoBehaviour
 
     private IEnumerator SpawnRoutine()
     {
-        // Oyun çalıştığı sürece sonsuz döngüde düşman üretir
         while (true)
         {
             yield return new WaitForSeconds(spawnInterval);
@@ -28,21 +27,20 @@ public class EnemySpawner : MonoBehaviour
 
     private void SpawnEnemy()
     {
-        if (mainCamera == null || enemyPrefab == null) return;
+        // Kamera yoksa veya dizi boşsa işlemi iptal et
+        if (mainCamera == null || enemyPrefabs == null || enemyPrefabs.Length == 0) return;
 
-        // Kameranın anlık pozisyonunu merkez al
+        // Diziden rastgele bir düşman prefabı seç
+        int randomIndex = Random.Range(0, enemyPrefabs.Length);
+        GameObject selectedEnemy = enemyPrefabs[randomIndex];
+
+        if (selectedEnemy == null) return;
+
         Vector2 cameraPos = mainCamera.transform.position;
-
-        // 0 ile 360 derece arasında rastgele bir açı seç
         float randomAngle = Random.Range(0f, 360f);
-
-        // Bu açıyı (Radyan cinsinden) X ve Y yön vektörüne çevir
         Vector2 spawnDirection = new Vector2(Mathf.Cos(randomAngle * Mathf.Deg2Rad), Mathf.Sin(randomAngle * Mathf.Deg2Rad));
-
-        // Yön ile mesafeyi çarpıp kameranın pozisyonuna ekleyerek kesin doğma noktasını bul
         Vector2 spawnPosition = cameraPos + (spawnDirection * spawnRadius);
 
-        // Düşmanı sahneye fırlat
-        Instantiate(enemyPrefab, spawnPosition, Quaternion.identity);
+        Instantiate(selectedEnemy, spawnPosition, Quaternion.identity);
     }
 }

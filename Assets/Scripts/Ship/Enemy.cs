@@ -14,8 +14,11 @@ public class Enemy : MonoBehaviour
     public float knockbackDuration = 0.3f;
 
     [Header("Hasar Ayarları")]
-    public float damage = 10f; // Gemideki IDamageable'a vurulacak hasar
+    public float damage = 10f;
     public float hitStunDuration = 0.2f;
+
+    [Header("Görsel Ayarları")]
+    public float rotationOffset = 0f;
 
     private Transform player;
     private Rigidbody2D rb;
@@ -35,7 +38,6 @@ public class Enemy : MonoBehaviour
         rb.gravityScale = 0f;
         rb.freezeRotation = true;
 
-        // Instance İPTAL. Sahnedeki ShipController'ı tipi üzerinden bulup hedefe kitleniyoruz.
         ShipController targetShip = FindAnyObjectByType<ShipController>();
         if (targetShip != null)
         {
@@ -51,23 +53,21 @@ public class Enemy : MonoBehaviour
             return;
         }
 
-        // Oyuncuyu takip etme
         Vector2 direction = (player.position - transform.position).normalized;
         rb.linearVelocity = direction * moveSpeed;
 
-        float angle = Mathf.Atan2(direction.y, direction.x) * Mathf.Rad2Deg - 90f;
+        float angle = Mathf.Atan2(direction.y, direction.x) * Mathf.Rad2Deg + rotationOffset;
         transform.rotation = Quaternion.Euler(0, 0, angle);
     }
 
     private void OnCollisionEnter2D(Collision2D collision)
     {
-        // Çarpışmada sadece Interface kullanıyoruz. Çarptığımız şey IDamageable mı?
-        if (collision.gameObject.TryGetComponent(out IDamageable damageableObj) && !isKnockedBack)
+        IDamageable damageableObj = collision.gameObject.GetComponentInParent<IDamageable>();
+
+        if (damageableObj != null && !isKnockedBack)
         {
-            // Varsa hasar ver
             damageableObj.TakeDamage(damage);
 
-            // Ve düşmanı geri sektir
             Vector2 knockbackDir = (transform.position - collision.transform.position).normalized;
             StartCoroutine(KnockbackRoutine(knockbackDir));
         }
