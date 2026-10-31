@@ -1,7 +1,6 @@
 using UnityEngine;
 using System.Collections;
 
-[RequireComponent(typeof(SpriteRenderer))]
 public class PlayerHealth : MonoBehaviour, IDamageable
 {
     [Header("Can Ayarları")]
@@ -10,22 +9,28 @@ public class PlayerHealth : MonoBehaviour, IDamageable
 
     [Header("Efekt Ayarları")]
     public float flashDuration = 0.1f;
-    public int flashCount = 3; // Kaç kere beyaz yanıp söneceği
+    public int flashCount = 3;
 
-    private SpriteRenderer spriteRenderer;
-    private Color originalColor;
-    private bool isInvulnerable = false; // Hasar aldıktan hemen sonra tekrar hasar almamak için (i-frame)
+    public bool IsInvulnerable { get; private set; } // ShipController buradan okuyacak
+
+    private SpriteRenderer[] allSprites;
+    private Color[] originalColors;
 
     void Start()
     {
         currentHealth = maxHealth;
-        spriteRenderer = GetComponent<SpriteRenderer>();
-        originalColor = spriteRenderer.color;
+        allSprites = GetComponentsInChildren<SpriteRenderer>();
+        originalColors = new Color[allSprites.Length];
+
+        for (int i = 0; i < allSprites.Length; i++)
+        {
+            originalColors[i] = allSprites[i].color;
+        }
     }
 
     public void TakeDamage(float damageAmount)
     {
-        if (isInvulnerable) return;
+        if (IsInvulnerable) return;
 
         currentHealth -= damageAmount;
         Debug.Log("Gemi hasar aldı! Kalan can: " + currentHealth);
@@ -35,28 +40,28 @@ public class PlayerHealth : MonoBehaviour, IDamageable
         if (currentHealth <= 0)
         {
             Debug.Log("Oyun Bitti! Gemi Parçalandı.");
-            // İleride buraya Game Over ekranı çağrısı gelecek
+            Time.timeScale = 0f;
+            if (TryGetComponent(out ShipController shipController)) shipController.enabled = false;
         }
-    }
-
-    // İleride sarı/yeşil modu veya level-up ile çağıracağın fonksiyon
-    public void IncreaseMaxHealth(float amount)
-    {
-        maxHealth += amount;
-        currentHealth += amount;
-        Debug.Log("Max can yükseltildi. Yeni Max Can: " + maxHealth);
     }
 
     private IEnumerator DamageFlashRoutine()
     {
-        isInvulnerable = true;
+        IsInvulnerable = true;
+        // Color.white orijinal renktir. Biz yarı saydam (hayalet) beyaz yapıyoruz.
+        Color ghostColor = new Color(1f, 1f, 1f, 0.5f);
+
         for (int i = 0; i < flashCount; i++)
         {
-            spriteRenderer.color = Color.white;
-            yield return new WaitForSeconds(flashDuration);
-            spriteRenderer.color = originalColor;
-            yield return new WaitForSeconds(flashDuration);
+            foreach (var sr in allSprites) { if (sr != null) sr.color = ghostColor; }
+            yield return new WaitForSecondsRealtime(flashDuration);
+
+            for (int j = 0; j < allSprites.Length; j++)
+            {
+                if (allSprites[j] != null) allSprites[j].color = originalColors[j];
+            }
+            yield return new WaitForSecondsRealtime(flashDuration);
         }
-        isInvulnerable = false;
+        IsInvulnerable = false;
     }
 }

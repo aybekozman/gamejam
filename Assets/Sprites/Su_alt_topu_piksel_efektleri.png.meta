@@ -1,0 +1,5200 @@
+fileFormatVersion: 2
+guid: c9dd3e85ceda42c43b7759a60f399d84
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2198374463651287723
+    second: Su_alt_topu_piksel_efektleri_0
+  - first:
+      213: 1702176291510583626
+    second: Su_alt_topu_piksel_efektleri_1
+  - first:
+      213: -8171354946394191557
+    second: Su_alt_topu_piksel_efektleri_2
+  - first:
+      213: -5463779461966915140
+    second: Su_alt_topu_piksel_efektleri_3
+  - first:
+      213: 4321396588597175505
+    second: Su_alt_topu_piksel_efektleri_4
+  - first:
+      213: 9189106699720258145
+    second: Su_alt_topu_piksel_efektleri_5
+  - first:
+      213: -8057013357135544367
+    second: Su_alt_topu_piksel_efektleri_6
+  - first:
+      213: 1617357899907650365
+    second: Su_alt_topu_piksel_efektleri_7
+  - first:
+      213: -6383350728391568792
+    second: Su_alt_topu_piksel_efektleri_8
+  - first:
+      213: -4157679960504277690
+    second: Su_alt_topu_piksel_efektleri_9
+  - first:
+      213: -413076129208134337
+    second: Su_alt_topu_piksel_efektleri_10
+  - first:
+      213: -83686757563664192
+    second: Su_alt_topu_piksel_efektleri_11
+  - first:
+      213: -3310961968864421588
+    second: Su_alt_topu_piksel_efektleri_12
+  - first:
+      213: 8851403827635917045
+    second: Su_alt_topu_piksel_efektleri_13
+  - first:
+      213: -6874846200012372901
+    second: Su_alt_topu_piksel_efektleri_14
+  - first:
+      213: -349187936789055156
+    second: Su_alt_topu_piksel_efektleri_15
+  - first:
+      213: 1473156367838316949
+    second: Su_alt_topu_piksel_efektleri_16
+  - first:
+      213: -7607256936422025813
+    second: Su_alt_topu_piksel_efektleri_17
+  - first:
+      213: -8848970225466977407
+    second: Su_alt_topu_piksel_efektleri_18
+  - first:
+      213: -646580583654646645
+    second: Su_alt_topu_piksel_efektleri_19
+  - first:
+      213: -5191587952756270956
+    second: Su_alt_topu_piksel_efektleri_20
+  - first:
+      213: -3163787480141809924
+    second: Su_alt_topu_piksel_efektleri_21
+  - first:
+      213: -4472064457604258560
+    second: Su_alt_topu_piksel_efektleri_22
+  - first:
+      213: 1115972594456643231
+    second: Su_alt_topu_piksel_efektleri_23
+  - first:
+      213: 2413418889941481963
+    second: Su_alt_topu_piksel_efektleri_24
+  - first:
+      213: 1528056983241560266
+    second: Su_alt_topu_piksel_efektleri_25
+  - first:
+      213: 5638439700606620315
+    second: Su_alt_topu_piksel_efektleri_26
+  - first:
+      213: -730759516374381756
+    second: Su_alt_topu_piksel_efektleri_27
+  - first:
+      213: -1973721200975593185
+    second: Su_alt_topu_piksel_efektleri_28
+  - first:
+      213: 3092211632595986758
+    second: Su_alt_topu_piksel_efektleri_29
+  - first:
+      213: -970839529260584013
+    second: Su_alt_topu_piksel_efektleri_30
+  - first:
+      213: -8671084614397695818
+    second: Su_alt_topu_piksel_efektleri_31
+  - first:
+      213: 753097593157688973
+    second: Su_alt_topu_piksel_efektleri_32
+  - first:
+      213: -7851605646829957737
+    second: Su_alt_topu_piksel_efektleri_33
+  - first:
+      213: -3514063301040793197
+    second: Su_alt_topu_piksel_efektleri_34
+  - first:
+      213: -6161036782813747986
+    second: Su_alt_topu_piksel_efektleri_35
+  - first:
+      213: 7146258989639137838
+    second: Su_alt_topu_piksel_efektleri_36
+  - first:
+      213: 8828414107701358492
+    second: Su_alt_topu_piksel_efektleri_37
+  - first:
+      213: 7960523901165311630
+    second: Su_alt_topu_piksel_efektleri_38
+  - first:
+      213: -4528078211276632952
+    second: Su_alt_topu_piksel_efektleri_39
+  - first:
+      213: -6506832397593152166
+    second: Su_alt_topu_piksel_efektleri_40
+  - first:
+      213: -8020454074696805277
+    second: Su_alt_topu_piksel_efektleri_41
+  - first:
+      213: -480327952259046899
+    second: Su_alt_topu_piksel_efektleri_42
+  - first:
+      213: -7850266400910690589
+    second: Su_alt_topu_piksel_efektleri_43
+  - first:
+      213: -3648935219663732119
+    second: Su_alt_topu_piksel_efektleri_44
+  - first:
+      213: 334692065418656302
+    second: Su_alt_topu_piksel_efektleri_45
+  - first:
+      213: -4129341902761257092
+    second: Su_alt_topu_piksel_efektleri_46
+  - first:
+      213: -8434804594932311957
+    second: Su_alt_topu_piksel_efektleri_47
+  - first:
+      213: 6953012440482041666
+    second: Su_alt_topu_piksel_efektleri_48
+  - first:
+      213: -1600496898945894095
+    second: Su_alt_topu_piksel_efektleri_49
+  - first:
+      213: 6667770337489815287
+    second: Su_alt_topu_piksel_efektleri_50
+  - first:
+      213: -4331139919066307215
+    second: Su_alt_topu_piksel_efektleri_51
+  - first:
+      213: -6452770846270031940
+    second: Su_alt_topu_piksel_efektleri_52
+  - first:
+      213: -8684872794148821839
+    second: Su_alt_topu_piksel_efektleri_53
+  - first:
+      213: 9138154224445916429
+    second: Su_alt_topu_piksel_efektleri_54
+  - first:
+      213: -7897353409662773716
+    second: Su_alt_topu_piksel_efektleri_55
+  - first:
+      213: -1384931384024915950
+    second: Su_alt_topu_piksel_efektleri_56
+  - first:
+      213: -7515289626313789914
+    second: Su_alt_topu_piksel_efektleri_57
+  - first:
+      213: -4165844240036771321
+    second: Su_alt_topu_piksel_efektleri_58
+  - first:
+      213: -6151169450445012481
+    second: Su_alt_topu_piksel_efektleri_59
+  - first:
+      213: -5841201924160524301
+    second: Su_alt_topu_piksel_efektleri_60
+  - first:
+      213: -772153711192942101
+    second: Su_alt_topu_piksel_efektleri_61
+  - first:
+      213: -6733904014597784012
+    second: Su_alt_topu_piksel_efektleri_62
+  - first:
+      213: 2140563116642735528
+    second: Su_alt_topu_piksel_efektleri_63
+  - first:
+      213: 5191795651644900155
+    second: Su_alt_topu_piksel_efektleri_64
+  - first:
+      213: -5762846893136365844
+    second: Su_alt_topu_piksel_efektleri_65
+  - first:
+      213: -7088567537683161902
+    second: Su_alt_topu_piksel_efektleri_66
+  - first:
+      213: -4439419674363196667
+    second: Su_alt_topu_piksel_efektleri_67
+  - first:
+      213: 3607145252066393478
+    second: Su_alt_topu_piksel_efektleri_68
+  - first:
+      213: -6401304824968319067
+    second: Su_alt_topu_piksel_efektleri_69
+  - first:
+      213: -4154261689456879772
+    second: Su_alt_topu_piksel_efektleri_70
+  - first:
+      213: 2992767438602713000
+    second: Su_alt_topu_piksel_efektleri_71
+  - first:
+      213: -8444440090555055207
+    second: Su_alt_topu_piksel_efektleri_72
+  - first:
+      213: -8457519265080071696
+    second: Su_alt_topu_piksel_efektleri_73
+  - first:
+      213: -1709661258096163129
+    second: Su_alt_topu_piksel_efektleri_74
+  - first:
+      213: -2308884608739945260
+    second: Su_alt_topu_piksel_efektleri_75
+  - first:
+      213: 1132206386775560246
+    second: Su_alt_topu_piksel_efektleri_76
+  - first:
+      213: 779181097657685459
+    second: Su_alt_topu_piksel_efektleri_77
+  - first:
+      213: 2137962763877903821
+    second: Su_alt_topu_piksel_efektleri_78
+  - first:
+      213: -7785416065763146141
+    second: Su_alt_topu_piksel_efektleri_79
+  - first:
+      213: -9080102112239294330
+    second: Su_alt_topu_piksel_efektleri_80
+  - first:
+      213: 3728797280058315462
+    second: Su_alt_topu_piksel_efektleri_81
+  - first:
+      213: -6188099279669499249
+    second: Su_alt_topu_piksel_efektleri_82
+  - first:
+      213: 4118238786666839341
+    second: Su_alt_topu_piksel_efektleri_83
+  - first:
+      213: 5539824093552568424
+    second: Su_alt_topu_piksel_efektleri_84
+  - first:
+      213: -6104866568368668634
+    second: Su_alt_topu_piksel_efektleri_85
+  - first:
+      213: -345400792120979101
+    second: Su_alt_topu_piksel_efektleri_86
+  - first:
+      213: -2149310639278505546
+    second: Su_alt_topu_piksel_efektleri_87
+  - first:
+      213: -6338581867714682873
+    second: Su_alt_topu_piksel_efektleri_88
+  - first:
+      213: 515432923421409707
+    second: Su_alt_topu_piksel_efektleri_89
+  - first:
+      213: 8166093384366673074
+    second: Su_alt_topu_piksel_efektleri_90
+  - first:
+      213: 3134503381931833761
+    second: Su_alt_topu_piksel_efektleri_91
+  - first:
+      213: -1822302300573130421
+    second: Su_alt_topu_piksel_efektleri_92
+  - first:
+      213: 2574881722689324947
+    second: Su_alt_topu_piksel_efektleri_93
+  - first:
+      213: 1123904317947694085
+    second: Su_alt_topu_piksel_efektleri_94
+  - first:
+      213: -5914870747233268839
+    second: Su_alt_topu_piksel_efektleri_95
+  - first:
+      213: 8834200086018941228
+    second: Su_alt_topu_piksel_efektleri_96
+  - first:
+      213: 992032560512538250
+    second: Su_alt_topu_piksel_efektleri_97
+  - first:
+      213: 4414746972058090419
+    second: Su_alt_topu_piksel_efektleri_98
+  - first:
+      213: 640355626774885717
+    second: Su_alt_topu_piksel_efektleri_99
+  - first:
+      213: 1012935152379951100
+    second: Su_alt_topu_piksel_efektleri_100
+  - first:
+      213: 1401615507311049261
+    second: Su_alt_topu_piksel_efektleri_101
+  - first:
+      213: -1332045778196282611
+    second: Su_alt_topu_piksel_efektleri_102
+  - first:
+      213: -6086307540852981736
+    second: Su_alt_topu_piksel_efektleri_103
+  - first:
+      213: -6268508258227437727
+    second: Su_alt_topu_piksel_efektleri_104
+  - first:
+      213: -3051782423236859275
+    second: Su_alt_topu_piksel_efektleri_105
+  - first:
+      213: 1533286653306696012
+    second: Su_alt_topu_piksel_efektleri_106
+  - first:
+      213: -3833174521276575073
+    second: Su_alt_topu_piksel_efektleri_107
+  - first:
+      213: -9149745710374851890
+    second: Su_alt_topu_piksel_efektleri_108
+  - first:
+      213: 8078453575415764427
+    second: Su_alt_topu_piksel_efektleri_109
+  - first:
+      213: -615427825383375986
+    second: Su_alt_topu_piksel_efektleri_110
+  - first:
+      213: 2429625768073645934
+    second: Su_alt_topu_piksel_efektleri_111
+  - first:
+      213: 5385922728401784213
+    second: Su_alt_topu_piksel_efektleri_112
+  - first:
+      213: 6204842569665438303
+    second: Su_alt_topu_piksel_efektleri_113
+  - first:
+      213: 9109943037899593800
+    second: Su_alt_topu_piksel_efektleri_114
+  - first:
+      213: 5221673604907750310
+    second: Su_alt_topu_piksel_efektleri_115
+  - first:
+      213: -4511313986594260805
+    second: Su_alt_topu_piksel_efektleri_116
+  - first:
+      213: -6341898803391171351
+    second: Su_alt_topu_piksel_efektleri_117
+  - first:
+      213: 6002034523432229883
+    second: Su_alt_topu_piksel_efektleri_118
+  - first:
+      213: 9160110806449627619
+    second: Su_alt_topu_piksel_efektleri_119
+  - first:
+      213: -8079092542260453252
+    second: Su_alt_topu_piksel_efektleri_120
+  - first:
+      213: 878709867449573541
+    second: Su_alt_topu_piksel_efektleri_121
+  - first:
+      213: -5165264213315868289
+    second: Su_alt_topu_piksel_efektleri_122
+  - first:
+      213: 3781814652046858939
+    second: Su_alt_topu_piksel_efektleri_123
+  - first:
+      213: -1601863759634121280
+    second: Su_alt_topu_piksel_efektleri_124
+  - first:
+      213: 2595292958431093543
+    second: Su_alt_topu_piksel_efektleri_125
+  - first:
+      213: -5888301634841498392
+    second: Su_alt_topu_piksel_efektleri_126
+  - first:
+      213: -3995482356575112651
+    second: Su_alt_topu_piksel_efektleri_127
+  - first:
+      213: 3128350872212113236
+    second: Su_alt_topu_piksel_efektleri_128
+  - first:
+      213: 687734838524288014
+    second: Su_alt_topu_piksel_efektleri_129
+  - first:
+      213: 6256617221373735628
+    second: Su_alt_topu_piksel_efektleri_130
+  - first:
+      213: 8160085780654837065
+    second: Su_alt_topu_piksel_efektleri_131
+  - first:
+      213: -8922806861172923963
+    second: Su_alt_topu_piksel_efektleri_132
+  - first:
+      213: -8486005402878235832
+    second: Su_alt_topu_piksel_efektleri_133
+  - first:
+      213: 8295005482405672975
+    second: Su_alt_topu_piksel_efektleri_134
+  - first:
+      213: -2957189486854445099
+    second: Su_alt_topu_piksel_efektleri_135
+  - first:
+      213: 6573347706661075126
+    second: Su_alt_topu_piksel_efektleri_136
+  - first:
+      213: 3060331341615148096
+    second: Su_alt_topu_piksel_efektleri_137
+  - first:
+      213: 2857055957154606300
+    second: Su_alt_topu_piksel_efektleri_138
+  - first:
+      213: 1700059355757485066
+    second: Su_alt_topu_piksel_efektleri_139
+  - first:
+      213: -6347099260178205411
+    second: Su_alt_topu_piksel_efektleri_140
+  - first:
+      213: -4997083000730751599
+    second: Su_alt_topu_piksel_efektleri_141
+  - first:
+      213: -8753174776578523401
+    second: Su_alt_topu_piksel_efektleri_142
+  - first:
+      213: -7104771013662903784
+    second: Su_alt_topu_piksel_efektleri_143
+  - first:
+      213: 6162269805742807659
+    second: Su_alt_topu_piksel_efektleri_144
+  - first:
+      213: -8477521621270365140
+    second: Su_alt_topu_piksel_efektleri_145
+  - first:
+      213: -6766219895436547697
+    second: Su_alt_topu_piksel_efektleri_146
+  - first:
+      213: 5782730108897853343
+    second: Su_alt_topu_piksel_efektleri_147
+  - first:
+      213: 2239445572309299090
+    second: Su_alt_topu_piksel_efektleri_148
+  - first:
+      213: 838693387101769706
+    second: Su_alt_topu_piksel_efektleri_149
+  - first:
+      213: -4051046619943548331
+    second: Su_alt_topu_piksel_efektleri_150
+  - first:
+      213: -3179806579147568854
+    second: Su_alt_topu_piksel_efektleri_151
+  - first:
+      213: 6149797729149923709
+    second: Su_alt_topu_piksel_efektleri_152
+  - first:
+      213: 2282575030730400751
+    second: Su_alt_topu_piksel_efektleri_153
+  - first:
+      213: 755930246709105533
+    second: Su_alt_topu_piksel_efektleri_154
+  - first:
+      213: -8369890677124658497
+    second: Su_alt_topu_piksel_efektleri_155
+  - first:
+      213: -2500030782912867679
+    second: Su_alt_topu_piksel_efektleri_156
+  - first:
+      213: -2471133219777941442
+    second: Su_alt_topu_piksel_efektleri_157
+  - first:
+      213: 6807122427697436053
+    second: Su_alt_topu_piksel_efektleri_158
+  - first:
+      213: 2745995210266138575
+    second: Su_alt_topu_piksel_efektleri_159
+  - first:
+      213: -6429496077997000315
+    second: Su_alt_topu_piksel_efektleri_160
+  - first:
+      213: 5042621379098003256
+    second: Su_alt_topu_piksel_efektleri_161
+  - first:
+      213: -6110971280254000721
+    second: Su_alt_topu_piksel_efektleri_162
+  - first:
+      213: -6862993235956950446
+    second: Su_alt_topu_piksel_efektleri_163
+  - first:
+      213: -4301941170253829263
+    second: Su_alt_topu_piksel_efektleri_164
+  - first:
+      213: -3599600120484563793
+    second: Su_alt_topu_piksel_efektleri_165
+  - first:
+      213: -5474412473664938990
+    second: Su_alt_topu_piksel_efektleri_166
+  - first:
+      213: 3802242960324410365
+    second: Su_alt_topu_piksel_efektleri_167
+  - first:
+      213: -2862494283198116549
+    second: Su_alt_topu_piksel_efektleri_168
+  - first:
+      213: -1308420747003229823
+    second: Su_alt_topu_piksel_efektleri_169
+  - first:
+      213: -3093077172537470158
+    second: Su_alt_topu_piksel_efektleri_170
+  - first:
+      213: -5683945565161200941
+    second: Su_alt_topu_piksel_efektleri_171
+  - first:
+      213: -1199075662747893941
+    second: Su_alt_topu_piksel_efektleri_172
+  - first:
+      213: -4856029858726896876
+    second: Su_alt_topu_piksel_efektleri_173
+  - first:
+      213: -184535019010553341
+    second: Su_alt_topu_piksel_efektleri_174
+  - first:
+      213: -5590165439736334016
+    second: Su_alt_topu_piksel_efektleri_175
+  - first:
+      213: 4042934130375510857
+    second: Su_alt_topu_piksel_efektleri_176
+  - first:
+      213: 3410920821492945200
+    second: Su_alt_topu_piksel_efektleri_177
+  - first:
+      213: -2762886250336396389
+    second: Su_alt_topu_piksel_efektleri_178
+  - first:
+      213: 2812769230416032486
+    second: Su_alt_topu_piksel_efektleri_179
+  - first:
+      213: -9050566190189550723
+    second: Su_alt_topu_piksel_efektleri_180
+  - first:
+      213: -283107942662555471
+    second: Su_alt_topu_piksel_efektleri_181
+  - first:
+      213: -245435779530732650
+    second: Su_alt_topu_piksel_efektleri_182
+  - first:
+      213: -6538102951595661180
+    second: Su_alt_topu_piksel_efektleri_183
+  - first:
+      213: 5901624072364870341
+    second: Su_alt_topu_piksel_efektleri_184
+  - first:
+      213: 6465291987601203672
+    second: Su_alt_topu_piksel_efektleri_185
+  - first:
+      213: 8350195638537408154
+    second: Su_alt_topu_piksel_efektleri_186
+  - first:
+      213: 660874674022667258
+    second: Su_alt_topu_piksel_efektleri_187
+  - first:
+      213: 1569834430354833641
+    second: Su_alt_topu_piksel_efektleri_188
+  - first:
+      213: 8719815705841456109
+    second: Su_alt_topu_piksel_efektleri_189
+  - first:
+      213: -7646810123204458410
+    second: Su_alt_topu_piksel_efektleri_190
+  - first:
+      213: -7714540183209617664
+    second: Su_alt_topu_piksel_efektleri_191
+  - first:
+      213: 5159859697671290323
+    second: Su_alt_topu_piksel_efektleri_192
+  - first:
+      213: 184040956439882068
+    second: Su_alt_topu_piksel_efektleri_193
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Su_alt_topu_piksel_efektleri_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 275
+        width: 1159
+        height: 735
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba2993d5de1328e10800000000000000
+      internalID: 2198374463651287723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Su_alt_topu_piksel_efektleri_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 923
+        width: 43
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a41849091585f9710800000000000000
+      internalID: 1702176291510583626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Su_alt_topu_piksel_efektleri_2
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 942
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b390b8e48f3899e80800000000000000
+      internalID: -8171354946394191557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Su_alt_topu_piksel_efektleri_3
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 923
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb913661781cc24b0800000000000000
+      internalID: -5463779461966915140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Su_alt_topu_piksel_efektleri_4
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 941
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d46be43d4fa8fb30800000000000000
+      internalID: 4321396588597175505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Su_alt_topu_piksel_efektleri_5
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 975
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 162fcff7bd3468f70800000000000000
+      internalID: 9189106699720258145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Su_alt_topu_piksel_efektleri_6
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 965
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dfbb512a0dbf2090800000000000000
+      internalID: -8057013357135544367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Su_alt_topu_piksel_efektleri_7
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 965
+        width: 39
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d33daaad072027610800000000000000
+      internalID: 1617357899907650365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Su_alt_topu_piksel_efektleri_8
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 972
+        width: 35
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8625d7d3558c967a0800000000000000
+      internalID: -6383350728391568792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Su_alt_topu_piksel_efektleri_9
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 989
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 645e160ba14fc46c0800000000000000
+      internalID: -4157679960504277690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Su_alt_topu_piksel_efektleri_10
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 963
+        width: 137
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f351b55f275744af0800000000000000
+      internalID: -413076129208134337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Su_alt_topu_piksel_efektleri_11
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 989
+        width: 9
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c8730f565fa6def0800000000000000
+      internalID: -83686757563664192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Su_alt_topu_piksel_efektleri_12
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 979
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c29120da1a91d02d0800000000000000
+      internalID: -3310961968864421588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Su_alt_topu_piksel_efektleri_13
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 994
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f095cd62e086da70800000000000000
+      internalID: 8851403827635917045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Su_alt_topu_piksel_efektleri_14
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 989
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5481da3ec3a790a0800000000000000
+      internalID: -6874846200012372901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Su_alt_topu_piksel_efektleri_15
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 965
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4936dbeb6f672bf0800000000000000
+      internalID: -349187936789055156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Su_alt_topu_piksel_efektleri_16
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 967
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5998b9359e3b17410800000000000000
+      internalID: 1473156367838316949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Su_alt_topu_piksel_efektleri_17
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 991
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba5507d0f189d6690800000000000000
+      internalID: -7607256936422025813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Su_alt_topu_piksel_efektleri_18
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 976
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 183580bb674223580800000000000000
+      internalID: -8848970225466977407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Su_alt_topu_piksel_efektleri_19
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 975
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8c99988262e607f0800000000000000
+      internalID: -646580583654646645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Su_alt_topu_piksel_efektleri_20
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 956
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 498d3cf5346c3f7b0800000000000000
+      internalID: -5191587952756270956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Su_alt_topu_piksel_efektleri_21
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 983
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf6b15d9c08f714d0800000000000000
+      internalID: -3163787480141809924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Su_alt_topu_piksel_efektleri_22
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 963
+        width: 83
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00529dfd11900f1c0800000000000000
+      internalID: -4472064457604258560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Su_alt_topu_piksel_efektleri_23
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 863
+        width: 43
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f96c8a7792bbc7f00800000000000000
+      internalID: 1115972594456643231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Su_alt_topu_piksel_efektleri_24
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 959
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be9fd2d81bf2e7120800000000000000
+      internalID: 2413418889941481963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Su_alt_topu_piksel_efektleri_25
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 979
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac01ba2fabfb43510800000000000000
+      internalID: 1528056983241560266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Su_alt_topu_piksel_efektleri_26
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 935
+        width: 73
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b921e12b803cf3e40800000000000000
+      internalID: 5638439700606620315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Su_alt_topu_piksel_efektleri_27
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 963
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44bc4427712dbd5f0800000000000000
+      internalID: -730759516374381756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Su_alt_topu_piksel_efektleri_28
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 991
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f114132660feb94e0800000000000000
+      internalID: -1973721200975593185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Su_alt_topu_piksel_efektleri_29
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 919
+        width: 73
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 649e63bb81eb9ea20800000000000000
+      internalID: 3092211632595986758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Su_alt_topu_piksel_efektleri_30
+      rect:
+        serializedVersion: 2
+        x: 1342
+        y: 883
+        width: 93
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b3f3848792e682f0800000000000000
+      internalID: -970839529260584013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Su_alt_topu_piksel_efektleri_31
+      rect:
+        serializedVersion: 2
+        x: 1342
+        y: 975
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b8687d0c7e1aa780800000000000000
+      internalID: -8671084614397695818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Su_alt_topu_piksel_efektleri_32
+      rect:
+        serializedVersion: 2
+        x: 1422
+        y: 931
+        width: 35
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8e9d59554a837a00800000000000000
+      internalID: 753097593157688973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Su_alt_topu_piksel_efektleri_33
+      rect:
+        serializedVersion: 2
+        x: 1444
+        y: 929
+        width: 92
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79dcf38834e790390800000000000000
+      internalID: -7851605646829957737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Su_alt_topu_piksel_efektleri_34
+      rect:
+        serializedVersion: 2
+        x: 1446
+        y: 959
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3991a37cb0a8b3fc0800000000000000
+      internalID: -3514063301040793197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Su_alt_topu_piksel_efektleri_35
+      rect:
+        serializedVersion: 2
+        x: 1454
+        y: 911
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee4654840b99f7aa0800000000000000
+      internalID: -6161036782813747986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Su_alt_topu_piksel_efektleri_36
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 909
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2af16640bc9c2360800000000000000
+      internalID: 7146258989639137838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Su_alt_topu_piksel_efektleri_37
+      rect:
+        serializedVersion: 2
+        x: 1138
+        y: 919
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9f26932bd3d48a70800000000000000
+      internalID: 8828414107701358492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Su_alt_topu_piksel_efektleri_38
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 893
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8617fabf46797e60800000000000000
+      internalID: 7960523901165311630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Su_alt_topu_piksel_efektleri_39
+      rect:
+        serializedVersion: 2
+        x: 1496
+        y: 897
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88c8bad8bd80921c0800000000000000
+      internalID: -4528078211276632952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Su_alt_topu_piksel_efektleri_40
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 895
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a55f478b86613b5a0800000000000000
+      internalID: -6506832397593152166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Su_alt_topu_piksel_efektleri_41
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 881
+        width: 7
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 364dc54638f91b090800000000000000
+      internalID: -8020454074696805277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Su_alt_topu_piksel_efektleri_42
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 885
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d02a8e5b5488559f0800000000000000
+      internalID: -480327952259046899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Su_alt_topu_piksel_efektleri_43
+      rect:
+        serializedVersion: 2
+        x: 1214
+        y: 885
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e6b8850d404e0390800000000000000
+      internalID: -7850266400910690589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Su_alt_topu_piksel_efektleri_44
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 893
+        width: 35
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 962088720c06c5dc0800000000000000
+      internalID: -3648935219663732119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Su_alt_topu_piksel_efektleri_45
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 885
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2abb6409a015a400800000000000000
+      internalID: 334692065418656302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Su_alt_topu_piksel_efektleri_46
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 893
+        width: 37
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7797c9ea61a1b6c0800000000000000
+      internalID: -4129341902761257092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Su_alt_topu_piksel_efektleri_47
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 855
+        width: 5
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b681a3119ed81fa80800000000000000
+      internalID: -8434804594932311957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Su_alt_topu_piksel_efektleri_48
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 833
+        width: 35
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24fcdc9d9ff0e7060800000000000000
+      internalID: 6953012440482041666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Su_alt_topu_piksel_efektleri_49
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 578
+        width: 311
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 139373adc84e9c9e0800000000000000
+      internalID: -1600496898945894095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Su_alt_topu_piksel_efektleri_50
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 863
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f687f96bcda88c50800000000000000
+      internalID: 6667770337489815287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Su_alt_topu_piksel_efektleri_51
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 841
+        width: 21
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 175e983e033b4e3c0800000000000000
+      internalID: -4331139919066307215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Su_alt_topu_piksel_efektleri_52
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 766
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb7f3138a172376a0800000000000000
+      internalID: -6452770846270031940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Su_alt_topu_piksel_efektleri_53
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 783
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b42e494532297780800000000000000
+      internalID: -8684872794148821839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Su_alt_topu_piksel_efektleri_54
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 767
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0585d2e9de31de70800000000000000
+      internalID: 9138154224445916429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Su_alt_topu_piksel_efektleri_55
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 755
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2694577ae6f66290800000000000000
+      internalID: -7897353409662773716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Su_alt_topu_piksel_efektleri_56
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 743
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 210a7e07e3cb7cce0800000000000000
+      internalID: -1384931384024915950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Su_alt_topu_piksel_efektleri_57
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 715
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62e636f07e354b790800000000000000
+      internalID: -7515289626313789914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Su_alt_topu_piksel_efektleri_58
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 685
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70a400b3cb2ff26c0800000000000000
+      internalID: -4165844240036771321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Su_alt_topu_piksel_efektleri_59
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 677
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff18df0a9f7a2aaa0800000000000000
+      internalID: -6151169450445012481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Su_alt_topu_piksel_efektleri_60
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 599
+        width: 153
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ff65194cc1efeea0800000000000000
+      internalID: -5841201924160524301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Su_alt_topu_piksel_efektleri_61
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 619
+        width: 77
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be9585c6a42c845f0800000000000000
+      internalID: -772153711192942101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Su_alt_topu_piksel_efektleri_62
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 623
+        width: 41
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43e725af9fd5c82a0800000000000000
+      internalID: -6733904014597784012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Su_alt_topu_piksel_efektleri_63
+      rect:
+        serializedVersion: 2
+        x: 1342
+        y: 669
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a51bca30dec4bd10800000000000000
+      internalID: 2140563116642735528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Su_alt_topu_piksel_efektleri_64
+      rect:
+        serializedVersion: 2
+        x: 1388
+        y: 669
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3346ba43a6fc0840800000000000000
+      internalID: 5191795651644900155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Su_alt_topu_piksel_efektleri_65
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 693
+        width: 33
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce6b4a798414600b0800000000000000
+      internalID: -5762846893136365844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Su_alt_topu_piksel_efektleri_66
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 673
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dc970e916950ad90800000000000000
+      internalID: -7088567537683161902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Su_alt_topu_piksel_efektleri_67
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 623
+        width: 49
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50b83b4c3530462c0800000000000000
+      internalID: -4439419674363196667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Su_alt_topu_piksel_efektleri_68
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 528
+        width: 105
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68d77aace772f0230800000000000000
+      internalID: 3607145252066393478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Su_alt_topu_piksel_efektleri_69
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 677
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5afe4c06d2ff927a0800000000000000
+      internalID: -6401304824968319067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Su_alt_topu_piksel_efektleri_70
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 673
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46798efe0091956c0800000000000000
+      internalID: -4154261689456879772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Su_alt_topu_piksel_efektleri_71
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 654
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a735490122788920800000000000000
+      internalID: 2992767438602713000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Su_alt_topu_piksel_efektleri_72
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 637
+        width: 11
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 993066b6a725fca80800000000000000
+      internalID: -8444440090555055207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Su_alt_topu_piksel_efektleri_73
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 645
+        width: 9
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f921ebc90bd0aa80800000000000000
+      internalID: -8457519265080071696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Su_alt_topu_piksel_efektleri_74
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 665
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c64ee8d4201648e0800000000000000
+      internalID: -1709661258096163129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Su_alt_topu_piksel_efektleri_75
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 639
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d450bc6ea135ffd0800000000000000
+      internalID: -2308884608739945260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Su_alt_topu_piksel_efektleri_76
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 622
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6309f28c5b766bf00800000000000000
+      internalID: 1132206386775560246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Su_alt_topu_piksel_efektleri_77
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 347
+        width: 139
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d5d59d741530da00800000000000000
+      internalID: 779181097657685459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Su_alt_topu_piksel_efektleri_78
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 369
+        width: 203
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcd64fb6ec19bad10800000000000000
+      internalID: 2137962763877903821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Su_alt_topu_piksel_efektleri_79
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 620
+        width: 15
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 366819b4655a4f390800000000000000
+      internalID: -7785416065763146141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Su_alt_topu_piksel_efektleri_80
+      rect:
+        serializedVersion: 2
+        x: 1452
+        y: 643
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 688e3b3cc3ffcf180800000000000000
+      internalID: -9080102112239294330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Su_alt_topu_piksel_efektleri_81
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 617
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c29155ce595fb330800000000000000
+      internalID: 3728797280058315462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Su_alt_topu_piksel_efektleri_82
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 353
+        width: 99
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8ae278bd747f1aa0800000000000000
+      internalID: -6188099279669499249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Su_alt_topu_piksel_efektleri_83
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 591
+        width: 11
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2d338b6b5ce62930800000000000000
+      internalID: 4118238786666839341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Su_alt_topu_piksel_efektleri_84
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 611
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 868e95e69a861ec40800000000000000
+      internalID: 5539824093552568424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Su_alt_topu_piksel_efektleri_85
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 598
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6204a377338274ba0800000000000000
+      internalID: -6104866568368668634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Su_alt_topu_piksel_efektleri_86
+      rect:
+        serializedVersion: 2
+        x: 1236
+        y: 575
+        width: 19
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3619d704fc3e43bf0800000000000000
+      internalID: -345400792120979101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Su_alt_topu_piksel_efektleri_87
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 603
+        width: 53
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b146d17c5d1c22e0800000000000000
+      internalID: -2149310639278505546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Su_alt_topu_piksel_efektleri_88
+      rect:
+        serializedVersion: 2
+        x: 1454
+        y: 547
+        width: 67
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7006223ef55d808a0800000000000000
+      internalID: -6338581867714682873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Su_alt_topu_piksel_efektleri_89
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 589
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba10312538f272700800000000000000
+      internalID: 515432923421409707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Su_alt_topu_piksel_efektleri_90
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 575
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bcc7d1daaac35170800000000000000
+      internalID: 8166093384366673074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Su_alt_topu_piksel_efektleri_91
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 363
+        width: 197
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a9be43f73eff7b20800000000000000
+      internalID: 3134503381931833761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Su_alt_topu_piksel_efektleri_92
+      rect:
+        serializedVersion: 2
+        x: 1436
+        y: 542
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4126fc66b1e5b6e0800000000000000
+      internalID: -1822302300573130421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Su_alt_topu_piksel_efektleri_93
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 575
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3970b83d841dbb320800000000000000
+      internalID: 2574881722689324947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Su_alt_topu_piksel_efektleri_94
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 545
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50cccc0c509e89f00800000000000000
+      internalID: 1123904317947694085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Su_alt_topu_piksel_efektleri_95
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 545
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99bcfcac4682aeda0800000000000000
+      internalID: -5914870747233268839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Su_alt_topu_piksel_efektleri_96
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 541
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2162e13c22699a70800000000000000
+      internalID: 8834200086018941228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Su_alt_topu_piksel_efektleri_97
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 429
+        width: 99
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8698f69b5864cd00800000000000000
+      internalID: 992032560512538250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Su_alt_topu_piksel_efektleri_98
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 537
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bbf0c21bf4544d30800000000000000
+      internalID: 4414746972058090419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Su_alt_topu_piksel_efektleri_99
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 527
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 555f6dfbc0003e800800000000000000
+      internalID: 640355626774885717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Su_alt_topu_piksel_efektleri_100
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 495
+        width: 73
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf7fc12872bae0e00800000000000000
+      internalID: 1012935152379951100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Su_alt_topu_piksel_efektleri_101
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 543
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2a34f8b0e9837310800000000000000
+      internalID: 1401615507311049261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Su_alt_topu_piksel_efektleri_102
+      rect:
+        serializedVersion: 2
+        x: 1486
+        y: 543
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d034d061c6f938de0800000000000000
+      internalID: -1332045778196282611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Su_alt_topu_piksel_efektleri_103
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 539
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8104da9c987198ba0800000000000000
+      internalID: -6086307540852981736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Su_alt_topu_piksel_efektleri_104
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 541
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16f30cc73f8c109a0800000000000000
+      internalID: -6268508258227437727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Su_alt_topu_piksel_efektleri_105
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 511
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57aaf2b1e04e5a5d0800000000000000
+      internalID: -3051782423236859275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Su_alt_topu_piksel_efektleri_106
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 527
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4171356614574510800000000000000
+      internalID: 1533286653306696012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Su_alt_topu_piksel_efektleri_107
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 467
+        width: 51
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f925b39f414ddcac0800000000000000
+      internalID: -3833174521276575073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Su_alt_topu_piksel_efektleri_108
+      rect:
+        serializedVersion: 2
+        x: 1518
+        y: 527
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecae3fbf0c2950180800000000000000
+      internalID: -9149745710374851890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Su_alt_topu_piksel_efektleri_109
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 503
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc51421b9be6c1070800000000000000
+      internalID: 8078453575415764427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Su_alt_topu_piksel_efektleri_110
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 481
+        width: 9
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8bf12b47af8577f0800000000000000
+      internalID: -615427825383375986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Su_alt_topu_piksel_efektleri_111
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 481
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6f4a2b63c3c7b120800000000000000
+      internalID: 2429625768073645934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Su_alt_topu_piksel_efektleri_112
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 479
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59d47168f24aeba40800000000000000
+      internalID: 5385922728401784213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Su_alt_topu_piksel_efektleri_113
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 481
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f52612441770c1650800000000000000
+      internalID: 6204842569665438303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Su_alt_topu_piksel_efektleri_114
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 485
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8485c0a2de40d6e70800000000000000
+      internalID: 9109943037899593800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Su_alt_topu_piksel_efektleri_115
+      rect:
+        serializedVersion: 2
+        x: 1510
+        y: 476
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a35f816a7c177840800000000000000
+      internalID: 5221673604907750310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Su_alt_topu_piksel_efektleri_116
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 433
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb83cc6c4d79461c0800000000000000
+      internalID: -4511313986594260805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Su_alt_topu_piksel_efektleri_117
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 433
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e4f46e93ac0df7a0800000000000000
+      internalID: -6341898803391171351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Su_alt_topu_piksel_efektleri_118
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 339
+        width: 103
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfb1fc259928b4350800000000000000
+      internalID: 6002034523432229883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Su_alt_topu_piksel_efektleri_119
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 431
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e1a5a10f304f1f70800000000000000
+      internalID: 9160110806449627619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Su_alt_topu_piksel_efektleri_120
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 423
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c70ee0f332c41ef80800000000000000
+      internalID: -8079092542260453252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Su_alt_topu_piksel_efektleri_121
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 363
+        width: 59
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a066f508fdc13c00800000000000000
+      internalID: 878709867449573541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Su_alt_topu_piksel_efektleri_122
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 405
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f792542909b4158b0800000000000000
+      internalID: -5165264213315868289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Su_alt_topu_piksel_efektleri_123
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 406
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbade9d9364bb7430800000000000000
+      internalID: 3781814652046858939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Su_alt_topu_piksel_efektleri_124
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 401
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cdbf6cc56905c9e0800000000000000
+      internalID: -1601863759634121280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Su_alt_topu_piksel_efektleri_125
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 385
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 723ab5bf135540420800000000000000
+      internalID: 2595292958431093543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Su_alt_topu_piksel_efektleri_126
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 381
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ecabe45cdc884ea0800000000000000
+      internalID: -5888301634841498392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Su_alt_topu_piksel_efektleri_127
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 331
+        width: 85
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 532fff537f13d88c0800000000000000
+      internalID: -3995482356575112651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Su_alt_topu_piksel_efektleri_128
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 365
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4578cf62b822a6b20800000000000000
+      internalID: 3128350872212113236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Su_alt_topu_piksel_efektleri_129
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 358
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0c96ed11335b8900800000000000000
+      internalID: 687734838524288014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Su_alt_topu_piksel_efektleri_130
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 375
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc2b29fb638f3d650800000000000000
+      internalID: 6256617221373735628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Su_alt_topu_piksel_efektleri_131
+      rect:
+        serializedVersion: 2
+        x: 1286
+        y: 365
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94dc5a498c27e3170800000000000000
+      internalID: 8160085780654837065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Su_alt_topu_piksel_efektleri_132
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 289
+        width: 57
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c1ae505f62db2480800000000000000
+      internalID: -8922806861172923963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Su_alt_topu_piksel_efektleri_133
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 323
+        width: 15
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84ba56ffb07ab3a80800000000000000
+      internalID: -8486005402878235832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Su_alt_topu_piksel_efektleri_134
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 351
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0835b49987cd1370800000000000000
+      internalID: 8295005482405672975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Su_alt_topu_piksel_efektleri_135
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 341
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d7658e54d3f5f6d0800000000000000
+      internalID: -2957189486854445099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Su_alt_topu_piksel_efektleri_136
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 353
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b879a089e8393b50800000000000000
+      internalID: 6573347706661075126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Su_alt_topu_piksel_efektleri_137
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 351
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04c27ff042b787a20800000000000000
+      internalID: 3060331341615148096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Su_alt_topu_piksel_efektleri_138
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 351
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdc2d95714d46a720800000000000000
+      internalID: 2857055957154606300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Su_alt_topu_piksel_efektleri_139
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 301
+        width: 51
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0c110d0af2d79710800000000000000
+      internalID: 1700059355757485066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Su_alt_topu_piksel_efektleri_140
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 355
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d15feeae9d29ae7a0800000000000000
+      internalID: -6347099260178205411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Su_alt_topu_piksel_efektleri_141
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 347
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19dec4c8c7bc6aab0800000000000000
+      internalID: -4997083000730751599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Su_alt_topu_piksel_efektleri_142
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 0
+        width: 416
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7feb021cae9768680800000000000000
+      internalID: -8753174776578523401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Su_alt_topu_piksel_efektleri_143
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 309
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8127120e768c66d90800000000000000
+      internalID: -7104771013662903784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Su_alt_topu_piksel_efektleri_144
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 325
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6a5a6d3db7c48550800000000000000
+      internalID: 6162269805742807659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Su_alt_topu_piksel_efektleri_145
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 329
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2c7c74500bc95a80800000000000000
+      internalID: -8477521621270365140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Su_alt_topu_piksel_efektleri_146
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 336
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f89e254aade8912a0800000000000000
+      internalID: -6766219895436547697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Su_alt_topu_piksel_efektleri_147
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 317
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9fffc45562604050800000000000000
+      internalID: 5782730108897853343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Su_alt_topu_piksel_efektleri_148
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 329
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29f215702eb141f10800000000000000
+      internalID: 2239445572309299090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Su_alt_topu_piksel_efektleri_149
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 303
+        width: 43
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aef8ba52133a3ab00800000000000000
+      internalID: 838693387101769706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Su_alt_topu_piksel_efektleri_150
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 327
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55ac7b1009ac7c7c0800000000000000
+      internalID: -4051046619943548331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Su_alt_topu_piksel_efektleri_151
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 325
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a29857b73ce0fd3d0800000000000000
+      internalID: -3179806579147568854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Su_alt_topu_piksel_efektleri_152
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 0
+        width: 699
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d713c7e9378785550800000000000000
+      internalID: 6149797729149923709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Su_alt_topu_piksel_efektleri_153
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 303
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe3acd795e55daf10800000000000000
+      internalID: 2282575030730400751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Su_alt_topu_piksel_efektleri_154
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 313
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d73d116ed8a9d7a00800000000000000
+      internalID: 755930246709105533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Su_alt_topu_piksel_efektleri_155
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 259
+        width: 59
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fba812556cc28db80800000000000000
+      internalID: -8369890677124658497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Su_alt_topu_piksel_efektleri_156
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 295
+        width: 5
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a2dfe8af3b1e4dd0800000000000000
+      internalID: -2500030782912867679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Su_alt_topu_piksel_efektleri_157
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 285
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e30f772ed65c4bdd0800000000000000
+      internalID: -2471133219777941442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Su_alt_topu_piksel_efektleri_158
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 97
+        width: 115
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 595108548c1c77e50800000000000000
+      internalID: 6807122427697436053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Su_alt_topu_piksel_efektleri_159
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 239
+        width: 51
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc756d6481cbb1620800000000000000
+      internalID: 2745995210266138575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Su_alt_topu_piksel_efektleri_160
+      rect:
+        serializedVersion: 2
+        x: 1486
+        y: 241
+        width: 37
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 589b83ac167d5c6a0800000000000000
+      internalID: -6429496077997000315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Su_alt_topu_piksel_efektleri_161
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 273
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8374de56d6dfaf540800000000000000
+      internalID: 5042621379098003256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Su_alt_topu_piksel_efektleri_162
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 263
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa1a8d77ff7713ba0800000000000000
+      internalID: -6110971280254000721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Su_alt_topu_piksel_efektleri_163
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 301
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25a90ea7300c1c0a0800000000000000
+      internalID: -6862993235956950446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Su_alt_topu_piksel_efektleri_164
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 241
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17b646e5c4f6c44c0800000000000000
+      internalID: -4301941170253829263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Su_alt_topu_piksel_efektleri_165
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 239
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa4701d03c6ab0ec0800000000000000
+      internalID: -3599600120484563793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Su_alt_topu_piksel_efektleri_166
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 215
+        width: 33
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21cdb312cdaf604b0800000000000000
+      internalID: -5474412473664938990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Su_alt_topu_piksel_efektleri_167
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 194
+        width: 61
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfbbdd7c3d744c430800000000000000
+      internalID: 3802242960324410365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Su_alt_topu_piksel_efektleri_168
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 223
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3dc3669d906648d0800000000000000
+      internalID: -2862494283198116549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Su_alt_topu_piksel_efektleri_169
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 199
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1890f1e434e87dde0800000000000000
+      internalID: -1308420747003229823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Su_alt_topu_piksel_efektleri_170
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 191
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 233d80c03be2315d0800000000000000
+      internalID: -3093077172537470158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Su_alt_topu_piksel_efektleri_171
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 180
+        width: 13
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d2e8e19f919e11b0800000000000000
+      internalID: -5683945565161200941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Su_alt_topu_piksel_efektleri_172
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 165
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4f7817a9070c5fe0800000000000000
+      internalID: -1199075662747893941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Su_alt_topu_piksel_efektleri_173
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 177
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41b94e3629aeb9cb0800000000000000
+      internalID: -4856029858726896876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Su_alt_topu_piksel_efektleri_174
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 39
+        width: 67
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30a814fb066607df0800000000000000
+      internalID: -184535019010553341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Su_alt_topu_piksel_efektleri_175
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 113
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 049b9d8862ebb62b0800000000000000
+      internalID: -5590165439736334016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Su_alt_topu_piksel_efektleri_176
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 15
+        width: 151
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94bc553db236b1830800000000000000
+      internalID: 4042934130375510857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Su_alt_topu_piksel_efektleri_177
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 77
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03112125a66065f20800000000000000
+      internalID: 3410920821492945200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Su_alt_topu_piksel_efektleri_178
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 85
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9b53edf79148a9d0800000000000000
+      internalID: -2762886250336396389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Su_alt_topu_piksel_efektleri_179
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 67
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e2b81e56b6f80720800000000000000
+      internalID: 2812769230416032486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Su_alt_topu_piksel_efektleri_180
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 61
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d736791800ee56280800000000000000
+      internalID: -9050566190189550723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Su_alt_topu_piksel_efektleri_181
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 79
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b8b18c73d2321cf0800000000000000
+      internalID: -283107942662555471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Su_alt_topu_piksel_efektleri_182
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 64
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69b46e97579089cf0800000000000000
+      internalID: -245435779530732650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Su_alt_topu_piksel_efektleri_183
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 15
+        width: 31
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4882531810ef345a0800000000000000
+      internalID: -6538102951595661180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Su_alt_topu_piksel_efektleri_184
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 33
+        width: 29
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cac33f53d7c6e150800000000000000
+      internalID: 5901624072364870341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Su_alt_topu_piksel_efektleri_185
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 69
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d12622eec459b950800000000000000
+      internalID: 6465291987601203672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Su_alt_topu_piksel_efektleri_186
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 53
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9ec90821bad1e370800000000000000
+      internalID: 8350195638537408154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Su_alt_topu_piksel_efektleri_187
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 53
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af35c2ab306eb2900800000000000000
+      internalID: 660874674022667258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Su_alt_topu_piksel_efektleri_188
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 33
+        width: 13
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e04a79d81c29c510800000000000000
+      internalID: 1569834430354833641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Su_alt_topu_piksel_efektleri_189
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 23
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de35d855f22030970800000000000000
+      internalID: 8719815705841456109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Su_alt_topu_piksel_efektleri_190
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 35
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 658898d15b211e590800000000000000
+      internalID: -7646810123204458410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Su_alt_topu_piksel_efektleri_191
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 17
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0075056a39270f490800000000000000
+      internalID: -7714540183209617664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Su_alt_topu_piksel_efektleri_192
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 15
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dd3d829e018b9740800000000000000
+      internalID: 5159859697671290323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Su_alt_topu_piksel_efektleri_193
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 17
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 459e8b85648dd8200800000000000000
+      internalID: 184040956439882068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Su_alt_topu_piksel_efektleri_0: 2198374463651287723
+      Su_alt_topu_piksel_efektleri_1: 1702176291510583626
+      Su_alt_topu_piksel_efektleri_10: -413076129208134337
+      Su_alt_topu_piksel_efektleri_100: 1012935152379951100
+      Su_alt_topu_piksel_efektleri_101: 1401615507311049261
+      Su_alt_topu_piksel_efektleri_102: -1332045778196282611
+      Su_alt_topu_piksel_efektleri_103: -6086307540852981736
+      Su_alt_topu_piksel_efektleri_104: -6268508258227437727
+      Su_alt_topu_piksel_efektleri_105: -3051782423236859275
+      Su_alt_topu_piksel_efektleri_106: 1533286653306696012
+      Su_alt_topu_piksel_efektleri_107: -3833174521276575073
+      Su_alt_topu_piksel_efektleri_108: -9149745710374851890
+      Su_alt_topu_piksel_efektleri_109: 8078453575415764427
+      Su_alt_topu_piksel_efektleri_11: -83686757563664192
+      Su_alt_topu_piksel_efektleri_110: -615427825383375986
+      Su_alt_topu_piksel_efektleri_111: 2429625768073645934
+      Su_alt_topu_piksel_efektleri_112: 5385922728401784213
+      Su_alt_topu_piksel_efektleri_113: 6204842569665438303
+      Su_alt_topu_piksel_efektleri_114: 9109943037899593800
+      Su_alt_topu_piksel_efektleri_115: 5221673604907750310
+      Su_alt_topu_piksel_efektleri_116: -4511313986594260805
+      Su_alt_topu_piksel_efektleri_117: -6341898803391171351
+      Su_alt_topu_piksel_efektleri_118: 6002034523432229883
+      Su_alt_topu_piksel_efektleri_119: 9160110806449627619
+      Su_alt_topu_piksel_efektleri_12: -3310961968864421588
+      Su_alt_topu_piksel_efektleri_120: -8079092542260453252
+      Su_alt_topu_piksel_efektleri_121: 878709867449573541
+      Su_alt_topu_piksel_efektleri_122: -5165264213315868289
+      Su_alt_topu_piksel_efektleri_123: 3781814652046858939
+      Su_alt_topu_piksel_efektleri_124: -1601863759634121280
+      Su_alt_topu_piksel_efektleri_125: 2595292958431093543
+      Su_alt_topu_piksel_efektleri_126: -5888301634841498392
+      Su_alt_topu_piksel_efektleri_127: -3995482356575112651
+      Su_alt_topu_piksel_efektleri_128: 3128350872212113236
+      Su_alt_topu_piksel_efektleri_129: 687734838524288014
+      Su_alt_topu_piksel_efektleri_13: 8851403827635917045
+      Su_alt_topu_piksel_efektleri_130: 6256617221373735628
+      Su_alt_topu_piksel_efektleri_131: 8160085780654837065
+      Su_alt_topu_piksel_efektleri_132: -8922806861172923963
+      Su_alt_topu_piksel_efektleri_133: -8486005402878235832
+      Su_alt_topu_piksel_efektleri_134: 8295005482405672975
+      Su_alt_topu_piksel_efektleri_135: -2957189486854445099
+      Su_alt_topu_piksel_efektleri_136: 6573347706661075126
+      Su_alt_topu_piksel_efektleri_137: 3060331341615148096
+      Su_alt_topu_piksel_efektleri_138: 2857055957154606300
+      Su_alt_topu_piksel_efektleri_139: 1700059355757485066
+      Su_alt_topu_piksel_efektleri_14: -6874846200012372901
+      Su_alt_topu_piksel_efektleri_140: -6347099260178205411
+      Su_alt_topu_piksel_efektleri_141: -4997083000730751599
+      Su_alt_topu_piksel_efektleri_142: -8753174776578523401
+      Su_alt_topu_piksel_efektleri_143: -7104771013662903784
+      Su_alt_topu_piksel_efektleri_144: 6162269805742807659
+      Su_alt_topu_piksel_efektleri_145: -8477521621270365140
+      Su_alt_topu_piksel_efektleri_146: -6766219895436547697
+      Su_alt_topu_piksel_efektleri_147: 5782730108897853343
+      Su_alt_topu_piksel_efektleri_148: 2239445572309299090
+      Su_alt_topu_piksel_efektleri_149: 838693387101769706
+      Su_alt_topu_piksel_efektleri_15: -349187936789055156
+      Su_alt_topu_piksel_efektleri_150: -4051046619943548331
+      Su_alt_topu_piksel_efektleri_151: -3179806579147568854
+      Su_alt_topu_piksel_efektleri_152: 6149797729149923709
+      Su_alt_topu_piksel_efektleri_153: 2282575030730400751
+      Su_alt_topu_piksel_efektleri_154: 755930246709105533
+      Su_alt_topu_piksel_efektleri_155: -8369890677124658497
+      Su_alt_topu_piksel_efektleri_156: -2500030782912867679
+      Su_alt_topu_piksel_efektleri_157: -2471133219777941442
+      Su_alt_topu_piksel_efektleri_158: 6807122427697436053
+      Su_alt_topu_piksel_efektleri_159: 2745995210266138575
+      Su_alt_topu_piksel_efektleri_16: 1473156367838316949
+      Su_alt_topu_piksel_efektleri_160: -6429496077997000315
+      Su_alt_topu_piksel_efektleri_161: 5042621379098003256
+      Su_alt_topu_piksel_efektleri_162: -6110971280254000721
+      Su_alt_topu_piksel_efektleri_163: -6862993235956950446
+      Su_alt_topu_piksel_efektleri_164: -4301941170253829263
+      Su_alt_topu_piksel_efektleri_165: -3599600120484563793
+      Su_alt_topu_piksel_efektleri_166: -5474412473664938990
+      Su_alt_topu_piksel_efektleri_167: 3802242960324410365
+      Su_alt_topu_piksel_efektleri_168: -2862494283198116549
+      Su_alt_topu_piksel_efektleri_169: -1308420747003229823
+      Su_alt_topu_piksel_efektleri_17: -7607256936422025813
+      Su_alt_topu_piksel_efektleri_170: -3093077172537470158
+      Su_alt_topu_piksel_efektleri_171: -5683945565161200941
+      Su_alt_topu_piksel_efektleri_172: -1199075662747893941
+      Su_alt_topu_piksel_efektleri_173: -4856029858726896876
+      Su_alt_topu_piksel_efektleri_174: -184535019010553341
+      Su_alt_topu_piksel_efektleri_175: -5590165439736334016
+      Su_alt_topu_piksel_efektleri_176: 4042934130375510857
+      Su_alt_topu_piksel_efektleri_177: 3410920821492945200
+      Su_alt_topu_piksel_efektleri_178: -2762886250336396389
+      Su_alt_topu_piksel_efektleri_179: 2812769230416032486
+      Su_alt_topu_piksel_efektleri_18: -8848970225466977407
+      Su_alt_topu_piksel_efektleri_180: -9050566190189550723
+      Su_alt_topu_piksel_efektleri_181: -283107942662555471
+      Su_alt_topu_piksel_efektleri_182: -245435779530732650
+      Su_alt_topu_piksel_efektleri_183: -6538102951595661180
+      Su_alt_topu_piksel_efektleri_184: 5901624072364870341
+      Su_alt_topu_piksel_efektleri_185: 6465291987601203672
+      Su_alt_topu_piksel_efektleri_186: 8350195638537408154
+      Su_alt_topu_piksel_efektleri_187: 660874674022667258
+      Su_alt_topu_piksel_efektleri_188: 1569834430354833641
+      Su_alt_topu_piksel_efektleri_189: 8719815705841456109
+      Su_alt_topu_piksel_efektleri_19: -646580583654646645
+      Su_alt_topu_piksel_efektleri_190: -7646810123204458410
+      Su_alt_topu_piksel_efektleri_191: -7714540183209617664
+      Su_alt_topu_piksel_efektleri_192: 5159859697671290323
+      Su_alt_topu_piksel_efektleri_193: 184040956439882068
+      Su_alt_topu_piksel_efektleri_2: -8171354946394191557
+      Su_alt_topu_piksel_efektleri_20: -5191587952756270956
+      Su_alt_topu_piksel_efektleri_21: -3163787480141809924
+      Su_alt_topu_piksel_efektleri_22: -4472064457604258560
+      Su_alt_topu_piksel_efektleri_23: 1115972594456643231
+      Su_alt_topu_piksel_efektleri_24: 2413418889941481963
+      Su_alt_topu_piksel_efektleri_25: 1528056983241560266
+      Su_alt_topu_piksel_efektleri_26: 5638439700606620315
+      Su_alt_topu_piksel_efektleri_27: -730759516374381756
+      Su_alt_topu_piksel_efektleri_28: -1973721200975593185
+      Su_alt_topu_piksel_efektleri_29: 3092211632595986758
+      Su_alt_topu_piksel_efektleri_3: -5463779461966915140
+      Su_alt_topu_piksel_efektleri_30: -970839529260584013
+      Su_alt_topu_piksel_efektleri_31: -8671084614397695818
+      Su_alt_topu_piksel_efektleri_32: 753097593157688973
+      Su_alt_topu_piksel_efektleri_33: -7851605646829957737
+      Su_alt_topu_piksel_efektleri_34: -3514063301040793197
+      Su_alt_topu_piksel_efektleri_35: -6161036782813747986
+      Su_alt_topu_piksel_efektleri_36: 7146258989639137838
+      Su_alt_topu_piksel_efektleri_37: 8828414107701358492
+      Su_alt_topu_piksel_efektleri_38: 7960523901165311630
+      Su_alt_topu_piksel_efektleri_39: -4528078211276632952
+      Su_alt_topu_piksel_efektleri_4: 4321396588597175505
+      Su_alt_topu_piksel_efektleri_40: -6506832397593152166
+      Su_alt_topu_piksel_efektleri_41: -8020454074696805277
+      Su_alt_topu_piksel_efektleri_42: -480327952259046899
+      Su_alt_topu_piksel_efektleri_43: -7850266400910690589
+      Su_alt_topu_piksel_efektleri_44: -3648935219663732119
+      Su_alt_topu_piksel_efektleri_45: 334692065418656302
+      Su_alt_topu_piksel_efektleri_46: -4129341902761257092
+      Su_alt_topu_piksel_efektleri_47: -8434804594932311957
+      Su_alt_topu_piksel_efektleri_48: 6953012440482041666
+      Su_alt_topu_piksel_efektleri_49: -1600496898945894095
+      Su_alt_topu_piksel_efektleri_5: 9189106699720258145
+      Su_alt_topu_piksel_efektleri_50: 6667770337489815287
+      Su_alt_topu_piksel_efektleri_51: -4331139919066307215
+      Su_alt_topu_piksel_efektleri_52: -6452770846270031940
+      Su_alt_topu_piksel_efektleri_53: -8684872794148821839
+      Su_alt_topu_piksel_efektleri_54: 9138154224445916429
+      Su_alt_topu_piksel_efektleri_55: -7897353409662773716
+      Su_alt_topu_piksel_efektleri_56: -1384931384024915950
+      Su_alt_topu_piksel_efektleri_57: -7515289626313789914
+      Su_alt_topu_piksel_efektleri_58: -4165844240036771321
+      Su_alt_topu_piksel_efektleri_59: -6151169450445012481
+      Su_alt_topu_piksel_efektleri_6: -8057013357135544367
+      Su_alt_topu_piksel_efektleri_60: -5841201924160524301
+      Su_alt_topu_piksel_efektleri_61: -772153711192942101
+      Su_alt_topu_piksel_efektleri_62: -6733904014597784012
+      Su_alt_topu_piksel_efektleri_63: 2140563116642735528
+      Su_alt_topu_piksel_efektleri_64: 5191795651644900155
+      Su_alt_topu_piksel_efektleri_65: -5762846893136365844
+      Su_alt_topu_piksel_efektleri_66: -7088567537683161902
+      Su_alt_topu_piksel_efektleri_67: -4439419674363196667
+      Su_alt_topu_piksel_efektleri_68: 3607145252066393478
+      Su_alt_topu_piksel_efektleri_69: -6401304824968319067
+      Su_alt_topu_piksel_efektleri_7: 1617357899907650365
+      Su_alt_topu_piksel_efektleri_70: -4154261689456879772
+      Su_alt_topu_piksel_efektleri_71: 2992767438602713000
+      Su_alt_topu_piksel_efektleri_72: -8444440090555055207
+      Su_alt_topu_piksel_efektleri_73: -8457519265080071696
+      Su_alt_topu_piksel_efektleri_74: -1709661258096163129
+      Su_alt_topu_piksel_efektleri_75: -2308884608739945260
+      Su_alt_topu_piksel_efektleri_76: 1132206386775560246
+      Su_alt_topu_piksel_efektleri_77: 779181097657685459
+      Su_alt_topu_piksel_efektleri_78: 2137962763877903821
+      Su_alt_topu_piksel_efektleri_79: -7785416065763146141
+      Su_alt_topu_piksel_efektleri_8: -6383350728391568792
+      Su_alt_topu_piksel_efektleri_80: -9080102112239294330
+      Su_alt_topu_piksel_efektleri_81: 3728797280058315462
+      Su_alt_topu_piksel_efektleri_82: -6188099279669499249
+      Su_alt_topu_piksel_efektleri_83: 4118238786666839341
+      Su_alt_topu_piksel_efektleri_84: 5539824093552568424
+      Su_alt_topu_piksel_efektleri_85: -6104866568368668634
+      Su_alt_topu_piksel_efektleri_86: -345400792120979101
+      Su_alt_topu_piksel_efektleri_87: -2149310639278505546
+      Su_alt_topu_piksel_efektleri_88: -6338581867714682873
+      Su_alt_topu_piksel_efektleri_89: 515432923421409707
+      Su_alt_topu_piksel_efektleri_9: -4157679960504277690
+      Su_alt_topu_piksel_efektleri_90: 8166093384366673074
+      Su_alt_topu_piksel_efektleri_91: 3134503381931833761
+      Su_alt_topu_piksel_efektleri_92: -1822302300573130421
+      Su_alt_topu_piksel_efektleri_93: 2574881722689324947
+      Su_alt_topu_piksel_efektleri_94: 1123904317947694085
+      Su_alt_topu_piksel_efektleri_95: -5914870747233268839
+      Su_alt_topu_piksel_efektleri_96: 8834200086018941228
+      Su_alt_topu_piksel_efektleri_97: 992032560512538250
+      Su_alt_topu_piksel_efektleri_98: 4414746972058090419
+      Su_alt_topu_piksel_efektleri_99: 640355626774885717
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

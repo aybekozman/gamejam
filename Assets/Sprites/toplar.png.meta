@@ -1,19 +1,73 @@
 fileFormatVersion: 2
-guid: 273337325b16a3a498e5b1f4e54a8c80
+guid: 20bbc1197b91e98409677cb9cf4fc749
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 7801445579922025617
-    second: Kucuk_mavi_su_artma_teknesi_0
+      213: 8545476689076082579
+    second: toplar_0
   - first:
-      213: 5994251522262970183
-    second: Kucuk_mavi_su_artma_teknesi_1
+      213: 9061222592941135365
+    second: toplar_1
   - first:
-      213: 1350840032181231017
-    second: Kucuk_mavi_su_artma_teknesi_2
+      213: -3419709935843805820
+    second: toplar_2
   - first:
-      213: -6230289404168134587
-    second: Kucuk_mavi_su_artma_teknesi_3
+      213: 7807145506413179312
+    second: toplar_3
+  - first:
+      213: 306782370949541878
+    second: toplar_4
+  - first:
+      213: 7721952265600613428
+    second: toplar_5
+  - first:
+      213: 182366026821468807
+    second: toplar_6
+  - first:
+      213: -3029232853009513537
+    second: toplar_7
+  - first:
+      213: -3329213455258606077
+    second: toplar_8
+  - first:
+      213: -4542601474463672972
+    second: toplar_9
+  - first:
+      213: -3600262599917488362
+    second: toplar_10
+  - first:
+      213: 2287030730813277843
+    second: toplar_11
+  - first:
+      213: 617529204197325281
+    second: toplar_12
+  - first:
+      213: -5257706371767069176
+    second: toplar_13
+  - first:
+      213: -7426518670201060028
+    second: toplar_14
+  - first:
+      213: 2426856621843138530
+    second: toplar_15
+  - first:
+      213: 7115787337452544875
+    second: toplar_16
+  - first:
+      213: -1646048654814559996
+    second: toplar_17
+  - first:
+      213: 6611901274871197189
+    second: toplar_18
+  - first:
+      213: -2244864869312530993
+    second: toplar_19
+  - first:
+      213: 6408699120673956630
+    second: toplar_20
+  - first:
+      213: 3307697777928153915
+    second: toplar_21
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -46,7 +100,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 0
+    filterMode: 1
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -55,13 +109,13 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
   spritePixelsToUnits: 100
-  spriteBorder: {x: 61, y: 132, z: 57, w: 88}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
   alphaIsTransparency: 1
@@ -148,13 +202,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Kucuk_mavi_su_artma_teknesi_0
+      name: toplar_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 1015
-        height: 1512
+        x: 1090
+        y: 123
+        width: 873
+        height: 575
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -163,20 +217,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 19c2bcdcb6d444c60800000000000000
-      internalID: 7801445579922025617
+      spriteID: 397d2c8d5c1a79670800000000000000
+      internalID: 8545476689076082579
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Kucuk_mavi_su_artma_teknesi_1
+      name: toplar_2
       rect:
         serializedVersion: 2
-        x: 46
-        y: 962
-        width: 17
-        height: 15
+        x: 123
+        y: 101
+        width: 705
+        height: 674
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -185,52 +239,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 74f24d6200cdf2350800000000000000
-      internalID: 5994251522262970183
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Kucuk_mavi_su_artma_teknesi_2
-      rect:
-        serializedVersion: 2
-        x: 975
-        y: 485
-        width: 10
-        height: 12
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 9ad1a8a2ad52fb210800000000000000
-      internalID: 1350840032181231017
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Kucuk_mavi_su_artma_teknesi_3
-      rect:
-        serializedVersion: 2
-        x: 974
-        y: 469
-        width: 11
-        height: 13
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 540ada0ebc09989a0800000000000000
-      internalID: -6230289404168134587
+      spriteID: 485f7278eefba80d0800000000000000
+      internalID: -3419709935843805820
       vertices: []
       indices: 
       edges: []
@@ -239,8 +249,8 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 5e97eb03825dee720800000000000000
-    internalID: 1537655665
+    spriteID: fff0691e08cf0164584ccd3940ddca71
+    internalID: 0
     vertices: []
     indices: 
     edges: []
@@ -249,10 +259,28 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Kucuk_mavi_su_artma_teknesi_0: 7801445579922025617
-      Kucuk_mavi_su_artma_teknesi_1: 5994251522262970183
-      Kucuk_mavi_su_artma_teknesi_2: 1350840032181231017
-      Kucuk_mavi_su_artma_teknesi_3: -6230289404168134587
+      toplar_0: 8545476689076082579
+      toplar_1: 9061222592941135365
+      toplar_10: -3600262599917488362
+      toplar_11: 2287030730813277843
+      toplar_12: 617529204197325281
+      toplar_13: -5257706371767069176
+      toplar_14: -7426518670201060028
+      toplar_15: 2426856621843138530
+      toplar_16: 7115787337452544875
+      toplar_17: -1646048654814559996
+      toplar_18: 6611901274871197189
+      toplar_19: -2244864869312530993
+      toplar_2: -3419709935843805820
+      toplar_20: 6408699120673956630
+      toplar_21: 3307697777928153915
+      toplar_3: 7807145506413179312
+      toplar_4: 306782370949541878
+      toplar_5: 7721952265600613428
+      toplar_6: 182366026821468807
+      toplar_7: -3029232853009513537
+      toplar_8: -3329213455258606077
+      toplar_9: -4542601474463672972
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

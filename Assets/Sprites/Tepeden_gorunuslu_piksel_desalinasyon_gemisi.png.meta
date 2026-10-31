@@ -1,10 +1,43 @@
 fileFormatVersion: 2
-guid: 04c492c438fd3f44fbae3e2309807f9d
+guid: 6af4df1d1894b0447850b95ed6c8beec
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 6799018926459407808
-    second: "OkyanusA\xE7\u0131k_12_Kare_4x3_Spritesheet_0"
+      213: -3458262109099284266
+    second: Tepeden_gorunuslu_piksel_desalinasyon_gemisi_0
+  - first:
+      213: -4818384573593324486
+    second: Tepeden_gorunuslu_piksel_desalinasyon_gemisi_1
+  - first:
+      213: -7572221867362136582
+    second: Tepeden_gorunuslu_piksel_desalinasyon_gemisi_2
+  - first:
+      213: 8626773499618350966
+    second: Tepeden_gorunuslu_piksel_desalinasyon_gemisi_3
+  - first:
+      213: -6385358931906493424
+    second: Tepeden_gorunuslu_piksel_desalinasyon_gemisi_4
+  - first:
+      213: 262411357508238508
+    second: Tepeden_gorunuslu_piksel_desalinasyon_gemisi_5
+  - first:
+      213: 802762391286725342
+    second: Tepeden_gorunuslu_piksel_desalinasyon_gemisi_6
+  - first:
+      213: -2396454347543928229
+    second: Tepeden_gorunuslu_piksel_desalinasyon_gemisi_7
+  - first:
+      213: 1627005130818837506
+    second: Tepeden_gorunuslu_piksel_desalinasyon_gemisi_8
+  - first:
+      213: -6502134132085900622
+    second: Tepeden_gorunuslu_piksel_desalinasyon_gemisi_9
+  - first:
+      213: 1356351345627682929
+    second: Tepeden_gorunuslu_piksel_desalinasyon_gemisi_10
+  - first:
+      213: 8186899568397034391
+    second: Tepeden_gorunuslu_piksel_desalinasyon_gemisi_11
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -37,22 +70,22 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
-    wrapU: 0
-    wrapV: 0
-    wrapW: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 2
+  spriteMode: 1
   spriteExtrude: 1
-  spriteMeshType: 0
+  spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 50
-  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 152, y: 49, z: 144, w: 37}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
   alphaIsTransparency: 1
@@ -139,13 +172,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: "OkyanusA\xE7\u0131k_12_Kare_4x3_Spritesheet_0"
+      name: Tepeden_gorunuslu_piksel_desalinasyon_gemisi_0
       rect:
         serializedVersion: 2
         x: 0
-        y: 1024
-        width: 512
-        height: 512
+        y: 1527
+        width: 6
+        height: 9
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -154,250 +187,250 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 0cd45ccd0b7fa5e50800000000000000
-      internalID: 6799018926459407808
+      spriteID: 6d8a1f63fe8c100d0800000000000000
+      internalID: -3458262109099284266
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: "OkyanusA\xE7\u0131k_12_Kare_4x3_Spritesheet_1"
-      rect:
-        serializedVersion: 2
-        x: 512
-        y: 1024
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: fba10584ae6061a4d8b75203b4456049
-      internalID: -1701625268
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: "OkyanusA\xE7\u0131k_12_Kare_4x3_Spritesheet_2"
-      rect:
-        serializedVersion: 2
-        x: 1024
-        y: 1024
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: bb7693d540a7e39479b8cc25216293de
-      internalID: 164205893
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: "OkyanusA\xE7\u0131k_12_Kare_4x3_Spritesheet_3"
-      rect:
-        serializedVersion: 2
-        x: 1536
-        y: 1024
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 26b07d11a53985044b8b7e8b06c7da06
-      internalID: 1252287931
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: "OkyanusA\xE7\u0131k_12_Kare_4x3_Spritesheet_4"
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 512
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c6a60d0048c1c8d458108275f881c9ae
-      internalID: 1113427742
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: "OkyanusA\xE7\u0131k_12_Kare_4x3_Spritesheet_5"
-      rect:
-        serializedVersion: 2
-        x: 512
-        y: 512
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e745807f7d6fefe4fa25028e70f598ca
-      internalID: 888839013
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: "OkyanusA\xE7\u0131k_12_Kare_4x3_Spritesheet_6"
-      rect:
-        serializedVersion: 2
-        x: 1024
-        y: 512
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0c7a9a76ae4ebc3478ab13587804b791
-      internalID: -1088575138
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: "OkyanusA\xE7\u0131k_12_Kare_4x3_Spritesheet_7"
-      rect:
-        serializedVersion: 2
-        x: 1536
-        y: 512
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c318fac4d0a9d6a40a3845f9ac153344
-      internalID: -630838279
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: "OkyanusA\xE7\u0131k_12_Kare_4x3_Spritesheet_8"
+      name: Tepeden_gorunuslu_piksel_desalinasyon_gemisi_1
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 512
-        height: 512
+        width: 1024
+        height: 1512
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: f80571de220331c458ac3f2b09d48702
-      internalID: 1186994343
+      spriteID: a347fbb52c8a12db0800000000000000
+      internalID: -4818384573593324486
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: "OkyanusA\xE7\u0131k_12_Kare_4x3_Spritesheet_9"
+      name: Tepeden_gorunuslu_piksel_desalinasyon_gemisi_2
       rect:
         serializedVersion: 2
-        x: 512
-        y: 0
-        width: 512
-        height: 512
+        x: 134
+        y: 1489
+        width: 15
+        height: 16
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: d81f9fd1317189b4fa56fe461f22be64
-      internalID: 70877056
+      spriteID: afd4f6bb4501ae690800000000000000
+      internalID: -7572221867362136582
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: "OkyanusA\xE7\u0131k_12_Kare_4x3_Spritesheet_10"
+      name: Tepeden_gorunuslu_piksel_desalinasyon_gemisi_3
       rect:
         serializedVersion: 2
-        x: 1024
-        y: 0
-        width: 512
-        height: 512
+        x: 944
+        y: 1447
+        width: 15
+        height: 23
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 43af2b3303d2b164493d5e369d2d28a5
-      internalID: 1100620922
+      spriteID: 67751829ac478b770800000000000000
+      internalID: 8626773499618350966
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: "OkyanusA\xE7\u0131k_12_Kare_4x3_Spritesheet_11"
+      name: Tepeden_gorunuslu_piksel_desalinasyon_gemisi_4
       rect:
         serializedVersion: 2
-        x: 1536
-        y: 0
-        width: 512
-        height: 512
+        x: 38
+        y: 801
+        width: 9
+        height: 20
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 9b9fc75a5777c064786cb67367fc866c
-      internalID: -1928866754
+      spriteID: 014885ce1e5a267a0800000000000000
+      internalID: -6385358931906493424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tepeden_gorunuslu_piksel_desalinasyon_gemisi_5
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 767
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cac7e454db544a300800000000000000
+      internalID: 262411357508238508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tepeden_gorunuslu_piksel_desalinasyon_gemisi_6
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 673
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eda30b3442cf32b00800000000000000
+      internalID: 802762391286725342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tepeden_gorunuslu_piksel_desalinasyon_gemisi_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 629
+        width: 5
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b522436c7751ebed0800000000000000
+      internalID: -2396454347543928229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tepeden_gorunuslu_piksel_desalinasyon_gemisi_8
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 607
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20cd136db88449610800000000000000
+      internalID: 1627005130818837506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tepeden_gorunuslu_piksel_desalinasyon_gemisi_9
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 607
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bab317e477c3c5a0800000000000000
+      internalID: -6502134132085900622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tepeden_gorunuslu_piksel_desalinasyon_gemisi_10
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 471
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 178d2c2dc5ab2d210800000000000000
+      internalID: 1356351345627682929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tepeden_gorunuslu_piksel_desalinasyon_gemisi_11
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 33
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 793aa1a08c5bd9170800000000000000
+      internalID: 8186899568397034391
       vertices: []
       indices: 
       edges: []
@@ -406,30 +439,28 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 9832073fb9816404a8a24d06ea2026cc
-    internalID: 0
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 1537655665
     vertices: []
     indices: 
     edges: []
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries:
-      - key: SpriteEditor.SliceSettings
-        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":512.0,"y":512.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+      entries: []
     nameFileIdTable:
-      "OkyanusA\xE7\u0131k_12_Kare_4x3_Spritesheet_0": 6799018926459407808
-      "OkyanusA\xE7\u0131k_12_Kare_4x3_Spritesheet_1": -1701625268
-      "OkyanusA\xE7\u0131k_12_Kare_4x3_Spritesheet_10": 1100620922
-      "OkyanusA\xE7\u0131k_12_Kare_4x3_Spritesheet_11": -1928866754
-      "OkyanusA\xE7\u0131k_12_Kare_4x3_Spritesheet_2": 164205893
-      "OkyanusA\xE7\u0131k_12_Kare_4x3_Spritesheet_3": 1252287931
-      "OkyanusA\xE7\u0131k_12_Kare_4x3_Spritesheet_4": 1113427742
-      "OkyanusA\xE7\u0131k_12_Kare_4x3_Spritesheet_5": 888839013
-      "OkyanusA\xE7\u0131k_12_Kare_4x3_Spritesheet_6": -1088575138
-      "OkyanusA\xE7\u0131k_12_Kare_4x3_Spritesheet_7": -630838279
-      "OkyanusA\xE7\u0131k_12_Kare_4x3_Spritesheet_8": 1186994343
-      "OkyanusA\xE7\u0131k_12_Kare_4x3_Spritesheet_9": 70877056
+      Tepeden_gorunuslu_piksel_desalinasyon_gemisi_0: -3458262109099284266
+      Tepeden_gorunuslu_piksel_desalinasyon_gemisi_1: -4818384573593324486
+      Tepeden_gorunuslu_piksel_desalinasyon_gemisi_10: 1356351345627682929
+      Tepeden_gorunuslu_piksel_desalinasyon_gemisi_11: 8186899568397034391
+      Tepeden_gorunuslu_piksel_desalinasyon_gemisi_2: -7572221867362136582
+      Tepeden_gorunuslu_piksel_desalinasyon_gemisi_3: 8626773499618350966
+      Tepeden_gorunuslu_piksel_desalinasyon_gemisi_4: -6385358931906493424
+      Tepeden_gorunuslu_piksel_desalinasyon_gemisi_5: 262411357508238508
+      Tepeden_gorunuslu_piksel_desalinasyon_gemisi_6: 802762391286725342
+      Tepeden_gorunuslu_piksel_desalinasyon_gemisi_7: -2396454347543928229
+      Tepeden_gorunuslu_piksel_desalinasyon_gemisi_8: 1627005130818837506
+      Tepeden_gorunuslu_piksel_desalinasyon_gemisi_9: -6502134132085900622
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

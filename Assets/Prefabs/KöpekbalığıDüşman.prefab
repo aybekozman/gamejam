@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 94030386082496846}
   - component: {fileID: 8066023675865860294}
   - component: {fileID: 7271690381496155355}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: "K\xF6pekbal\u0131\u011F\u0131D\xFC\u015Fman"
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -108,10 +108,15 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::Enemy
   maxHealth: 10
   moveSpeed: 3
-  knockbackForce: 20
+  shipKnockbackForce: 10
+  bulletKnockbackForce: 5
   knockbackDuration: 0.3
   damage: 10
   hitStunDuration: 0.2
+  flashDuration: 0.2
+  flashCount: 3
+  lootPrefab: {fileID: 3742351204053944340, guid: e274f903f0e9a614eac3c0044b66a4b5, type: 3}
+  rotationOffset: 0
 --- !u!50 &8066023675865860294
 Rigidbody2D:
   serializedVersion: 5
