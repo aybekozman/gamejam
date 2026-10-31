@@ -1,0 +1,450 @@
+fileFormatVersion: 2
+guid: cbbbc47ea07504f4d97f04afc0f45b14
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5638989532879217258
+    second: Sar_balk_yuzusu_piksel_animasyonu_0
+  - first:
+      213: 7306186253719981114
+    second: Sar_balk_yuzusu_piksel_animasyonu_1
+  - first:
+      213: -7951348448255322611
+    second: Sar_balk_yuzusu_piksel_animasyonu_2
+  - first:
+      213: 1370560443367589495
+    second: Sar_balk_yuzusu_piksel_animasyonu_3
+  - first:
+      213: 2102992264906543895
+    second: Sar_balk_yuzusu_piksel_animasyonu_4
+  - first:
+      213: -4037854814007876312
+    second: Sar_balk_yuzusu_piksel_animasyonu_5
+  - first:
+      213: -1057912517525228826
+    second: Sar_balk_yuzusu_piksel_animasyonu_6
+  - first:
+      213: -6322303193413576990
+    second: Sar_balk_yuzusu_piksel_animasyonu_7
+  - first:
+      213: 3789907986567588309
+    second: Sar_balk_yuzusu_piksel_animasyonu_8
+  - first:
+      213: -6205060253414130616
+    second: Sar_balk_yuzusu_piksel_animasyonu_9
+  - first:
+      213: 6414223248454332795
+    second: Sar_balk_yuzusu_piksel_animasyonu_10
+  - first:
+      213: 8783947008842572672
+    second: Sar_balk_yuzusu_piksel_animasyonu_11
+  - first:
+      213: 399846266840632416
+    second: Sar_balk_yuzusu_piksel_animasyonu_12
+  - first:
+      213: -596912831919991897
+    second: Sar_balk_yuzusu_piksel_animasyonu_13
+  - first:
+      213: -5733326702579182148
+    second: Sar_balk_yuzusu_piksel_animasyonu_14
+  - first:
+      213: -8212233239769989875
+    second: Sar_balk_yuzusu_piksel_animasyonu_15
+  - first:
+      213: -4911699332608642811
+    second: Sar_balk_yuzusu_piksel_animasyonu_16
+  - first:
+      213: 7635542309854851357
+    second: Sar_balk_yuzusu_piksel_animasyonu_17
+  - first:
+      213: 5756762499877682481
+    second: Sar_balk_yuzusu_piksel_animasyonu_18
+  - first:
+      213: 242556286048852793
+    second: Sar_balk_yuzusu_piksel_animasyonu_19
+  - first:
+      213: 999429394931913481
+    second: Sar_balk_yuzusu_piksel_animasyonu_20
+  - first:
+      213: 4739144848058373804
+    second: Sar_balk_yuzusu_piksel_animasyonu_21
+  - first:
+      213: 6506570101574881966
+    second: Sar_balk_yuzusu_piksel_animasyonu_22
+  - first:
+      213: 4308913132161778133
+    second: Sar_balk_yuzusu_piksel_animasyonu_23
+  - first:
+      213: 365864197212691529
+    second: Sar_balk_yuzusu_piksel_animasyonu_24
+  - first:
+      213: 5130456796343701099
+    second: Sar_balk_yuzusu_piksel_animasyonu_25
+  - first:
+      213: 4780383511630535260
+    second: Sar_balk_yuzusu_piksel_animasyonu_26
+  - first:
+      213: -245861428774384792
+    second: Sar_balk_yuzusu_piksel_animasyonu_27
+  - first:
+      213: -3333356731220943032
+    second: Sar_balk_yuzusu_piksel_animasyonu_28
+  - first:
+      213: -108343845119588053
+    second: Sar_balk_yuzusu_piksel_animasyonu_29
+  - first:
+      213: -1428348733356719302
+    second: Sar_balk_yuzusu_piksel_animasyonu_30
+  - first:
+      213: -4543302871149601200
+    second: Sar_balk_yuzusu_piksel_animasyonu_31
+  - first:
+      213: -5027169940435043807
+    second: Sar_balk_yuzusu_piksel_animasyonu_32
+  - first:
+      213: -4709720523631455540
+    second: Sar_balk_yuzusu_piksel_animasyonu_33
+  - first:
+      213: 2417944616428446155
+    second: Sar_balk_yuzusu_piksel_animasyonu_34
+  - first:
+      213: -2201723895705488206
+    second: Sar_balk_yuzusu_piksel_animasyonu_35
+  - first:
+      213: 7064986240628832219
+    second: Sar_balk_yuzusu_piksel_animasyonu_36
+  - first:
+      213: -7010070351918133049
+    second: Sar_balk_yuzusu_piksel_animasyonu_37
+  - first:
+      213: 4516554252822294993
+    second: Sar_balk_yuzusu_piksel_animasyonu_38
+  - first:
+      213: 5883065429189309183
+    second: Sar_balk_yuzusu_piksel_animasyonu_39
+  - first:
+      213: 8890675703242773516
+    second: Sar_balk_yuzusu_piksel_animasyonu_40
+  - first:
+      213: -1136646786325157962
+    second: Sar_balk_yuzusu_piksel_animasyonu_41
+  - first:
+      213: 6496989177546386142
+    second: Sar_balk_yuzusu_piksel_animasyonu_42
+  - first:
+      213: -8979014976995936707
+    second: Sar_balk_yuzusu_piksel_animasyonu_43
+  - first:
+      213: -4965855846052701784
+    second: Sar_balk_yuzusu_piksel_animasyonu_44
+  - first:
+      213: 5365029816944619001
+    second: Sar_balk_yuzusu_piksel_animasyonu_45
+  - first:
+      213: -6156273399368954333
+    second: Sar_balk_yuzusu_piksel_animasyonu_46
+  - first:
+      213: -7885427489722471158
+    second: Sar_balk_yuzusu_piksel_animasyonu_47
+  - first:
+      213: 2081944608788760218
+    second: Sar_balk_yuzusu_piksel_animasyonu_48
+  - first:
+      213: 5489827318923438684
+    second: Sar_balk_yuzusu_piksel_animasyonu_49
+  - first:
+      213: 1384635425410017522
+    second: Sar_balk_yuzusu_piksel_animasyonu_50
+  - first:
+      213: -498757758060332
+    second: Sar_balk_yuzusu_piksel_animasyonu_51
+  - first:
+      213: 7818417092063897830
+    second: Sar_balk_yuzusu_piksel_animasyonu_52
+  - first:
+      213: 4164501164373252929
+    second: Sar_balk_yuzusu_piksel_animasyonu_53
+  - first:
+      213: -5614143313865049227
+    second: Sar_balk_yuzusu_piksel_animasyonu_54
+  - first:
+      213: -5502689866651649523
+    second: Sar_balk_yuzusu_piksel_animasyonu_55
+  - first:
+      213: -4660003857152521352
+    second: Sar_balk_yuzusu_piksel_animasyonu_56
+  - first:
+      213: -4768920623565478359
+    second: Sar_balk_yuzusu_piksel_animasyonu_57
+  - first:
+      213: 936300495540473282
+    second: Sar_balk_yuzusu_piksel_animasyonu_58
+  - first:
+      213: -5180779033864132913
+    second: Sar_balk_yuzusu_piksel_animasyonu_59
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 192
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sar_balk_yuzusu_piksel_animasyonu_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 526
+        width: 490
+        height: 498
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69d969085e84eb1b0800000000000000
+      internalID: -5638989532879217258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sar_balk_yuzusu_piksel_animasyonu_1
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 526
+        width: 490
+        height: 498
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3c42db10b9c46560800000000000000
+      internalID: 7306186253719981114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sar_balk_yuzusu_piksel_animasyonu_2
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 526
+        width: 490
+        height: 498
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d065360e6b227a190800000000000000
+      internalID: -7951348448255322611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sar_balk_yuzusu_piksel_animasyonu_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 28
+        width: 490
+        height: 498
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77680223675350310800000000000000
+      internalID: 1370560443367589495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sar_balk_yuzusu_piksel_animasyonu_4
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 28
+        width: 490
+        height: 498
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7131623a2545f2d10800000000000000
+      internalID: 2102992264906543895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sar_balk_yuzusu_piksel_animasyonu_5
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 28
+        width: 490
+        height: 498
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 825a57ca078a6f7c0800000000000000
+      internalID: -4037854814007876312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 83654cca4d1d80d40a19a9c1439dfdce
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":490.0,"y":498.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Sar_balk_yuzusu_piksel_animasyonu_0: -5638989532879217258
+      Sar_balk_yuzusu_piksel_animasyonu_1: 7306186253719981114
+      Sar_balk_yuzusu_piksel_animasyonu_2: -7951348448255322611
+      Sar_balk_yuzusu_piksel_animasyonu_3: 1370560443367589495
+      Sar_balk_yuzusu_piksel_animasyonu_4: 2102992264906543895
+      Sar_balk_yuzusu_piksel_animasyonu_5: -4037854814007876312
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

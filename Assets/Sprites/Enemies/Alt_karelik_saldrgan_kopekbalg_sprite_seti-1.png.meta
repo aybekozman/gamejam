@@ -1,0 +1,594 @@
+fileFormatVersion: 2
+guid: 29f4ed7d85aa4af4fa1a266624803f23
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1544058702773332359
+    second: Alt_karelik_saldrgan_kopekbalg_sprite_seti-1_0
+  - first:
+      213: 5000742342849880413
+    second: Alt_karelik_saldrgan_kopekbalg_sprite_seti-1_1
+  - first:
+      213: 887481606530201181
+    second: Alt_karelik_saldrgan_kopekbalg_sprite_seti-1_2
+  - first:
+      213: -5124556951032160907
+    second: Alt_karelik_saldrgan_kopekbalg_sprite_seti-1_3
+  - first:
+      213: -1101682478386937187
+    second: Alt_karelik_saldrgan_kopekbalg_sprite_seti-1_4
+  - first:
+      213: -2367650668397315821
+    second: Alt_karelik_saldrgan_kopekbalg_sprite_seti-1_5
+  - first:
+      213: 2817092054699740952
+    second: Alt_karelik_saldrgan_kopekbalg_sprite_seti-1_6
+  - first:
+      213: 7466588930587787726
+    second: Alt_karelik_saldrgan_kopekbalg_sprite_seti-1_7
+  - first:
+      213: 3560725800573459481
+    second: Alt_karelik_saldrgan_kopekbalg_sprite_seti-1_8
+  - first:
+      213: -9146864401139805090
+    second: Alt_karelik_saldrgan_kopekbalg_sprite_seti-1_9
+  - first:
+      213: -4430093615667170473
+    second: Alt_karelik_saldrgan_kopekbalg_sprite_seti-1_10
+  - first:
+      213: -7460987466713593523
+    second: Alt_karelik_saldrgan_kopekbalg_sprite_seti-1_11
+  - first:
+      213: -7402003771793262933
+    second: Alt_karelik_saldrgan_kopekbalg_sprite_seti-1_12
+  - first:
+      213: 9033466893256939607
+    second: Alt_karelik_saldrgan_kopekbalg_sprite_seti-1_13
+  - first:
+      213: 8086270956461197345
+    second: Alt_karelik_saldrgan_kopekbalg_sprite_seti-1_14
+  - first:
+      213: -6938258360203152743
+    second: Alt_karelik_saldrgan_kopekbalg_sprite_seti-1_15
+  - first:
+      213: -5140911649953305622
+    second: Alt_karelik_saldrgan_kopekbalg_sprite_seti-1_16
+  - first:
+      213: -3717083230691567743
+    second: Alt_karelik_saldrgan_kopekbalg_sprite_seti-1_17
+  - first:
+      213: 2268845912885030607
+    second: Alt_karelik_saldrgan_kopekbalg_sprite_seti-1_18
+  - first:
+      213: -9130478523933069242
+    second: Alt_karelik_saldrgan_kopekbalg_sprite_seti-1_19
+  - first:
+      213: 6753607209992036764
+    second: Alt_karelik_saldrgan_kopekbalg_sprite_seti-1_20
+  - first:
+      213: 4973218383154815199
+    second: Alt_karelik_saldrgan_kopekbalg_sprite_seti-1_21
+  - first:
+      213: 6638060210548553352
+    second: Alt_karelik_saldrgan_kopekbalg_sprite_seti-1_22
+  - first:
+      213: 4059042989959038510
+    second: Alt_karelik_saldrgan_kopekbalg_sprite_seti-1_23
+  - first:
+      213: -5910772091470733211
+    second: Alt_karelik_saldrgan_kopekbalg_sprite_seti-1_24
+  - first:
+      213: 4165313501991718827
+    second: Alt_karelik_saldrgan_kopekbalg_sprite_seti-1_25
+  - first:
+      213: 942028034619132969
+    second: Alt_karelik_saldrgan_kopekbalg_sprite_seti-1_26
+  - first:
+      213: -2712775766412250547
+    second: Alt_karelik_saldrgan_kopekbalg_sprite_seti-1_27
+  - first:
+      213: 5087992138927958537
+    second: Alt_karelik_saldrgan_kopekbalg_sprite_seti-1_28
+  - first:
+      213: -2414591362165873297
+    second: Alt_karelik_saldrgan_kopekbalg_sprite_seti-1_29
+  - first:
+      213: -5305401303213574017
+    second: Alt_karelik_saldrgan_kopekbalg_sprite_seti-1_30
+  - first:
+      213: -1201535246134275399
+    second: Alt_karelik_saldrgan_kopekbalg_sprite_seti-1_31
+  - first:
+      213: 5861408320242278951
+    second: Alt_karelik_saldrgan_kopekbalg_sprite_seti-1_32
+  - first:
+      213: 2534739619610899232
+    second: Alt_karelik_saldrgan_kopekbalg_sprite_seti-1_33
+  - first:
+      213: 2999152192446132119
+    second: Alt_karelik_saldrgan_kopekbalg_sprite_seti-1_34
+  - first:
+      213: 4529459417327449170
+    second: Alt_karelik_saldrgan_kopekbalg_sprite_seti-1_35
+  - first:
+      213: -4636752412401027664
+    second: Alt_karelik_saldrgan_kopekbalg_sprite_seti-1_36
+  - first:
+      213: -4941588861202600305
+    second: Alt_karelik_saldrgan_kopekbalg_sprite_seti-1_37
+  - first:
+      213: -8408281544114017222
+    second: Alt_karelik_saldrgan_kopekbalg_sprite_seti-1_38
+  - first:
+      213: -4262468199043350264
+    second: Alt_karelik_saldrgan_kopekbalg_sprite_seti-1_39
+  - first:
+      213: 6982104970402806
+    second: Alt_karelik_saldrgan_kopekbalg_sprite_seti-1_40
+  - first:
+      213: -9163482221885883975
+    second: Alt_karelik_saldrgan_kopekbalg_sprite_seti-1_41
+  - first:
+      213: 7820781617877214636
+    second: Alt_karelik_saldrgan_kopekbalg_sprite_seti-1_42
+  - first:
+      213: 7366723313202264736
+    second: Alt_karelik_saldrgan_kopekbalg_sprite_seti-1_43
+  - first:
+      213: -5739891493345151990
+    second: Alt_karelik_saldrgan_kopekbalg_sprite_seti-1_44
+  - first:
+      213: 7039965431809990957
+    second: Alt_karelik_saldrgan_kopekbalg_sprite_seti-1_45
+  - first:
+      213: 4183777837747691376
+    second: Alt_karelik_saldrgan_kopekbalg_sprite_seti-1_46
+  - first:
+      213: -7747279204695177728
+    second: Alt_karelik_saldrgan_kopekbalg_sprite_seti-1_47
+  - first:
+      213: 7818830170950181242
+    second: Alt_karelik_saldrgan_kopekbalg_sprite_seti-1_48
+  - first:
+      213: 6053774531161717696
+    second: Alt_karelik_saldrgan_kopekbalg_sprite_seti-1_49
+  - first:
+      213: 302413687284435111
+    second: Alt_karelik_saldrgan_kopekbalg_sprite_seti-1_50
+  - first:
+      213: 2006943298317155589
+    second: Alt_karelik_saldrgan_kopekbalg_sprite_seti-1_51
+  - first:
+      213: 6173897327628367123
+    second: Alt_karelik_saldrgan_kopekbalg_sprite_seti-1_52
+  - first:
+      213: -3343573957320306620
+    second: Alt_karelik_saldrgan_kopekbalg_sprite_seti-1_53
+  - first:
+      213: -7579201092705012688
+    second: Alt_karelik_saldrgan_kopekbalg_sprite_seti-1_54
+  - first:
+      213: -1103247955226366975
+    second: Alt_karelik_saldrgan_kopekbalg_sprite_seti-1_55
+  - first:
+      213: -6414357163829446041
+    second: Alt_karelik_saldrgan_kopekbalg_sprite_seti-1_56
+  - first:
+      213: -5315545646006237121
+    second: Alt_karelik_saldrgan_kopekbalg_sprite_seti-1_57
+  - first:
+      213: -8065389147400820665
+    second: Alt_karelik_saldrgan_kopekbalg_sprite_seti-1_58
+  - first:
+      213: 9049681307696245523
+    second: Alt_karelik_saldrgan_kopekbalg_sprite_seti-1_59
+  - first:
+      213: -3108080593189980329
+    second: Alt_karelik_saldrgan_kopekbalg_sprite_seti-1_60
+  - first:
+      213: -1159972185400598027
+    second: Alt_karelik_saldrgan_kopekbalg_sprite_seti-1_61
+  - first:
+      213: -4735844446711173038
+    second: Alt_karelik_saldrgan_kopekbalg_sprite_seti-1_62
+  - first:
+      213: -2347755873711057824
+    second: Alt_karelik_saldrgan_kopekbalg_sprite_seti-1_63
+  - first:
+      213: -694150939284251785
+    second: Alt_karelik_saldrgan_kopekbalg_sprite_seti-1_64
+  - first:
+      213: -4511119300805928671
+    second: Alt_karelik_saldrgan_kopekbalg_sprite_seti-1_65
+  - first:
+      213: 3922250834349774384
+    second: Alt_karelik_saldrgan_kopekbalg_sprite_seti-1_66
+  - first:
+      213: 6607616433154404737
+    second: Alt_karelik_saldrgan_kopekbalg_sprite_seti-1_67
+  - first:
+      213: 3949184274866964957
+    second: Alt_karelik_saldrgan_kopekbalg_sprite_seti-1_68
+  - first:
+      213: 4445125812407848155
+    second: Alt_karelik_saldrgan_kopekbalg_sprite_seti-1_69
+  - first:
+      213: 2248437451217162967
+    second: Alt_karelik_saldrgan_kopekbalg_sprite_seti-1_70
+  - first:
+      213: -1904563729879519610
+    second: Alt_karelik_saldrgan_kopekbalg_sprite_seti-1_71
+  - first:
+      213: -2379151742851886012
+    second: Alt_karelik_saldrgan_kopekbalg_sprite_seti-1_72
+  - first:
+      213: -3512578586764631310
+    second: Alt_karelik_saldrgan_kopekbalg_sprite_seti-1_73
+  - first:
+      213: -9067639620902872724
+    second: Alt_karelik_saldrgan_kopekbalg_sprite_seti-1_74
+  - first:
+      213: 7471355722527650056
+    second: Alt_karelik_saldrgan_kopekbalg_sprite_seti-1_75
+  - first:
+      213: -4755397818237842493
+    second: Alt_karelik_saldrgan_kopekbalg_sprite_seti-1_76
+  - first:
+      213: 816432420871526340
+    second: Alt_karelik_saldrgan_kopekbalg_sprite_seti-1_77
+  - first:
+      213: -1748667175065194054
+    second: Alt_karelik_saldrgan_kopekbalg_sprite_seti-1_78
+  - first:
+      213: 2324297082075490457
+    second: Alt_karelik_saldrgan_kopekbalg_sprite_seti-1_79
+  - first:
+      213: 4350989610214575968
+    second: Alt_karelik_saldrgan_kopekbalg_sprite_seti-1_80
+  - first:
+      213: 482065194771283712
+    second: Alt_karelik_saldrgan_kopekbalg_sprite_seti-1_81
+  - first:
+      213: -8483129621578131011
+    second: Alt_karelik_saldrgan_kopekbalg_sprite_seti-1_82
+  - first:
+      213: 4455376507490556366
+    second: Alt_karelik_saldrgan_kopekbalg_sprite_seti-1_83
+  - first:
+      213: -5705454998422865217
+    second: Alt_karelik_saldrgan_kopekbalg_sprite_seti-1_84
+  - first:
+      213: 5835753275307950367
+    second: Alt_karelik_saldrgan_kopekbalg_sprite_seti-1_85
+  - first:
+      213: -5671873023724770661
+    second: Alt_karelik_saldrgan_kopekbalg_sprite_seti-1_86
+  - first:
+      213: -7081115365683971947
+    second: Alt_karelik_saldrgan_kopekbalg_sprite_seti-1_87
+  - first:
+      213: -8719075107799941861
+    second: Alt_karelik_saldrgan_kopekbalg_sprite_seti-1_88
+  - first:
+      213: -2554255560294856458
+    second: Alt_karelik_saldrgan_kopekbalg_sprite_seti-1_89
+  - first:
+      213: -1456715310254195965
+    second: Alt_karelik_saldrgan_kopekbalg_sprite_seti-1_90
+  - first:
+      213: -9184022764523478769
+    second: Alt_karelik_saldrgan_kopekbalg_sprite_seti-1_91
+  - first:
+      213: 2101414407079799980
+    second: Alt_karelik_saldrgan_kopekbalg_sprite_seti-1_92
+  - first:
+      213: -3627860719956376317
+    second: Alt_karelik_saldrgan_kopekbalg_sprite_seti-1_93
+  - first:
+      213: -8460173515452122489
+    second: Alt_karelik_saldrgan_kopekbalg_sprite_seti-1_94
+  - first:
+      213: 242647049691058153
+    second: Alt_karelik_saldrgan_kopekbalg_sprite_seti-1_95
+  - first:
+      213: -1363377715939272716
+    second: Alt_karelik_saldrgan_kopekbalg_sprite_seti-1_96
+  - first:
+      213: 6415499690228310846
+    second: Alt_karelik_saldrgan_kopekbalg_sprite_seti-1_97
+  - first:
+      213: 3616621073540868346
+    second: Alt_karelik_saldrgan_kopekbalg_sprite_seti-1_98
+  - first:
+      213: -1271183731126702082
+    second: Alt_karelik_saldrgan_kopekbalg_sprite_seti-1_99
+  - first:
+      213: -2239922492172150819
+    second: Alt_karelik_saldrgan_kopekbalg_sprite_seti-1_100
+  - first:
+      213: -5602947411609594744
+    second: Alt_karelik_saldrgan_kopekbalg_sprite_seti-1_101
+  - first:
+      213: 1186562544652258957
+    second: Alt_karelik_saldrgan_kopekbalg_sprite_seti-1_102
+  - first:
+      213: -2570303283499607994
+    second: Alt_karelik_saldrgan_kopekbalg_sprite_seti-1_103
+  - first:
+      213: 3922078114964258513
+    second: Alt_karelik_saldrgan_kopekbalg_sprite_seti-1_104
+  - first:
+      213: -8330550386262680550
+    second: Alt_karelik_saldrgan_kopekbalg_sprite_seti-1_105
+  - first:
+      213: 3452635633616214815
+    second: Alt_karelik_saldrgan_kopekbalg_sprite_seti-1_106
+  - first:
+      213: -7511882208704566568
+    second: Alt_karelik_saldrgan_kopekbalg_sprite_seti-1_107
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 192
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Alt_karelik_saldrgan_kopekbalg_sprite_seti-1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 568
+        width: 485
+        height: 456
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 789a72b95399d6510800000000000000
+      internalID: 1544058702773332359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alt_karelik_saldrgan_kopekbalg_sprite_seti-1_1
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 568
+        width: 485
+        height: 456
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5162de6aa4366540800000000000000
+      internalID: 5000742342849880413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alt_karelik_saldrgan_kopekbalg_sprite_seti-1_2
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 568
+        width: 485
+        height: 456
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d56fceda1d7f05c00800000000000000
+      internalID: 887481606530201181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alt_karelik_saldrgan_kopekbalg_sprite_seti-1_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 485
+        height: 456
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57d1876aa9ae1e8b0800000000000000
+      internalID: -5124556951032160907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alt_karelik_saldrgan_kopekbalg_sprite_seti-1_4
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 112
+        width: 485
+        height: 456
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9289747f9906b0f0800000000000000
+      internalID: -1101682478386937187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alt_karelik_saldrgan_kopekbalg_sprite_seti-1_5
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 112
+        width: 485
+        height: 456
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31936fde24a642fd0800000000000000
+      internalID: -2367650668397315821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 00cc8d9323e6a864da39d0ed20c71ddd
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":485.0,"y":456.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Alt_karelik_saldrgan_kopekbalg_sprite_seti-1_0: 1544058702773332359
+      Alt_karelik_saldrgan_kopekbalg_sprite_seti-1_1: 5000742342849880413
+      Alt_karelik_saldrgan_kopekbalg_sprite_seti-1_2: 887481606530201181
+      Alt_karelik_saldrgan_kopekbalg_sprite_seti-1_3: -5124556951032160907
+      Alt_karelik_saldrgan_kopekbalg_sprite_seti-1_4: -1101682478386937187
+      Alt_karelik_saldrgan_kopekbalg_sprite_seti-1_5: -2367650668397315821
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
