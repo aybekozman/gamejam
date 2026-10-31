@@ -1,0 +1,1638 @@
+fileFormatVersion: 2
+guid: 8b462198db549d84f8a564b9d66e0e46
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1378954965027394316
+    second: "D\xF6rt t\xFCr bal\u0131k piksel animasyon seti_0"
+  - first:
+      213: 5506434900073318606
+    second: "D\xF6rt t\xFCr bal\u0131k piksel animasyon seti_1"
+  - first:
+      213: -4647252840275414940
+    second: "D\xF6rt t\xFCr bal\u0131k piksel animasyon seti_2"
+  - first:
+      213: 6141964131448770721
+    second: "D\xF6rt t\xFCr bal\u0131k piksel animasyon seti_3"
+  - first:
+      213: -23788977949950252
+    second: "D\xF6rt t\xFCr bal\u0131k piksel animasyon seti_4"
+  - first:
+      213: -4558932318919618310
+    second: "D\xF6rt t\xFCr bal\u0131k piksel animasyon seti_5"
+  - first:
+      213: 899037338931929225
+    second: "D\xF6rt t\xFCr bal\u0131k piksel animasyon seti_6"
+  - first:
+      213: -4504300921141774791
+    second: "D\xF6rt t\xFCr bal\u0131k piksel animasyon seti_7"
+  - first:
+      213: -4389918273144981192
+    second: "D\xF6rt t\xFCr bal\u0131k piksel animasyon seti_8"
+  - first:
+      213: -3985194503046497807
+    second: "D\xF6rt t\xFCr bal\u0131k piksel animasyon seti_9"
+  - first:
+      213: -5366964087244047982
+    second: "D\xF6rt t\xFCr bal\u0131k piksel animasyon seti_10"
+  - first:
+      213: 404153343600929438
+    second: "D\xF6rt t\xFCr bal\u0131k piksel animasyon seti_11"
+  - first:
+      213: 2282357729440908750
+    second: "D\xF6rt t\xFCr bal\u0131k piksel animasyon seti_12"
+  - first:
+      213: 1926430593437747142
+    second: "D\xF6rt t\xFCr bal\u0131k piksel animasyon seti_13"
+  - first:
+      213: -5300821379355441795
+    second: "D\xF6rt t\xFCr bal\u0131k piksel animasyon seti_14"
+  - first:
+      213: 3879101011590365906
+    second: "D\xF6rt t\xFCr bal\u0131k piksel animasyon seti_15"
+  - first:
+      213: -7635000546545387131
+    second: "D\xF6rt t\xFCr bal\u0131k piksel animasyon seti_16"
+  - first:
+      213: 3103294473251321495
+    second: "D\xF6rt t\xFCr bal\u0131k piksel animasyon seti_17"
+  - first:
+      213: -8988373689769953571
+    second: "D\xF6rt t\xFCr bal\u0131k piksel animasyon seti_18"
+  - first:
+      213: -2031768459533860778
+    second: "D\xF6rt t\xFCr bal\u0131k piksel animasyon seti_19"
+  - first:
+      213: 579430680230200216
+    second: "D\xF6rt t\xFCr bal\u0131k piksel animasyon seti_20"
+  - first:
+      213: 7706104455452575623
+    second: "D\xF6rt t\xFCr bal\u0131k piksel animasyon seti_21"
+  - first:
+      213: -6832874110637744768
+    second: "D\xF6rt t\xFCr bal\u0131k piksel animasyon seti_22"
+  - first:
+      213: -6666921878911472038
+    second: "D\xF6rt t\xFCr bal\u0131k piksel animasyon seti_23"
+  - first:
+      213: 1115931360459052720
+    second: "D\xF6rt t\xFCr bal\u0131k piksel animasyon seti_24"
+  - first:
+      213: 1920516047441492111
+    second: "D\xF6rt t\xFCr bal\u0131k piksel animasyon seti_25"
+  - first:
+      213: 5373227502579017867
+    second: "D\xF6rt t\xFCr bal\u0131k piksel animasyon seti_26"
+  - first:
+      213: 7690201297856065936
+    second: "D\xF6rt t\xFCr bal\u0131k piksel animasyon seti_27"
+  - first:
+      213: -378812197369773365
+    second: "D\xF6rt t\xFCr bal\u0131k piksel animasyon seti_28"
+  - first:
+      213: 4543263310556089400
+    second: "D\xF6rt t\xFCr bal\u0131k piksel animasyon seti_29"
+  - first:
+      213: -6839144815266432464
+    second: "D\xF6rt t\xFCr bal\u0131k piksel animasyon seti_30"
+  - first:
+      213: 1601533660900854621
+    second: "D\xF6rt t\xFCr bal\u0131k piksel animasyon seti_31"
+  - first:
+      213: 6945783222717034714
+    second: "D\xF6rt t\xFCr bal\u0131k piksel animasyon seti_32"
+  - first:
+      213: 4838393789222405463
+    second: "D\xF6rt t\xFCr bal\u0131k piksel animasyon seti_33"
+  - first:
+      213: 6405371841183385284
+    second: "D\xF6rt t\xFCr bal\u0131k piksel animasyon seti_34"
+  - first:
+      213: -6659559512753127366
+    second: "D\xF6rt t\xFCr bal\u0131k piksel animasyon seti_35"
+  - first:
+      213: -8139544556072404544
+    second: "D\xF6rt t\xFCr bal\u0131k piksel animasyon seti_36"
+  - first:
+      213: 8260997461914315980
+    second: "D\xF6rt t\xFCr bal\u0131k piksel animasyon seti_37"
+  - first:
+      213: -1730194315532534968
+    second: "D\xF6rt t\xFCr bal\u0131k piksel animasyon seti_38"
+  - first:
+      213: 2714694638571295106
+    second: "D\xF6rt t\xFCr bal\u0131k piksel animasyon seti_39"
+  - first:
+      213: 6258787136392396834
+    second: "D\xF6rt t\xFCr bal\u0131k piksel animasyon seti_40"
+  - first:
+      213: 6546275930791173086
+    second: "D\xF6rt t\xFCr bal\u0131k piksel animasyon seti_41"
+  - first:
+      213: -5258287974414227566
+    second: "D\xF6rt t\xFCr bal\u0131k piksel animasyon seti_42"
+  - first:
+      213: -3705393545043634249
+    second: "D\xF6rt t\xFCr bal\u0131k piksel animasyon seti_43"
+  - first:
+      213: -5405374764350135539
+    second: "D\xF6rt t\xFCr bal\u0131k piksel animasyon seti_44"
+  - first:
+      213: 6291321560662824907
+    second: "D\xF6rt t\xFCr bal\u0131k piksel animasyon seti_45"
+  - first:
+      213: 6340712996908174331
+    second: "D\xF6rt t\xFCr bal\u0131k piksel animasyon seti_46"
+  - first:
+      213: 2621034127477195302
+    second: "D\xF6rt t\xFCr bal\u0131k piksel animasyon seti_47"
+  - first:
+      213: -3304802363407816090
+    second: "D\xF6rt t\xFCr bal\u0131k piksel animasyon seti_48"
+  - first:
+      213: 874776923885545848
+    second: "D\xF6rt t\xFCr bal\u0131k piksel animasyon seti_49"
+  - first:
+      213: -7187348508569180924
+    second: "D\xF6rt t\xFCr bal\u0131k piksel animasyon seti_50"
+  - first:
+      213: 1115534378873824127
+    second: "D\xF6rt t\xFCr bal\u0131k piksel animasyon seti_51"
+  - first:
+      213: 2764227067343404541
+    second: "D\xF6rt t\xFCr bal\u0131k piksel animasyon seti_52"
+  - first:
+      213: 2954551219118652137
+    second: "D\xF6rt t\xFCr bal\u0131k piksel animasyon seti_53"
+  - first:
+      213: 2063427541880867871
+    second: "D\xF6rt t\xFCr bal\u0131k piksel animasyon seti_54"
+  - first:
+      213: -1160378771103168685
+    second: "D\xF6rt t\xFCr bal\u0131k piksel animasyon seti_55"
+  - first:
+      213: -4194455830965525793
+    second: "D\xF6rt t\xFCr bal\u0131k piksel animasyon seti_56"
+  - first:
+      213: -7056607180071712202
+    second: "D\xF6rt t\xFCr bal\u0131k piksel animasyon seti_57"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "D\xF6rt t\xFCr bal\u0131k piksel animasyon seti_0"
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 731
+        width: 321
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0318b31c38032310800000000000000
+      internalID: 1378954965027394316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt t\xFCr bal\u0131k piksel animasyon seti_1"
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 723
+        width: 366
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec80fa50e59ca6c40800000000000000
+      internalID: 5506434900073318606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt t\xFCr bal\u0131k piksel animasyon seti_2"
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 717
+        width: 371
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46075f9f924a18fb0800000000000000
+      internalID: -4647252840275414940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt t\xFCr bal\u0131k piksel animasyon seti_3"
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 967
+        width: 7
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a0d13606d3ac3550800000000000000
+      internalID: 6141964131448770721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt t\xFCr bal\u0131k piksel animasyon seti_4"
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 976
+        width: 35
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4de39b3fc0c7baff0800000000000000
+      internalID: -23788977949950252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt t\xFCr bal\u0131k piksel animasyon seti_5"
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 735
+        width: 333
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af09fbfc53b6bb0c0800000000000000
+      internalID: -4558932318919618310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt t\xFCr bal\u0131k piksel animasyon seti_6"
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 955
+        width: 39
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 980a9da42b50a7c00800000000000000
+      internalID: 899037338931929225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt t\xFCr bal\u0131k piksel animasyon seti_7"
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 935
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93631e15d228d71c0800000000000000
+      internalID: -4504300921141774791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt t\xFCr bal\u0131k piksel animasyon seti_8"
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 943
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8397230e690e313c0800000000000000
+      internalID: -4389918273144981192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt t\xFCr bal\u0131k piksel animasyon seti_9"
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 886
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f9f215c6beb1b8c0800000000000000
+      internalID: -3985194503046497807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt t\xFCr bal\u0131k piksel animasyon seti_10"
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 897
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2993a891996b485b0800000000000000
+      internalID: -5366964087244047982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt t\xFCr bal\u0131k piksel animasyon seti_11"
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 885
+        width: 47
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9aae102357db9500800000000000000
+      internalID: 404153343600929438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt t\xFCr bal\u0131k piksel animasyon seti_12"
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 871
+        width: 41
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec541b133409caf10800000000000000
+      internalID: 2282357729440908750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt t\xFCr bal\u0131k piksel animasyon seti_13"
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 879
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c74d460b6e0cba10800000000000000
+      internalID: 1926430593437747142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt t\xFCr bal\u0131k piksel animasyon seti_14"
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 807
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7509b95a03bf66b0800000000000000
+      internalID: -5300821379355441795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt t\xFCr bal\u0131k piksel animasyon seti_15"
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 735
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d2c3b351d555d530800000000000000
+      internalID: 3879101011590365906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt t\xFCr bal\u0131k piksel animasyon seti_16"
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 735
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 589bf3374770b0690800000000000000
+      internalID: -7635000546545387131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt t\xFCr bal\u0131k piksel animasyon seti_17"
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 727
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 796f397a1ed111b20800000000000000
+      internalID: 3103294473251321495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt t\xFCr bal\u0131k piksel animasyon seti_18"
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 737
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd67bc860c1e24380800000000000000
+      internalID: -8988373689769953571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt t\xFCr bal\u0131k piksel animasyon seti_19"
+      rect:
+        serializedVersion: 2
+        x: 1394
+        y: 737
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65044afc955bdc3e0800000000000000
+      internalID: -2031768459533860778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt t\xFCr bal\u0131k piksel animasyon seti_20"
+      rect:
+        serializedVersion: 2
+        x: 1397
+        y: 733
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 893851b322d8a0800800000000000000
+      internalID: 579430680230200216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt t\xFCr bal\u0131k piksel animasyon seti_21"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 255
+        width: 411
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7874e4d6c2591fa60800000000000000
+      internalID: 7706104455452575623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt t\xFCr bal\u0131k piksel animasyon seti_22"
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 613
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08d5970d231cc21a0800000000000000
+      internalID: -6832874110637744768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt t\xFCr bal\u0131k piksel animasyon seti_23"
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 255
+        width: 393
+        height: 468
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5ea33ebfd55a73a0800000000000000
+      internalID: -6666921878911472038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt t\xFCr bal\u0131k piksel animasyon seti_24"
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 245
+        width: 367
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b651ede8a59c7f00800000000000000
+      internalID: 1115931360459052720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt t\xFCr bal\u0131k piksel animasyon seti_25"
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 481
+        width: 365
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f88ff297b2b07aa10800000000000000
+      internalID: 1920516047441492111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt t\xFCr bal\u0131k piksel animasyon seti_26"
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 527
+        width: 41
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b88e49ce1f9819a40800000000000000
+      internalID: 5373227502579017867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt t\xFCr bal\u0131k piksel animasyon seti_27"
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 573
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09175f1065519ba60800000000000000
+      internalID: 7690201297856065936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt t\xFCr bal\u0131k piksel animasyon seti_28"
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 564
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc2803340503ebaf0800000000000000
+      internalID: -378812197369773365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt t\xFCr bal\u0131k piksel animasyon seti_29"
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 526
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83cc2c2e8e9ec0f30800000000000000
+      internalID: 4543263310556089400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt t\xFCr bal\u0131k piksel animasyon seti_30"
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 545
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03af69e960a7611a0800000000000000
+      internalID: -6839144815266432464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt t\xFCr bal\u0131k piksel animasyon seti_31"
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 497
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5b83d9116ac93610800000000000000
+      internalID: 1601533660900854621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt t\xFCr bal\u0131k piksel animasyon seti_32"
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 462
+        width: 23
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad0baec6a01646060800000000000000
+      internalID: 6945783222717034714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt t\xFCr bal\u0131k piksel animasyon seti_33"
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 465
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 755ce02348d652340800000000000000
+      internalID: 4838393789222405463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt t\xFCr bal\u0131k piksel animasyon seti_34"
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 257
+        width: 361
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c68600a0c374e850800000000000000
+      internalID: 6405371841183385284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt t\xFCr bal\u0131k piksel animasyon seti_35"
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 443
+        width: 47
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a30c6c138ed7493a0800000000000000
+      internalID: -6659559512753127366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt t\xFCr bal\u0131k piksel animasyon seti_36"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 383
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c9f6d5f9578a0f80800000000000000
+      internalID: -8139544556072404544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt t\xFCr bal\u0131k piksel animasyon seti_37"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 247
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccc6ec74c65f4a270800000000000000
+      internalID: 8260997461914315980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt t\xFCr bal\u0131k piksel animasyon seti_38"
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 0
+        width: 383
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84b784edf6d1df7e0800000000000000
+      internalID: -1730194315532534968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt t\xFCr bal\u0131k piksel animasyon seti_39"
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 251
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28113b504688ca520800000000000000
+      internalID: 2714694638571295106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt t\xFCr bal\u0131k piksel animasyon seti_40"
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 238
+        width: 45
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22004757dbdabd650800000000000000
+      internalID: 6258787136392396834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt t\xFCr bal\u0131k piksel animasyon seti_41"
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 238
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edb5f70864b09da50800000000000000
+      internalID: 6546275930791173086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt t\xFCr bal\u0131k piksel animasyon seti_42"
+      rect:
+        serializedVersion: 2
+        x: 1262
+        y: 245
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 297e45662fec607b0800000000000000
+      internalID: -5258287974414227566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt t\xFCr bal\u0131k piksel animasyon seti_43"
+      rect:
+        serializedVersion: 2
+        x: 1382
+        y: 245
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b716aae33cc39cc0800000000000000
+      internalID: -3705393545043634249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt t\xFCr bal\u0131k piksel animasyon seti_44"
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 0
+        width: 751
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d03ac0d6a404cf4b0800000000000000
+      internalID: -5405374764350135539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt t\xFCr bal\u0131k piksel animasyon seti_45"
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 220
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc7501760a34f4750800000000000000
+      internalID: 6291321560662824907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt t\xFCr bal\u0131k piksel animasyon seti_46"
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 119
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfb0a6b40ecbef750800000000000000
+      internalID: 6340712996908174331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt t\xFCr bal\u0131k piksel animasyon seti_47"
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 99
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6224470f6a8cf5420800000000000000
+      internalID: 2621034127477195302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt t\xFCr bal\u0131k piksel animasyon seti_48"
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 93
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66aa43492cbf222d0800000000000000
+      internalID: -3304802363407816090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt t\xFCr bal\u0131k piksel animasyon seti_49"
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 55
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87928ed3af4d32c00800000000000000
+      internalID: 874776923885545848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt t\xFCr bal\u0131k piksel animasyon seti_50"
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 65
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 405ecc59c98614c90800000000000000
+      internalID: -7187348508569180924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt t\xFCr bal\u0131k piksel animasyon seti_51"
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 61
+        width: 8
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f73a2837b9c2b7f00800000000000000
+      internalID: 1115534378873824127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt t\xFCr bal\u0131k piksel animasyon seti_52"
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 17
+        width: 69
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfdf58b4fd18c5620800000000000000
+      internalID: 2764227067343404541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt t\xFCr bal\u0131k piksel animasyon seti_53"
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 21
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eab34e0eaca00920800000000000000
+      internalID: 2954551219118652137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt t\xFCr bal\u0131k piksel animasyon seti_54"
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 20
+        width: 27
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1c0195ba64c2ac10800000000000000
+      internalID: 2063427541880867871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt t\xFCr bal\u0131k piksel animasyon seti_55"
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 31
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 357cd77d7a185efe0800000000000000
+      internalID: -1160378771103168685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt t\xFCr bal\u0131k piksel animasyon seti_56"
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 15
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd2eb3915ac4ac5c0800000000000000
+      internalID: -4194455830965525793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt t\xFCr bal\u0131k piksel animasyon seti_57"
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 14
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63aca504825e11e90800000000000000
+      internalID: -7056607180071712202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "D\xF6rt t\xFCr bal\u0131k piksel animasyon seti_0": 1378954965027394316
+      "D\xF6rt t\xFCr bal\u0131k piksel animasyon seti_1": 5506434900073318606
+      "D\xF6rt t\xFCr bal\u0131k piksel animasyon seti_10": -5366964087244047982
+      "D\xF6rt t\xFCr bal\u0131k piksel animasyon seti_11": 404153343600929438
+      "D\xF6rt t\xFCr bal\u0131k piksel animasyon seti_12": 2282357729440908750
+      "D\xF6rt t\xFCr bal\u0131k piksel animasyon seti_13": 1926430593437747142
+      "D\xF6rt t\xFCr bal\u0131k piksel animasyon seti_14": -5300821379355441795
+      "D\xF6rt t\xFCr bal\u0131k piksel animasyon seti_15": 3879101011590365906
+      "D\xF6rt t\xFCr bal\u0131k piksel animasyon seti_16": -7635000546545387131
+      "D\xF6rt t\xFCr bal\u0131k piksel animasyon seti_17": 3103294473251321495
+      "D\xF6rt t\xFCr bal\u0131k piksel animasyon seti_18": -8988373689769953571
+      "D\xF6rt t\xFCr bal\u0131k piksel animasyon seti_19": -2031768459533860778
+      "D\xF6rt t\xFCr bal\u0131k piksel animasyon seti_2": -4647252840275414940
+      "D\xF6rt t\xFCr bal\u0131k piksel animasyon seti_20": 579430680230200216
+      "D\xF6rt t\xFCr bal\u0131k piksel animasyon seti_21": 7706104455452575623
+      "D\xF6rt t\xFCr bal\u0131k piksel animasyon seti_22": -6832874110637744768
+      "D\xF6rt t\xFCr bal\u0131k piksel animasyon seti_23": -6666921878911472038
+      "D\xF6rt t\xFCr bal\u0131k piksel animasyon seti_24": 1115931360459052720
+      "D\xF6rt t\xFCr bal\u0131k piksel animasyon seti_25": 1920516047441492111
+      "D\xF6rt t\xFCr bal\u0131k piksel animasyon seti_26": 5373227502579017867
+      "D\xF6rt t\xFCr bal\u0131k piksel animasyon seti_27": 7690201297856065936
+      "D\xF6rt t\xFCr bal\u0131k piksel animasyon seti_28": -378812197369773365
+      "D\xF6rt t\xFCr bal\u0131k piksel animasyon seti_29": 4543263310556089400
+      "D\xF6rt t\xFCr bal\u0131k piksel animasyon seti_3": 6141964131448770721
+      "D\xF6rt t\xFCr bal\u0131k piksel animasyon seti_30": -6839144815266432464
+      "D\xF6rt t\xFCr bal\u0131k piksel animasyon seti_31": 1601533660900854621
+      "D\xF6rt t\xFCr bal\u0131k piksel animasyon seti_32": 6945783222717034714
+      "D\xF6rt t\xFCr bal\u0131k piksel animasyon seti_33": 4838393789222405463
+      "D\xF6rt t\xFCr bal\u0131k piksel animasyon seti_34": 6405371841183385284
+      "D\xF6rt t\xFCr bal\u0131k piksel animasyon seti_35": -6659559512753127366
+      "D\xF6rt t\xFCr bal\u0131k piksel animasyon seti_36": -8139544556072404544
+      "D\xF6rt t\xFCr bal\u0131k piksel animasyon seti_37": 8260997461914315980
+      "D\xF6rt t\xFCr bal\u0131k piksel animasyon seti_38": -1730194315532534968
+      "D\xF6rt t\xFCr bal\u0131k piksel animasyon seti_39": 2714694638571295106
+      "D\xF6rt t\xFCr bal\u0131k piksel animasyon seti_4": -23788977949950252
+      "D\xF6rt t\xFCr bal\u0131k piksel animasyon seti_40": 6258787136392396834
+      "D\xF6rt t\xFCr bal\u0131k piksel animasyon seti_41": 6546275930791173086
+      "D\xF6rt t\xFCr bal\u0131k piksel animasyon seti_42": -5258287974414227566
+      "D\xF6rt t\xFCr bal\u0131k piksel animasyon seti_43": -3705393545043634249
+      "D\xF6rt t\xFCr bal\u0131k piksel animasyon seti_44": -5405374764350135539
+      "D\xF6rt t\xFCr bal\u0131k piksel animasyon seti_45": 6291321560662824907
+      "D\xF6rt t\xFCr bal\u0131k piksel animasyon seti_46": 6340712996908174331
+      "D\xF6rt t\xFCr bal\u0131k piksel animasyon seti_47": 2621034127477195302
+      "D\xF6rt t\xFCr bal\u0131k piksel animasyon seti_48": -3304802363407816090
+      "D\xF6rt t\xFCr bal\u0131k piksel animasyon seti_49": 874776923885545848
+      "D\xF6rt t\xFCr bal\u0131k piksel animasyon seti_5": -4558932318919618310
+      "D\xF6rt t\xFCr bal\u0131k piksel animasyon seti_50": -7187348508569180924
+      "D\xF6rt t\xFCr bal\u0131k piksel animasyon seti_51": 1115534378873824127
+      "D\xF6rt t\xFCr bal\u0131k piksel animasyon seti_52": 2764227067343404541
+      "D\xF6rt t\xFCr bal\u0131k piksel animasyon seti_53": 2954551219118652137
+      "D\xF6rt t\xFCr bal\u0131k piksel animasyon seti_54": 2063427541880867871
+      "D\xF6rt t\xFCr bal\u0131k piksel animasyon seti_55": -1160378771103168685
+      "D\xF6rt t\xFCr bal\u0131k piksel animasyon seti_56": -4194455830965525793
+      "D\xF6rt t\xFCr bal\u0131k piksel animasyon seti_57": -7056607180071712202
+      "D\xF6rt t\xFCr bal\u0131k piksel animasyon seti_6": 899037338931929225
+      "D\xF6rt t\xFCr bal\u0131k piksel animasyon seti_7": -4504300921141774791
+      "D\xF6rt t\xFCr bal\u0131k piksel animasyon seti_8": -4389918273144981192
+      "D\xF6rt t\xFCr bal\u0131k piksel animasyon seti_9": -3985194503046497807
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

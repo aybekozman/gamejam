@@ -1,0 +1,1222 @@
+fileFormatVersion: 2
+guid: c98a690b20e943a4b9f20ad7f6435f0d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3385192921159320291
+    second: "Piksel sualt\u0131 \u0131\u015F\u0131k huzmeleri_0"
+  - first:
+      213: -3349808006887438525
+    second: "Piksel sualt\u0131 \u0131\u015F\u0131k huzmeleri_1"
+  - first:
+      213: 1645708250081010184
+    second: "Piksel sualt\u0131 \u0131\u015F\u0131k huzmeleri_2"
+  - first:
+      213: -4795648475675306768
+    second: "Piksel sualt\u0131 \u0131\u015F\u0131k huzmeleri_3"
+  - first:
+      213: -7365203556646505324
+    second: "Piksel sualt\u0131 \u0131\u015F\u0131k huzmeleri_4"
+  - first:
+      213: 5513761749612359398
+    second: "Piksel sualt\u0131 \u0131\u015F\u0131k huzmeleri_5"
+  - first:
+      213: 3805481189284514468
+    second: "Piksel sualt\u0131 \u0131\u015F\u0131k huzmeleri_6"
+  - first:
+      213: 5205959137082472494
+    second: "Piksel sualt\u0131 \u0131\u015F\u0131k huzmeleri_7"
+  - first:
+      213: 8974076976696012749
+    second: "Piksel sualt\u0131 \u0131\u015F\u0131k huzmeleri_8"
+  - first:
+      213: 3141425137554754649
+    second: "Piksel sualt\u0131 \u0131\u015F\u0131k huzmeleri_9"
+  - first:
+      213: -1726985023767742889
+    second: "Piksel sualt\u0131 \u0131\u015F\u0131k huzmeleri_10"
+  - first:
+      213: 4120528066714675677
+    second: "Piksel sualt\u0131 \u0131\u015F\u0131k huzmeleri_11"
+  - first:
+      213: -7795373282315349778
+    second: "Piksel sualt\u0131 \u0131\u015F\u0131k huzmeleri_12"
+  - first:
+      213: 662360159424215766
+    second: "Piksel sualt\u0131 \u0131\u015F\u0131k huzmeleri_13"
+  - first:
+      213: 4762137820519060450
+    second: "Piksel sualt\u0131 \u0131\u015F\u0131k huzmeleri_14"
+  - first:
+      213: -1084512993889189095
+    second: "Piksel sualt\u0131 \u0131\u015F\u0131k huzmeleri_15"
+  - first:
+      213: 6646569561060704418
+    second: "Piksel sualt\u0131 \u0131\u015F\u0131k huzmeleri_16"
+  - first:
+      213: 7300456983718688958
+    second: "Piksel sualt\u0131 \u0131\u015F\u0131k huzmeleri_17"
+  - first:
+      213: 6211652537922609365
+    second: "Piksel sualt\u0131 \u0131\u015F\u0131k huzmeleri_18"
+  - first:
+      213: -1089627148960269912
+    second: "Piksel sualt\u0131 \u0131\u015F\u0131k huzmeleri_19"
+  - first:
+      213: -3808920737229731192
+    second: "Piksel sualt\u0131 \u0131\u015F\u0131k huzmeleri_20"
+  - first:
+      213: -2029624398658458966
+    second: "Piksel sualt\u0131 \u0131\u015F\u0131k huzmeleri_21"
+  - first:
+      213: -7819673503812084145
+    second: "Piksel sualt\u0131 \u0131\u015F\u0131k huzmeleri_22"
+  - first:
+      213: 4905582750099537293
+    second: "Piksel sualt\u0131 \u0131\u015F\u0131k huzmeleri_23"
+  - first:
+      213: 3725872254018813893
+    second: "Piksel sualt\u0131 \u0131\u015F\u0131k huzmeleri_24"
+  - first:
+      213: 1392930529227227033
+    second: "Piksel sualt\u0131 \u0131\u015F\u0131k huzmeleri_25"
+  - first:
+      213: 3158482861080449175
+    second: "Piksel sualt\u0131 \u0131\u015F\u0131k huzmeleri_26"
+  - first:
+      213: -2286854228711479546
+    second: "Piksel sualt\u0131 \u0131\u015F\u0131k huzmeleri_27"
+  - first:
+      213: -6543116797606103326
+    second: "Piksel sualt\u0131 \u0131\u015F\u0131k huzmeleri_28"
+  - first:
+      213: 1373450034083038981
+    second: "Piksel sualt\u0131 \u0131\u015F\u0131k huzmeleri_29"
+  - first:
+      213: -7789163983269560101
+    second: "Piksel sualt\u0131 \u0131\u015F\u0131k huzmeleri_30"
+  - first:
+      213: -2677422130766896701
+    second: "Piksel sualt\u0131 \u0131\u015F\u0131k huzmeleri_31"
+  - first:
+      213: -2328632193858917772
+    second: "Piksel sualt\u0131 \u0131\u015F\u0131k huzmeleri_32"
+  - first:
+      213: 1727415486600439223
+    second: "Piksel sualt\u0131 \u0131\u015F\u0131k huzmeleri_33"
+  - first:
+      213: 903541121303701242
+    second: "Piksel sualt\u0131 \u0131\u015F\u0131k huzmeleri_34"
+  - first:
+      213: 4265365403422761847
+    second: "Piksel sualt\u0131 \u0131\u015F\u0131k huzmeleri_35"
+  - first:
+      213: -2873388591531573840
+    second: "Piksel sualt\u0131 \u0131\u015F\u0131k huzmeleri_36"
+  - first:
+      213: 5211599337919210466
+    second: "Piksel sualt\u0131 \u0131\u015F\u0131k huzmeleri_37"
+  - first:
+      213: -9148403030300665181
+    second: "Piksel sualt\u0131 \u0131\u015F\u0131k huzmeleri_38"
+  - first:
+      213: 6614994704498312710
+    second: "Piksel sualt\u0131 \u0131\u015F\u0131k huzmeleri_39"
+  - first:
+      213: -6746082554727778077
+    second: "Piksel sualt\u0131 \u0131\u015F\u0131k huzmeleri_40"
+  - first:
+      213: 3828913676534450102
+    second: "Piksel sualt\u0131 \u0131\u015F\u0131k huzmeleri_41"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Piksel sualt\u0131 \u0131\u015F\u0131k huzmeleri_0"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 307
+        width: 312
+        height: 634
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e24ed9b60f9afe20800000000000000
+      internalID: 3385192921159320291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel sualt\u0131 \u0131\u015F\u0131k huzmeleri_1"
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 303
+        width: 681
+        height: 638
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34707b3ad571381d0800000000000000
+      internalID: -3349808006887438525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel sualt\u0131 \u0131\u015F\u0131k huzmeleri_2"
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 924
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80222022feab6d610800000000000000
+      internalID: 1645708250081010184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel sualt\u0131 \u0131\u015F\u0131k huzmeleri_3"
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 323
+        width: 377
+        height: 618
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f4dabbae1f627db0800000000000000
+      internalID: -4795648475675306768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel sualt\u0131 \u0131\u015F\u0131k huzmeleri_4"
+      rect:
+        serializedVersion: 2
+        x: 1369
+        y: 353
+        width: 303
+        height: 588
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49434a3436a89c990800000000000000
+      internalID: -7365203556646505324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel sualt\u0131 \u0131\u015F\u0131k huzmeleri_5"
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 861
+        width: 19
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eee7cd1911d48c40800000000000000
+      internalID: 5513761749612359398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel sualt\u0131 \u0131\u015F\u0131k huzmeleri_6"
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 794
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aa0cb6baf8cfc430800000000000000
+      internalID: 3805481189284514468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel sualt\u0131 \u0131\u015F\u0131k huzmeleri_7"
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 753
+        width: 76
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e28fff8b0484f3840800000000000000
+      internalID: 5205959137082472494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel sualt\u0131 \u0131\u015F\u0131k huzmeleri_8"
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 784
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcf2afea6735a8c70800000000000000
+      internalID: 8974076976696012749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel sualt\u0131 \u0131\u015F\u0131k huzmeleri_9"
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 711
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95c0f64c485989b20800000000000000
+      internalID: 3141425137554754649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel sualt\u0131 \u0131\u015F\u0131k huzmeleri_10"
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 721
+        width: 46
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75677e555448808e0800000000000000
+      internalID: -1726985023767742889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel sualt\u0131 \u0131\u015F\u0131k huzmeleri_11"
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 613
+        width: 46
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd92e87f17e0f2930800000000000000
+      internalID: 4120528066714675677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel sualt\u0131 \u0131\u015F\u0131k huzmeleri_12"
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 579
+        width: 84
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee0d5082d4541d390800000000000000
+      internalID: -7795373282315349778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel sualt\u0131 \u0131\u015F\u0131k huzmeleri_13"
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 661
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6daf9df3e0d213900800000000000000
+      internalID: 662360159424215766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel sualt\u0131 \u0131\u015F\u0131k huzmeleri_14"
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 670
+        width: 62
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e3dd7bed13861240800000000000000
+      internalID: 4762137820519060450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel sualt\u0131 \u0131\u015F\u0131k huzmeleri_15"
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 613
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91380f49d2903f0f0800000000000000
+      internalID: -1084512993889189095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel sualt\u0131 \u0131\u015F\u0131k huzmeleri_16"
+      rect:
+        serializedVersion: 2
+        x: 1371
+        y: 616
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a082fdfccb5d3c50800000000000000
+      internalID: 6646569561060704418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel sualt\u0131 \u0131\u015F\u0131k huzmeleri_17"
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 603
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb8729c72fe605560800000000000000
+      internalID: 7300456983718688958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel sualt\u0131 \u0131\u015F\u0131k huzmeleri_18"
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 573
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d0e70f8219343650800000000000000
+      internalID: 6211652537922609365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel sualt\u0131 \u0131\u015F\u0131k huzmeleri_19"
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 581
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a9f99091edd0e0f0800000000000000
+      internalID: -1089627148960269912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel sualt\u0131 \u0131\u015F\u0131k huzmeleri_20"
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 545
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88a8dcf15cef32bc0800000000000000
+      internalID: -3808920737229731192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel sualt\u0131 \u0131\u015F\u0131k huzmeleri_21"
+      rect:
+        serializedVersion: 2
+        x: 1362
+        y: 516
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaa2f72ec5355d3e0800000000000000
+      internalID: -2029624398658458966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel sualt\u0131 \u0131\u015F\u0131k huzmeleri_22"
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 517
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4e1fb1f060fa7390800000000000000
+      internalID: -7819673503812084145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel sualt\u0131 \u0131\u015F\u0131k huzmeleri_23"
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 518
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8d77f33581241440800000000000000
+      internalID: 4905582750099537293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel sualt\u0131 \u0131\u015F\u0131k huzmeleri_24"
+      rect:
+        serializedVersion: 2
+        x: 1366
+        y: 502
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cf76431315f4b330800000000000000
+      internalID: 3725872254018813893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel sualt\u0131 \u0131\u015F\u0131k huzmeleri_25"
+      rect:
+        serializedVersion: 2
+        x: 1369
+        y: 506
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99fb26fafeea45310800000000000000
+      internalID: 1392930529227227033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel sualt\u0131 \u0131\u015F\u0131k huzmeleri_26"
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 388
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7901cd38d6f25db20800000000000000
+      internalID: 3158482861080449175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel sualt\u0131 \u0131\u015F\u0131k huzmeleri_27"
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 0
+        width: 1579
+        height: 378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6076d8cf1367340e0800000000000000
+      internalID: -2286854228711479546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel sualt\u0131 \u0131\u015F\u0131k huzmeleri_28"
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 281
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e6fbc280fd2235a0800000000000000
+      internalID: -6543116797606103326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel sualt\u0131 \u0131\u015F\u0131k huzmeleri_29"
+      rect:
+        serializedVersion: 2
+        x: 1614
+        y: 273
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 507844677897f0310800000000000000
+      internalID: 1373450034083038981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel sualt\u0131 \u0131\u015F\u0131k huzmeleri_30"
+      rect:
+        serializedVersion: 2
+        x: 1654
+        y: 290
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd083ff30a457e390800000000000000
+      internalID: -7789163983269560101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel sualt\u0131 \u0131\u015F\u0131k huzmeleri_31"
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 232
+        width: 41
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c1aed5f1c2e7dad0800000000000000
+      internalID: -2677422130766896701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel sualt\u0131 \u0131\u015F\u0131k huzmeleri_32"
+      rect:
+        serializedVersion: 2
+        x: 1616
+        y: 216
+        width: 56
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47a20887b590fafd0800000000000000
+      internalID: -2328632193858917772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel sualt\u0131 \u0131\u015F\u0131k huzmeleri_33"
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 274
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b5e35a9b3309f710800000000000000
+      internalID: 1727415486600439223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel sualt\u0131 \u0131\u015F\u0131k huzmeleri_34"
+      rect:
+        serializedVersion: 2
+        x: 1602
+        y: 259
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af6e347dcd50a8c00800000000000000
+      internalID: 903541121303701242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel sualt\u0131 \u0131\u015F\u0131k huzmeleri_35"
+      rect:
+        serializedVersion: 2
+        x: 1598
+        y: 241
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 773214c4c3f913b30800000000000000
+      internalID: 4265365403422761847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel sualt\u0131 \u0131\u015F\u0131k huzmeleri_36"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 161
+        width: 65
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bdb914cc4caf18d0800000000000000
+      internalID: -2873388591531573840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel sualt\u0131 \u0131\u015F\u0131k huzmeleri_37"
+      rect:
+        serializedVersion: 2
+        x: 1610
+        y: 226
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e3e5505cf1535840800000000000000
+      internalID: 5211599337919210466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel sualt\u0131 \u0131\u015F\u0131k huzmeleri_38"
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 194
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aa52dc0ae75a0180800000000000000
+      internalID: -9148403030300665181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel sualt\u0131 \u0131\u015F\u0131k huzmeleri_39"
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 177
+        width: 33
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60646b0d2ae2dcb50800000000000000
+      internalID: 6614994704498312710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel sualt\u0131 \u0131\u015F\u0131k huzmeleri_40"
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 129
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e8bdf3a8a91162a0800000000000000
+      internalID: -6746082554727778077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel sualt\u0131 \u0131\u015F\u0131k huzmeleri_41"
+      rect:
+        serializedVersion: 2
+        x: 1342
+        y: 96
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b7887dc3b8032530800000000000000
+      internalID: 3828913676534450102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "Piksel sualt\u0131 \u0131\u015F\u0131k huzmeleri_0": 3385192921159320291
+      "Piksel sualt\u0131 \u0131\u015F\u0131k huzmeleri_1": -3349808006887438525
+      "Piksel sualt\u0131 \u0131\u015F\u0131k huzmeleri_10": -1726985023767742889
+      "Piksel sualt\u0131 \u0131\u015F\u0131k huzmeleri_11": 4120528066714675677
+      "Piksel sualt\u0131 \u0131\u015F\u0131k huzmeleri_12": -7795373282315349778
+      "Piksel sualt\u0131 \u0131\u015F\u0131k huzmeleri_13": 662360159424215766
+      "Piksel sualt\u0131 \u0131\u015F\u0131k huzmeleri_14": 4762137820519060450
+      "Piksel sualt\u0131 \u0131\u015F\u0131k huzmeleri_15": -1084512993889189095
+      "Piksel sualt\u0131 \u0131\u015F\u0131k huzmeleri_16": 6646569561060704418
+      "Piksel sualt\u0131 \u0131\u015F\u0131k huzmeleri_17": 7300456983718688958
+      "Piksel sualt\u0131 \u0131\u015F\u0131k huzmeleri_18": 6211652537922609365
+      "Piksel sualt\u0131 \u0131\u015F\u0131k huzmeleri_19": -1089627148960269912
+      "Piksel sualt\u0131 \u0131\u015F\u0131k huzmeleri_2": 1645708250081010184
+      "Piksel sualt\u0131 \u0131\u015F\u0131k huzmeleri_20": -3808920737229731192
+      "Piksel sualt\u0131 \u0131\u015F\u0131k huzmeleri_21": -2029624398658458966
+      "Piksel sualt\u0131 \u0131\u015F\u0131k huzmeleri_22": -7819673503812084145
+      "Piksel sualt\u0131 \u0131\u015F\u0131k huzmeleri_23": 4905582750099537293
+      "Piksel sualt\u0131 \u0131\u015F\u0131k huzmeleri_24": 3725872254018813893
+      "Piksel sualt\u0131 \u0131\u015F\u0131k huzmeleri_25": 1392930529227227033
+      "Piksel sualt\u0131 \u0131\u015F\u0131k huzmeleri_26": 3158482861080449175
+      "Piksel sualt\u0131 \u0131\u015F\u0131k huzmeleri_27": -2286854228711479546
+      "Piksel sualt\u0131 \u0131\u015F\u0131k huzmeleri_28": -6543116797606103326
+      "Piksel sualt\u0131 \u0131\u015F\u0131k huzmeleri_29": 1373450034083038981
+      "Piksel sualt\u0131 \u0131\u015F\u0131k huzmeleri_3": -4795648475675306768
+      "Piksel sualt\u0131 \u0131\u015F\u0131k huzmeleri_30": -7789163983269560101
+      "Piksel sualt\u0131 \u0131\u015F\u0131k huzmeleri_31": -2677422130766896701
+      "Piksel sualt\u0131 \u0131\u015F\u0131k huzmeleri_32": -2328632193858917772
+      "Piksel sualt\u0131 \u0131\u015F\u0131k huzmeleri_33": 1727415486600439223
+      "Piksel sualt\u0131 \u0131\u015F\u0131k huzmeleri_34": 903541121303701242
+      "Piksel sualt\u0131 \u0131\u015F\u0131k huzmeleri_35": 4265365403422761847
+      "Piksel sualt\u0131 \u0131\u015F\u0131k huzmeleri_36": -2873388591531573840
+      "Piksel sualt\u0131 \u0131\u015F\u0131k huzmeleri_37": 5211599337919210466
+      "Piksel sualt\u0131 \u0131\u015F\u0131k huzmeleri_38": -9148403030300665181
+      "Piksel sualt\u0131 \u0131\u015F\u0131k huzmeleri_39": 6614994704498312710
+      "Piksel sualt\u0131 \u0131\u015F\u0131k huzmeleri_4": -7365203556646505324
+      "Piksel sualt\u0131 \u0131\u015F\u0131k huzmeleri_40": -6746082554727778077
+      "Piksel sualt\u0131 \u0131\u015F\u0131k huzmeleri_41": 3828913676534450102
+      "Piksel sualt\u0131 \u0131\u015F\u0131k huzmeleri_5": 5513761749612359398
+      "Piksel sualt\u0131 \u0131\u015F\u0131k huzmeleri_6": 3805481189284514468
+      "Piksel sualt\u0131 \u0131\u015F\u0131k huzmeleri_7": 5205959137082472494
+      "Piksel sualt\u0131 \u0131\u015F\u0131k huzmeleri_8": 8974076976696012749
+      "Piksel sualt\u0131 \u0131\u015F\u0131k huzmeleri_9": 3141425137554754649
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

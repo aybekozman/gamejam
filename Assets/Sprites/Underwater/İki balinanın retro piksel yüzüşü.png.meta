@@ -1,0 +1,1508 @@
+fileFormatVersion: 2
+guid: f3825432f61cc2e448524e9380265a00
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7949749431321699219
+    second: "\u0130ki balinan\u0131n retro piksel y\xFCz\xFC\u015F\xFC_0"
+  - first:
+      213: 1610916267081272312
+    second: "\u0130ki balinan\u0131n retro piksel y\xFCz\xFC\u015F\xFC_1"
+  - first:
+      213: 3289448344632610717
+    second: "\u0130ki balinan\u0131n retro piksel y\xFCz\xFC\u015F\xFC_2"
+  - first:
+      213: 1542403093001190080
+    second: "\u0130ki balinan\u0131n retro piksel y\xFCz\xFC\u015F\xFC_3"
+  - first:
+      213: 3078644949559507602
+    second: "\u0130ki balinan\u0131n retro piksel y\xFCz\xFC\u015F\xFC_4"
+  - first:
+      213: -8979316068686020721
+    second: "\u0130ki balinan\u0131n retro piksel y\xFCz\xFC\u015F\xFC_5"
+  - first:
+      213: -6592307303523836875
+    second: "\u0130ki balinan\u0131n retro piksel y\xFCz\xFC\u015F\xFC_6"
+  - first:
+      213: -3578918163752369691
+    second: "\u0130ki balinan\u0131n retro piksel y\xFCz\xFC\u015F\xFC_7"
+  - first:
+      213: 2078507461751088483
+    second: "\u0130ki balinan\u0131n retro piksel y\xFCz\xFC\u015F\xFC_8"
+  - first:
+      213: 4352600974576515203
+    second: "\u0130ki balinan\u0131n retro piksel y\xFCz\xFC\u015F\xFC_9"
+  - first:
+      213: -5509210066707513458
+    second: "\u0130ki balinan\u0131n retro piksel y\xFCz\xFC\u015F\xFC_10"
+  - first:
+      213: -1565435484655332048
+    second: "\u0130ki balinan\u0131n retro piksel y\xFCz\xFC\u015F\xFC_11"
+  - first:
+      213: 990430341249781125
+    second: "\u0130ki balinan\u0131n retro piksel y\xFCz\xFC\u015F\xFC_12"
+  - first:
+      213: -8426575948634882601
+    second: "\u0130ki balinan\u0131n retro piksel y\xFCz\xFC\u015F\xFC_13"
+  - first:
+      213: -2706993087728506663
+    second: "\u0130ki balinan\u0131n retro piksel y\xFCz\xFC\u015F\xFC_14"
+  - first:
+      213: -1866908336485706107
+    second: "\u0130ki balinan\u0131n retro piksel y\xFCz\xFC\u015F\xFC_15"
+  - first:
+      213: 4676690260409064900
+    second: "\u0130ki balinan\u0131n retro piksel y\xFCz\xFC\u015F\xFC_16"
+  - first:
+      213: -6741338178158651801
+    second: "\u0130ki balinan\u0131n retro piksel y\xFCz\xFC\u015F\xFC_17"
+  - first:
+      213: 6904730899327277949
+    second: "\u0130ki balinan\u0131n retro piksel y\xFCz\xFC\u015F\xFC_18"
+  - first:
+      213: 8644599607381169106
+    second: "\u0130ki balinan\u0131n retro piksel y\xFCz\xFC\u015F\xFC_19"
+  - first:
+      213: -3081947899353164882
+    second: "\u0130ki balinan\u0131n retro piksel y\xFCz\xFC\u015F\xFC_20"
+  - first:
+      213: 8977335184085107707
+    second: "\u0130ki balinan\u0131n retro piksel y\xFCz\xFC\u015F\xFC_21"
+  - first:
+      213: 3644006543150785423
+    second: "\u0130ki balinan\u0131n retro piksel y\xFCz\xFC\u015F\xFC_22"
+  - first:
+      213: 141130927845715891
+    second: "\u0130ki balinan\u0131n retro piksel y\xFCz\xFC\u015F\xFC_23"
+  - first:
+      213: 2111235135463720071
+    second: "\u0130ki balinan\u0131n retro piksel y\xFCz\xFC\u015F\xFC_24"
+  - first:
+      213: -1418145109821113865
+    second: "\u0130ki balinan\u0131n retro piksel y\xFCz\xFC\u015F\xFC_25"
+  - first:
+      213: 6926011278919514166
+    second: "\u0130ki balinan\u0131n retro piksel y\xFCz\xFC\u015F\xFC_26"
+  - first:
+      213: -5185174294105380158
+    second: "\u0130ki balinan\u0131n retro piksel y\xFCz\xFC\u015F\xFC_27"
+  - first:
+      213: -9179018931817234527
+    second: "\u0130ki balinan\u0131n retro piksel y\xFCz\xFC\u015F\xFC_28"
+  - first:
+      213: -6513445637833418402
+    second: "\u0130ki balinan\u0131n retro piksel y\xFCz\xFC\u015F\xFC_29"
+  - first:
+      213: -2295142811702015384
+    second: "\u0130ki balinan\u0131n retro piksel y\xFCz\xFC\u015F\xFC_30"
+  - first:
+      213: -2228510166175916322
+    second: "\u0130ki balinan\u0131n retro piksel y\xFCz\xFC\u015F\xFC_31"
+  - first:
+      213: 9000040121781919344
+    second: "\u0130ki balinan\u0131n retro piksel y\xFCz\xFC\u015F\xFC_32"
+  - first:
+      213: 9091879872144970769
+    second: "\u0130ki balinan\u0131n retro piksel y\xFCz\xFC\u015F\xFC_33"
+  - first:
+      213: -7142529716490612085
+    second: "\u0130ki balinan\u0131n retro piksel y\xFCz\xFC\u015F\xFC_34"
+  - first:
+      213: -433971824853186437
+    second: "\u0130ki balinan\u0131n retro piksel y\xFCz\xFC\u015F\xFC_35"
+  - first:
+      213: -3858778623439249481
+    second: "\u0130ki balinan\u0131n retro piksel y\xFCz\xFC\u015F\xFC_36"
+  - first:
+      213: -1942190305831502854
+    second: "\u0130ki balinan\u0131n retro piksel y\xFCz\xFC\u015F\xFC_37"
+  - first:
+      213: -924294843346240717
+    second: "\u0130ki balinan\u0131n retro piksel y\xFCz\xFC\u015F\xFC_38"
+  - first:
+      213: 6403745709084944581
+    second: "\u0130ki balinan\u0131n retro piksel y\xFCz\xFC\u015F\xFC_39"
+  - first:
+      213: 6729555745789019729
+    second: "\u0130ki balinan\u0131n retro piksel y\xFCz\xFC\u015F\xFC_40"
+  - first:
+      213: 7004175766930595232
+    second: "\u0130ki balinan\u0131n retro piksel y\xFCz\xFC\u015F\xFC_41"
+  - first:
+      213: -8449147635834962457
+    second: "\u0130ki balinan\u0131n retro piksel y\xFCz\xFC\u015F\xFC_42"
+  - first:
+      213: 2558664787648532761
+    second: "\u0130ki balinan\u0131n retro piksel y\xFCz\xFC\u015F\xFC_43"
+  - first:
+      213: 424368442742343199
+    second: "\u0130ki balinan\u0131n retro piksel y\xFCz\xFC\u015F\xFC_44"
+  - first:
+      213: -6600800627426727188
+    second: "\u0130ki balinan\u0131n retro piksel y\xFCz\xFC\u015F\xFC_45"
+  - first:
+      213: -8252510439305163748
+    second: "\u0130ki balinan\u0131n retro piksel y\xFCz\xFC\u015F\xFC_46"
+  - first:
+      213: 171935385777509612
+    second: "\u0130ki balinan\u0131n retro piksel y\xFCz\xFC\u015F\xFC_47"
+  - first:
+      213: 3165136395910888317
+    second: "\u0130ki balinan\u0131n retro piksel y\xFCz\xFC\u015F\xFC_48"
+  - first:
+      213: 698650397095384230
+    second: "\u0130ki balinan\u0131n retro piksel y\xFCz\xFC\u015F\xFC_49"
+  - first:
+      213: 7844943010808749994
+    second: "\u0130ki balinan\u0131n retro piksel y\xFCz\xFC\u015F\xFC_50"
+  - first:
+      213: -3711388021558352413
+    second: "\u0130ki balinan\u0131n retro piksel y\xFCz\xFC\u015F\xFC_51"
+  - first:
+      213: -4295032694055905319
+    second: "\u0130ki balinan\u0131n retro piksel y\xFCz\xFC\u015F\xFC_52"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "\u0130ki balinan\u0131n retro piksel y\xFCz\xFC\u015F\xFC_0"
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 306
+        width: 489
+        height: 434
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3932b4bfcfe235e60800000000000000
+      internalID: 7949749431321699219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u0130ki balinan\u0131n retro piksel y\xFCz\xFC\u015F\xFC_1"
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 745
+        width: 30
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fb07465fcf1b5610800000000000000
+      internalID: 1610916267081272312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u0130ki balinan\u0131n retro piksel y\xFCz\xFC\u015F\xFC_2"
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 743
+        width: 183
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9fc2d857d776ad20800000000000000
+      internalID: 3289448344632610717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u0130ki balinan\u0131n retro piksel y\xFCz\xFC\u015F\xFC_3"
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 697
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cabccae077b76510800000000000000
+      internalID: 1542403093001190080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u0130ki balinan\u0131n retro piksel y\xFCz\xFC\u015F\xFC_4"
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 343
+        width: 984
+        height: 399
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29a7b00354b89ba20800000000000000
+      internalID: 3078644949559507602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u0130ki balinan\u0131n retro piksel y\xFCz\xFC\u015F\xFC_5"
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 695
+        width: 146
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8f33082c9f036380800000000000000
+      internalID: -8979316068686020721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u0130ki balinan\u0131n retro piksel y\xFCz\xFC\u015F\xFC_6"
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 749
+        width: 36
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53c9f3b5f6b6384a0800000000000000
+      internalID: -6592307303523836875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u0130ki balinan\u0131n retro piksel y\xFCz\xFC\u015F\xFC_7"
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 743
+        width: 108
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e1c85954e0255ec0800000000000000
+      internalID: -3578918163752369691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u0130ki balinan\u0131n retro piksel y\xFCz\xFC\u015F\xFC_8"
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 700
+        width: 66
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3652ca8268758dc10800000000000000
+      internalID: 2078507461751088483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u0130ki balinan\u0131n retro piksel y\xFCz\xFC\u015F\xFC_9"
+      rect:
+        serializedVersion: 2
+        x: 1388
+        y: 699
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 388f6aa768b876c30800000000000000
+      internalID: 4352600974576515203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u0130ki balinan\u0131n retro piksel y\xFCz\xFC\u015F\xFC_10"
+      rect:
+        serializedVersion: 2
+        x: 1523
+        y: 703
+        width: 68
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8f74e422aa5b83b0800000000000000
+      internalID: -5509210066707513458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u0130ki balinan\u0131n retro piksel y\xFCz\xFC\u015F\xFC_11"
+      rect:
+        serializedVersion: 2
+        x: 1749
+        y: 695
+        width: 152
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 035d35288b4764ae0800000000000000
+      internalID: -1565435484655332048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u0130ki balinan\u0131n retro piksel y\xFCz\xFC\u015F\xFC_12"
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 695
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58d46f8d527bebd00800000000000000
+      internalID: 990430341249781125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u0130ki balinan\u0131n retro piksel y\xFCz\xFC\u015F\xFC_13"
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 310
+        width: 492
+        height: 370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dd74c412d9ce0b80800000000000000
+      internalID: -8426575948634882601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u0130ki balinan\u0131n retro piksel y\xFCz\xFC\u015F\xFC_14"
+      rect:
+        serializedVersion: 2
+        x: 1834
+        y: 679
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d821840124de6ad0800000000000000
+      internalID: -2706993087728506663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u0130ki balinan\u0131n retro piksel y\xFCz\xFC\u015F\xFC_15"
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 409
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 586dd8f52c86716e0800000000000000
+      internalID: -1866908336485706107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u0130ki balinan\u0131n retro piksel y\xFCz\xFC\u015F\xFC_16"
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 452
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cd16308301f6e040800000000000000
+      internalID: 4676690260409064900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u0130ki balinan\u0131n retro piksel y\xFCz\xFC\u015F\xFC_17"
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 444
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7661314e4a4f172a0800000000000000
+      internalID: -6741338178158651801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u0130ki balinan\u0131n retro piksel y\xFCz\xFC\u015F\xFC_18"
+      rect:
+        serializedVersion: 2
+        x: 1461
+        y: 454
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7bd01c8b2882df50800000000000000
+      internalID: 6904730899327277949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u0130ki balinan\u0131n retro piksel y\xFCz\xFC\u015F\xFC_19"
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 424
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d39f67ba89c7f770800000000000000
+      internalID: 8644599607381169106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u0130ki balinan\u0131n retro piksel y\xFCz\xFC\u015F\xFC_20"
+      rect:
+        serializedVersion: 2
+        x: 1247
+        y: 438
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea31bc2e6b8ba35d0800000000000000
+      internalID: -3081947899353164882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u0130ki balinan\u0131n retro piksel y\xFCz\xFC\u015F\xFC_21"
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 408
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf3420539c6e59c70800000000000000
+      internalID: 8977335184085107707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u0130ki balinan\u0131n retro piksel y\xFCz\xFC\u015F\xFC_22"
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 406
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f83a3bbe4ac129230800000000000000
+      internalID: 3644006543150785423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u0130ki balinan\u0131n retro piksel y\xFCz\xFC\u015F\xFC_23"
+      rect:
+        serializedVersion: 2
+        x: 1382
+        y: 412
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bfa015c4d565f100800000000000000
+      internalID: 141130927845715891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u0130ki balinan\u0131n retro piksel y\xFCz\xFC\u015F\xFC_24"
+      rect:
+        serializedVersion: 2
+        x: 1612
+        y: 406
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78483ae7b2d9c4d10800000000000000
+      internalID: 2111235135463720071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u0130ki balinan\u0131n retro piksel y\xFCz\xFC\u015F\xFC_25"
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 406
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f9b729498cb15ce0800000000000000
+      internalID: -1418145109821113865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u0130ki balinan\u0131n retro piksel y\xFCz\xFC\u015F\xFC_26"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 375
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 638b85600922e1060800000000000000
+      internalID: 6926011278919514166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u0130ki balinan\u0131n retro piksel y\xFCz\xFC\u015F\xFC_27"
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 389
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2caac55a37f8a08b0800000000000000
+      internalID: -5185174294105380158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u0130ki balinan\u0131n retro piksel y\xFCz\xFC\u015F\xFC_28"
+      rect:
+        serializedVersion: 2
+        x: 1241
+        y: 387
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1afb27ef9e29d9080800000000000000
+      internalID: -9179018931817234527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u0130ki balinan\u0131n retro piksel y\xFCz\xFC\u015F\xFC_29"
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 378
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e591f1db3b79b95a0800000000000000
+      internalID: -6513445637833418402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u0130ki balinan\u0131n retro piksel y\xFCz\xFC\u015F\xFC_30"
+      rect:
+        serializedVersion: 2
+        x: 1256
+        y: 379
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86ac5bfd5c30620e0800000000000000
+      internalID: -2295142811702015384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u0130ki balinan\u0131n retro piksel y\xFCz\xFC\u015F\xFC_31"
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 339
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ededcbe9fcdb211e0800000000000000
+      internalID: -2228510166175916322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u0130ki balinan\u0131n retro piksel y\xFCz\xFC\u015F\xFC_32"
+      rect:
+        serializedVersion: 2
+        x: 1844
+        y: 337
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07e13177ec096ec70800000000000000
+      internalID: 9000040121781919344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u0130ki balinan\u0131n retro piksel y\xFCz\xFC\u015F\xFC_33"
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 0
+        width: 1004
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11499b7a298dc2e70800000000000000
+      internalID: 9091879872144970769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u0130ki balinan\u0131n retro piksel y\xFCz\xFC\u015F\xFC_34"
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 308
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b82d7eac013a0ec90800000000000000
+      internalID: -7142529716490612085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u0130ki balinan\u0131n retro piksel y\xFCz\xFC\u015F\xFC_35"
+      rect:
+        serializedVersion: 2
+        x: 1781
+        y: 306
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b780911bce83af9f0800000000000000
+      internalID: -433971824853186437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u0130ki balinan\u0131n retro piksel y\xFCz\xFC\u015F\xFC_36"
+      rect:
+        serializedVersion: 2
+        x: 1785
+        y: 310
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bf5803694dd27ac0800000000000000
+      internalID: -3858778623439249481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u0130ki balinan\u0131n retro piksel y\xFCz\xFC\u015F\xFC_37"
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 23
+        width: 491
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afbb4bef434fb05e0800000000000000
+      internalID: -1942190305831502854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u0130ki balinan\u0131n retro piksel y\xFCz\xFC\u015F\xFC_38"
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 37
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33b3f92bcbe3c23f0800000000000000
+      internalID: -924294843346240717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u0130ki balinan\u0131n retro piksel y\xFCz\xFC\u015F\xFC_39"
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 66
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c8a0fd3bccaed850800000000000000
+      internalID: 6403745709084944581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u0130ki balinan\u0131n retro piksel y\xFCz\xFC\u015F\xFC_40"
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 50
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15681fbcb4f246d50800000000000000
+      internalID: 6729555745789019729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u0130ki balinan\u0131n retro piksel y\xFCz\xFC\u015F\xFC_41"
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 58
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ad1c4410c4d33160800000000000000
+      internalID: 7004175766930595232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u0130ki balinan\u0131n retro piksel y\xFCz\xFC\u015F\xFC_42"
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 49
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7edb93f9df89eba80800000000000000
+      internalID: -8449147635834962457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u0130ki balinan\u0131n retro piksel y\xFCz\xFC\u015F\xFC_43"
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 26
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91157176114328320800000000000000
+      internalID: 2558664787648532761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u0130ki balinan\u0131n retro piksel y\xFCz\xFC\u015F\xFC_44"
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 27
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f160b8ba9d8a3e500800000000000000
+      internalID: 424368442742343199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u0130ki balinan\u0131n retro piksel y\xFCz\xFC\u015F\xFC_45"
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 34
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceaed094dce3564a0800000000000000
+      internalID: -6600800627426727188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u0130ki balinan\u0131n retro piksel y\xFCz\xFC\u015F\xFC_46"
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 33
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1c4308aa71397d80800000000000000
+      internalID: -8252510439305163748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u0130ki balinan\u0131n retro piksel y\xFCz\xFC\u015F\xFC_47"
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 54
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce496998256d26200800000000000000
+      internalID: 171935385777509612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u0130ki balinan\u0131n retro piksel y\xFCz\xFC\u015F\xFC_48"
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 39
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7bbdef48c2dceb20800000000000000
+      internalID: 3165136395910888317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u0130ki balinan\u0131n retro piksel y\xFCz\xFC\u015F\xFC_49"
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 21
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a45e05a5da12b900800000000000000
+      internalID: 698650397095384230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u0130ki balinan\u0131n retro piksel y\xFCz\xFC\u015F\xFC_50"
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 56
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaf5072aa16dedc60800000000000000
+      internalID: 7844943010808749994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u0130ki balinan\u0131n retro piksel y\xFCz\xFC\u015F\xFC_51"
+      rect:
+        serializedVersion: 2
+        x: 1495
+        y: 17
+        width: 488
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e5ef5712408e7cc0800000000000000
+      internalID: -3711388021558352413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u0130ki balinan\u0131n retro piksel y\xFCz\xFC\u015F\xFC_52"
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 39
+        width: 41
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d7db14558af464c0800000000000000
+      internalID: -4295032694055905319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "\u0130ki balinan\u0131n retro piksel y\xFCz\xFC\u015F\xFC_0": 7949749431321699219
+      "\u0130ki balinan\u0131n retro piksel y\xFCz\xFC\u015F\xFC_1": 1610916267081272312
+      "\u0130ki balinan\u0131n retro piksel y\xFCz\xFC\u015F\xFC_10": -5509210066707513458
+      "\u0130ki balinan\u0131n retro piksel y\xFCz\xFC\u015F\xFC_11": -1565435484655332048
+      "\u0130ki balinan\u0131n retro piksel y\xFCz\xFC\u015F\xFC_12": 990430341249781125
+      "\u0130ki balinan\u0131n retro piksel y\xFCz\xFC\u015F\xFC_13": -8426575948634882601
+      "\u0130ki balinan\u0131n retro piksel y\xFCz\xFC\u015F\xFC_14": -2706993087728506663
+      "\u0130ki balinan\u0131n retro piksel y\xFCz\xFC\u015F\xFC_15": -1866908336485706107
+      "\u0130ki balinan\u0131n retro piksel y\xFCz\xFC\u015F\xFC_16": 4676690260409064900
+      "\u0130ki balinan\u0131n retro piksel y\xFCz\xFC\u015F\xFC_17": -6741338178158651801
+      "\u0130ki balinan\u0131n retro piksel y\xFCz\xFC\u015F\xFC_18": 6904730899327277949
+      "\u0130ki balinan\u0131n retro piksel y\xFCz\xFC\u015F\xFC_19": 8644599607381169106
+      "\u0130ki balinan\u0131n retro piksel y\xFCz\xFC\u015F\xFC_2": 3289448344632610717
+      "\u0130ki balinan\u0131n retro piksel y\xFCz\xFC\u015F\xFC_20": -3081947899353164882
+      "\u0130ki balinan\u0131n retro piksel y\xFCz\xFC\u015F\xFC_21": 8977335184085107707
+      "\u0130ki balinan\u0131n retro piksel y\xFCz\xFC\u015F\xFC_22": 3644006543150785423
+      "\u0130ki balinan\u0131n retro piksel y\xFCz\xFC\u015F\xFC_23": 141130927845715891
+      "\u0130ki balinan\u0131n retro piksel y\xFCz\xFC\u015F\xFC_24": 2111235135463720071
+      "\u0130ki balinan\u0131n retro piksel y\xFCz\xFC\u015F\xFC_25": -1418145109821113865
+      "\u0130ki balinan\u0131n retro piksel y\xFCz\xFC\u015F\xFC_26": 6926011278919514166
+      "\u0130ki balinan\u0131n retro piksel y\xFCz\xFC\u015F\xFC_27": -5185174294105380158
+      "\u0130ki balinan\u0131n retro piksel y\xFCz\xFC\u015F\xFC_28": -9179018931817234527
+      "\u0130ki balinan\u0131n retro piksel y\xFCz\xFC\u015F\xFC_29": -6513445637833418402
+      "\u0130ki balinan\u0131n retro piksel y\xFCz\xFC\u015F\xFC_3": 1542403093001190080
+      "\u0130ki balinan\u0131n retro piksel y\xFCz\xFC\u015F\xFC_30": -2295142811702015384
+      "\u0130ki balinan\u0131n retro piksel y\xFCz\xFC\u015F\xFC_31": -2228510166175916322
+      "\u0130ki balinan\u0131n retro piksel y\xFCz\xFC\u015F\xFC_32": 9000040121781919344
+      "\u0130ki balinan\u0131n retro piksel y\xFCz\xFC\u015F\xFC_33": 9091879872144970769
+      "\u0130ki balinan\u0131n retro piksel y\xFCz\xFC\u015F\xFC_34": -7142529716490612085
+      "\u0130ki balinan\u0131n retro piksel y\xFCz\xFC\u015F\xFC_35": -433971824853186437
+      "\u0130ki balinan\u0131n retro piksel y\xFCz\xFC\u015F\xFC_36": -3858778623439249481
+      "\u0130ki balinan\u0131n retro piksel y\xFCz\xFC\u015F\xFC_37": -1942190305831502854
+      "\u0130ki balinan\u0131n retro piksel y\xFCz\xFC\u015F\xFC_38": -924294843346240717
+      "\u0130ki balinan\u0131n retro piksel y\xFCz\xFC\u015F\xFC_39": 6403745709084944581
+      "\u0130ki balinan\u0131n retro piksel y\xFCz\xFC\u015F\xFC_4": 3078644949559507602
+      "\u0130ki balinan\u0131n retro piksel y\xFCz\xFC\u015F\xFC_40": 6729555745789019729
+      "\u0130ki balinan\u0131n retro piksel y\xFCz\xFC\u015F\xFC_41": 7004175766930595232
+      "\u0130ki balinan\u0131n retro piksel y\xFCz\xFC\u015F\xFC_42": -8449147635834962457
+      "\u0130ki balinan\u0131n retro piksel y\xFCz\xFC\u015F\xFC_43": 2558664787648532761
+      "\u0130ki balinan\u0131n retro piksel y\xFCz\xFC\u015F\xFC_44": 424368442742343199
+      "\u0130ki balinan\u0131n retro piksel y\xFCz\xFC\u015F\xFC_45": -6600800627426727188
+      "\u0130ki balinan\u0131n retro piksel y\xFCz\xFC\u015F\xFC_46": -8252510439305163748
+      "\u0130ki balinan\u0131n retro piksel y\xFCz\xFC\u015F\xFC_47": 171935385777509612
+      "\u0130ki balinan\u0131n retro piksel y\xFCz\xFC\u015F\xFC_48": 3165136395910888317
+      "\u0130ki balinan\u0131n retro piksel y\xFCz\xFC\u015F\xFC_49": 698650397095384230
+      "\u0130ki balinan\u0131n retro piksel y\xFCz\xFC\u015F\xFC_5": -8979316068686020721
+      "\u0130ki balinan\u0131n retro piksel y\xFCz\xFC\u015F\xFC_50": 7844943010808749994
+      "\u0130ki balinan\u0131n retro piksel y\xFCz\xFC\u015F\xFC_51": -3711388021558352413
+      "\u0130ki balinan\u0131n retro piksel y\xFCz\xFC\u015F\xFC_52": -4295032694055905319
+      "\u0130ki balinan\u0131n retro piksel y\xFCz\xFC\u015F\xFC_6": -6592307303523836875
+      "\u0130ki balinan\u0131n retro piksel y\xFCz\xFC\u015F\xFC_7": -3578918163752369691
+      "\u0130ki balinan\u0131n retro piksel y\xFCz\xFC\u015F\xFC_8": 2078507461751088483
+      "\u0130ki balinan\u0131n retro piksel y\xFCz\xFC\u015F\xFC_9": 4352600974576515203
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

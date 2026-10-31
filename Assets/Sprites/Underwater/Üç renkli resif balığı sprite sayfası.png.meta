@@ -1,0 +1,2002 @@
+fileFormatVersion: 2
+guid: e106ef3c3b2c39744bf187c41baed3cb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7332706665459515061
+    second: "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_0"
+  - first:
+      213: 6860126624901444574
+    second: "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_1"
+  - first:
+      213: -2987261349475194787
+    second: "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_2"
+  - first:
+      213: -1524618079620432425
+    second: "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_3"
+  - first:
+      213: 8473401017922087673
+    second: "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_4"
+  - first:
+      213: 5312847470677488294
+    second: "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_5"
+  - first:
+      213: 3097437114725431078
+    second: "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_6"
+  - first:
+      213: 7012542967065879596
+    second: "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_7"
+  - first:
+      213: 13519833025440738
+    second: "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_8"
+  - first:
+      213: 5182346320973605177
+    second: "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_9"
+  - first:
+      213: 5089879196434682827
+    second: "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_10"
+  - first:
+      213: 8561597463842740172
+    second: "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_11"
+  - first:
+      213: 2076255165654666708
+    second: "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_12"
+  - first:
+      213: -1357706976687243540
+    second: "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_13"
+  - first:
+      213: 4104545191605507189
+    second: "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_14"
+  - first:
+      213: -779783725408279492
+    second: "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_15"
+  - first:
+      213: -4072868959606379809
+    second: "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_16"
+  - first:
+      213: 7940445895726248844
+    second: "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_17"
+  - first:
+      213: -2496635071091379354
+    second: "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_18"
+  - first:
+      213: -5500753369850201222
+    second: "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_19"
+  - first:
+      213: 6390142577656183636
+    second: "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_20"
+  - first:
+      213: -6567719235854600495
+    second: "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_21"
+  - first:
+      213: 7491576709717115347
+    second: "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_22"
+  - first:
+      213: -5364923760357475935
+    second: "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_23"
+  - first:
+      213: -7433776468049718520
+    second: "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_24"
+  - first:
+      213: 5264402378432508723
+    second: "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_25"
+  - first:
+      213: -7809491982931644573
+    second: "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_26"
+  - first:
+      213: 7878311460007773658
+    second: "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_27"
+  - first:
+      213: 7829200301428015965
+    second: "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_28"
+  - first:
+      213: 677698898768173929
+    second: "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_29"
+  - first:
+      213: 4519234380334268502
+    second: "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_30"
+  - first:
+      213: 5366461241928658998
+    second: "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_31"
+  - first:
+      213: -7636825507843517216
+    second: "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_32"
+  - first:
+      213: -3272589054582424017
+    second: "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_33"
+  - first:
+      213: -4655495754938496555
+    second: "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_34"
+  - first:
+      213: 1939618837039717008
+    second: "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_35"
+  - first:
+      213: -1635041653898611940
+    second: "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_36"
+  - first:
+      213: -7140139003459550261
+    second: "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_37"
+  - first:
+      213: -7264985537363872001
+    second: "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_38"
+  - first:
+      213: -3426380615906455415
+    second: "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_39"
+  - first:
+      213: -1000986143200246328
+    second: "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_40"
+  - first:
+      213: 2159936447530621147
+    second: "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_41"
+  - first:
+      213: 290971134561717995
+    second: "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_42"
+  - first:
+      213: 6997769645123684245
+    second: "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_43"
+  - first:
+      213: -3484690488689295316
+    second: "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_44"
+  - first:
+      213: -2685228055365025395
+    second: "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_45"
+  - first:
+      213: -4785177457457424188
+    second: "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_46"
+  - first:
+      213: -1819194983204759833
+    second: "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_47"
+  - first:
+      213: -7742682320199758832
+    second: "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_48"
+  - first:
+      213: 331178934240255823
+    second: "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_49"
+  - first:
+      213: 1228372064832483660
+    second: "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_50"
+  - first:
+      213: 8466816327210322069
+    second: "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_51"
+  - first:
+      213: -228720849333365757
+    second: "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_52"
+  - first:
+      213: 3792795024106861773
+    second: "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_53"
+  - first:
+      213: -8203075232814431372
+    second: "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_54"
+  - first:
+      213: -6439164655928941163
+    second: "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_55"
+  - first:
+      213: 3493224746436333524
+    second: "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_56"
+  - first:
+      213: 1982607283482779023
+    second: "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_57"
+  - first:
+      213: -4790838143365786191
+    second: "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_58"
+  - first:
+      213: 5570285547357925656
+    second: "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_59"
+  - first:
+      213: -8071004631092929334
+    second: "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_60"
+  - first:
+      213: -4741907381146034016
+    second: "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_61"
+  - first:
+      213: -5134373504030865791
+    second: "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_62"
+  - first:
+      213: -7237303685789414418
+    second: "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_63"
+  - first:
+      213: -6496232537035953055
+    second: "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_64"
+  - first:
+      213: 2979393961354091181
+    second: "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_65"
+  - first:
+      213: 5599291056333201488
+    second: "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_66"
+  - first:
+      213: -482885370808028164
+    second: "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_67"
+  - first:
+      213: 6643783268490930173
+    second: "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_68"
+  - first:
+      213: -6662594203291545179
+    second: "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_69"
+  - first:
+      213: -5601621939705792448
+    second: "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_70"
+  - first:
+      213: 5305670394627733341
+    second: "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_71"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_0"
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 972
+        width: 13
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5be7ad4acd103c560800000000000000
+      internalID: 7332706665459515061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_1"
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 1015
+        width: 36
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed3337f91d0143f50800000000000000
+      internalID: 6860126624901444574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_2"
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 978
+        width: 47
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d58e64d31ad1b86d0800000000000000
+      internalID: -2987261349475194787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_3"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 659
+        width: 389
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ddf5123fe777dae0800000000000000
+      internalID: -1524618079620432425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_4"
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 987
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9faeda0f451979570800000000000000
+      internalID: 8473401017922087673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_5"
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 657
+        width: 383
+        height: 351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a2709b30a60bb940800000000000000
+      internalID: 5312847470677488294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_6"
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 677
+        width: 397
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 627f15915ae4cfa20800000000000000
+      internalID: 3097437114725431078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_7"
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 671
+        width: 360
+        height: 335
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c24202cacae815160800000000000000
+      internalID: 7012542967065879596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_8"
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 983
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eb67ec6738003000800000000000000
+      internalID: 13519833025440738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_9"
+      rect:
+        serializedVersion: 2
+        x: 1387
+        y: 982
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9392fac85846be740800000000000000
+      internalID: 5182346320973605177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_10"
+      rect:
+        serializedVersion: 2
+        x: 1397
+        y: 981
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc3d32d6922e2a640800000000000000
+      internalID: 5089879196434682827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_11"
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 983
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc75b363887e0d670800000000000000
+      internalID: 8561597463842740172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_12"
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 975
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dd8aeb921750dc10800000000000000
+      internalID: 2076255165654666708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_13"
+      rect:
+        serializedVersion: 2
+        x: 1422
+        y: 973
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceebc79b2b4782de0800000000000000
+      internalID: -1357706976687243540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_14"
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 905
+        width: 61
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5741f2eda1646f830800000000000000
+      internalID: 4104545191605507189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_15"
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 912
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c34a86d45d6ad25f0800000000000000
+      internalID: -779783725408279492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_16"
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 679
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fda62fd92434a77c0800000000000000
+      internalID: -4072868959606379809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_17"
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 671
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c83b8fcc871223e60800000000000000
+      internalID: 7940445895726248844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_18"
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 670
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 663f0dd61ab2a5dd0800000000000000
+      internalID: -2496635071091379354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_19"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 309
+        width: 391
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7bbb0154f569a3b0800000000000000
+      internalID: -5500753369850201222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_20"
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 653
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45bbb4561d85ea850800000000000000
+      internalID: 6390142577656183636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_21"
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 299
+        width: 783
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d6f26af626cad4a0800000000000000
+      internalID: -6567719235854600495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_22"
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 659
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d1474e435d67f760800000000000000
+      internalID: 7491576709717115347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_23"
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 542
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a9f6d8b346fb85b0800000000000000
+      internalID: -5364923760357475935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_24"
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 305
+        width: 391
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8031d3a20bbe5d890800000000000000
+      internalID: -7433776468049718520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_25"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 373
+        width: 5
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 333f039321aee0940800000000000000
+      internalID: 5264402378432508723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_26"
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 407
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36f29110b6c1f9390800000000000000
+      internalID: -7809491982931644573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_27"
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 416
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad507a32882655d60800000000000000
+      internalID: 7878311460007773658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_28"
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 365
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d538ff97138e6ac60800000000000000
+      internalID: 7829200301428015965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_29"
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 351
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96b10cdce8ba76900800000000000000
+      internalID: 677698898768173929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_30"
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 323
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6508e8899bb87be30800000000000000
+      internalID: 4519234380334268502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_31"
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 317
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6303f0a1110897a40800000000000000
+      internalID: 5366461241928658998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_32"
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 327
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e4585989ab840690800000000000000
+      internalID: -7636825507843517216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_33"
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 331
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2e78c1089d6592d0800000000000000
+      internalID: -3272589054582424017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_34"
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 323
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d94d89d64b546fb0800000000000000
+      internalID: -4655495754938496555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_35"
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 317
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09a98654e09eaea10800000000000000
+      internalID: 1939618837039717008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_36"
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 319
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c13f762574a2f49e0800000000000000
+      internalID: -1635041653898611940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_37"
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 319
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc3c1eb086129ec90800000000000000
+      internalID: -7140139003459550261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_38"
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 311
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff6731335269d2b90800000000000000
+      internalID: -7264985537363872001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_39"
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 311
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9809c9bcbfc0370d0800000000000000
+      internalID: -3426380615906455415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_40"
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 311
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c5067df768cb12f0800000000000000
+      internalID: -1000986143200246328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_41"
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 295
+        width: 13
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd85b7451c2a9fd10800000000000000
+      internalID: 2159936447530621147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_42"
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 309
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bee817b84bcb90400800000000000000
+      internalID: 290971134561717995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_43"
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 309
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 597cb9d9a621d1160800000000000000
+      internalID: 6997769645123684245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_44"
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 321
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c200e759674e3afc0800000000000000
+      internalID: -3484690488689295316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_45"
+      rect:
+        serializedVersion: 2
+        x: 1454
+        y: 309
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d810e038f472cbad0800000000000000
+      internalID: -2685228055365025395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_46"
+      rect:
+        serializedVersion: 2
+        x: 1478
+        y: 309
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c81b059472a79db0800000000000000
+      internalID: -4785177457457424188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_47"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 397
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e658e02dcbe0c6e0800000000000000
+      internalID: -1819194983204759833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_48"
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 305
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01ccbc7c3777c8490800000000000000
+      internalID: -7742682320199758832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_49"
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 19
+        width: 353
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4f9b7c6c75989400800000000000000
+      internalID: 331178934240255823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_50"
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 299
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c417a5082ed0c0110800000000000000
+      internalID: 1228372064832483660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_51"
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 0
+        width: 403
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59849d9279c208570800000000000000
+      internalID: 8466816327210322069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_52"
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 305
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30452ce699b63dcf0800000000000000
+      internalID: -228720849333365757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_53"
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 0
+        width: 349
+        height: 317
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc432c5baf6b2a430800000000000000
+      internalID: 3792795024106861773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_54"
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 269
+        width: 37
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4738a4a9982d82e80800000000000000
+      internalID: -8203075232814431372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_55"
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 271
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 595ea119cdd73a6a0800000000000000
+      internalID: -6439164655928941163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_56"
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 261
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4df01f3266d6a7030800000000000000
+      internalID: 3493224746436333524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_57"
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 218
+        width: 49
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8dd71de1d2a38b10800000000000000
+      internalID: 1982607283482779023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_58"
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 231
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b55a407716838db0800000000000000
+      internalID: -4790838143365786191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_59"
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 224
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 811f2c35131ad4d40800000000000000
+      internalID: 5570285547357925656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_60"
+      rect:
+        serializedVersion: 2
+        x: 1528
+        y: 215
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acc5c2fcc080eff80800000000000000
+      internalID: -8071004631092929334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_61"
+      rect:
+        serializedVersion: 2
+        x: 1159
+        y: 193
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a0ecfc4c5c513eb0800000000000000
+      internalID: -4741907381146034016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_62"
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 86
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 186001c408a0fb8b0800000000000000
+      internalID: -5134373504030865791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_63"
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 89
+        width: 45
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeb85e484aeef8b90800000000000000
+      internalID: -7237303685789414418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_64"
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 63
+        width: 11
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16c23a31deeb8d5a0800000000000000
+      internalID: -6496232537035953055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_65"
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 74
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daa5478b50fe85920800000000000000
+      internalID: 2979393961354091181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_66"
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 65
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05023c6ac8da4bd40800000000000000
+      internalID: 5599291056333201488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_67"
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 85
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf331cd40527c49f0800000000000000
+      internalID: -482885370808028164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_68"
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 62
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df7e513bea5733c50800000000000000
+      internalID: 6643783268490930173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_69"
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 0
+        width: 33
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a11b3e3fd5b983a0800000000000000
+      internalID: -6662594203291545179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_70"
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 31
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0483dc5468a0342b0800000000000000
+      internalID: -5601621939705792448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_71"
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 23
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d57b71ffc1781a940800000000000000
+      internalID: 5305670394627733341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_0": 7332706665459515061
+      "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_1": 6860126624901444574
+      "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_10": 5089879196434682827
+      "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_11": 8561597463842740172
+      "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_12": 2076255165654666708
+      "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_13": -1357706976687243540
+      "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_14": 4104545191605507189
+      "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_15": -779783725408279492
+      "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_16": -4072868959606379809
+      "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_17": 7940445895726248844
+      "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_18": -2496635071091379354
+      "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_19": -5500753369850201222
+      "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_2": -2987261349475194787
+      "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_20": 6390142577656183636
+      "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_21": -6567719235854600495
+      "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_22": 7491576709717115347
+      "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_23": -5364923760357475935
+      "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_24": -7433776468049718520
+      "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_25": 5264402378432508723
+      "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_26": -7809491982931644573
+      "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_27": 7878311460007773658
+      "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_28": 7829200301428015965
+      "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_29": 677698898768173929
+      "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_3": -1524618079620432425
+      "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_30": 4519234380334268502
+      "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_31": 5366461241928658998
+      "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_32": -7636825507843517216
+      "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_33": -3272589054582424017
+      "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_34": -4655495754938496555
+      "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_35": 1939618837039717008
+      "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_36": -1635041653898611940
+      "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_37": -7140139003459550261
+      "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_38": -7264985537363872001
+      "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_39": -3426380615906455415
+      "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_4": 8473401017922087673
+      "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_40": -1000986143200246328
+      "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_41": 2159936447530621147
+      "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_42": 290971134561717995
+      "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_43": 6997769645123684245
+      "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_44": -3484690488689295316
+      "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_45": -2685228055365025395
+      "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_46": -4785177457457424188
+      "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_47": -1819194983204759833
+      "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_48": -7742682320199758832
+      "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_49": 331178934240255823
+      "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_5": 5312847470677488294
+      "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_50": 1228372064832483660
+      "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_51": 8466816327210322069
+      "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_52": -228720849333365757
+      "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_53": 3792795024106861773
+      "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_54": -8203075232814431372
+      "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_55": -6439164655928941163
+      "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_56": 3493224746436333524
+      "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_57": 1982607283482779023
+      "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_58": -4790838143365786191
+      "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_59": 5570285547357925656
+      "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_6": 3097437114725431078
+      "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_60": -8071004631092929334
+      "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_61": -4741907381146034016
+      "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_62": -5134373504030865791
+      "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_63": -7237303685789414418
+      "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_64": -6496232537035953055
+      "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_65": 2979393961354091181
+      "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_66": 5599291056333201488
+      "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_67": -482885370808028164
+      "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_68": 6643783268490930173
+      "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_69": -6662594203291545179
+      "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_7": 7012542967065879596
+      "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_70": -5601621939705792448
+      "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_71": 5305670394627733341
+      "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_8": 13519833025440738
+      "\xDC\xE7 renkli resif bal\u0131\u011F\u0131 sprite sayfas\u0131_9": 5182346320973605177
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

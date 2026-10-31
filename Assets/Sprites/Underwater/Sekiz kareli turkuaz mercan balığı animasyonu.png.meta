@@ -1,0 +1,416 @@
+fileFormatVersion: 2
+guid: 4de9896662cc4754395f4d048785e9c5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -692107397547224342
+    second: "Sekiz kareli turkuaz mercan bal\u0131\u011F\u0131 animasyonu_0"
+  - first:
+      213: -2398214570147837743
+    second: "Sekiz kareli turkuaz mercan bal\u0131\u011F\u0131 animasyonu_1"
+  - first:
+      213: -2160724666546208067
+    second: "Sekiz kareli turkuaz mercan bal\u0131\u011F\u0131 animasyonu_2"
+  - first:
+      213: 5394286013380537009
+    second: "Sekiz kareli turkuaz mercan bal\u0131\u011F\u0131 animasyonu_3"
+  - first:
+      213: 6119218763710130280
+    second: "Sekiz kareli turkuaz mercan bal\u0131\u011F\u0131 animasyonu_4"
+  - first:
+      213: -4522504170732093383
+    second: "Sekiz kareli turkuaz mercan bal\u0131\u011F\u0131 animasyonu_5"
+  - first:
+      213: -6739668543694935718
+    second: "Sekiz kareli turkuaz mercan bal\u0131\u011F\u0131 animasyonu_6"
+  - first:
+      213: -2889175026917709618
+    second: "Sekiz kareli turkuaz mercan bal\u0131\u011F\u0131 animasyonu_7"
+  - first:
+      213: -5891332790163718474
+    second: "Sekiz kareli turkuaz mercan bal\u0131\u011F\u0131 animasyonu_8"
+  - first:
+      213: 4203044019697353875
+    second: "Sekiz kareli turkuaz mercan bal\u0131\u011F\u0131 animasyonu_9"
+  - first:
+      213: 1312451403198562341
+    second: "Sekiz kareli turkuaz mercan bal\u0131\u011F\u0131 animasyonu_10"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Sekiz kareli turkuaz mercan bal\u0131\u011F\u0131 animasyonu_0"
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 359
+        width: 518
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae217c62df32566f0800000000000000
+      internalID: -692107397547224342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sekiz kareli turkuaz mercan bal\u0131\u011F\u0131 animasyonu_1"
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 33
+        width: 511
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d80c230e84d7bed0800000000000000
+      internalID: -2398214570147837743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sekiz kareli turkuaz mercan bal\u0131\u011F\u0131 animasyonu_2"
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 44
+        width: 508
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db2c6112d509302e0800000000000000
+      internalID: -2160724666546208067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sekiz kareli turkuaz mercan bal\u0131\u011F\u0131 animasyonu_3"
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 377
+        width: 464
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1baa76c8c8a5cda40800000000000000
+      internalID: 5394286013380537009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sekiz kareli turkuaz mercan bal\u0131\u011F\u0131 animasyonu_4"
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 25
+        width: 514
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 868e8d96b05dbe450800000000000000
+      internalID: 6119218763710130280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sekiz kareli turkuaz mercan bal\u0131\u011F\u0131 animasyonu_5"
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 359
+        width: 535
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9308a400b66dc31c0800000000000000
+      internalID: -4522504170732093383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sekiz kareli turkuaz mercan bal\u0131\u011F\u0131 animasyonu_6"
+      rect:
+        serializedVersion: 2
+        x: 1661
+        y: 39
+        width: 497
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a596035fa23e772a0800000000000000
+      internalID: -6739668543694935718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sekiz kareli turkuaz mercan bal\u0131\u011F\u0131 animasyonu_7"
+      rect:
+        serializedVersion: 2
+        x: 1707
+        y: 343
+        width: 451
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec8e3aade9697e7d0800000000000000
+      internalID: -2889175026917709618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sekiz kareli turkuaz mercan bal\u0131\u011F\u0131 animasyonu_8"
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 235
+        width: 6
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6be3eac7a08cd3ea0800000000000000
+      internalID: -5891332790163718474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sekiz kareli turkuaz mercan bal\u0131\u011F\u0131 animasyonu_9"
+      rect:
+        serializedVersion: 2
+        x: 1713
+        y: 21
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39404696446345a30800000000000000
+      internalID: 4203044019697353875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sekiz kareli turkuaz mercan bal\u0131\u011F\u0131 animasyonu_10"
+      rect:
+        serializedVersion: 2
+        x: 1725
+        y: 17
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5200d98f893c63210800000000000000
+      internalID: 1312451403198562341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "Sekiz kareli turkuaz mercan bal\u0131\u011F\u0131 animasyonu_0": -692107397547224342
+      "Sekiz kareli turkuaz mercan bal\u0131\u011F\u0131 animasyonu_1": -2398214570147837743
+      "Sekiz kareli turkuaz mercan bal\u0131\u011F\u0131 animasyonu_10": 1312451403198562341
+      "Sekiz kareli turkuaz mercan bal\u0131\u011F\u0131 animasyonu_2": -2160724666546208067
+      "Sekiz kareli turkuaz mercan bal\u0131\u011F\u0131 animasyonu_3": 5394286013380537009
+      "Sekiz kareli turkuaz mercan bal\u0131\u011F\u0131 animasyonu_4": 6119218763710130280
+      "Sekiz kareli turkuaz mercan bal\u0131\u011F\u0131 animasyonu_5": -4522504170732093383
+      "Sekiz kareli turkuaz mercan bal\u0131\u011F\u0131 animasyonu_6": -6739668543694935718
+      "Sekiz kareli turkuaz mercan bal\u0131\u011F\u0131 animasyonu_7": -2889175026917709618
+      "Sekiz kareli turkuaz mercan bal\u0131\u011F\u0131 animasyonu_8": -5891332790163718474
+      "Sekiz kareli turkuaz mercan bal\u0131\u011F\u0131 animasyonu_9": 4203044019697353875
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

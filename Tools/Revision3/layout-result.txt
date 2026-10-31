@@ -1,0 +1,3 @@
+PASS 468 existing transforms preserved; 114 collider definitions preserved exactly.
+Homes=6; village center=(-202.24, -29.87); player start=(-201.34, -28.71).
+Sharks only at X >= 180; sparse colorful fish there; whales background only.

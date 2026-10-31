@@ -1,0 +1,5 @@
+Editor doğrulaması: 19 Play Mode kontrolü geçti; derleme/çalışma hatası görülmedi.
+Dikey yöneliş, collider/root dönüşünün sabitliği, kasaba balıkları, sakin geçiş, bölgelere göre diğer canlı yoğunluğu, uzaktaki köpekbalıkları, mesafeye bağlı silinme, nüfus sınırı, animasyon tuvalleri, yeni dünya ve kamera sınırları kontrol edildi.
+113 mevcut kök objesinin konum/ölçek/dönüşü ve collider açık/kapalı durumu korundu. İki dış sınır yalnız haritanın yeni kenarlarına taşındı.
+Vatoz ve balina görünür gövde genişliği bütün karelerde sabit; kaplumbağa kabuk genişliği bütün karelerde sabit. Sprite kenarlarında kesilme bulunmadı.
+Genişletme mevcut sahneye eklendi; eski sahne kurma aracı çalıştırılmadı.

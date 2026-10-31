@@ -1,0 +1,728 @@
+fileFormatVersion: 2
+guid: 234406912b205884ba0e84e02c5282f9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5118225690100078584
+    second: "Su alt\u0131 bal\u0131k k\xF6y\xFC yap\u0131 seti_0"
+  - first:
+      213: 6475399707458461310
+    second: "Su alt\u0131 bal\u0131k k\xF6y\xFC yap\u0131 seti_1"
+  - first:
+      213: 1403324769486958713
+    second: "Su alt\u0131 bal\u0131k k\xF6y\xFC yap\u0131 seti_2"
+  - first:
+      213: -1049839732371831690
+    second: "Su alt\u0131 bal\u0131k k\xF6y\xFC yap\u0131 seti_3"
+  - first:
+      213: 3630021913981691504
+    second: "Su alt\u0131 bal\u0131k k\xF6y\xFC yap\u0131 seti_4"
+  - first:
+      213: 2413251595547495782
+    second: "Su alt\u0131 bal\u0131k k\xF6y\xFC yap\u0131 seti_5"
+  - first:
+      213: 6373834312943670279
+    second: "Su alt\u0131 bal\u0131k k\xF6y\xFC yap\u0131 seti_6"
+  - first:
+      213: -4956617836692364743
+    second: "Su alt\u0131 bal\u0131k k\xF6y\xFC yap\u0131 seti_7"
+  - first:
+      213: -3344784544562189507
+    second: "Su alt\u0131 bal\u0131k k\xF6y\xFC yap\u0131 seti_8"
+  - first:
+      213: -7914138954545507002
+    second: "Su alt\u0131 bal\u0131k k\xF6y\xFC yap\u0131 seti_9"
+  - first:
+      213: 7742893686233995548
+    second: "Su alt\u0131 bal\u0131k k\xF6y\xFC yap\u0131 seti_10"
+  - first:
+      213: -2824817345474429343
+    second: "Su alt\u0131 bal\u0131k k\xF6y\xFC yap\u0131 seti_11"
+  - first:
+      213: -6455884589372323170
+    second: "Su alt\u0131 bal\u0131k k\xF6y\xFC yap\u0131 seti_12"
+  - first:
+      213: -8299509540222986866
+    second: "Su alt\u0131 bal\u0131k k\xF6y\xFC yap\u0131 seti_13"
+  - first:
+      213: 4574469792592809422
+    second: "Su alt\u0131 bal\u0131k k\xF6y\xFC yap\u0131 seti_14"
+  - first:
+      213: -4838851790689164885
+    second: "Su alt\u0131 bal\u0131k k\xF6y\xFC yap\u0131 seti_15"
+  - first:
+      213: 833049594612641143
+    second: "Su alt\u0131 bal\u0131k k\xF6y\xFC yap\u0131 seti_16"
+  - first:
+      213: 8585940298225944894
+    second: "Su alt\u0131 bal\u0131k k\xF6y\xFC yap\u0131 seti_17"
+  - first:
+      213: 7250041850045286489
+    second: "Su alt\u0131 bal\u0131k k\xF6y\xFC yap\u0131 seti_18"
+  - first:
+      213: 2169517631291956351
+    second: "Su alt\u0131 bal\u0131k k\xF6y\xFC yap\u0131 seti_19"
+  - first:
+      213: -2952853251993471333
+    second: "Su alt\u0131 bal\u0131k k\xF6y\xFC yap\u0131 seti_20"
+  - first:
+      213: 2433497324114300340
+    second: "Su alt\u0131 bal\u0131k k\xF6y\xFC yap\u0131 seti_21"
+  - first:
+      213: -5200640355316475654
+    second: "Su alt\u0131 bal\u0131k k\xF6y\xFC yap\u0131 seti_22"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Su alt\u0131 bal\u0131k k\xF6y\xFC yap\u0131 seti_0"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1011
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f791bac527970740800000000000000
+      internalID: 5118225690100078584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Su alt\u0131 bal\u0131k k\xF6y\xFC yap\u0131 seti_1"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 991
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7edabdc9bd3dd950800000000000000
+      internalID: 6475399707458461310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Su alt\u0131 bal\u0131k k\xF6y\xFC yap\u0131 seti_2"
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 1007
+        width: 21
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 970f6c5517c997310800000000000000
+      internalID: 1403324769486958713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Su alt\u0131 bal\u0131k k\xF6y\xFC yap\u0131 seti_3"
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 1010
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 674c2e063583e61f0800000000000000
+      internalID: -1049839732371831690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Su alt\u0131 bal\u0131k k\xF6y\xFC yap\u0131 seti_4"
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 983
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07623c5b2bd606230800000000000000
+      internalID: 3630021913981691504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Su alt\u0131 bal\u0131k k\xF6y\xFC yap\u0131 seti_5"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1009
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66dc04a4a879d7120800000000000000
+      internalID: 2413251595547495782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Su alt\u0131 bal\u0131k k\xF6y\xFC yap\u0131 seti_6"
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 1010
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7041430a988647850800000000000000
+      internalID: 6373834312943670279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Su alt\u0131 bal\u0131k k\xF6y\xFC yap\u0131 seti_7"
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 983
+        width: 101
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 932269cb65e863bb0800000000000000
+      internalID: -4956617836692364743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Su alt\u0131 bal\u0131k k\xF6y\xFC yap\u0131 seti_8"
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 524
+        width: 465
+        height: 487
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3b672b9d20f491d0800000000000000
+      internalID: -3344784544562189507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Su alt\u0131 bal\u0131k k\xF6y\xFC yap\u0131 seti_9"
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 941
+        width: 27
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 645db3f3d845b2290800000000000000
+      internalID: -7914138954545507002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Su alt\u0131 bal\u0131k k\xF6y\xFC yap\u0131 seti_10"
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 881
+        width: 81
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c199795b8c8447b60800000000000000
+      internalID: 7742893686233995548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Su alt\u0131 bal\u0131k k\xF6y\xFC yap\u0131 seti_11"
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 991
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16e72af379b3cc8d0800000000000000
+      internalID: -2824817345474429343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Su alt\u0131 bal\u0131k k\xF6y\xFC yap\u0131 seti_12"
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 939
+        width: 51
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9a4b83bb271866a0800000000000000
+      internalID: -6455884589372323170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Su alt\u0131 bal\u0131k k\xF6y\xFC yap\u0131 seti_13"
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 855
+        width: 195
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e851b0dbb0832dc80800000000000000
+      internalID: -8299509540222986866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Su alt\u0131 bal\u0131k k\xF6y\xFC yap\u0131 seti_14"
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 975
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecdcf3f2a08cb7f30800000000000000
+      internalID: 4574469792592809422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Su alt\u0131 bal\u0131k k\xF6y\xFC yap\u0131 seti_15"
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 973
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba1a5370fe1f8dcb0800000000000000
+      internalID: -4838851790689164885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Su alt\u0131 bal\u0131k k\xF6y\xFC yap\u0131 seti_16"
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 502
+        width: 583
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77d6b2f41369f8b00800000000000000
+      internalID: 833049594612641143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Su alt\u0131 bal\u0131k k\xF6y\xFC yap\u0131 seti_17"
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 965
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3908720633672770800000000000000
+      internalID: 8585940298225944894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Su alt\u0131 bal\u0131k k\xF6y\xFC yap\u0131 seti_18"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 503
+        width: 463
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9584aa676a25d9460800000000000000
+      internalID: 7250041850045286489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Su alt\u0131 bal\u0131k k\xF6y\xFC yap\u0131 seti_19"
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 721
+        width: 33
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7c9a138accab1e10800000000000000
+      internalID: 2169517631291956351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Su alt\u0131 bal\u0131k k\xF6y\xFC yap\u0131 seti_20"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 473
+        height: 468
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b967219bc9b5507d0800000000000000
+      internalID: -2952853251993471333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Su alt\u0131 bal\u0131k k\xF6y\xFC yap\u0131 seti_21"
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 0
+        width: 1038
+        height: 504
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bd42bd4ce485c120800000000000000
+      internalID: 2433497324114300340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Su alt\u0131 bal\u0131k k\xF6y\xFC yap\u0131 seti_22"
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 18
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af8dcc8a62d93d7b0800000000000000
+      internalID: -5200640355316475654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "Su alt\u0131 bal\u0131k k\xF6y\xFC yap\u0131 seti_0": 5118225690100078584
+      "Su alt\u0131 bal\u0131k k\xF6y\xFC yap\u0131 seti_1": 6475399707458461310
+      "Su alt\u0131 bal\u0131k k\xF6y\xFC yap\u0131 seti_10": 7742893686233995548
+      "Su alt\u0131 bal\u0131k k\xF6y\xFC yap\u0131 seti_11": -2824817345474429343
+      "Su alt\u0131 bal\u0131k k\xF6y\xFC yap\u0131 seti_12": -6455884589372323170
+      "Su alt\u0131 bal\u0131k k\xF6y\xFC yap\u0131 seti_13": -8299509540222986866
+      "Su alt\u0131 bal\u0131k k\xF6y\xFC yap\u0131 seti_14": 4574469792592809422
+      "Su alt\u0131 bal\u0131k k\xF6y\xFC yap\u0131 seti_15": -4838851790689164885
+      "Su alt\u0131 bal\u0131k k\xF6y\xFC yap\u0131 seti_16": 833049594612641143
+      "Su alt\u0131 bal\u0131k k\xF6y\xFC yap\u0131 seti_17": 8585940298225944894
+      "Su alt\u0131 bal\u0131k k\xF6y\xFC yap\u0131 seti_18": 7250041850045286489
+      "Su alt\u0131 bal\u0131k k\xF6y\xFC yap\u0131 seti_19": 2169517631291956351
+      "Su alt\u0131 bal\u0131k k\xF6y\xFC yap\u0131 seti_2": 1403324769486958713
+      "Su alt\u0131 bal\u0131k k\xF6y\xFC yap\u0131 seti_20": -2952853251993471333
+      "Su alt\u0131 bal\u0131k k\xF6y\xFC yap\u0131 seti_21": 2433497324114300340
+      "Su alt\u0131 bal\u0131k k\xF6y\xFC yap\u0131 seti_22": -5200640355316475654
+      "Su alt\u0131 bal\u0131k k\xF6y\xFC yap\u0131 seti_3": -1049839732371831690
+      "Su alt\u0131 bal\u0131k k\xF6y\xFC yap\u0131 seti_4": 3630021913981691504
+      "Su alt\u0131 bal\u0131k k\xF6y\xFC yap\u0131 seti_5": 2413251595547495782
+      "Su alt\u0131 bal\u0131k k\xF6y\xFC yap\u0131 seti_6": 6373834312943670279
+      "Su alt\u0131 bal\u0131k k\xF6y\xFC yap\u0131 seti_7": -4956617836692364743
+      "Su alt\u0131 bal\u0131k k\xF6y\xFC yap\u0131 seti_8": -3344784544562189507
+      "Su alt\u0131 bal\u0131k k\xF6y\xFC yap\u0131 seti_9": -7914138954545507002
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

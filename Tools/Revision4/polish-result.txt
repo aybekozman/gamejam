@@ -1,0 +1,1 @@
+Continuous shore texture reimported with mirrored horizontal sampling; discontinuous generated caps removed. Authored map untouched.

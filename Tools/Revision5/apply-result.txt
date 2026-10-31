@@ -1,0 +1,3 @@
+PASS 528 existing transforms and 119 other colliders preserved.
+Removed shoreline MeshRenderer/MeshFilter; installed 14 SpriteRenderers at authored floor pixel scale.
+Only generated shore collider end height aligned to the visible authored seabed.

@@ -1,0 +1,10 @@
+{
+  "source": "Assets/Underwater/Resources/Abyss/ground_0_0.png",
+  "sourcePixelWorldSize": [
+    0.04680851101875305,
+    0.03846153989434242
+  ],
+  "resampling": "none; pixels copied directly from existing floor",
+  "chunks": 14,
+  "joinHeight": -31.801538467407227
+}

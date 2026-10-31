@@ -1,0 +1,4 @@
+PASS 369 authored transforms and all 114 collider definitions preserved.
+101 background rocks grounded with their shared parallax seabed.
+Shore rises continuously from X=-232 to waterline X=-308,4348; pier spans X=-313..-295.
+Only background rock grounding and the far-left boundary were changed in the existing layout.

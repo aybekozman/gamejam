@@ -1,0 +1,19 @@
+PASS Habitat manager active
+PASS Vertical swimming pitches the visual over 50 degrees
+PASS Fish collider/root stays unrotated
+PASS Downward swimming also pitches the visual
+PASS Random colorful fish populate the village
+PASS No sharks near the village
+PASS Reef population decreases to zero before the quiet band
+PASS Quiet band excludes sharks
+PASS Gentle creatures sparse at village and sharks, normal in open water
+PASS Quiet view contains no reef fish, whales or sharks
+PASS Creatures left far behind despawn
+PASS Distant region randomly spawns sharks
+PASS All creature species remain in their assigned habitat
+PASS Local population capped
+PASS Ray and whale frame canvases keep a stable width
+PASS Expanded swimming limits cover 480-unit world
+PASS New outer swim limit stops the player
+PASS Camera stays inside expanded world
+PASS No runtime errors during verification

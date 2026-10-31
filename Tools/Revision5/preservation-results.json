@@ -1,0 +1,6 @@
+{
+  "existingTransformsUnchanged": 528,
+  "otherColliderBlocksIdentical": 119,
+  "meshRenderersInScene": 0,
+  "result": "PASS only generated shore collision path and its rendering replaced"
+}

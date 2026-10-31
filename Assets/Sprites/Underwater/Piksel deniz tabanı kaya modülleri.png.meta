@@ -1,0 +1,3666 @@
+fileFormatVersion: 2
+guid: e662be6f41e77b94bba365ed888857a6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2680927761423447584
+    second: "Piksel deniz taban\u0131 kaya mod\xFClleri_0"
+  - first:
+      213: 406785023088168303
+    second: "Piksel deniz taban\u0131 kaya mod\xFClleri_1"
+  - first:
+      213: 1073850340431180942
+    second: "Piksel deniz taban\u0131 kaya mod\xFClleri_2"
+  - first:
+      213: -7857250387188651185
+    second: "Piksel deniz taban\u0131 kaya mod\xFClleri_3"
+  - first:
+      213: -7571996061825541222
+    second: "Piksel deniz taban\u0131 kaya mod\xFClleri_4"
+  - first:
+      213: 3268840105756521858
+    second: "Piksel deniz taban\u0131 kaya mod\xFClleri_5"
+  - first:
+      213: 9076180495295560539
+    second: "Piksel deniz taban\u0131 kaya mod\xFClleri_6"
+  - first:
+      213: -2882782432867756625
+    second: "Piksel deniz taban\u0131 kaya mod\xFClleri_7"
+  - first:
+      213: 6642538114617276203
+    second: "Piksel deniz taban\u0131 kaya mod\xFClleri_8"
+  - first:
+      213: 5574345734886488252
+    second: "Piksel deniz taban\u0131 kaya mod\xFClleri_9"
+  - first:
+      213: 5894621391270818190
+    second: "Piksel deniz taban\u0131 kaya mod\xFClleri_10"
+  - first:
+      213: 7740401062049584422
+    second: "Piksel deniz taban\u0131 kaya mod\xFClleri_11"
+  - first:
+      213: 541051053798673265
+    second: "Piksel deniz taban\u0131 kaya mod\xFClleri_12"
+  - first:
+      213: 7751397758435014728
+    second: "Piksel deniz taban\u0131 kaya mod\xFClleri_13"
+  - first:
+      213: -6321339032728311234
+    second: "Piksel deniz taban\u0131 kaya mod\xFClleri_14"
+  - first:
+      213: 7689895166471728480
+    second: "Piksel deniz taban\u0131 kaya mod\xFClleri_15"
+  - first:
+      213: -2950464589049763111
+    second: "Piksel deniz taban\u0131 kaya mod\xFClleri_16"
+  - first:
+      213: 3816531913364105694
+    second: "Piksel deniz taban\u0131 kaya mod\xFClleri_17"
+  - first:
+      213: -4982065261116594181
+    second: "Piksel deniz taban\u0131 kaya mod\xFClleri_18"
+  - first:
+      213: 1837310784431074074
+    second: "Piksel deniz taban\u0131 kaya mod\xFClleri_19"
+  - first:
+      213: -3872486870162907011
+    second: "Piksel deniz taban\u0131 kaya mod\xFClleri_20"
+  - first:
+      213: 6632496921118916106
+    second: "Piksel deniz taban\u0131 kaya mod\xFClleri_21"
+  - first:
+      213: -7606639008805307370
+    second: "Piksel deniz taban\u0131 kaya mod\xFClleri_22"
+  - first:
+      213: 2776147427817236386
+    second: "Piksel deniz taban\u0131 kaya mod\xFClleri_23"
+  - first:
+      213: -6806966753143420945
+    second: "Piksel deniz taban\u0131 kaya mod\xFClleri_24"
+  - first:
+      213: 623532488885633537
+    second: "Piksel deniz taban\u0131 kaya mod\xFClleri_25"
+  - first:
+      213: 4764500438770302796
+    second: "Piksel deniz taban\u0131 kaya mod\xFClleri_26"
+  - first:
+      213: -7821256750090443647
+    second: "Piksel deniz taban\u0131 kaya mod\xFClleri_27"
+  - first:
+      213: -2732117646607324351
+    second: "Piksel deniz taban\u0131 kaya mod\xFClleri_28"
+  - first:
+      213: -3325135519512130310
+    second: "Piksel deniz taban\u0131 kaya mod\xFClleri_29"
+  - first:
+      213: -9056914281140048357
+    second: "Piksel deniz taban\u0131 kaya mod\xFClleri_30"
+  - first:
+      213: -3845455844532081968
+    second: "Piksel deniz taban\u0131 kaya mod\xFClleri_31"
+  - first:
+      213: -7945745812831309084
+    second: "Piksel deniz taban\u0131 kaya mod\xFClleri_32"
+  - first:
+      213: 5816263262322259880
+    second: "Piksel deniz taban\u0131 kaya mod\xFClleri_33"
+  - first:
+      213: -1948459138076133715
+    second: "Piksel deniz taban\u0131 kaya mod\xFClleri_34"
+  - first:
+      213: -2984802750332688712
+    second: "Piksel deniz taban\u0131 kaya mod\xFClleri_35"
+  - first:
+      213: 3382339399082418086
+    second: "Piksel deniz taban\u0131 kaya mod\xFClleri_36"
+  - first:
+      213: 2147207324104189941
+    second: "Piksel deniz taban\u0131 kaya mod\xFClleri_37"
+  - first:
+      213: -2913106184279105610
+    second: "Piksel deniz taban\u0131 kaya mod\xFClleri_38"
+  - first:
+      213: -4050844245896804274
+    second: "Piksel deniz taban\u0131 kaya mod\xFClleri_39"
+  - first:
+      213: -1244770078261819288
+    second: "Piksel deniz taban\u0131 kaya mod\xFClleri_40"
+  - first:
+      213: -5113815544752873945
+    second: "Piksel deniz taban\u0131 kaya mod\xFClleri_41"
+  - first:
+      213: -6220808520006575078
+    second: "Piksel deniz taban\u0131 kaya mod\xFClleri_42"
+  - first:
+      213: -3133435646821758987
+    second: "Piksel deniz taban\u0131 kaya mod\xFClleri_43"
+  - first:
+      213: -8709353461272967488
+    second: "Piksel deniz taban\u0131 kaya mod\xFClleri_44"
+  - first:
+      213: 7078545854082594342
+    second: "Piksel deniz taban\u0131 kaya mod\xFClleri_45"
+  - first:
+      213: 9118455282744520740
+    second: "Piksel deniz taban\u0131 kaya mod\xFClleri_46"
+  - first:
+      213: 2288116877561976499
+    second: "Piksel deniz taban\u0131 kaya mod\xFClleri_47"
+  - first:
+      213: -4827249583757130282
+    second: "Piksel deniz taban\u0131 kaya mod\xFClleri_48"
+  - first:
+      213: 7667331510837880951
+    second: "Piksel deniz taban\u0131 kaya mod\xFClleri_49"
+  - first:
+      213: 6503335240326298323
+    second: "Piksel deniz taban\u0131 kaya mod\xFClleri_50"
+  - first:
+      213: 5604326168887408708
+    second: "Piksel deniz taban\u0131 kaya mod\xFClleri_51"
+  - first:
+      213: 7252845787136384181
+    second: "Piksel deniz taban\u0131 kaya mod\xFClleri_52"
+  - first:
+      213: 8333824494188950897
+    second: "Piksel deniz taban\u0131 kaya mod\xFClleri_53"
+  - first:
+      213: 5264292116538630297
+    second: "Piksel deniz taban\u0131 kaya mod\xFClleri_54"
+  - first:
+      213: 695893855714883277
+    second: "Piksel deniz taban\u0131 kaya mod\xFClleri_55"
+  - first:
+      213: 6049382068449776535
+    second: "Piksel deniz taban\u0131 kaya mod\xFClleri_56"
+  - first:
+      213: 1992898454239750467
+    second: "Piksel deniz taban\u0131 kaya mod\xFClleri_57"
+  - first:
+      213: -598479381983990310
+    second: "Piksel deniz taban\u0131 kaya mod\xFClleri_58"
+  - first:
+      213: -2610969227567904978
+    second: "Piksel deniz taban\u0131 kaya mod\xFClleri_59"
+  - first:
+      213: 79135928078116633
+    second: "Piksel deniz taban\u0131 kaya mod\xFClleri_60"
+  - first:
+      213: -3507737432365814103
+    second: "Piksel deniz taban\u0131 kaya mod\xFClleri_61"
+  - first:
+      213: 2687890320948662295
+    second: "Piksel deniz taban\u0131 kaya mod\xFClleri_62"
+  - first:
+      213: -6880835550912087303
+    second: "Piksel deniz taban\u0131 kaya mod\xFClleri_63"
+  - first:
+      213: -9036942723377069874
+    second: "Piksel deniz taban\u0131 kaya mod\xFClleri_64"
+  - first:
+      213: -1805890261740199900
+    second: "Piksel deniz taban\u0131 kaya mod\xFClleri_65"
+  - first:
+      213: -7630010360420457123
+    second: "Piksel deniz taban\u0131 kaya mod\xFClleri_66"
+  - first:
+      213: 2123359467754879070
+    second: "Piksel deniz taban\u0131 kaya mod\xFClleri_67"
+  - first:
+      213: -7875443224513194014
+    second: "Piksel deniz taban\u0131 kaya mod\xFClleri_68"
+  - first:
+      213: -1904972117308745957
+    second: "Piksel deniz taban\u0131 kaya mod\xFClleri_69"
+  - first:
+      213: -7479737126730856841
+    second: "Piksel deniz taban\u0131 kaya mod\xFClleri_70"
+  - first:
+      213: 1315589901354629364
+    second: "Piksel deniz taban\u0131 kaya mod\xFClleri_71"
+  - first:
+      213: -3506562235243497397
+    second: "Piksel deniz taban\u0131 kaya mod\xFClleri_72"
+  - first:
+      213: 2095911124640512862
+    second: "Piksel deniz taban\u0131 kaya mod\xFClleri_73"
+  - first:
+      213: 8392848854205625348
+    second: "Piksel deniz taban\u0131 kaya mod\xFClleri_74"
+  - first:
+      213: 5891608247131463525
+    second: "Piksel deniz taban\u0131 kaya mod\xFClleri_75"
+  - first:
+      213: -7450996545052899659
+    second: "Piksel deniz taban\u0131 kaya mod\xFClleri_76"
+  - first:
+      213: 3116014707566079245
+    second: "Piksel deniz taban\u0131 kaya mod\xFClleri_77"
+  - first:
+      213: -1684764880132719954
+    second: "Piksel deniz taban\u0131 kaya mod\xFClleri_78"
+  - first:
+      213: 6585168649605024797
+    second: "Piksel deniz taban\u0131 kaya mod\xFClleri_79"
+  - first:
+      213: 6188888409741105236
+    second: "Piksel deniz taban\u0131 kaya mod\xFClleri_80"
+  - first:
+      213: -4016303726118492280
+    second: "Piksel deniz taban\u0131 kaya mod\xFClleri_81"
+  - first:
+      213: -3185969686065537874
+    second: "Piksel deniz taban\u0131 kaya mod\xFClleri_82"
+  - first:
+      213: -7825610858014995955
+    second: "Piksel deniz taban\u0131 kaya mod\xFClleri_83"
+  - first:
+      213: 2076135139971992822
+    second: "Piksel deniz taban\u0131 kaya mod\xFClleri_84"
+  - first:
+      213: 8724382945224868305
+    second: "Piksel deniz taban\u0131 kaya mod\xFClleri_85"
+  - first:
+      213: -5591590843905554916
+    second: "Piksel deniz taban\u0131 kaya mod\xFClleri_86"
+  - first:
+      213: 8825251794417476484
+    second: "Piksel deniz taban\u0131 kaya mod\xFClleri_87"
+  - first:
+      213: -3880744675893074315
+    second: "Piksel deniz taban\u0131 kaya mod\xFClleri_88"
+  - first:
+      213: 7999094724579816541
+    second: "Piksel deniz taban\u0131 kaya mod\xFClleri_89"
+  - first:
+      213: -2856292473935152461
+    second: "Piksel deniz taban\u0131 kaya mod\xFClleri_90"
+  - first:
+      213: 4526933660667707124
+    second: "Piksel deniz taban\u0131 kaya mod\xFClleri_91"
+  - first:
+      213: -2107161571522157247
+    second: "Piksel deniz taban\u0131 kaya mod\xFClleri_92"
+  - first:
+      213: 6383512055810610779
+    second: "Piksel deniz taban\u0131 kaya mod\xFClleri_93"
+  - first:
+      213: -2306875224878273590
+    second: "Piksel deniz taban\u0131 kaya mod\xFClleri_94"
+  - first:
+      213: -4722021914396909861
+    second: "Piksel deniz taban\u0131 kaya mod\xFClleri_95"
+  - first:
+      213: 3346251833154042356
+    second: "Piksel deniz taban\u0131 kaya mod\xFClleri_96"
+  - first:
+      213: -8518221407572371357
+    second: "Piksel deniz taban\u0131 kaya mod\xFClleri_97"
+  - first:
+      213: 7873923679287342604
+    second: "Piksel deniz taban\u0131 kaya mod\xFClleri_98"
+  - first:
+      213: -8896769134869812590
+    second: "Piksel deniz taban\u0131 kaya mod\xFClleri_99"
+  - first:
+      213: 1310017800577045283
+    second: "Piksel deniz taban\u0131 kaya mod\xFClleri_100"
+  - first:
+      213: -9136351910832764667
+    second: "Piksel deniz taban\u0131 kaya mod\xFClleri_101"
+  - first:
+      213: -5988544428721712587
+    second: "Piksel deniz taban\u0131 kaya mod\xFClleri_102"
+  - first:
+      213: -5175554528204037982
+    second: "Piksel deniz taban\u0131 kaya mod\xFClleri_103"
+  - first:
+      213: 4382292616816081985
+    second: "Piksel deniz taban\u0131 kaya mod\xFClleri_104"
+  - first:
+      213: -1818965833069133132
+    second: "Piksel deniz taban\u0131 kaya mod\xFClleri_105"
+  - first:
+      213: 6951167226819075616
+    second: "Piksel deniz taban\u0131 kaya mod\xFClleri_106"
+  - first:
+      213: 5095594778063854900
+    second: "Piksel deniz taban\u0131 kaya mod\xFClleri_107"
+  - first:
+      213: 3982369993227392672
+    second: "Piksel deniz taban\u0131 kaya mod\xFClleri_108"
+  - first:
+      213: -8621563702503533386
+    second: "Piksel deniz taban\u0131 kaya mod\xFClleri_109"
+  - first:
+      213: -1328376303554288603
+    second: "Piksel deniz taban\u0131 kaya mod\xFClleri_110"
+  - first:
+      213: -3658600443712888758
+    second: "Piksel deniz taban\u0131 kaya mod\xFClleri_111"
+  - first:
+      213: -1825240932108402720
+    second: "Piksel deniz taban\u0131 kaya mod\xFClleri_112"
+  - first:
+      213: -4567559299859857054
+    second: "Piksel deniz taban\u0131 kaya mod\xFClleri_113"
+  - first:
+      213: 3924009628687820498
+    second: "Piksel deniz taban\u0131 kaya mod\xFClleri_114"
+  - first:
+      213: 8764690916090008816
+    second: "Piksel deniz taban\u0131 kaya mod\xFClleri_115"
+  - first:
+      213: 8429918724699207829
+    second: "Piksel deniz taban\u0131 kaya mod\xFClleri_116"
+  - first:
+      213: -4394142670954805606
+    second: "Piksel deniz taban\u0131 kaya mod\xFClleri_117"
+  - first:
+      213: -1595218674085881620
+    second: "Piksel deniz taban\u0131 kaya mod\xFClleri_118"
+  - first:
+      213: -9029326309621141967
+    second: "Piksel deniz taban\u0131 kaya mod\xFClleri_119"
+  - first:
+      213: 4315657058545875157
+    second: "Piksel deniz taban\u0131 kaya mod\xFClleri_120"
+  - first:
+      213: -6281705978677761206
+    second: "Piksel deniz taban\u0131 kaya mod\xFClleri_121"
+  - first:
+      213: 539787891790863230
+    second: "Piksel deniz taban\u0131 kaya mod\xFClleri_122"
+  - first:
+      213: -6187313270426409042
+    second: "Piksel deniz taban\u0131 kaya mod\xFClleri_123"
+  - first:
+      213: -8592054592379089369
+    second: "Piksel deniz taban\u0131 kaya mod\xFClleri_124"
+  - first:
+      213: 1340992479912490551
+    second: "Piksel deniz taban\u0131 kaya mod\xFClleri_125"
+  - first:
+      213: 1914836778964790666
+    second: "Piksel deniz taban\u0131 kaya mod\xFClleri_126"
+  - first:
+      213: 5683633117661674390
+    second: "Piksel deniz taban\u0131 kaya mod\xFClleri_127"
+  - first:
+      213: -3593295604802265799
+    second: "Piksel deniz taban\u0131 kaya mod\xFClleri_128"
+  - first:
+      213: 2985987249953294502
+    second: "Piksel deniz taban\u0131 kaya mod\xFClleri_129"
+  - first:
+      213: 3024106328121518372
+    second: "Piksel deniz taban\u0131 kaya mod\xFClleri_130"
+  - first:
+      213: 8841596104148725757
+    second: "Piksel deniz taban\u0131 kaya mod\xFClleri_131"
+  - first:
+      213: -7514500963036394362
+    second: "Piksel deniz taban\u0131 kaya mod\xFClleri_132"
+  - first:
+      213: -6512053906934993229
+    second: "Piksel deniz taban\u0131 kaya mod\xFClleri_133"
+  - first:
+      213: -3989233467491666470
+    second: "Piksel deniz taban\u0131 kaya mod\xFClleri_134"
+  - first:
+      213: -6784616008146202735
+    second: "Piksel deniz taban\u0131 kaya mod\xFClleri_135"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Piksel deniz taban\u0131 kaya mod\xFClleri_0"
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 737
+        width: 75
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 026b0284891943520800000000000000
+      internalID: 2680927761423447584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel deniz taban\u0131 kaya mod\xFClleri_1"
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 723
+        width: 135
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6d8e11c2d035a500800000000000000
+      internalID: 406785023088168303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel deniz taban\u0131 kaya mod\xFClleri_2"
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 821
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e843553f13517ee00800000000000000
+      internalID: 1073850340431180942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel deniz taban\u0131 kaya mod\xFClleri_3"
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 846
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4be150076075f290800000000000000
+      internalID: -7857250387188651185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel deniz taban\u0131 kaya mod\xFClleri_4"
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 844
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9b5b3e23bddae690800000000000000
+      internalID: -7571996061825541222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel deniz taban\u0131 kaya mod\xFClleri_5"
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 789
+        width: 88
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 285fa23d1c04d5d20800000000000000
+      internalID: 3268840105756521858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel deniz taban\u0131 kaya mod\xFClleri_6"
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 352
+        width: 639
+        height: 478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5bbb63a21215fd70800000000000000
+      internalID: 9076180495295560539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel deniz taban\u0131 kaya mod\xFClleri_7"
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 827
+        width: 64
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa55e24a6ac4ef7d0800000000000000
+      internalID: -2882782432867756625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel deniz taban\u0131 kaya mod\xFClleri_8"
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 823
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2771c8b8390f2c50800000000000000
+      internalID: 6642538114617276203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel deniz taban\u0131 kaya mod\xFClleri_9"
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 821
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb87f1769ed0c5d40800000000000000
+      internalID: 5574345734886488252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel deniz taban\u0131 kaya mod\xFClleri_10"
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 824
+        width: 61
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e81bd10ace6edc150800000000000000
+      internalID: 5894621391270818190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel deniz taban\u0131 kaya mod\xFClleri_11"
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 825
+        width: 199
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 625958a61cd6b6b60800000000000000
+      internalID: 7740401062049584422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel deniz taban\u0131 kaya mod\xFClleri_12"
+      rect:
+        serializedVersion: 2
+        x: 1191
+        y: 817
+        width: 106
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17b450b1113328700800000000000000
+      internalID: 541051053798673265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel deniz taban\u0131 kaya mod\xFClleri_13"
+      rect:
+        serializedVersion: 2
+        x: 1324
+        y: 747
+        width: 235
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8483740513f729b60800000000000000
+      internalID: 7751397758435014728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel deniz taban\u0131 kaya mod\xFClleri_14"
+      rect:
+        serializedVersion: 2
+        x: 1629
+        y: 757
+        width: 57
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3aea6144a71648a0800000000000000
+      internalID: -6321339032728311234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel deniz taban\u0131 kaya mod\xFClleri_15"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 753
+        width: 68
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06d6a8d39eef7ba60800000000000000
+      internalID: 7689895166471728480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel deniz taban\u0131 kaya mod\xFClleri_16"
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 749
+        width: 45
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dae157a618dd07d0800000000000000
+      internalID: -2950464589049763111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel deniz taban\u0131 kaya mod\xFClleri_17"
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 790
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed9620aed8b07f430800000000000000
+      internalID: 3816531913364105694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel deniz taban\u0131 kaya mod\xFClleri_18"
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 753
+        width: 82
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf7e4578a062cdab0800000000000000
+      internalID: -4982065261116594181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel deniz taban\u0131 kaya mod\xFClleri_19"
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 804
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1b22088c607f7910800000000000000
+      internalID: 1837310784431074074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel deniz taban\u0131 kaya mod\xFClleri_20"
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 791
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d70639a75b9224ac0800000000000000
+      internalID: -3872486870162907011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel deniz taban\u0131 kaya mod\xFClleri_21"
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 795
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0e3a2d2fcc5b0c50800000000000000
+      internalID: 6632496921118916106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel deniz taban\u0131 kaya mod\xFClleri_22"
+      rect:
+        serializedVersion: 2
+        x: 1707
+        y: 763
+        width: 56
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61cb7898f1acf6690800000000000000
+      internalID: -7606639008805307370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel deniz taban\u0131 kaya mod\xFClleri_23"
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 788
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a7292f706bd68620800000000000000
+      internalID: 2776147427817236386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel deniz taban\u0131 kaya mod\xFClleri_24"
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 775
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe70ef88dcbc881a0800000000000000
+      internalID: -6806966753143420945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel deniz taban\u0131 kaya mod\xFClleri_25"
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 791
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10281f9be7b37a800800000000000000
+      internalID: 623532488885633537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel deniz taban\u0131 kaya mod\xFClleri_26"
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 775
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4fb819d7e7ee1240800000000000000
+      internalID: 4764500438770302796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel deniz taban\u0131 kaya mod\xFClleri_27"
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 773
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 184abb1bc60557390800000000000000
+      internalID: -7821256750090443647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel deniz taban\u0131 kaya mod\xFClleri_28"
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 747
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14be46dc971951ad0800000000000000
+      internalID: -2732117646607324351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel deniz taban\u0131 kaya mod\xFClleri_29"
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 773
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afc0271ccdebad1d0800000000000000
+      internalID: -3325135519512130310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel deniz taban\u0131 kaya mod\xFClleri_30"
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 773
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1e2c7762706f4280800000000000000
+      internalID: -9056914281140048357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel deniz taban\u0131 kaya mod\xFClleri_31"
+      rect:
+        serializedVersion: 2
+        x: 1687
+        y: 769
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0da2733984232aac0800000000000000
+      internalID: -3845455844532081968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel deniz taban\u0131 kaya mod\xFClleri_32"
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 719
+        width: 70
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e274a6184a0bb190800000000000000
+      internalID: -7945745812831309084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel deniz taban\u0131 kaya mod\xFClleri_33"
+      rect:
+        serializedVersion: 2
+        x: 1673
+        y: 755
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a77fd60f9487b050800000000000000
+      internalID: 5816263262322259880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel deniz taban\u0131 kaya mod\xFClleri_34"
+      rect:
+        serializedVersion: 2
+        x: 1689
+        y: 761
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da6bb9fbcbea5f4e0800000000000000
+      internalID: -1948459138076133715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel deniz taban\u0131 kaya mod\xFClleri_35"
+      rect:
+        serializedVersion: 2
+        x: 1701
+        y: 757
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b6afc576b9d396d0800000000000000
+      internalID: -2984802750332688712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel deniz taban\u0131 kaya mod\xFClleri_36"
+      rect:
+        serializedVersion: 2
+        x: 1714
+        y: 757
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6af9d1853cb70fe20800000000000000
+      internalID: 3382339399082418086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel deniz taban\u0131 kaya mod\xFClleri_37"
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 741
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f7e8545fa96ccd10800000000000000
+      internalID: 2147207324104189941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel deniz taban\u0131 kaya mod\xFClleri_38"
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 743
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bfdc051c519297d0800000000000000
+      internalID: -2913106184279105610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel deniz taban\u0131 kaya mod\xFClleri_39"
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 734
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e48c2e2ee9288c7c0800000000000000
+      internalID: -4050844245896804274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel deniz taban\u0131 kaya mod\xFClleri_40"
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 235
+        width: 558
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8684b2a7530b9bee0800000000000000
+      internalID: -1244770078261819288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel deniz taban\u0131 kaya mod\xFClleri_41"
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 493
+        width: 565
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72e52203bd31809b0800000000000000
+      internalID: -5113815544752873945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel deniz taban\u0131 kaya mod\xFClleri_42"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 753
+        height: 488
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1cd84d3c9f3ba9a0800000000000000
+      internalID: -6220808520006575078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel deniz taban\u0131 kaya mod\xFClleri_43"
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 471
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f784a081ecc384d0800000000000000
+      internalID: -3133435646821758987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel deniz taban\u0131 kaya mod\xFClleri_44"
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 417
+        width: 33
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c6818dcb29222780800000000000000
+      internalID: -8709353461272967488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel deniz taban\u0131 kaya mod\xFClleri_45"
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 468
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62638e653fb0c3260800000000000000
+      internalID: 7078545854082594342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel deniz taban\u0131 kaya mod\xFClleri_46"
+      rect:
+        serializedVersion: 2
+        x: 1363
+        y: 454
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 420754c94c24b8e70800000000000000
+      internalID: 9118455282744520740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel deniz taban\u0131 kaya mod\xFClleri_47"
+      rect:
+        serializedVersion: 2
+        x: 1698
+        y: 467
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b658ab5d2601cf10800000000000000
+      internalID: 2288116877561976499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel deniz taban\u0131 kaya mod\xFClleri_48"
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 448
+        width: 35
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d50106541a220db0800000000000000
+      internalID: -4827249583757130282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel deniz taban\u0131 kaya mod\xFClleri_49"
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 450
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 778a6a6c265d76a60800000000000000
+      internalID: 7667331510837880951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel deniz taban\u0131 kaya mod\xFClleri_50"
+      rect:
+        serializedVersion: 2
+        x: 1209
+        y: 445
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dabde6e1fc704a50800000000000000
+      internalID: 6503335240326298323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel deniz taban\u0131 kaya mod\xFClleri_51"
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 450
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 448b5f525f096cd40800000000000000
+      internalID: 5604326168887408708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel deniz taban\u0131 kaya mod\xFClleri_52"
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 451
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bcd3f0f0d847a460800000000000000
+      internalID: 7252845787136384181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel deniz taban\u0131 kaya mod\xFClleri_53"
+      rect:
+        serializedVersion: 2
+        x: 1393
+        y: 442
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 175f4941931b7a370800000000000000
+      internalID: 8333824494188950897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel deniz taban\u0131 kaya mod\xFClleri_54"
+      rect:
+        serializedVersion: 2
+        x: 1647
+        y: 438
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 990ac20e9c58e0940800000000000000
+      internalID: 5264292116538630297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel deniz taban\u0131 kaya mod\xFClleri_55"
+      rect:
+        serializedVersion: 2
+        x: 1667
+        y: 449
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc6334756cf48a900800000000000000
+      internalID: 695893855714883277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel deniz taban\u0131 kaya mod\xFClleri_56"
+      rect:
+        serializedVersion: 2
+        x: 1717
+        y: 453
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7931194b0f8b3f350800000000000000
+      internalID: 6049382068449776535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel deniz taban\u0131 kaya mod\xFClleri_57"
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 418
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 349a266d59238ab10800000000000000
+      internalID: 1992898454239750467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel deniz taban\u0131 kaya mod\xFClleri_58"
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 426
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adde2774c26c1b7f0800000000000000
+      internalID: -598479381983990310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel deniz taban\u0131 kaya mod\xFClleri_59"
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 418
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e27c65f2259f3cbd0800000000000000
+      internalID: -2610969227567904978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel deniz taban\u0131 kaya mod\xFClleri_60"
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 401
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 917211215b5291100800000000000000
+      internalID: 79135928078116633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel deniz taban\u0131 kaya mod\xFClleri_61"
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 428
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aeae7ad363025fc0800000000000000
+      internalID: -3507737432365814103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel deniz taban\u0131 kaya mod\xFClleri_62"
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 392
+        width: 41
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7101b5f710e4d4520800000000000000
+      internalID: 2687890320948662295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel deniz taban\u0131 kaya mod\xFClleri_63"
+      rect:
+        serializedVersion: 2
+        x: 1322
+        y: 421
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fa710ec58c5280a0800000000000000
+      internalID: -6880835550912087303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel deniz taban\u0131 kaya mod\xFClleri_64"
+      rect:
+        serializedVersion: 2
+        x: 1326
+        y: 419
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec00f8d0974569280800000000000000
+      internalID: -9036942723377069874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel deniz taban\u0131 kaya mod\xFClleri_65"
+      rect:
+        serializedVersion: 2
+        x: 1552
+        y: 434
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42063adff5030f6e0800000000000000
+      internalID: -1805890261740199900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel deniz taban\u0131 kaya mod\xFClleri_66"
+      rect:
+        serializedVersion: 2
+        x: 1580
+        y: 413
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d55a692b002cc1690800000000000000
+      internalID: -7630010360420457123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel deniz taban\u0131 kaya mod\xFClleri_67"
+      rect:
+        serializedVersion: 2
+        x: 1619
+        y: 426
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e58fdf59f20b77d10800000000000000
+      internalID: 2123359467754879070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel deniz taban\u0131 kaya mod\xFClleri_68"
+      rect:
+        serializedVersion: 2
+        x: 1647
+        y: 418
+        width: 23
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e7522afc1ec4b290800000000000000
+      internalID: -7875443224513194014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel deniz taban\u0131 kaya mod\xFClleri_69"
+      rect:
+        serializedVersion: 2
+        x: 1653
+        y: 434
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b17d9c8c3fd2095e0800000000000000
+      internalID: -1904972117308745957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel deniz taban\u0131 kaya mod\xFClleri_70"
+      rect:
+        serializedVersion: 2
+        x: 1665
+        y: 434
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77608eb66b2a23890800000000000000
+      internalID: -7479737126730856841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel deniz taban\u0131 kaya mod\xFClleri_71"
+      rect:
+        serializedVersion: 2
+        x: 1693
+        y: 433
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f875548b0ae14210800000000000000
+      internalID: 1315589901354629364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel deniz taban\u0131 kaya mod\xFClleri_72"
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 394
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b48f281c930365fc0800000000000000
+      internalID: -3506562235243497397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel deniz taban\u0131 kaya mod\xFClleri_73"
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 402
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5bbcf0301c261d10800000000000000
+      internalID: 2095911124640512862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel deniz taban\u0131 kaya mod\xFClleri_74"
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 402
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4047870d093697470800000000000000
+      internalID: 8392848854205625348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel deniz taban\u0131 kaya mod\xFClleri_75"
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 402
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56f58065c7233c150800000000000000
+      internalID: 5891608247131463525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel deniz taban\u0131 kaya mod\xFClleri_76"
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 408
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b6857d8e1eb89890800000000000000
+      internalID: -7450996545052899659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel deniz taban\u0131 kaya mod\xFClleri_77"
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 386
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0d6e5ffdde4e3b20800000000000000
+      internalID: 3116014707566079245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel deniz taban\u0131 kaya mod\xFClleri_78"
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 360
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaab2ad84438e98e0800000000000000
+      internalID: -1684764880132719954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel deniz taban\u0131 kaya mod\xFClleri_79"
+      rect:
+        serializedVersion: 2
+        x: 1601
+        y: 371
+        width: 11
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1c0fb14ff7336b50800000000000000
+      internalID: 6585168649605024797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel deniz taban\u0131 kaya mod\xFClleri_80"
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 354
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4589621f73953e550800000000000000
+      internalID: 6188888409741105236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel deniz taban\u0131 kaya mod\xFClleri_81"
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 370
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88721a65a093348c0800000000000000
+      internalID: -4016303726118492280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel deniz taban\u0131 kaya mod\xFClleri_82"
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 365
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eac96e4537929c3d0800000000000000
+      internalID: -3185969686065537874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel deniz taban\u0131 kaya mod\xFClleri_83"
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 352
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0a8391f268d56390800000000000000
+      internalID: -7825610858014995955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel deniz taban\u0131 kaya mod\xFClleri_84"
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 366
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fc8cb3f8e9efcc10800000000000000
+      internalID: 2076135139971992822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel deniz taban\u0131 kaya mod\xFClleri_85"
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 368
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d1ca9e901c331970800000000000000
+      internalID: 8724382945224868305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel deniz taban\u0131 kaya mod\xFClleri_86"
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 352
+        width: 43
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c16cea3c0cda662b0800000000000000
+      internalID: -5591590843905554916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel deniz taban\u0131 kaya mod\xFClleri_87"
+      rect:
+        serializedVersion: 2
+        x: 1619
+        y: 354
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 483e1a3bfb7997a70800000000000000
+      internalID: 8825251794417476484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel deniz taban\u0131 kaya mod\xFClleri_88"
+      rect:
+        serializedVersion: 2
+        x: 1683
+        y: 370
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 576a7614743d42ac0800000000000000
+      internalID: -3880744675893074315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel deniz taban\u0131 kaya mod\xFClleri_89"
+      rect:
+        serializedVersion: 2
+        x: 1701
+        y: 356
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d54f74f554e720f60800000000000000
+      internalID: 7999094724579816541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel deniz taban\u0131 kaya mod\xFClleri_90"
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 354
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ba3974d0296c58d0800000000000000
+      internalID: -2856292473935152461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel deniz taban\u0131 kaya mod\xFClleri_91"
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 283
+        width: 102
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fe7bddfd26e2de30800000000000000
+      internalID: 4526933660667707124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel deniz taban\u0131 kaya mod\xFClleri_92"
+      rect:
+        serializedVersion: 2
+        x: 1330
+        y: 341
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 145611507bbd1c2e0800000000000000
+      internalID: -2107161571522157247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel deniz taban\u0131 kaya mod\xFClleri_93"
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 307
+        width: 47
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b56d30ab46ac69850800000000000000
+      internalID: 6383512055810610779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel deniz taban\u0131 kaya mod\xFClleri_94"
+      rect:
+        serializedVersion: 2
+        x: 1409
+        y: 338
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acb2bff84355cffd0800000000000000
+      internalID: -2306875224878273590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel deniz taban\u0131 kaya mod\xFClleri_95"
+      rect:
+        serializedVersion: 2
+        x: 1443
+        y: 332
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bde13c25612087eb0800000000000000
+      internalID: -4722021914396909861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel deniz taban\u0131 kaya mod\xFClleri_96"
+      rect:
+        serializedVersion: 2
+        x: 1707
+        y: 351
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f975242056407e20800000000000000
+      internalID: 3346251833154042356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel deniz taban\u0131 kaya mod\xFClleri_97"
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 330
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3685583e2c239c980800000000000000
+      internalID: -8518221407572371357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel deniz taban\u0131 kaya mod\xFClleri_98"
+      rect:
+        serializedVersion: 2
+        x: 1258
+        y: 338
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0675745edbc54d60800000000000000
+      internalID: 7873923679287342604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel deniz taban\u0131 kaya mod\xFClleri_99"
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 330
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29aec63eb93588480800000000000000
+      internalID: -8896769134869812590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel deniz taban\u0131 kaya mod\xFClleri_100"
+      rect:
+        serializedVersion: 2
+        x: 1687
+        y: 340
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32355d4bf3e1e2210800000000000000
+      internalID: 1310017800577045283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel deniz taban\u0131 kaya mod\xFClleri_101"
+      rect:
+        serializedVersion: 2
+        x: 1697
+        y: 334
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5090ad3f758253180800000000000000
+      internalID: -9136351910832764667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel deniz taban\u0131 kaya mod\xFClleri_102"
+      rect:
+        serializedVersion: 2
+        x: 1701
+        y: 332
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 532d56c129a64eca0800000000000000
+      internalID: -5988544428721712587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel deniz taban\u0131 kaya mod\xFClleri_103"
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 39
+        width: 584
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a0ebbee39cbc28b0800000000000000
+      internalID: -5175554528204037982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel deniz taban\u0131 kaya mod\xFClleri_104"
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 330
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14cb327aae701dc30800000000000000
+      internalID: 4382292616816081985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel deniz taban\u0131 kaya mod\xFClleri_105"
+      rect:
+        serializedVersion: 2
+        x: 1363
+        y: 319
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b2875d463cb1c6e0800000000000000
+      internalID: -1818965833069133132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel deniz taban\u0131 kaya mod\xFClleri_106"
+      rect:
+        serializedVersion: 2
+        x: 1552
+        y: 305
+        width: 13
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02e53e093c1877060800000000000000
+      internalID: 6951167226819075616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel deniz taban\u0131 kaya mod\xFClleri_107"
+      rect:
+        serializedVersion: 2
+        x: 1659
+        y: 267
+        width: 62
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43dd4d9f37037b640800000000000000
+      internalID: 5095594778063854900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel deniz taban\u0131 kaya mod\xFClleri_108"
+      rect:
+        serializedVersion: 2
+        x: 1678
+        y: 325
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a65e7ac868344730800000000000000
+      internalID: 3982369993227392672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel deniz taban\u0131 kaya mod\xFClleri_109"
+      rect:
+        serializedVersion: 2
+        x: 1455
+        y: 319
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b410e7dd7d0a5880800000000000000
+      internalID: -8621563702503533386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel deniz taban\u0131 kaya mod\xFClleri_110"
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 303
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 524a99a3ac8a09de0800000000000000
+      internalID: -1328376303554288603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel deniz taban\u0131 kaya mod\xFClleri_111"
+      rect:
+        serializedVersion: 2
+        x: 1588
+        y: 323
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a402861d74a0a3dc0800000000000000
+      internalID: -3658600443712888758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel deniz taban\u0131 kaya mod\xFClleri_112"
+      rect:
+        serializedVersion: 2
+        x: 1234
+        y: 270
+        width: 94
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0effc24fa017ba6e0800000000000000
+      internalID: -1825240932108402720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel deniz taban\u0131 kaya mod\xFClleri_113"
+      rect:
+        serializedVersion: 2
+        x: 1459
+        y: 293
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26142594405cc90c0800000000000000
+      internalID: -4567559299859857054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel deniz taban\u0131 kaya mod\xFClleri_114"
+      rect:
+        serializedVersion: 2
+        x: 1474
+        y: 287
+        width: 9
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d6662d87f1e47630800000000000000
+      internalID: 3924009628687820498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel deniz taban\u0131 kaya mod\xFClleri_115"
+      rect:
+        serializedVersion: 2
+        x: 1492
+        y: 307
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f453ab63ff62a970800000000000000
+      internalID: 8764690916090008816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel deniz taban\u0131 kaya mod\xFClleri_116"
+      rect:
+        serializedVersion: 2
+        x: 1498
+        y: 305
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5983c1f9a661df470800000000000000
+      internalID: 8429918724699207829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel deniz taban\u0131 kaya mod\xFClleri_117"
+      rect:
+        serializedVersion: 2
+        x: 1570
+        y: 291
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a964a5d958ed403c0800000000000000
+      internalID: -4394142670954805606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel deniz taban\u0131 kaya mod\xFClleri_118"
+      rect:
+        serializedVersion: 2
+        x: 1554
+        y: 275
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce89a085115acd9e0800000000000000
+      internalID: -1595218674085881620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel deniz taban\u0131 kaya mod\xFClleri_119"
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 287
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13e61f19f8361b280800000000000000
+      internalID: -9029326309621141967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel deniz taban\u0131 kaya mod\xFClleri_120"
+      rect:
+        serializedVersion: 2
+        x: 1726
+        y: 277
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d8b80bba3b44eb30800000000000000
+      internalID: 4315657058545875157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel deniz taban\u0131 kaya mod\xFClleri_121"
+      rect:
+        serializedVersion: 2
+        x: 1748
+        y: 289
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4be67db1b5e2d8a0800000000000000
+      internalID: -6281705978677761206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel deniz taban\u0131 kaya mod\xFClleri_122"
+      rect:
+        serializedVersion: 2
+        x: 1326
+        y: 190
+        width: 52
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7b50484a36bd7700800000000000000
+      internalID: 539787891790863230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel deniz taban\u0131 kaya mod\xFClleri_123"
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 219
+        width: 41
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea76c22cc5f322aa0800000000000000
+      internalID: -6187313270426409042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel deniz taban\u0131 kaya mod\xFClleri_124"
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 263
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72e0b72fed3e2c880800000000000000
+      internalID: -8592054592379089369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel deniz taban\u0131 kaya mod\xFClleri_125"
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 249
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73677ab3e892c9210800000000000000
+      internalID: 1340992479912490551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel deniz taban\u0131 kaya mod\xFClleri_126"
+      rect:
+        serializedVersion: 2
+        x: 1522
+        y: 263
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8dac0db7edd29a10800000000000000
+      internalID: 1914836778964790666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel deniz taban\u0131 kaya mod\xFClleri_127"
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 259
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69bbed3153250ee40800000000000000
+      internalID: 5683633117661674390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel deniz taban\u0131 kaya mod\xFClleri_128"
+      rect:
+        serializedVersion: 2
+        x: 1726
+        y: 243
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93dd9ce7fac022ec0800000000000000
+      internalID: -3593295604802265799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel deniz taban\u0131 kaya mod\xFClleri_129"
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 210
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a8cf49559b507920800000000000000
+      internalID: 2985987249953294502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel deniz taban\u0131 kaya mod\xFClleri_130"
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 233
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 429a1badea8c7f920800000000000000
+      internalID: 3024106328121518372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel deniz taban\u0131 kaya mod\xFClleri_131"
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 213
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dff234bdfc8a3ba70800000000000000
+      internalID: 8841596104148725757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel deniz taban\u0131 kaya mod\xFClleri_132"
+      rect:
+        serializedVersion: 2
+        x: 1371
+        y: 43
+        width: 378
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68c82e9003127b790800000000000000
+      internalID: -7514500963036394362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel deniz taban\u0131 kaya mod\xFClleri_133"
+      rect:
+        serializedVersion: 2
+        x: 1335
+        y: 164
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bee1f6597980a5a0800000000000000
+      internalID: -6512053906934993229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel deniz taban\u0131 kaya mod\xFClleri_134"
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 170
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad53f041c4563a8c0800000000000000
+      internalID: -3989233467491666470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel deniz taban\u0131 kaya mod\xFClleri_135"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 120
+        width: 5
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19f4401efa338d1a0800000000000000
+      internalID: -6784616008146202735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "Piksel deniz taban\u0131 kaya mod\xFClleri_0": 2680927761423447584
+      "Piksel deniz taban\u0131 kaya mod\xFClleri_1": 406785023088168303
+      "Piksel deniz taban\u0131 kaya mod\xFClleri_10": 5894621391270818190
+      "Piksel deniz taban\u0131 kaya mod\xFClleri_100": 1310017800577045283
+      "Piksel deniz taban\u0131 kaya mod\xFClleri_101": -9136351910832764667
+      "Piksel deniz taban\u0131 kaya mod\xFClleri_102": -5988544428721712587
+      "Piksel deniz taban\u0131 kaya mod\xFClleri_103": -5175554528204037982
+      "Piksel deniz taban\u0131 kaya mod\xFClleri_104": 4382292616816081985
+      "Piksel deniz taban\u0131 kaya mod\xFClleri_105": -1818965833069133132
+      "Piksel deniz taban\u0131 kaya mod\xFClleri_106": 6951167226819075616
+      "Piksel deniz taban\u0131 kaya mod\xFClleri_107": 5095594778063854900
+      "Piksel deniz taban\u0131 kaya mod\xFClleri_108": 3982369993227392672
+      "Piksel deniz taban\u0131 kaya mod\xFClleri_109": -8621563702503533386
+      "Piksel deniz taban\u0131 kaya mod\xFClleri_11": 7740401062049584422
+      "Piksel deniz taban\u0131 kaya mod\xFClleri_110": -1328376303554288603
+      "Piksel deniz taban\u0131 kaya mod\xFClleri_111": -3658600443712888758
+      "Piksel deniz taban\u0131 kaya mod\xFClleri_112": -1825240932108402720
+      "Piksel deniz taban\u0131 kaya mod\xFClleri_113": -4567559299859857054
+      "Piksel deniz taban\u0131 kaya mod\xFClleri_114": 3924009628687820498
+      "Piksel deniz taban\u0131 kaya mod\xFClleri_115": 8764690916090008816
+      "Piksel deniz taban\u0131 kaya mod\xFClleri_116": 8429918724699207829
+      "Piksel deniz taban\u0131 kaya mod\xFClleri_117": -4394142670954805606
+      "Piksel deniz taban\u0131 kaya mod\xFClleri_118": -1595218674085881620
+      "Piksel deniz taban\u0131 kaya mod\xFClleri_119": -9029326309621141967
+      "Piksel deniz taban\u0131 kaya mod\xFClleri_12": 541051053798673265
+      "Piksel deniz taban\u0131 kaya mod\xFClleri_120": 4315657058545875157
+      "Piksel deniz taban\u0131 kaya mod\xFClleri_121": -6281705978677761206
+      "Piksel deniz taban\u0131 kaya mod\xFClleri_122": 539787891790863230
+      "Piksel deniz taban\u0131 kaya mod\xFClleri_123": -6187313270426409042
+      "Piksel deniz taban\u0131 kaya mod\xFClleri_124": -8592054592379089369
+      "Piksel deniz taban\u0131 kaya mod\xFClleri_125": 1340992479912490551
+      "Piksel deniz taban\u0131 kaya mod\xFClleri_126": 1914836778964790666
+      "Piksel deniz taban\u0131 kaya mod\xFClleri_127": 5683633117661674390
+      "Piksel deniz taban\u0131 kaya mod\xFClleri_128": -3593295604802265799
+      "Piksel deniz taban\u0131 kaya mod\xFClleri_129": 2985987249953294502
+      "Piksel deniz taban\u0131 kaya mod\xFClleri_13": 7751397758435014728
+      "Piksel deniz taban\u0131 kaya mod\xFClleri_130": 3024106328121518372
+      "Piksel deniz taban\u0131 kaya mod\xFClleri_131": 8841596104148725757
+      "Piksel deniz taban\u0131 kaya mod\xFClleri_132": -7514500963036394362
+      "Piksel deniz taban\u0131 kaya mod\xFClleri_133": -6512053906934993229
+      "Piksel deniz taban\u0131 kaya mod\xFClleri_134": -3989233467491666470
+      "Piksel deniz taban\u0131 kaya mod\xFClleri_135": -6784616008146202735
+      "Piksel deniz taban\u0131 kaya mod\xFClleri_14": -6321339032728311234
+      "Piksel deniz taban\u0131 kaya mod\xFClleri_15": 7689895166471728480
+      "Piksel deniz taban\u0131 kaya mod\xFClleri_16": -2950464589049763111
+      "Piksel deniz taban\u0131 kaya mod\xFClleri_17": 3816531913364105694
+      "Piksel deniz taban\u0131 kaya mod\xFClleri_18": -4982065261116594181
+      "Piksel deniz taban\u0131 kaya mod\xFClleri_19": 1837310784431074074
+      "Piksel deniz taban\u0131 kaya mod\xFClleri_2": 1073850340431180942
+      "Piksel deniz taban\u0131 kaya mod\xFClleri_20": -3872486870162907011
+      "Piksel deniz taban\u0131 kaya mod\xFClleri_21": 6632496921118916106
+      "Piksel deniz taban\u0131 kaya mod\xFClleri_22": -7606639008805307370
+      "Piksel deniz taban\u0131 kaya mod\xFClleri_23": 2776147427817236386
+      "Piksel deniz taban\u0131 kaya mod\xFClleri_24": -6806966753143420945
+      "Piksel deniz taban\u0131 kaya mod\xFClleri_25": 623532488885633537
+      "Piksel deniz taban\u0131 kaya mod\xFClleri_26": 4764500438770302796
+      "Piksel deniz taban\u0131 kaya mod\xFClleri_27": -7821256750090443647
+      "Piksel deniz taban\u0131 kaya mod\xFClleri_28": -2732117646607324351
+      "Piksel deniz taban\u0131 kaya mod\xFClleri_29": -3325135519512130310
+      "Piksel deniz taban\u0131 kaya mod\xFClleri_3": -7857250387188651185
+      "Piksel deniz taban\u0131 kaya mod\xFClleri_30": -9056914281140048357
+      "Piksel deniz taban\u0131 kaya mod\xFClleri_31": -3845455844532081968
+      "Piksel deniz taban\u0131 kaya mod\xFClleri_32": -7945745812831309084
+      "Piksel deniz taban\u0131 kaya mod\xFClleri_33": 5816263262322259880
+      "Piksel deniz taban\u0131 kaya mod\xFClleri_34": -1948459138076133715
+      "Piksel deniz taban\u0131 kaya mod\xFClleri_35": -2984802750332688712
+      "Piksel deniz taban\u0131 kaya mod\xFClleri_36": 3382339399082418086
+      "Piksel deniz taban\u0131 kaya mod\xFClleri_37": 2147207324104189941
+      "Piksel deniz taban\u0131 kaya mod\xFClleri_38": -2913106184279105610
+      "Piksel deniz taban\u0131 kaya mod\xFClleri_39": -4050844245896804274
+      "Piksel deniz taban\u0131 kaya mod\xFClleri_4": -7571996061825541222
+      "Piksel deniz taban\u0131 kaya mod\xFClleri_40": -1244770078261819288
+      "Piksel deniz taban\u0131 kaya mod\xFClleri_41": -5113815544752873945
+      "Piksel deniz taban\u0131 kaya mod\xFClleri_42": -6220808520006575078
+      "Piksel deniz taban\u0131 kaya mod\xFClleri_43": -3133435646821758987
+      "Piksel deniz taban\u0131 kaya mod\xFClleri_44": -8709353461272967488
+      "Piksel deniz taban\u0131 kaya mod\xFClleri_45": 7078545854082594342
+      "Piksel deniz taban\u0131 kaya mod\xFClleri_46": 9118455282744520740
+      "Piksel deniz taban\u0131 kaya mod\xFClleri_47": 2288116877561976499
+      "Piksel deniz taban\u0131 kaya mod\xFClleri_48": -4827249583757130282
+      "Piksel deniz taban\u0131 kaya mod\xFClleri_49": 7667331510837880951
+      "Piksel deniz taban\u0131 kaya mod\xFClleri_5": 3268840105756521858
+      "Piksel deniz taban\u0131 kaya mod\xFClleri_50": 6503335240326298323
+      "Piksel deniz taban\u0131 kaya mod\xFClleri_51": 5604326168887408708
+      "Piksel deniz taban\u0131 kaya mod\xFClleri_52": 7252845787136384181
+      "Piksel deniz taban\u0131 kaya mod\xFClleri_53": 8333824494188950897
+      "Piksel deniz taban\u0131 kaya mod\xFClleri_54": 5264292116538630297
+      "Piksel deniz taban\u0131 kaya mod\xFClleri_55": 695893855714883277
+      "Piksel deniz taban\u0131 kaya mod\xFClleri_56": 6049382068449776535
+      "Piksel deniz taban\u0131 kaya mod\xFClleri_57": 1992898454239750467
+      "Piksel deniz taban\u0131 kaya mod\xFClleri_58": -598479381983990310
+      "Piksel deniz taban\u0131 kaya mod\xFClleri_59": -2610969227567904978
+      "Piksel deniz taban\u0131 kaya mod\xFClleri_6": 9076180495295560539
+      "Piksel deniz taban\u0131 kaya mod\xFClleri_60": 79135928078116633
+      "Piksel deniz taban\u0131 kaya mod\xFClleri_61": -3507737432365814103
+      "Piksel deniz taban\u0131 kaya mod\xFClleri_62": 2687890320948662295
+      "Piksel deniz taban\u0131 kaya mod\xFClleri_63": -6880835550912087303
+      "Piksel deniz taban\u0131 kaya mod\xFClleri_64": -9036942723377069874
+      "Piksel deniz taban\u0131 kaya mod\xFClleri_65": -1805890261740199900
+      "Piksel deniz taban\u0131 kaya mod\xFClleri_66": -7630010360420457123
+      "Piksel deniz taban\u0131 kaya mod\xFClleri_67": 2123359467754879070
+      "Piksel deniz taban\u0131 kaya mod\xFClleri_68": -7875443224513194014
+      "Piksel deniz taban\u0131 kaya mod\xFClleri_69": -1904972117308745957
+      "Piksel deniz taban\u0131 kaya mod\xFClleri_7": -2882782432867756625
+      "Piksel deniz taban\u0131 kaya mod\xFClleri_70": -7479737126730856841
+      "Piksel deniz taban\u0131 kaya mod\xFClleri_71": 1315589901354629364
+      "Piksel deniz taban\u0131 kaya mod\xFClleri_72": -3506562235243497397
+      "Piksel deniz taban\u0131 kaya mod\xFClleri_73": 2095911124640512862
+      "Piksel deniz taban\u0131 kaya mod\xFClleri_74": 8392848854205625348
+      "Piksel deniz taban\u0131 kaya mod\xFClleri_75": 5891608247131463525
+      "Piksel deniz taban\u0131 kaya mod\xFClleri_76": -7450996545052899659
+      "Piksel deniz taban\u0131 kaya mod\xFClleri_77": 3116014707566079245
+      "Piksel deniz taban\u0131 kaya mod\xFClleri_78": -1684764880132719954
+      "Piksel deniz taban\u0131 kaya mod\xFClleri_79": 6585168649605024797
+      "Piksel deniz taban\u0131 kaya mod\xFClleri_8": 6642538114617276203
+      "Piksel deniz taban\u0131 kaya mod\xFClleri_80": 6188888409741105236
+      "Piksel deniz taban\u0131 kaya mod\xFClleri_81": -4016303726118492280
+      "Piksel deniz taban\u0131 kaya mod\xFClleri_82": -3185969686065537874
+      "Piksel deniz taban\u0131 kaya mod\xFClleri_83": -7825610858014995955
+      "Piksel deniz taban\u0131 kaya mod\xFClleri_84": 2076135139971992822
+      "Piksel deniz taban\u0131 kaya mod\xFClleri_85": 8724382945224868305
+      "Piksel deniz taban\u0131 kaya mod\xFClleri_86": -5591590843905554916
+      "Piksel deniz taban\u0131 kaya mod\xFClleri_87": 8825251794417476484
+      "Piksel deniz taban\u0131 kaya mod\xFClleri_88": -3880744675893074315
+      "Piksel deniz taban\u0131 kaya mod\xFClleri_89": 7999094724579816541
+      "Piksel deniz taban\u0131 kaya mod\xFClleri_9": 5574345734886488252
+      "Piksel deniz taban\u0131 kaya mod\xFClleri_90": -2856292473935152461
+      "Piksel deniz taban\u0131 kaya mod\xFClleri_91": 4526933660667707124
+      "Piksel deniz taban\u0131 kaya mod\xFClleri_92": -2107161571522157247
+      "Piksel deniz taban\u0131 kaya mod\xFClleri_93": 6383512055810610779
+      "Piksel deniz taban\u0131 kaya mod\xFClleri_94": -2306875224878273590
+      "Piksel deniz taban\u0131 kaya mod\xFClleri_95": -4722021914396909861
+      "Piksel deniz taban\u0131 kaya mod\xFClleri_96": 3346251833154042356
+      "Piksel deniz taban\u0131 kaya mod\xFClleri_97": -8518221407572371357
+      "Piksel deniz taban\u0131 kaya mod\xFClleri_98": 7873923679287342604
+      "Piksel deniz taban\u0131 kaya mod\xFClleri_99": -8896769134869812590
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

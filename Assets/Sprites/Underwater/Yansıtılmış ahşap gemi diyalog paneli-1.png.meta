@@ -1,0 +1,494 @@
+fileFormatVersion: 2
+guid: 93459cabbf8e390468eeab459ff16161
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6495345282684225538
+    second: "Yans\u0131t\u0131lm\u0131\u015F ah\u015Fap gemi diyalog paneli-1_0"
+  - first:
+      213: -5546865754440645317
+    second: "Yans\u0131t\u0131lm\u0131\u015F ah\u015Fap gemi diyalog paneli-1_1"
+  - first:
+      213: 2393066940856323404
+    second: "Yans\u0131t\u0131lm\u0131\u015F ah\u015Fap gemi diyalog paneli-1_2"
+  - first:
+      213: 535338136090090320
+    second: "Yans\u0131t\u0131lm\u0131\u015F ah\u015Fap gemi diyalog paneli-1_3"
+  - first:
+      213: 853792335055687926
+    second: "Yans\u0131t\u0131lm\u0131\u015F ah\u015Fap gemi diyalog paneli-1_4"
+  - first:
+      213: 7744571144047594977
+    second: "Yans\u0131t\u0131lm\u0131\u015F ah\u015Fap gemi diyalog paneli-1_5"
+  - first:
+      213: -1864480558259111148
+    second: "Yans\u0131t\u0131lm\u0131\u015F ah\u015Fap gemi diyalog paneli-1_6"
+  - first:
+      213: -5480684152296025269
+    second: "Yans\u0131t\u0131lm\u0131\u015F ah\u015Fap gemi diyalog paneli-1_7"
+  - first:
+      213: -8640253753055098532
+    second: "Yans\u0131t\u0131lm\u0131\u015F ah\u015Fap gemi diyalog paneli-1_8"
+  - first:
+      213: -8322062051155528523
+    second: "Yans\u0131t\u0131lm\u0131\u015F ah\u015Fap gemi diyalog paneli-1_9"
+  - first:
+      213: 2267987111111104731
+    second: "Yans\u0131t\u0131lm\u0131\u015F ah\u015Fap gemi diyalog paneli-1_10"
+  - first:
+      213: -1202542670389327345
+    second: "Yans\u0131t\u0131lm\u0131\u015F ah\u015Fap gemi diyalog paneli-1_11"
+  - first:
+      213: -7731513570263410584
+    second: "Yans\u0131t\u0131lm\u0131\u015F ah\u015Fap gemi diyalog paneli-1_12"
+  - first:
+      213: 3977058799209306604
+    second: "Yans\u0131t\u0131lm\u0131\u015F ah\u015Fap gemi diyalog paneli-1_13"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Yans\u0131t\u0131lm\u0131\u015F ah\u015Fap gemi diyalog paneli-1_0"
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 0
+        width: 2145
+        height: 702
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20807ebee1a142a50800000000000000
+      internalID: 6495345282684225538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Yans\u0131t\u0131lm\u0131\u015F ah\u015Fap gemi diyalog paneli-1_1"
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 690
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3549c12cf29503b0800000000000000
+      internalID: -5546865754440645317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Yans\u0131t\u0131lm\u0131\u015F ah\u015Fap gemi diyalog paneli-1_2"
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 675
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4dc87524b1e53120800000000000000
+      internalID: 2393066940856323404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Yans\u0131t\u0131lm\u0131\u015F ah\u015Fap gemi diyalog paneli-1_3"
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 31
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05b9e5cc237ed6700800000000000000
+      internalID: 535338136090090320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Yans\u0131t\u0131lm\u0131\u015F ah\u015Fap gemi diyalog paneli-1_4"
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 31
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f012faea9749db00800000000000000
+      internalID: 853792335055687926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Yans\u0131t\u0131lm\u0131\u015F ah\u015Fap gemi diyalog paneli-1_5"
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 31
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ed82ba4c6e3a7b60800000000000000
+      internalID: 7744571144047594977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Yans\u0131t\u0131lm\u0131\u015F ah\u015Fap gemi diyalog paneli-1_6"
+      rect:
+        serializedVersion: 2
+        x: 1271
+        y: 23
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41bf75a8fc80026e0800000000000000
+      internalID: -1864480558259111148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Yans\u0131t\u0131lm\u0131\u015F ah\u015Fap gemi diyalog paneli-1_7"
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 33
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4358482dc2b0f3b0800000000000000
+      internalID: -5480684152296025269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Yans\u0131t\u0131lm\u0131\u015F ah\u015Fap gemi diyalog paneli-1_8"
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 33
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c594ae75df6a71880800000000000000
+      internalID: -8640253753055098532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Yans\u0131t\u0131lm\u0131\u015F ah\u015Fap gemi diyalog paneli-1_9"
+      rect:
+        serializedVersion: 2
+        x: 1518
+        y: 31
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b4bd1a18a8128c80800000000000000
+      internalID: -8322062051155528523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Yans\u0131t\u0131lm\u0131\u015F ah\u015Fap gemi diyalog paneli-1_10"
+      rect:
+        serializedVersion: 2
+        x: 1699
+        y: 24
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd811f0e242897f10800000000000000
+      internalID: 2267987111111104731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Yans\u0131t\u0131lm\u0131\u015F ah\u015Fap gemi diyalog paneli-1_11"
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 25
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0ac13800d5bf4fe0800000000000000
+      internalID: -1202542670389327345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Yans\u0131t\u0131lm\u0131\u015F ah\u015Fap gemi diyalog paneli-1_12"
+      rect:
+        serializedVersion: 2
+        x: 1695
+        y: 25
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86856540f5524b490800000000000000
+      internalID: -7731513570263410584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Yans\u0131t\u0131lm\u0131\u015F ah\u015Fap gemi diyalog paneli-1_13"
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 18
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce956b118e9513730800000000000000
+      internalID: 3977058799209306604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "Yans\u0131t\u0131lm\u0131\u015F ah\u015Fap gemi diyalog paneli-1_0": 6495345282684225538
+      "Yans\u0131t\u0131lm\u0131\u015F ah\u015Fap gemi diyalog paneli-1_1": -5546865754440645317
+      "Yans\u0131t\u0131lm\u0131\u015F ah\u015Fap gemi diyalog paneli-1_10": 2267987111111104731
+      "Yans\u0131t\u0131lm\u0131\u015F ah\u015Fap gemi diyalog paneli-1_11": -1202542670389327345
+      "Yans\u0131t\u0131lm\u0131\u015F ah\u015Fap gemi diyalog paneli-1_12": -7731513570263410584
+      "Yans\u0131t\u0131lm\u0131\u015F ah\u015Fap gemi diyalog paneli-1_13": 3977058799209306604
+      "Yans\u0131t\u0131lm\u0131\u015F ah\u015Fap gemi diyalog paneli-1_2": 2393066940856323404
+      "Yans\u0131t\u0131lm\u0131\u015F ah\u015Fap gemi diyalog paneli-1_3": 535338136090090320
+      "Yans\u0131t\u0131lm\u0131\u015F ah\u015Fap gemi diyalog paneli-1_4": 853792335055687926
+      "Yans\u0131t\u0131lm\u0131\u015F ah\u015Fap gemi diyalog paneli-1_5": 7744571144047594977
+      "Yans\u0131t\u0131lm\u0131\u015F ah\u015Fap gemi diyalog paneli-1_6": -1864480558259111148
+      "Yans\u0131t\u0131lm\u0131\u015F ah\u015Fap gemi diyalog paneli-1_7": -5480684152296025269
+      "Yans\u0131t\u0131lm\u0131\u015F ah\u015Fap gemi diyalog paneli-1_8": -8640253753055098532
+      "Yans\u0131t\u0131lm\u0131\u015F ah\u015Fap gemi diyalog paneli-1_9": -8322062051155528523
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

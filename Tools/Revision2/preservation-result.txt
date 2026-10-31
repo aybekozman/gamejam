@@ -1,0 +1,3 @@
+PASS 113 authored transforms and all their collider enabled states preserved.
+World extended horizontally to [-240,240]. Village center=(-30.41, -29.97).
+Only camera/swim limits, player pitch and outer boundary positions updated.

@@ -1,0 +1,3822 @@
+fileFormatVersion: 2
+guid: e47e5a3fb480e85419f0df5290997a0b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7955966095565772271
+    second: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_0"
+  - first:
+      213: -2036146107029348420
+    second: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_1"
+  - first:
+      213: -6788806043228955953
+    second: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_2"
+  - first:
+      213: 3636201289505081091
+    second: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_3"
+  - first:
+      213: 5252480741319502395
+    second: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_4"
+  - first:
+      213: 7450473812795682003
+    second: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_5"
+  - first:
+      213: -4955316587312087713
+    second: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_6"
+  - first:
+      213: -7913315845489154252
+    second: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_7"
+  - first:
+      213: -820284067334113106
+    second: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_8"
+  - first:
+      213: 3832479395456620614
+    second: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_9"
+  - first:
+      213: -361654544780955483
+    second: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_10"
+  - first:
+      213: 5217041812885405550
+    second: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_11"
+  - first:
+      213: -6046501216409723072
+    second: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_12"
+  - first:
+      213: -4967462141075595713
+    second: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_13"
+  - first:
+      213: -5414707308323137640
+    second: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_14"
+  - first:
+      213: 1083575727334265836
+    second: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_15"
+  - first:
+      213: -1059360423120368291
+    second: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_16"
+  - first:
+      213: 7549454693286590827
+    second: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_17"
+  - first:
+      213: -3990654439631533244
+    second: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_18"
+  - first:
+      213: 1637854816964759394
+    second: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_19"
+  - first:
+      213: -1677998558807249797
+    second: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_20"
+  - first:
+      213: -148280836093673654
+    second: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_21"
+  - first:
+      213: -1989151028816541664
+    second: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_22"
+  - first:
+      213: -4802037457309345062
+    second: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_23"
+  - first:
+      213: -5656986440663850200
+    second: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_24"
+  - first:
+      213: -8259255832295179012
+    second: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_25"
+  - first:
+      213: -5003101988578344850
+    second: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_26"
+  - first:
+      213: 7771362018246615903
+    second: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_27"
+  - first:
+      213: 3006273091872808186
+    second: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_28"
+  - first:
+      213: 1156801091052937089
+    second: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_29"
+  - first:
+      213: 1975535263446132256
+    second: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_30"
+  - first:
+      213: -8552562774638753866
+    second: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_31"
+  - first:
+      213: -7226249905241303304
+    second: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_32"
+  - first:
+      213: 1322999626407704371
+    second: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_33"
+  - first:
+      213: 6122715360728402228
+    second: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_34"
+  - first:
+      213: -406861853069468003
+    second: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_35"
+  - first:
+      213: -3067709355197755110
+    second: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_36"
+  - first:
+      213: -933706245926621143
+    second: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_37"
+  - first:
+      213: 410640434319408781
+    second: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_38"
+  - first:
+      213: -3431590439187000375
+    second: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_39"
+  - first:
+      213: 589949183762435421
+    second: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_40"
+  - first:
+      213: 1081713979245298024
+    second: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_41"
+  - first:
+      213: -1405685643641997568
+    second: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_42"
+  - first:
+      213: 6001953091681137811
+    second: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_43"
+  - first:
+      213: -1663195172352787782
+    second: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_44"
+  - first:
+      213: -5296367446647631887
+    second: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_45"
+  - first:
+      213: 1699958287431489011
+    second: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_46"
+  - first:
+      213: 8464576443446186625
+    second: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_47"
+  - first:
+      213: 4087022060063286015
+    second: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_48"
+  - first:
+      213: -2611289413152535608
+    second: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_49"
+  - first:
+      213: -2116106822143413072
+    second: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_50"
+  - first:
+      213: -855457716926574642
+    second: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_51"
+  - first:
+      213: -2735142758204562605
+    second: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_52"
+  - first:
+      213: -7622913228402086190
+    second: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_53"
+  - first:
+      213: 1224071823912975400
+    second: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_54"
+  - first:
+      213: -5294678486248556728
+    second: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_55"
+  - first:
+      213: -8037392219040824617
+    second: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_56"
+  - first:
+      213: -8317475922327178876
+    second: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_57"
+  - first:
+      213: 7991065980931790513
+    second: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_58"
+  - first:
+      213: -8166248546976311546
+    second: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_59"
+  - first:
+      213: 4831411886973022335
+    second: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_60"
+  - first:
+      213: -2787290982273893625
+    second: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_61"
+  - first:
+      213: -4258926145094769209
+    second: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_62"
+  - first:
+      213: -6340497831337597682
+    second: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_63"
+  - first:
+      213: -5861923415840180489
+    second: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_64"
+  - first:
+      213: 5294255491351731607
+    second: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_65"
+  - first:
+      213: 2306378622223327957
+    second: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_66"
+  - first:
+      213: -6625969425551099431
+    second: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_67"
+  - first:
+      213: -1977429003711974256
+    second: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_68"
+  - first:
+      213: 223100752373681755
+    second: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_69"
+  - first:
+      213: -7293718803295321220
+    second: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_70"
+  - first:
+      213: 1065074657211471316
+    second: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_71"
+  - first:
+      213: 4185655985800913487
+    second: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_72"
+  - first:
+      213: 3665846691774770233
+    second: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_73"
+  - first:
+      213: -2002835248352147225
+    second: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_74"
+  - first:
+      213: -5843858446636163930
+    second: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_75"
+  - first:
+      213: 3082273102257731776
+    second: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_76"
+  - first:
+      213: 604374945243629614
+    second: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_77"
+  - first:
+      213: 7686212624065540346
+    second: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_78"
+  - first:
+      213: -4892807313805517887
+    second: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_79"
+  - first:
+      213: 2804575862967102726
+    second: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_80"
+  - first:
+      213: -2468067508392917479
+    second: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_81"
+  - first:
+      213: -7095993304306901573
+    second: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_82"
+  - first:
+      213: -1854147896951029119
+    second: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_83"
+  - first:
+      213: 443325821869215025
+    second: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_84"
+  - first:
+      213: -189522555330203998
+    second: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_85"
+  - first:
+      213: 4693586241895356925
+    second: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_86"
+  - first:
+      213: -2598047853831659573
+    second: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_87"
+  - first:
+      213: -954258530471970006
+    second: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_88"
+  - first:
+      213: -261935010436461169
+    second: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_89"
+  - first:
+      213: 837858560790787862
+    second: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_90"
+  - first:
+      213: -8427523989368726763
+    second: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_91"
+  - first:
+      213: 1463275493220356951
+    second: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_92"
+  - first:
+      213: -9072156427906800719
+    second: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_93"
+  - first:
+      213: 771411227627159807
+    second: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_94"
+  - first:
+      213: 5867441461424934086
+    second: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_95"
+  - first:
+      213: -529918677212118697
+    second: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_96"
+  - first:
+      213: 931750953812740395
+    second: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_97"
+  - first:
+      213: -8013070999593956575
+    second: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_98"
+  - first:
+      213: 4494634902854900344
+    second: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_99"
+  - first:
+      213: 2992157551939669849
+    second: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_100"
+  - first:
+      213: -2046790181197787259
+    second: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_101"
+  - first:
+      213: 877297634152846317
+    second: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_102"
+  - first:
+      213: 7106766393842602023
+    second: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_103"
+  - first:
+      213: -1399493923199473822
+    second: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_104"
+  - first:
+      213: 5307578664677342732
+    second: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_105"
+  - first:
+      213: -6312230492564772503
+    second: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_106"
+  - first:
+      213: -5111070396584550600
+    second: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_107"
+  - first:
+      213: -7237293168673847158
+    second: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_108"
+  - first:
+      213: -7344038942266815246
+    second: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_109"
+  - first:
+      213: 8521713029899320053
+    second: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_110"
+  - first:
+      213: 2814809618076350669
+    second: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_111"
+  - first:
+      213: 799324821431518648
+    second: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_112"
+  - first:
+      213: -4519421317756337294
+    second: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_113"
+  - first:
+      213: -4276371203039510208
+    second: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_114"
+  - first:
+      213: -4322541322849549117
+    second: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_115"
+  - first:
+      213: 8869816729004644959
+    second: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_116"
+  - first:
+      213: -4294821717437861832
+    second: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_117"
+  - first:
+      213: 8834482559782241553
+    second: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_118"
+  - first:
+      213: 4924729668091123794
+    second: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_119"
+  - first:
+      213: 7751098687252834615
+    second: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_120"
+  - first:
+      213: 4196246916634658528
+    second: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_121"
+  - first:
+      213: 638483823952217692
+    second: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_122"
+  - first:
+      213: 2656789878119776734
+    second: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_123"
+  - first:
+      213: -1914827231444414110
+    second: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_124"
+  - first:
+      213: 5325358229410104673
+    second: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_125"
+  - first:
+      213: -6143319192181087149
+    second: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_126"
+  - first:
+      213: -4172245208501321242
+    second: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_127"
+  - first:
+      213: -2612856584872045976
+    second: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_128"
+  - first:
+      213: -5323352550914639107
+    second: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_129"
+  - first:
+      213: 2361823602060783734
+    second: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_130"
+  - first:
+      213: -2464767029750282885
+    second: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_131"
+  - first:
+      213: -9149996294266061276
+    second: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_132"
+  - first:
+      213: 8556505113809517819
+    second: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_133"
+  - first:
+      213: -4533535855902578792
+    second: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_134"
+  - first:
+      213: -6159295858949239553
+    second: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_135"
+  - first:
+      213: -7888948016906817820
+    second: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_136"
+  - first:
+      213: -2397770481060607127
+    second: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_137"
+  - first:
+      213: 7177150629419340601
+    second: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_138"
+  - first:
+      213: 7848786376119553864
+    second: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_139"
+  - first:
+      213: -7128386224272572272
+    second: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_140"
+  - first:
+      213: -7770365787185847504
+    second: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_141"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_0"
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 330
+        width: 159
+        height: 491
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe5df3be205496e60800000000000000
+      internalID: 7955966095565772271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_1"
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 829
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbf98b357e72eb3e0800000000000000
+      internalID: -2036146107029348420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_2"
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 821
+        width: 74
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fca10505fd059c1a0800000000000000
+      internalID: -6788806043228955953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_3"
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 761
+        width: 88
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30784c0bec1667230800000000000000
+      internalID: 3636201289505081091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_4"
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 812
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3aede7c76f84e840800000000000000
+      internalID: 5252480741319502395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_5"
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 773
+        width: 80
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dc690c5576656760800000000000000
+      internalID: 7450473812795682003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_6"
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 773
+        width: 58
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5d79a771dd2b3bb0800000000000000
+      internalID: -4955316587312087713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_7"
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 821
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43726224a214e2290800000000000000
+      internalID: -7913315845489154252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_8"
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 795
+        width: 39
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea833af9cf3cd94f0800000000000000
+      internalID: -820284067334113106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_9"
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 729
+        width: 133
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 648123f64b3bf2530800000000000000
+      internalID: 3832479395456620614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_10"
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 829
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a0fcee8b152bfaf0800000000000000
+      internalID: -361654544780955483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_11"
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 805
+        width: 51
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6ff46343e7a66840800000000000000
+      internalID: 5217041812885405550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_12"
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 717
+        width: 57
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04f5eeded23861ca0800000000000000
+      internalID: -6046501216409723072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_13"
+      rect:
+        serializedVersion: 2
+        x: 1578
+        y: 827
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3edcfd5087001bb0800000000000000
+      internalID: -4967462141075595713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_14"
+      rect:
+        serializedVersion: 2
+        x: 1594
+        y: 787
+        width: 30
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89710b434681bd4b0800000000000000
+      internalID: -5414707308323137640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_15"
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 759
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce39efa0262a90f00800000000000000
+      internalID: 1083575727334265836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_16"
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 759
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5d8dc2de456c41f0800000000000000
+      internalID: -1059360423120368291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_17"
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 761
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b69b0497b0d05c860800000000000000
+      internalID: 7549454693286590827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_18"
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 795
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44b4d683ee85e98c0800000000000000
+      internalID: -3990654439631533244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_19"
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 723
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26fc8de3744dab610800000000000000
+      internalID: 1637854816964759394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_20"
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 762
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7c2da0833d86b8e0800000000000000
+      internalID: -1677998558807249797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_21"
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 757
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4f73ad7d5331fdf0800000000000000
+      internalID: -148280836093673654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_22"
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 749
+        width: 42
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02889c2adad1564e0800000000000000
+      internalID: -1989151028816541664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_23"
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 741
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adad4f6ff5cbb5db0800000000000000
+      internalID: -4802037457309345062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_24"
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 763
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 823a701edc85e71b0800000000000000
+      internalID: -5656986440663850200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_25"
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 773
+        width: 84
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfcf8f6749a316d80800000000000000
+      internalID: -8259255832295179012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_26"
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 539
+        width: 332
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e60ccbbbf39619ab0800000000000000
+      internalID: -5003101988578344850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_27"
+      rect:
+        serializedVersion: 2
+        x: 1457
+        y: 789
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f536d86c49c69db60800000000000000
+      internalID: 7771362018246615903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_28"
+      rect:
+        serializedVersion: 2
+        x: 1586
+        y: 792
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afcd4eaf27d68b920800000000000000
+      internalID: 3006273091872808186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_29"
+      rect:
+        serializedVersion: 2
+        x: 1595
+        y: 741
+        width: 69
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18f9efb9678cd0010800000000000000
+      internalID: 1156801091052937089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_30"
+      rect:
+        serializedVersion: 2
+        x: 1625
+        y: 795
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 026e6f2fad28a6b10800000000000000
+      internalID: 1975535263446132256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_31"
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 739
+        width: 13
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b78d6a48713f4980800000000000000
+      internalID: -8552562774638753866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_32"
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 728
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f654eb5ff337bb90800000000000000
+      internalID: -7226249905241303304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_33"
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 757
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3377102962d3c5210800000000000000
+      internalID: 1322999626407704371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_34"
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 757
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4394b095e2148f450800000000000000
+      internalID: 6122715360728402228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_35"
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 739
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9e132fdc498a5af0800000000000000
+      internalID: -406861853069468003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_36"
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 749
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a119b49489e4d65d0800000000000000
+      internalID: -3067709355197755110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_37"
+      rect:
+        serializedVersion: 2
+        x: 1421
+        y: 749
+        width: 42
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 920faf6cd1fca03f0800000000000000
+      internalID: -933706245926621143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_38"
+      rect:
+        serializedVersion: 2
+        x: 1578
+        y: 749
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8e3502ac43e2b500800000000000000
+      internalID: 410640434319408781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_39"
+      rect:
+        serializedVersion: 2
+        x: 1605
+        y: 660
+        width: 75
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c3d1a94daa8060d0800000000000000
+      internalID: -3431590439187000375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_40"
+      rect:
+        serializedVersion: 2
+        x: 1651
+        y: 757
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5d01bd28abef2800800000000000000
+      internalID: 589949183762435421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_41"
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 678
+        width: 45
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8618d790225030f00800000000000000
+      internalID: 1081713979245298024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_42"
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 698
+        width: 61
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0073ad0da500e7ce0800000000000000
+      internalID: -1405685643641997568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_43"
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 725
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 394363489883b4350800000000000000
+      internalID: 6001953091681137811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_44"
+      rect:
+        serializedVersion: 2
+        x: 1411
+        y: 684
+        width: 42
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aba74cf7dc42be8e0800000000000000
+      internalID: -1663195172352787782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_45"
+      rect:
+        serializedVersion: 2
+        x: 1633
+        y: 733
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ff00ae5ed58f76b0800000000000000
+      internalID: -5296367446647631887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_46"
+      rect:
+        serializedVersion: 2
+        x: 1699
+        y: 724
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f5d55f3e07779710800000000000000
+      internalID: 1699958287431489011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_47"
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 713
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 182dfb59d67387570800000000000000
+      internalID: 8464576443446186625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_48"
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 700
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff2e14fd8e408b830800000000000000
+      internalID: 4087022060063286015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_49"
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 630
+        width: 75
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cb0e4b2d16d2cbd0800000000000000
+      internalID: -2611289413152535608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_50"
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 709
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b47c5f8e0412a2e0800000000000000
+      internalID: -2116106822143413072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_51"
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 706
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecf89362dbdc024f0800000000000000
+      internalID: -855457716926574642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_52"
+      rect:
+        serializedVersion: 2
+        x: 1669
+        y: 676
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3532c3f1722da0ad0800000000000000
+      internalID: -2735142758204562605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_53"
+      rect:
+        serializedVersion: 2
+        x: 1707
+        y: 706
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dea7738ec8f53690800000000000000
+      internalID: -7622913228402086190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_54"
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 539
+        width: 127
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82cb5e3a6d6ccf010800000000000000
+      internalID: 1224071823912975400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_55"
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 582
+        width: 168
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 847704b18f58586b0800000000000000
+      internalID: -5294678486248556728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_56"
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 374
+        width: 178
+        height: 334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d245975c52757090800000000000000
+      internalID: -8037392219040824617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_57"
+      rect:
+        serializedVersion: 2
+        x: 1715
+        y: 700
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 481f2dd67b3629c80800000000000000
+      internalID: -8317475922327178876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_58"
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 25
+        width: 245
+        height: 652
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b6d522db28f5ee60800000000000000
+      internalID: 7991065980931790513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_59"
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 660
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6075de19638abae80800000000000000
+      internalID: -8166248546976311546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_60"
+      rect:
+        serializedVersion: 2
+        x: 1515
+        y: 652
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7070a6638f9c0340800000000000000
+      internalID: 4831411886973022335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_61"
+      rect:
+        serializedVersion: 2
+        x: 1561
+        y: 615
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70b3aeb8e9d8159d0800000000000000
+      internalID: -2787290982273893625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_62"
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 531
+        width: 18
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c5a00d5c3145e4c0800000000000000
+      internalID: -4258926145094769209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_63"
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 547
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e05ecf7d0d60208a0800000000000000
+      internalID: -6340497831337597682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_64"
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 493
+        width: 114
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f63d4a06b346aea0800000000000000
+      internalID: -5861923415840180489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_65"
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 558
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79d5e28b159f87940800000000000000
+      internalID: 5294255491351731607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_66"
+      rect:
+        serializedVersion: 2
+        x: 1627
+        y: 565
+        width: 55
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d22d2f1327e10020800000000000000
+      internalID: 2306378622223327957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_67"
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 523
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d97d61d9e3db04a0800000000000000
+      internalID: -6625969425551099431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_68"
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 509
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09471394cc2ce84e0800000000000000
+      internalID: -1977429003711974256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_69"
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 533
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5e0b56c3fc981300800000000000000
+      internalID: 223100752373681755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_70"
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 547
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c73cef5646187ca90800000000000000
+      internalID: -7293718803295321220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_71"
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 499
+        width: 15
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d55c5af1c7e7ce00800000000000000
+      internalID: 1065074657211471316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_72"
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 503
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f42a6a941ff661a30800000000000000
+      internalID: 4185655985800913487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_73"
+      rect:
+        serializedVersion: 2
+        x: 1435
+        y: 519
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93ca648c424bfd230800000000000000
+      internalID: 3665846691774770233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_74"
+      rect:
+        serializedVersion: 2
+        x: 1451
+        y: 442
+        width: 92
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e8c65ef3ff7434e0800000000000000
+      internalID: -2002835248352147225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_75"
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 378
+        width: 158
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6acd59274b176eea0800000000000000
+      internalID: -5843858446636163930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_76"
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 492
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c830d05e0f66ca20800000000000000
+      internalID: 3082273102257731776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_77"
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 486
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2884628fcb236800800000000000000
+      internalID: 604374945243629614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_78"
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 446
+        width: 33
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af0bc8588a9eaaa60800000000000000
+      internalID: 7686212624065540346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_79"
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 402
+        width: 48
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cb503adba1491cb0800000000000000
+      internalID: -4892807313805517887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_80"
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 450
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60de9c953eadbe620800000000000000
+      internalID: 2804575862967102726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_81"
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 423
+        width: 46
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9168e807da9afbdd0800000000000000
+      internalID: -2468067508392917479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_82"
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 442
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbd9c389fa7f58d90800000000000000
+      internalID: -7095993304306901573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_83"
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 376
+        width: 90
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1824239bf4eb446e0800000000000000
+      internalID: -1854147896951029119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_84"
+      rect:
+        serializedVersion: 2
+        x: 1570
+        y: 259
+        width: 130
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13dc5447c72072600800000000000000
+      internalID: 443325821869215025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_85"
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 422
+        width: 61
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ae6e947d3eae5df0800000000000000
+      internalID: -189522555330203998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_86"
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 434
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df955deb1d7f22140800000000000000
+      internalID: 4693586241895356925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_87"
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 436
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcfd5e2fd31e1fbd0800000000000000
+      internalID: -2598047853831659573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_88"
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 383
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2bf4532ceac1c2f0800000000000000
+      internalID: -954258530471970006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_89"
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 408
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8d42bcee7b6d5cf0800000000000000
+      internalID: -261935010436461169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_90"
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 249
+        width: 120
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61774fffbeba0ab00800000000000000
+      internalID: 837858560790787862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_91"
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 386
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51b1895259b6b0b80800000000000000
+      internalID: -8427523989368726763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_92"
+      rect:
+        serializedVersion: 2
+        x: 1234
+        y: 321
+        width: 90
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7531fedee499e4410800000000000000
+      internalID: 1463275493220356951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_93"
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 354
+        width: 19
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b3a6df8bc9391280800000000000000
+      internalID: -9072156427906800719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_94"
+      rect:
+        serializedVersion: 2
+        x: 1411
+        y: 373
+        width: 42
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff00776ac6a94ba00800000000000000
+      internalID: 771411227627159807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_95"
+      rect:
+        serializedVersion: 2
+        x: 1457
+        y: 402
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ccc1a01ce65d6150800000000000000
+      internalID: 5867441461424934086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_96"
+      rect:
+        serializedVersion: 2
+        x: 1459
+        y: 386
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7514dec45c955a8f0800000000000000
+      internalID: -529918677212118697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_97"
+      rect:
+        serializedVersion: 2
+        x: 1576
+        y: 410
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b29c32d4e8e3eec00800000000000000
+      internalID: 931750953812740395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_98"
+      rect:
+        serializedVersion: 2
+        x: 1594
+        y: 394
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12bc735816adbc090800000000000000
+      internalID: -8013070999593956575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_99"
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 360
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87a1dbb61a6206e30800000000000000
+      internalID: 4494634902854900344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_100"
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 353
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95fcd5bb077468920800000000000000
+      internalID: 2992157551939669849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_101"
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 336
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58fc2ffac275893e0800000000000000
+      internalID: -2046790181197787259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_102"
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 354
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de398f5dc89cc2c00800000000000000
+      internalID: 877297634152846317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_103"
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 0
+        width: 227
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7201ca6c16e40a260800000000000000
+      internalID: 7106766393842602023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_104"
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 336
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 267a06211bff39ce0800000000000000
+      internalID: -1399493923199473822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_105"
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 17
+        width: 222
+        height: 326
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0ef88dbcae48a940800000000000000
+      internalID: 5307578664677342732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_106"
+      rect:
+        serializedVersion: 2
+        x: 1363
+        y: 313
+        width: 92
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 969a9468fc37668a0800000000000000
+      internalID: -6312230492564772503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_107"
+      rect:
+        serializedVersion: 2
+        x: 1693
+        y: 338
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83f109dcd84d119b0800000000000000
+      internalID: -5111070396584550600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_108"
+      rect:
+        serializedVersion: 2
+        x: 1707
+        y: 280
+        width: 36
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8885d93538ff8b90800000000000000
+      internalID: -7237293168673847158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_109"
+      rect:
+        serializedVersion: 2
+        x: 1707
+        y: 335
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fc0d8d0e7bb41a90800000000000000
+      internalID: -7344038942266815246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_110"
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 142
+        width: 168
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fa77f8c9d4334670800000000000000
+      internalID: 8521713029899320053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_111"
+      rect:
+        serializedVersion: 2
+        x: 1699
+        y: 319
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc83bc32f66301720800000000000000
+      internalID: 2814809618076350669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_112"
+      rect:
+        serializedVersion: 2
+        x: 1501
+        y: 236
+        width: 34
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b50499a0b5c71b00800000000000000
+      internalID: 799324821431518648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_113"
+      rect:
+        serializedVersion: 2
+        x: 1553
+        y: 176
+        width: 51
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2734ec4a14ac741c0800000000000000
+      internalID: -4519421317756337294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_114"
+      rect:
+        serializedVersion: 2
+        x: 1629
+        y: 214
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 041ce1b4c0747a4c0800000000000000
+      internalID: -4276371203039510208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_115"
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 128
+        width: 61
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c40b94919f3304c0800000000000000
+      internalID: -4322541322849549117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_116"
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 146
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5a932b125be71b70800000000000000
+      internalID: 8869816729004644959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_117"
+      rect:
+        serializedVersion: 2
+        x: 1306
+        y: 113
+        width: 132
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 830bb76276ab564c0800000000000000
+      internalID: -4294821717437861832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_118"
+      rect:
+        serializedVersion: 2
+        x: 1411
+        y: 177
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 115443eb4136a9a70800000000000000
+      internalID: 8834482559782241553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_119"
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 0
+        width: 84
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25816617a87285440800000000000000
+      internalID: 4924729668091123794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_120"
+      rect:
+        serializedVersion: 2
+        x: 1401
+        y: 143
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 739a3b0603f619b60800000000000000
+      internalID: 7751098687252834615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_121"
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 128
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e646d786501c3a30800000000000000
+      internalID: 4196246916634658528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_122"
+      rect:
+        serializedVersion: 2
+        x: 1441
+        y: 144
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c564181b7a95cd800800000000000000
+      internalID: 638483823952217692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_123"
+      rect:
+        serializedVersion: 2
+        x: 1458
+        y: 145
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed1ce206150ded420800000000000000
+      internalID: 2656789878119776734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_124"
+      rect:
+        serializedVersion: 2
+        x: 1629
+        y: 0
+        width: 124
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 261d28737ca2d65e0800000000000000
+      internalID: -1914827231444414110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_125"
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 127
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16541bd381977e940800000000000000
+      internalID: 5325358229410104673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_126"
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 112
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 354e4305ebb8ebaa0800000000000000
+      internalID: -6143319192181087149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_127"
+      rect:
+        serializedVersion: 2
+        x: 1385
+        y: 31
+        width: 193
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e1047f96153916c0800000000000000
+      internalID: -4172245208501321242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_128"
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 118
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86259a197c44dbbd0800000000000000
+      internalID: -2612856584872045976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_129"
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 82
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfa309c2f07af16b0800000000000000
+      internalID: -5323352550914639107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_130"
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 94
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67077f67d02e6c020800000000000000
+      internalID: 2361823602060783734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_131"
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 37
+        width: 55
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b75c3a102736bcdd0800000000000000
+      internalID: -2464767029750282885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_132"
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 98
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42e712069dea40180800000000000000
+      internalID: -9149996294266061276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_133"
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 94
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfcfd631110deb670800000000000000
+      internalID: 8556505113809517819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_134"
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 84
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8972e64a825a511c0800000000000000
+      internalID: -4533535855902578792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_135"
+      rect:
+        serializedVersion: 2
+        x: 1417
+        y: 96
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffccbc4bc09c58aa0800000000000000
+      internalID: -6159295858949239553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_136"
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 47
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ee2fb87393d48290800000000000000
+      internalID: -7888948016906817820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_137"
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 76
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96b077f837869bed0800000000000000
+      internalID: -2397770481060607127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_138"
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 17
+        width: 111
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 933d206a87c5a9360800000000000000
+      internalID: 7177150629419340601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_139"
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 68
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84f088adf9d7cec60800000000000000
+      internalID: 7848786376119553864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_140"
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 47
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09002703f72e21d90800000000000000
+      internalID: -7128386224272572272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_141"
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 47
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03360f75c7d1a2490800000000000000
+      internalID: -7770365787185847504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_0": 7955966095565772271
+      "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_1": -2036146107029348420
+      "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_10": -361654544780955483
+      "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_100": 2992157551939669849
+      "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_101": -2046790181197787259
+      "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_102": 877297634152846317
+      "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_103": 7106766393842602023
+      "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_104": -1399493923199473822
+      "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_105": 5307578664677342732
+      "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_106": -6312230492564772503
+      "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_107": -5111070396584550600
+      "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_108": -7237293168673847158
+      "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_109": -7344038942266815246
+      "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_11": 5217041812885405550
+      "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_110": 8521713029899320053
+      "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_111": 2814809618076350669
+      "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_112": 799324821431518648
+      "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_113": -4519421317756337294
+      "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_114": -4276371203039510208
+      "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_115": -4322541322849549117
+      "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_116": 8869816729004644959
+      "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_117": -4294821717437861832
+      "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_118": 8834482559782241553
+      "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_119": 4924729668091123794
+      "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_12": -6046501216409723072
+      "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_120": 7751098687252834615
+      "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_121": 4196246916634658528
+      "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_122": 638483823952217692
+      "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_123": 2656789878119776734
+      "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_124": -1914827231444414110
+      "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_125": 5325358229410104673
+      "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_126": -6143319192181087149
+      "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_127": -4172245208501321242
+      "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_128": -2612856584872045976
+      "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_129": -5323352550914639107
+      "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_13": -4967462141075595713
+      "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_130": 2361823602060783734
+      "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_131": -2464767029750282885
+      "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_132": -9149996294266061276
+      "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_133": 8556505113809517819
+      "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_134": -4533535855902578792
+      "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_135": -6159295858949239553
+      "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_136": -7888948016906817820
+      "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_137": -2397770481060607127
+      "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_138": 7177150629419340601
+      "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_139": 7848786376119553864
+      "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_14": -5414707308323137640
+      "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_140": -7128386224272572272
+      "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_141": -7770365787185847504
+      "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_15": 1083575727334265836
+      "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_16": -1059360423120368291
+      "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_17": 7549454693286590827
+      "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_18": -3990654439631533244
+      "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_19": 1637854816964759394
+      "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_2": -6788806043228955953
+      "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_20": -1677998558807249797
+      "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_21": -148280836093673654
+      "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_22": -1989151028816541664
+      "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_23": -4802037457309345062
+      "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_24": -5656986440663850200
+      "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_25": -8259255832295179012
+      "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_26": -5003101988578344850
+      "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_27": 7771362018246615903
+      "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_28": 3006273091872808186
+      "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_29": 1156801091052937089
+      "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_3": 3636201289505081091
+      "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_30": 1975535263446132256
+      "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_31": -8552562774638753866
+      "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_32": -7226249905241303304
+      "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_33": 1322999626407704371
+      "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_34": 6122715360728402228
+      "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_35": -406861853069468003
+      "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_36": -3067709355197755110
+      "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_37": -933706245926621143
+      "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_38": 410640434319408781
+      "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_39": -3431590439187000375
+      "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_4": 5252480741319502395
+      "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_40": 589949183762435421
+      "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_41": 1081713979245298024
+      "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_42": -1405685643641997568
+      "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_43": 6001953091681137811
+      "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_44": -1663195172352787782
+      "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_45": -5296367446647631887
+      "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_46": 1699958287431489011
+      "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_47": 8464576443446186625
+      "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_48": 4087022060063286015
+      "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_49": -2611289413152535608
+      "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_5": 7450473812795682003
+      "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_50": -2116106822143413072
+      "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_51": -855457716926574642
+      "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_52": -2735142758204562605
+      "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_53": -7622913228402086190
+      "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_54": 1224071823912975400
+      "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_55": -5294678486248556728
+      "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_56": -8037392219040824617
+      "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_57": -8317475922327178876
+      "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_58": 7991065980931790513
+      "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_59": -8166248546976311546
+      "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_6": -4955316587312087713
+      "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_60": 4831411886973022335
+      "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_61": -2787290982273893625
+      "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_62": -4258926145094769209
+      "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_63": -6340497831337597682
+      "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_64": -5861923415840180489
+      "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_65": 5294255491351731607
+      "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_66": 2306378622223327957
+      "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_67": -6625969425551099431
+      "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_68": -1977429003711974256
+      "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_69": 223100752373681755
+      "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_7": -7913315845489154252
+      "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_70": -7293718803295321220
+      "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_71": 1065074657211471316
+      "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_72": 4185655985800913487
+      "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_73": 3665846691774770233
+      "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_74": -2002835248352147225
+      "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_75": -5843858446636163930
+      "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_76": 3082273102257731776
+      "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_77": 604374945243629614
+      "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_78": 7686212624065540346
+      "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_79": -4892807313805517887
+      "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_8": -820284067334113106
+      "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_80": 2804575862967102726
+      "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_81": -2468067508392917479
+      "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_82": -7095993304306901573
+      "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_83": -1854147896951029119
+      "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_84": 443325821869215025
+      "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_85": -189522555330203998
+      "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_86": 4693586241895356925
+      "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_87": -2598047853831659573
+      "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_88": -954258530471970006
+      "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_89": -261935010436461169
+      "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_9": 3832479395456620614
+      "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_90": 837858560790787862
+      "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_91": -8427523989368726763
+      "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_92": 1463275493220356951
+      "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_93": -9072156427906800719
+      "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_94": 771411227627159807
+      "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_95": 5867441461424934086
+      "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_96": -529918677212118697
+      "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_97": 931750953812740395
+      "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_98": -8013070999593956575
+      "Retro su alt\u0131 baloncuk sprite\u2019lar\u0131_99": 4494634902854900344
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

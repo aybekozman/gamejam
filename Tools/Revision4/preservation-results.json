@@ -1,0 +1,5 @@
+{
+  "result": "PASS all existing collider blocks unchanged; only requested background grounding/reparenting and west boundary relocation changed authored transforms",
+  "colliders": 114,
+  "requestedTransformChanges": 304
+}

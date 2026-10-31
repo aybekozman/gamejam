@@ -1,0 +1,6 @@
+Son doğrulama: Unity 6000.3.19f1 Editor, Play Mode.
+13 otomatik kontrol geçti. Ayrıntılar: results.txt.
+1280x720 kamera çıktıları: town.png, surface.png, deep.png.
+Kontroller test girdisiyle FishPilot hareket hattını ve gerçek Physics2D temasını çalıştırır; fiziksel klavye üzerinde uzun süreli elle oynanış testi veya bağımsız platform build testi yapılmamıştır.
+Görsel inceleme: kaynak atlaslar ve işlenmiş kareler; yüzey/su geçişi; kasaba; derin resif; sorting ve alfa; bitki kökleri.
+Mevcut ShipScene ve FishScene dosyaları değiştirilmedi. Input System/proje render ayarları değiştirilmedi.

@@ -1,0 +1,2158 @@
+fileFormatVersion: 2
+guid: 0a36972c6f3a3ba4697d82b08eec1112
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1257620561955287928
+    second: "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_0"
+  - first:
+      213: 5100823498675020619
+    second: "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_1"
+  - first:
+      213: 2426044936192473498
+    second: "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_2"
+  - first:
+      213: 4915916696717537876
+    second: "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_3"
+  - first:
+      213: -2432916049881678692
+    second: "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_4"
+  - first:
+      213: 8119806640757998858
+    second: "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_5"
+  - first:
+      213: 5380858331268709022
+    second: "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_6"
+  - first:
+      213: 6170756261105021349
+    second: "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_7"
+  - first:
+      213: -1250777073698216319
+    second: "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_8"
+  - first:
+      213: -7476997482797620308
+    second: "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_9"
+  - first:
+      213: -690844545768993818
+    second: "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_10"
+  - first:
+      213: -7888272099464682202
+    second: "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_11"
+  - first:
+      213: -8097529724551200124
+    second: "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_12"
+  - first:
+      213: 9215931441510511984
+    second: "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_13"
+  - first:
+      213: 7018245258581203365
+    second: "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_14"
+  - first:
+      213: -1835141203063620575
+    second: "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_15"
+  - first:
+      213: -5008577778279170218
+    second: "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_16"
+  - first:
+      213: 8691403527840924027
+    second: "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_17"
+  - first:
+      213: 3314907528320575097
+    second: "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_18"
+  - first:
+      213: -2896852057253313744
+    second: "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_19"
+  - first:
+      213: -2753640461053721864
+    second: "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_20"
+  - first:
+      213: -8540317153729503963
+    second: "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_21"
+  - first:
+      213: 1394389068696502824
+    second: "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_22"
+  - first:
+      213: 634336674270736027
+    second: "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_23"
+  - first:
+      213: 4195930375573336799
+    second: "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_24"
+  - first:
+      213: 1032837050812382806
+    second: "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_25"
+  - first:
+      213: 252382651470336355
+    second: "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_26"
+  - first:
+      213: 9121483239582277080
+    second: "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_27"
+  - first:
+      213: 2923944286396337049
+    second: "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_28"
+  - first:
+      213: 7247187180741743299
+    second: "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_29"
+  - first:
+      213: 2286835238091328928
+    second: "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_30"
+  - first:
+      213: 8972970127971054060
+    second: "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_31"
+  - first:
+      213: 1830372095436496299
+    second: "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_32"
+  - first:
+      213: 5288557397192069407
+    second: "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_33"
+  - first:
+      213: 4077216559196834108
+    second: "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_34"
+  - first:
+      213: 3002549937586332057
+    second: "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_35"
+  - first:
+      213: -7090347020106036221
+    second: "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_36"
+  - first:
+      213: 4963419067231637551
+    second: "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_37"
+  - first:
+      213: -2374247729180317676
+    second: "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_38"
+  - first:
+      213: 2193104742950580122
+    second: "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_39"
+  - first:
+      213: -6767281739066183037
+    second: "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_40"
+  - first:
+      213: -6393312907139443156
+    second: "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_41"
+  - first:
+      213: -3046119965725742971
+    second: "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_42"
+  - first:
+      213: 5977243164213994967
+    second: "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_43"
+  - first:
+      213: 5240405788038113204
+    second: "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_44"
+  - first:
+      213: -425979717834204678
+    second: "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_45"
+  - first:
+      213: -7712009228356905465
+    second: "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_46"
+  - first:
+      213: -837373096418426473
+    second: "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_47"
+  - first:
+      213: 1139511928473596825
+    second: "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_48"
+  - first:
+      213: -2976855000403333199
+    second: "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_49"
+  - first:
+      213: 8158945870040391338
+    second: "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_50"
+  - first:
+      213: -7466834687552513933
+    second: "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_51"
+  - first:
+      213: 5404870932451139556
+    second: "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_52"
+  - first:
+      213: 8903747010337713898
+    second: "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_53"
+  - first:
+      213: -692272444768956216
+    second: "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_54"
+  - first:
+      213: -5347441622791873171
+    second: "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_55"
+  - first:
+      213: -9130891316663073149
+    second: "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_56"
+  - first:
+      213: -8866404898491345466
+    second: "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_57"
+  - first:
+      213: 6207159238533897976
+    second: "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_58"
+  - first:
+      213: 8807706281241305166
+    second: "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_59"
+  - first:
+      213: -2714088540539431007
+    second: "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_60"
+  - first:
+      213: -8717620531854107709
+    second: "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_61"
+  - first:
+      213: 401666237006986855
+    second: "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_62"
+  - first:
+      213: 6474989182559722358
+    second: "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_63"
+  - first:
+      213: -6841568152832919442
+    second: "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_64"
+  - first:
+      213: 320277340979578727
+    second: "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_65"
+  - first:
+      213: 3395710523632993309
+    second: "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_66"
+  - first:
+      213: 5335962832322843116
+    second: "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_67"
+  - first:
+      213: -2312053741110620159
+    second: "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_68"
+  - first:
+      213: -9220917322575630866
+    second: "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_69"
+  - first:
+      213: -5373518291488433856
+    second: "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_70"
+  - first:
+      213: -7042060893408270910
+    second: "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_71"
+  - first:
+      213: -1761543940595720242
+    second: "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_72"
+  - first:
+      213: 3768325401577155006
+    second: "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_73"
+  - first:
+      213: -103410787501660307
+    second: "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_74"
+  - first:
+      213: -3869115255314941972
+    second: "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_75"
+  - first:
+      213: -1096298394128281709
+    second: "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_76"
+  - first:
+      213: -8274913941484409220
+    second: "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_77"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_0"
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 889
+        width: 151
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88c8d6613c80c8ee0800000000000000
+      internalID: -1257620561955287928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_1"
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 975
+        width: 47
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b436d7c52f3c9c640800000000000000
+      internalID: 5100823498675020619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_2"
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 957
+        width: 121
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9933e6040b0ba120800000000000000
+      internalID: 2426044936192473498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_3"
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 925
+        width: 39
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 452b245a038d83440800000000000000
+      internalID: 4915916696717537876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_4"
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 864
+        width: 67
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9cb4762ebb8c3ed0800000000000000
+      internalID: -2432916049881678692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_5"
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 887
+        width: 75
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a050d338e195fa070800000000000000
+      internalID: 8119806640757998858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_6"
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 839
+        width: 127
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9af8fda426acaa40800000000000000
+      internalID: 5380858331268709022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_7"
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 497
+        width: 511
+        height: 463
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a1beaa102ee2a550800000000000000
+      internalID: 6170756261105021349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_8"
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 913
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 186e30dd0e854aee0800000000000000
+      internalID: -1250777073698216319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_9"
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 901
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca3ab5b776e5c3890800000000000000
+      internalID: -7476997482797620308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_10"
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 900
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eb4c6ebb80a966f0800000000000000
+      internalID: -690844545768993818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_11"
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 911
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62568c3c15a378290800000000000000
+      internalID: -7888272099464682202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_12"
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 895
+        width: 63
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48285f93e9bcf9f80800000000000000
+      internalID: -8097529724551200124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_13"
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 892
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 075769561d095ef70800000000000000
+      internalID: 9215931441510511984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_14"
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 493
+        width: 477
+        height: 399
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a95d40e0e0d56160800000000000000
+      internalID: 7018245258581203365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_15"
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 850
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12cb5be7cc44886e0800000000000000
+      internalID: -1835141203063620575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_16"
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 839
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65f31c71c05fd7ab0800000000000000
+      internalID: -5008577778279170218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_17"
+      rect:
+        serializedVersion: 2
+        x: 1318
+        y: 863
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b710984a5711e9870800000000000000
+      internalID: 8691403527840924027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_18"
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 477
+        width: 503
+        height: 367
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 976e0d875dae00e20800000000000000
+      internalID: 3314907528320575097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_19"
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 827
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0338e80f6605cc7d0800000000000000
+      internalID: -2896852057253313744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_20"
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 816
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f200cf079a19c9d0800000000000000
+      internalID: -2753640461053721864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_21"
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 591
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52d17c61cc2ba7980800000000000000
+      internalID: -8540317153729503963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_22"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 419
+        width: 145
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 822c75e587dd95310800000000000000
+      internalID: 1394389068696502824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_23"
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 559
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9ee8e928dd9dc800800000000000000
+      internalID: 634336674270736027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_24"
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 543
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd2f1521270fa3a30800000000000000
+      internalID: 4195930375573336799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_25"
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 389
+        width: 51
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65eb88453df555e00800000000000000
+      internalID: 1032837050812382806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_26"
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 477
+        width: 23
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3615c503fa4a08300800000000000000
+      internalID: 252382651470336355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_27"
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 514
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dd1bffbda4069e70800000000000000
+      internalID: 9121483239582277080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_28"
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 0
+        width: 397
+        height: 502
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99bcfa536dfe39820800000000000000
+      internalID: 2923944286396337049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_29"
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 487
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c250e8f75e239460800000000000000
+      internalID: 7247187180741743299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_30"
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 501
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ad874a68887cbf10800000000000000
+      internalID: 2286835238091328928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_31"
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 446
+        width: 51
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce1f7e16ac4668c70800000000000000
+      internalID: 8972970127971054060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_32"
+      rect:
+        serializedVersion: 2
+        x: 1478
+        y: 502
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bad974b19b9c66910800000000000000
+      internalID: 1830372095436496299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_33"
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 23
+        width: 249
+        height: 442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f11d5e9ceeab46940800000000000000
+      internalID: 5288557397192069407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_34"
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 421
+        width: 61
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c39844bcbde259830800000000000000
+      internalID: 4077216559196834108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_35"
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 455
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 991643292433ba920800000000000000
+      internalID: 3002549937586332057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_36"
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 463
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30c845493f60a9d90800000000000000
+      internalID: -7090347020106036221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_37"
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 0
+        width: 613
+        height: 496
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f201eb5285b91e440800000000000000
+      internalID: 4963419067231637551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_38"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 429
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 418ed65054afc0fd0800000000000000
+      internalID: -2374247729180317676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_39"
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 406
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9f2bc6e4297f6e10800000000000000
+      internalID: 2193104742950580122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_40"
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 327
+        width: 61
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 382f8f7ec19c512a0800000000000000
+      internalID: -6767281739066183037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_41"
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 339
+        width: 65
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c269800c8c36647a0800000000000000
+      internalID: -6393312907139443156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_42"
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 393
+        width: 7
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58821bbb7020ab5d0800000000000000
+      internalID: -3046119965725742971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_43"
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 405
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d56b133dfe63f250800000000000000
+      internalID: 5977243164213994967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_44"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 343
+        width: 5
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b7a9e2ac49a9b840800000000000000
+      internalID: 5240405788038113204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_45"
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 342
+        width: 35
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af998fc14bd961af0800000000000000
+      internalID: -425979717834204678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_46"
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 293
+        width: 57
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 706904f777079f490800000000000000
+      internalID: -7712009228356905465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_47"
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 343
+        width: 59
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 791c28bfa9d0164f0800000000000000
+      internalID: -837373096418426473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_48"
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 357
+        width: 9
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9933df1cf0c50df00800000000000000
+      internalID: 1139511928473596825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_49"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 103
+        width: 65
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bf2d11362610b6d0800000000000000
+      internalID: -2976855000403333199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_50"
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 93
+        width: 56
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaed5657a066a3170800000000000000
+      internalID: 8158945870040391338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_51"
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 163
+        width: 95
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3781ed3a969706890800000000000000
+      internalID: -7466834687552513933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_52"
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 95
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ef95911a75f10b40800000000000000
+      internalID: 5404870932451139556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_53"
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 51
+        width: 33
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aee20295bb6709b70800000000000000
+      internalID: 8903747010337713898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_54"
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 83
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c051c911ed8466f0800000000000000
+      internalID: -692272444768956216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_55"
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 57
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6d1a501d221ac5b0800000000000000
+      internalID: -5347441622791873171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_56"
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 79
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 386499b99be884180800000000000000
+      internalID: -9130891316663073149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_57"
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 61
+        width: 31
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c5d3a698b334f480800000000000000
+      internalID: -8866404898491345466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_58"
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 61
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fed815c072442650800000000000000
+      internalID: 6207159238533897976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_59"
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 49
+        width: 9
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e406d5392324b3a70800000000000000
+      internalID: 8807706281241305166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_60"
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 67
+        width: 41
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a7503c2ade955ad0800000000000000
+      internalID: -2714088540539431007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_61"
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 69
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cb1f20705ac40780800000000000000
+      internalID: -8717620531854107709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_62"
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 63
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76eb11f7051039500800000000000000
+      internalID: 401666237006986855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_63"
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 63
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67b18f60b58cbd950800000000000000
+      internalID: 6474989182559722358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_64"
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 50
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e68b4cf530edd01a0800000000000000
+      internalID: -6841568152832919442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_65"
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 70
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 767c1b27b8ad17400800000000000000
+      internalID: 320277340979578727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_66"
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 57
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d144331eabcff1f20800000000000000
+      internalID: 3395710523632993309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_67"
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 31
+        width: 13
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce15a43cce52d0a40800000000000000
+      internalID: 5335962832322843116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_68"
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 50
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1001d7b4f5fe9efd0800000000000000
+      internalID: -2312053741110620159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_69"
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 50
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eed22a4bc88b80080800000000000000
+      internalID: -9220917322575630866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_70"
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 55
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04994c1859d6d65b0800000000000000
+      internalID: -5373518291488433856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_71"
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 49
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c5eab98de2954e90800000000000000
+      internalID: -7042060893408270910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_72"
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 47
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecfdc8c7e1dbd87e0800000000000000
+      internalID: -1761543940595720242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_73"
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 39
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb9661fbcf7cb4430800000000000000
+      internalID: 3768325401577155006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_74"
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 31
+        width: 29
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d672509cf6c909ef0800000000000000
+      internalID: -103410787501660307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_75"
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 18
+        width: 35
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce778ebbc242e4ac0800000000000000
+      internalID: -3869115255314941972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_76"
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 23
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39f07224b6a29c0f0800000000000000
+      internalID: -1096298394128281709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_77"
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 21
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7ee4e2dc99992d80800000000000000
+      internalID: -8274913941484409220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_0": -1257620561955287928
+      "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_1": 5100823498675020619
+      "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_10": -690844545768993818
+      "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_11": -7888272099464682202
+      "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_12": -8097529724551200124
+      "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_13": 9215931441510511984
+      "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_14": 7018245258581203365
+      "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_15": -1835141203063620575
+      "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_16": -5008577778279170218
+      "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_17": 8691403527840924027
+      "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_18": 3314907528320575097
+      "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_19": -2896852057253313744
+      "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_2": 2426044936192473498
+      "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_20": -2753640461053721864
+      "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_21": -8540317153729503963
+      "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_22": 1394389068696502824
+      "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_23": 634336674270736027
+      "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_24": 4195930375573336799
+      "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_25": 1032837050812382806
+      "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_26": 252382651470336355
+      "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_27": 9121483239582277080
+      "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_28": 2923944286396337049
+      "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_29": 7247187180741743299
+      "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_3": 4915916696717537876
+      "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_30": 2286835238091328928
+      "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_31": 8972970127971054060
+      "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_32": 1830372095436496299
+      "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_33": 5288557397192069407
+      "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_34": 4077216559196834108
+      "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_35": 3002549937586332057
+      "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_36": -7090347020106036221
+      "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_37": 4963419067231637551
+      "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_38": -2374247729180317676
+      "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_39": 2193104742950580122
+      "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_4": -2432916049881678692
+      "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_40": -6767281739066183037
+      "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_41": -6393312907139443156
+      "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_42": -3046119965725742971
+      "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_43": 5977243164213994967
+      "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_44": 5240405788038113204
+      "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_45": -425979717834204678
+      "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_46": -7712009228356905465
+      "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_47": -837373096418426473
+      "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_48": 1139511928473596825
+      "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_49": -2976855000403333199
+      "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_5": 8119806640757998858
+      "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_50": 8158945870040391338
+      "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_51": -7466834687552513933
+      "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_52": 5404870932451139556
+      "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_53": 8903747010337713898
+      "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_54": -692272444768956216
+      "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_55": -5347441622791873171
+      "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_56": -9130891316663073149
+      "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_57": -8866404898491345466
+      "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_58": 6207159238533897976
+      "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_59": 8807706281241305166
+      "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_6": 5380858331268709022
+      "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_60": -2714088540539431007
+      "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_61": -8717620531854107709
+      "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_62": 401666237006986855
+      "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_63": 6474989182559722358
+      "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_64": -6841568152832919442
+      "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_65": 320277340979578727
+      "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_66": 3395710523632993309
+      "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_67": 5335962832322843116
+      "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_68": -2312053741110620159
+      "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_69": -9220917322575630866
+      "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_7": 6170756261105021349
+      "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_70": -5373518291488433856
+      "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_71": -7042060893408270910
+      "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_72": -1761543940595720242
+      "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_73": 3768325401577155006
+      "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_74": -103410787501660307
+      "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_75": -3869115255314941972
+      "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_76": -1096298394128281709
+      "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_77": -8274913941484409220
+      "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_8": -1250777073698216319
+      "Piksel bal\u0131klar ve su \xF6rnekleme ara\xE7lar\u0131_9": -7476997482797620308
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
