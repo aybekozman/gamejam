@@ -44,6 +44,7 @@ namespace Abyss.Story
         static RectTransform Rect(string name,Transform parent,Vector2 position,Vector2 size,Vector2 anchor,Vector2 pivot){var go=new GameObject(name,typeof(RectTransform));go.transform.SetParent(parent,false);var r=go.GetComponent<RectTransform>();r.anchorMin=r.anchorMax=anchor;r.pivot=pivot;r.sizeDelta=size;r.anchoredPosition=position;return r;}
         Text Text(string name,Transform parent,Vector2 position,Vector2 size,int fontSize,TextAnchor alignment,Color color){var r=Rect(name,parent,position,size,new Vector2(0,1),new Vector2(0,1));var t=r.gameObject.AddComponent<Text>();Configure(t,fontSize,alignment,color);return t;}
         void Configure(Text text,int size,TextAnchor alignment,Color color){text.font=font;text.fontSize=size;text.alignment=alignment;text.color=color;text.horizontalOverflow=HorizontalWrapMode.Wrap;text.verticalOverflow=VerticalWrapMode.Overflow;text.supportRichText=false;}
+        public void UseFont(Font value){font=value;foreach(var t in GetComponentsInChildren<Text>(true)){t.font=value;t.lineSpacing=1.15f;}}
         public void Bind(FishPilot player){pilot=player;}
         public void Show(IEnumerable<Line> dialogue,bool block,Action onComplete=null,bool auto=false)
         {
@@ -97,7 +98,9 @@ namespace Abyss.Story
         }
         public void ShowThought(string text,float duration=2.8f){if(Blocking)return;thought.text=text;thoughtUntil=Time.unscaledTime+duration;}
         public void ClearThought(){if(thought)thought.text="";thoughtUntil=0;}
-        public void SetHealth(int remaining){if(health)health.text=remaining<0?"":"Can: "+remaining+"/3";}
+        public Sprite fullHeart,emptyHeart;Image[] hearts;
+        public void SetHealth(int remaining){if(health)health.text="";if(hearts==null&&fullHeart){hearts=new Image[3];for(int i=0;i<3;i++){var r=Rect("Health heart "+i,canvasRect,new Vector2(25+i*52,-122),new Vector2(42,38),new Vector2(0,1),new Vector2(0,1));hearts[i]=r.gameObject.AddComponent<Image>();hearts[i].preserveAspect=true;}}if(hearts!=null)for(int i=0;i<hearts.Length;i++){hearts[i].gameObject.SetActive(remaining>=0);hearts[i].sprite=i<remaining?fullHeart:emptyHeart;}}
+
         public void SetDangerWarning(string text){if(danger)danger.text=Blocking?"":text;}
         public System.Collections.IEnumerator Fade(bool toBlack,string label="")
         {

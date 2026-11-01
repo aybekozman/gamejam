@@ -1,0 +1,19 @@
+PASS Discharge follows actual decorative vessel transform
+PASS Brine active with identical canvas and anchored pivots
+PASS Animation outlet pivot fixed
+PASS Discharge entry applies one normal damage unit
+PASS No duplicate contact ticks before interval
+PASS Exiting stops damage
+PASS Re-entry respects cooldown and next interval
+PASS Disabling discharge disables visual and damage
+PASS Three persistent heart images replace numeric health
+PASS Two extra surface skeletons without extra interactions
+PASS Ten bounded discharge skeletons
+PASS Local waste deposit separate from brine
+PASS 2D recorded ambience and bubble gain updated
+PASS Single AudioListener
+PASS Coverage changes preserve checkpoint safety
+PASS Can settles on first solid ground without blocking player
+PASS Blocking dialogue rejects discharge damage
+PASS Respawn restores three full hearts
+PASS No new runtime errors

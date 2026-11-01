@@ -28,12 +28,14 @@ namespace Abyss.Story
         void Update()
         {
             if(Paused)return;var player=chapter.PlayerPosition;
+            float lead=Mathf.Clamp((chapter.story.player.surfaceY-player.y)/terminalSpeed*chapter.story.player.CurrentSpeed,6,activationLead);float focus=player.x+lead;var activeSection=sections.OrderBy(s=>Mathf.Abs(focus-Mathf.Clamp(focus,s.left,s.right))).First();
             foreach(var section in sections)
             {
+                if(section!=activeSection)continue;
                 if(player.x<section.left-activationLead||player.x>section.right+12||Time.time<section.nextShot)continue;
                 // Frequent fixed-lane shots; short salvos keep pressure between safe columns.
-                section.nextShot=Time.time+(section==sections[0]?tutorialInterval:shotInterval);
-                float count=Mathf.Max(1,Mathf.Floor((section.right-section.left-8)/laneSpacing));int lane=(section.shots+section.shots/(int)count+1)%(int)count;
+                section.nextShot=Time.time+(shotInterval);
+                int total=Mathf.Max(1,Mathf.FloorToInt((section.right-section.left-8)/laneSpacing));int count=Mathf.Min(4,total);int first=Mathf.Clamp(Mathf.FloorToInt((focus-section.left-4)/laneSpacing)-count/2,0,total-count);int lane=first+(section.shots+section.shots/count+1)%count;
                 float x=section.left+4+lane*laneSpacing;
                 if(ActiveCount<maximumActive)Spawn(x);
                 section.shots++;

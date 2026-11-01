@@ -19,7 +19,7 @@ PASS Three hits fade-respawn at safe checkpoint with health and hazards reset
 PASS Respawn retains leader goal and earlier chapter completion
 PASS High-speed swept circle stops at solid floor without tunneling
 PASS Leader and sign safe areas refuse cannon spawns
-PASS Normal WASD swimming reaches (155.00, -27.00) in 56,5s
+PASS Normal WASD swimming reaches (155.00, -27.00) in 57,0s
 PASS Normal-input full journey respects configured hazard cap and terrain
 PASS Normal-input dodge run reaches safe region with checkpoint recovery (hits=0)
 PASS Safe checkpoints advance along the route
@@ -58,6 +58,14 @@ PASS Leader dialogue sentence 13 has correct speaker/text/portrait
 PASS Typewriter completes before advancing sentence 13
 PASS Leader dialogue sentence 14 has correct speaker/text/portrait
 PASS Typewriter completes before advancing sentence 14
+PASS Leader dialogue sentence 15 has correct speaker/text/portrait
+PASS Typewriter completes before advancing sentence 15
+PASS Leader dialogue sentence 16 has correct speaker/text/portrait
+PASS Typewriter completes before advancing sentence 16
+PASS Leader dialogue sentence 17 has correct speaker/text/portrait
+PASS Typewriter completes before advancing sentence 17
+PASS Leader dialogue sentence 18 has correct speaker/text/portrait
+PASS Typewriter completes before advancing sentence 18
 PASS Dialogue releases controls for short safe rally
 PASS All three allies physically reach distinct rally positions
 PASS Leader and guards rally; completion fires once and clears hazards

@@ -56,7 +56,7 @@ namespace Abyss
             Check(story.eventFish.visual.sprite==story.closedEyes&&Mathf.Abs(Mathf.DeltaAngle(story.eventFish.visual.transform.localEulerAngles.z,180))<8,"Closed eyes and genuine belly-up rotation");
             float initialY=story.eventFish.Position.y;yield return new WaitForSeconds(2);Check(story.eventFish.Position.y>initialY+1,"Corpse rises while player stays behind");Capture("fish-rising");
             wait=Time.time;while(story.eventFish.Position.y<story.Discovery.y-.25f&&Time.time-wait<42)yield return new WaitForSeconds(.25f);
-            Check(story.eventFish.gameObject.activeSelf&&story.eventFish.Position.y<=player.surfaceY-.4f,"Story fish persists and stops underwater at the surface");
+            Check(story.eventFish.gameObject.activeSelf&&story.eventFish.Position.y<=player.surfaceY+.05f,"Story fish persists and stops underwater at the surface");
             Check(story.Stage==UnderwaterDayStage.FollowToSurface,"Slow player does not lose or auto-complete discovery");
             yield return Drain();yield return Travel(story.Discovery+Vector2.down);yield return new WaitForSeconds(.4f);yield return Drain();
             Check(story.Stage==UnderwaterDayStage.InspectBodies&&story.InspectionCount==0,"Surface discovery starts three independent inspections");

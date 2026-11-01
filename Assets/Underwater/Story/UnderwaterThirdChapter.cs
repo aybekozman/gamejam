@@ -10,6 +10,7 @@ namespace Abyss.Story
         public UnderwaterDayStory story;public UnderwaterSecondChapter second;
         public CannonHazards hazards;public StorySwimmer leader;public StorySwimmer[] guards;
         public Sprite[] leaderSwim,leaderTalk;public SpriteRenderer warningSign;
+        public StorySwimmer messenger;public Vector2 messengerRest;
         public Transform npcRoot;public Vector2 roadStart,leaderRest;public Vector2[] checkpoints,rallyPositions,guardRest;
         public float safeLeaderRadius=14,signReadRadius=10,talkRadius=4.2f,invulnerability=1.3f;
         public UnityEvent chapterCompleted=new();
@@ -43,16 +44,16 @@ namespace Abyss.Story
             hazards.Halt();story.ui.Clear();story.ui.SetHint("");story.ui.SetTarget(null,"");story.ui.SetObjective("");story.player.ControlsLocked=true;
             yield return story.ui.Fade(true);
             second.PrepareForThirdChapter();story.PrepareForSecondChapter();
-            Health=3;CheckpointIndex=0;immuneUntil=Time.time+invulnerability;npcRoot.gameObject.SetActive(true);leader.Place(leaderRest);leader.Animate=true;leader.swimFrames=leaderSwim;for(int i=0;i<guards.Length;i++)guards[i].Place(guardRest[i]);
+            Health=3;CheckpointIndex=0;immuneUntil=Time.time+invulnerability;npcRoot.gameObject.SetActive(true);messenger.gameObject.SetActive(true);messenger.Place(messengerRest);leader.Place(leaderRest);leader.Animate=true;leader.swimFrames=leaderSwim;for(int i=0;i<guards.Length;i++)guards[i].Place(guardRest[i]);
             var playerBody=story.player.GetComponent<Rigidbody2D>();playerBody.position=roadStart;playerBody.linearVelocity=Vector2.zero;
             var all=new[]{leader,guards[0],guards[1]};for(int i=0;i<all.Length;i++){Physics2D.IgnoreCollision(all[i].GetComponent<Collider2D>(),story.player.GetComponent<Collider2D>());for(int j=0;j<i;j++)Physics2D.IgnoreCollision(all[i].GetComponent<Collider2D>(),all[j].GetComponent<Collider2D>());}
             yield return story.ui.Fade(false);stage=ThirdChapterStage.Travel;story.player.ControlsLocked=false;hazards.Begin();
-            story.ui.SetObjective("Köpekbalığı liderine ulaş.");story.ui.QueueTravelDialogue("Yukarıda çatışma başlamış…");StartCoroutine(SecondThought());
+            story.ui.SetObjective("Köpekbalığı liderine ulaş.");story.ui.QueueTravelDialogue("Yukarıda çatışma başlamış…");story.ui.QueueTravelDialogue("Hızlı yüzmek için Shift’e basılı tut.");StartCoroutine(SecondThought());
         }
         IEnumerator SecondThought(){yield return new WaitForSeconds(2.8f);if(stage==ThirdChapterStage.Travel)story.ui.QueueTravelDialogue("Köpekbalıklarına ulaşmalıyım.");}
         public void Tick()
         {
-            story.ui.SetHealth(Started&&!Complete?Health:-1);story.player.visual.color=Time.time<immuneUntil&&Started?Color.Lerp(normalColor,new Color(.5f,.9f,1,.45f),Mathf.PingPong(Time.time*9,1)):normalColor;
+            story.ui.SetHealth(Started&&!Complete?Health:-1);
             if(stage==ThirdChapterStage.Travel||stage==ThirdChapterStage.LeaderReady)
             {
                 if(!signRead&&Vector2.Distance(PlayerPosition,warningSign.bounds.center)<signReadRadius){signRead=true;story.ui.QueueTravelDialogue("Köpekbalıkları bölgesi");StartCoroutine(SignThought());}
@@ -78,17 +79,19 @@ namespace Abyss.Story
         public UnderwaterStoryUI.Line[] DialogueLines()=>new[]{
             L("Bu gürültü de ne?"),P("Kasabamızda balıklar ölüyor."),P("Bilim ekibi geminin atıklarını araştırdı."),P("Yoğun tuzlu su yaşam alanımıza zarar veriyor."),
             L("Bizim sularda da bir tuhaflık vardı…"),P("Başkan gemiyi durdurmak için saldırı başlattı."),P("Ama küçük balıklar toplara dayanamıyor."),P("Yardımınıza ihtiyacımız var."),
-            L("Toplar buraya da ulaştı."),L("Bu çatışma hepimizi tehdit ediyor."),P("Bizimle gelir misiniz?"),L("Yaralıları yalnız bırakmayacağız."),L("Sürüyü toplayın. Kasabaya gidiyoruz."),P("Size yolu göstereceğim.")};
+            L("Toplar buraya da ulaştı."),L("Bu çatışma hepimizi tehdit ediyor."),P("Bizimle gelir misiniz?"),L("Yaralıları yalnız bırakmayacağız."),L("Sürüyü toplayın. Kasabaya gidiyoruz."),L("Biz seninle kasabaya geleceğiz."),L("Sen de açık denize git. Balinalara ve diğer büyük balıklara haber ver."),new UnderwaterStoryUI.Line("Haberci Köpekbalığı",messenger.swimFrames[0],"Anlaşıldı. Onlardan da yardım isteyeceğim."),L("Bu suları birlikte korumalıyız."),P("Size yolu göstereceğim.")};
         IEnumerator Rally()
         {
-            stage=ThirdChapterStage.Rally;story.player.ControlsLocked=false;hazards.Halt();leader.Animate=true;leader.swimFrames=leaderSwim;
+            StartCoroutine(SendMessenger());stage=ThirdChapterStage.Rally;story.player.ControlsLocked=false;hazards.Halt();leader.Animate=true;leader.swimFrames=leaderSwim;
             leader.Go(rallyPositions[0]);yield return new WaitForSeconds(.25f);guards[0].Go(rallyPositions[1]);yield return new WaitForSeconds(.3f);guards[1].Go(rallyPositions[2]);
             while(!leader.Arrived||!guards[0].Arrived||!guards[1].Arrived)yield return null;
             if(completionRaised)yield break;completionRaised=true;stage=ThirdChapterStage.Completed;story.ui.SetObjective("Köpekbalıklarının yardımı sağlandı.");story.ui.SetTarget(null,"");story.ui.SetHealth(-1);story.player.ControlsLocked=false;chapterCompleted.Invoke();
         }
-        public bool TakeHit()
+        IEnumerator SendMessenger(){messenger.gameObject.SetActive(true);messenger.Go(new Vector2(237,messenger.Position.y+5));while(!messenger.Arrived)yield return null;while(Vector2.Distance(PlayerPosition,messenger.Position)<25)yield return new WaitForSeconds(1);messenger.gameObject.SetActive(false);}
+        public bool TakeBrineHit(int amount,float interval){if(Suspended||Time.time<immuneUntil)return false;Health=Mathf.Max(0,Health-Mathf.Max(1,amount));immuneUntil=Time.time+Mathf.Max(.1f,interval-.02f);story.player.HitReaction(Vector2.zero);if(Health==0){stage=ThirdChapterStage.Respawning;hazards.Halt();StartCoroutine(Respawn());}return true;}
+        public bool TakeHit(Vector2? incoming=null)
         {
-            if(Protected)return false;Health--;immuneUntil=Time.time+invulnerability;
+            if(Protected)return false;story.player.HitReaction(incoming??Vector2.down);Health--;immuneUntil=Time.time+invulnerability;
             if(Health<=0){stage=ThirdChapterStage.Respawning;hazards.Halt();StartCoroutine(Respawn());}return true;
         }
         IEnumerator Respawn()
@@ -100,7 +103,7 @@ namespace Abyss.Story
         public void ResetChapter()
         {
             StopAllCoroutines();hazards.Halt();stage=ThirdChapterStage.AwaitingContinue;Health=3;CheckpointIndex=0;signRead=nearMiss=approach=completionRaised=false;immuneUntil=0;
-            if(npcRoot)npcRoot.gameObject.SetActive(false);if(story&&story.ui){story.ui.SetHealth(-1);story.ui.ClearThought();story.ui.SetDangerWarning("");}if(story&&story.player)story.player.visual.color=Color.white;
+            if(npcRoot)npcRoot.gameObject.SetActive(false);if(story&&story.ui){story.ui.SetHealth(-1);story.ui.ClearThought();story.ui.SetDangerWarning("");}if(story&&story.player)story.player.ClearHitReaction();
         }
         void OnDisable(){if(hazards)hazards.Halt();if(story&&story.player)story.player.ControlsLocked=false;}
     }

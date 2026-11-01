@@ -1,0 +1,17 @@
+[
+  {
+    "Algorithm": "SHA256",
+    "Hash": "F9D3D7AB74A61B45473DAE375860BE6DC649811E5140A0C04F32BE93748D2843",
+    "Path": "C:\\Users\\PC\\Desktop\\D\\gamejam\\Assets\\Scenes\\ShipScene.unity"
+  },
+  {
+    "Algorithm": "SHA256",
+    "Hash": "0560C30024551EC116AD3929C8883A8E4A09F9669D7D8E39A6C3E7BECB6E699A",
+    "Path": "C:\\Users\\PC\\Desktop\\D\\gamejam\\ProjectSettings\\ProjectSettings.asset"
+  },
+  {
+    "Algorithm": "SHA256",
+    "Hash": "1C6CBB519D65ECFE19A29231735B7F54741A20AC1A8AD4F46A18E1BFB28A3C39",
+    "Path": "C:\\Users\\PC\\Desktop\\D\\gamejam\\Assets\\InputSystem_Actions.inputactions"
+  }
+]

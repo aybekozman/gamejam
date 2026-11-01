@@ -64,10 +64,10 @@ namespace Abyss.Story
             if(stage==UnderwaterDayStage.Beginning&&Vector2.Distance(player.transform.position,homeStart)>triggerDistance){stage=UnderwaterDayStage.FishDeath;UpdateObjective();StartCoroutine(Death());}
             if(floated)
             {
-                var p=eventFish.transform.position;p.y=discoveryCenter.y+Mathf.Sin(Time.time*.8f)*.07f;eventFish.GetComponent<Rigidbody2D>().position=p;eventFish.visual.transform.localRotation=Quaternion.Euler(0,0,180+Mathf.Sin(Time.time)*2);eventFish.visual.transform.localPosition=new Vector3(Mathf.Sin(Time.time*1.2f)*.1f,0,0);
+                var p=eventFish.transform.position;p.y=player.surfaceY-.12f+Mathf.Sin(Time.time*.8f)*.07f;eventFish.GetComponent<Rigidbody2D>().position=p;eventFish.visual.transform.localRotation=Quaternion.Euler(0,0,180+Mathf.Sin(Time.time)*2);eventFish.visual.transform.localPosition=new Vector3(Mathf.Sin(Time.time*1.2f)*.1f,0,0);
             }
             if(stage>=UnderwaterDayStage.FollowToSurface)
-                for(int i=0;i<bodies.Length;i++)if(bodies[i].gameObject.activeSelf){var p=bodyStart[i];p.y+=Mathf.Sin(Time.time*.8f+i)*.07f;bodies[i].position=p;bodies[i].rotation=Quaternion.Euler(0,0,CorpseAngle(i)+Mathf.Sin(Time.time*.7f+i)*2);bodies[i].GetComponent<SpriteRenderer>().flipY=false;}
+                for(int i=0;i<bodies.Length;i++)if(bodies[i].gameObject.activeSelf){var p=bodyStart[i];p.y=player.surfaceY-.12f+Mathf.Sin(Time.time*.8f+i)*.04f;bodies[i].position=p;bodies[i].rotation=Quaternion.Euler(0,0,CorpseAngle(i)+Mathf.Sin(Time.time*.7f+i)*2);bodies[i].GetComponent<SpriteRenderer>().flipY=false;}
             if(stage==UnderwaterDayStage.FollowToSurface&&floated&&Vector2.Distance(player.transform.position,discoveryCenter)<6)
             {
                 stage=UnderwaterDayStage.InspectBodies;UpdateObjective();ui.Show(new[]{P("Burada başkaları da var…"),P("Hepsi hareketsiz.")},false,null,true);
@@ -90,9 +90,9 @@ namespace Abyss.Story
             t=0;while(t<1.4f){t+=Time.deltaTime;eventFish.visual.transform.localRotation=Quaternion.Euler(0,0,Mathf.SmoothStep(0,180,t/1.4f));yield return null;}
             stage=UnderwaterDayStage.FollowToSurface;UpdateObjective();ui.Show(new[]{P("Ne oluyor? Yukarı sürükleniyor!")},false,null,true);
             foreach(var body in bodies)body.gameObject.SetActive(true);
-            eventFish.swimSpeed=corpseRiseSpeed;while(!eventFish.Go(discoveryCenter)){yield return new WaitForSeconds(1);}
+            eventFish.swimSpeed=corpseRiseSpeed;while(!eventFish.Go(new Vector2(discoveryCenter.x,player.surfaceY-.12f))){yield return new WaitForSeconds(1);}
             while(!eventFish.Arrived){eventFish.visual.flipX=false;eventFish.visual.transform.localRotation=Quaternion.Euler(0,0,180+Mathf.Sin(Time.time)*2);eventFish.visual.transform.localPosition=new Vector3(Mathf.Sin(Time.time*1.2f)*.1f,0,0);yield return null;}
-            eventFish.Stop();eventFish.Place(discoveryCenter);floated=true;
+            eventFish.Stop();eventFish.Place(new Vector2(discoveryCenter.x,player.surfaceY-.12f));floated=true;
         }
         public void TryInteractNearest()
         {
@@ -127,7 +127,7 @@ namespace Abyss.Story
         public void PrepareForSecondChapter()
         {
             StopAllCoroutines();escort.End();stage=UnderwaterDayStage.Completed;inspected=new[]{true,true,true};
-            eventFish.Stop();eventFish.Animate=false;eventFish.visual.sprite=closedEyes;eventFish.gameObject.SetActive(true);eventFish.Place(discoveryCenter);floated=true;
+            eventFish.Stop();eventFish.Animate=false;eventFish.visual.sprite=closedEyes;eventFish.gameObject.SetActive(true);eventFish.Place(new Vector2(discoveryCenter.x,player.surfaceY-.12f));floated=true;
             foreach(var body in bodies)body.gameObject.SetActive(true);
         }
         void UpdateObjective()
@@ -142,8 +142,8 @@ namespace Abyss.Story
         {
             Vector3? target=null;string label="",hint="";
             if(stage==UnderwaterDayStage.FishDeath||stage==UnderwaterDayStage.FollowToSurface){target=eventFish.transform.position;label="Balığı takip et";}
-            if(stage==UnderwaterDayStage.InspectBodies){int id=Enumerable.Range(0,3).Where(i=>!inspected[i]).OrderBy(i=>Vector2.Distance(player.transform.position,bodies[i].position)).First();target=bodies[id].position;label="İncele";if(Vector2.Distance(player.transform.position,bodies[id].position)<interactDistance)hint=InteractionKey+" • Balığı incele";}
-            if(stage==UnderwaterDayStage.ReportToMayor){target=mayor.transform.position;label="Başkan";}
+            if(stage==UnderwaterDayStage.InspectBodies){int id=Enumerable.Range(0,3).Where(i=>!inspected[i]).OrderBy(i=>Vector2.Distance(player.transform.position,bodies[i].position)).First();var renderer=bodies[id].GetComponent<SpriteRenderer>();target=new Vector3(renderer.bounds.center.x,renderer.bounds.max.y+.65f,0);label="İncele";if(Vector2.Distance(player.transform.position,bodies[id].position)<interactDistance){label=InteractionKey+" • İncele";hint="";}}
+            if(stage==UnderwaterDayStage.ReportToMayor){target=new Vector3(mayor.visual.bounds.center.x,mayor.visual.bounds.max.y+.65f,0);label="Başkan";}
             if(stage==UnderwaterDayStage.EscortMayor){target=escort.Separation>14?mayor.transform.position:(Vector3)discoveryCenter;label=escort.Separation>14?"Başkanı bekle":"Keşif alanı";}
             if(stage<UnderwaterDayStage.FinalConversation&&Vector2.Distance(player.transform.position,mayor.Position)<interactDistance&&hint=="")hint=InteractionKey+" • Başkanla konuş";
             if(stage==UnderwaterDayStage.Completed&&playerHome){target=playerHome.bounds.center;label="Eve dön";if(NearHome){hint=InteractionKey+" • Eve gir";target=null;}}

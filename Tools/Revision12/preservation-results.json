@@ -1,0 +1,11 @@
+{
+  "result": "PASS all original transforms, collider definitions, existing transform/collider definitions preserved (ship hash baseline belongs to older task; not compared)",
+  "existingColliderBlocksUnchanged": 130,
+  "shipAndInputFilesUnchanged": [
+    "Assets/Scenes/ShipScene.unity",
+    "Assets/Scripts/Ship",
+    "Assets/InputSystem_Actions.inputactions",
+    "Packages/manifest.json",
+    "ProjectSettings/ProjectSettings.asset"
+  ]
+}

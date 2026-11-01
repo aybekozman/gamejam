@@ -1,0 +1,1 @@
+15 Play Mode checks passed, including identical pollution shader/amount for original, extended and shore Sky tiles. Ship-area boundary screenshot inspected; no clean-blue strip remains. Initial pollution level remains zero. Scene byte-identical; no world placement or gameplay changes.

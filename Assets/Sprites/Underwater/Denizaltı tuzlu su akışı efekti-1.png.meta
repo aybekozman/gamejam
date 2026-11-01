@@ -1,0 +1,4082 @@
+fileFormatVersion: 2
+guid: 75a3fd07d73ffa340b516a2ee6c9830a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 141602877180761456
+    second: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_0"
+  - first:
+      213: 251252027750313435
+    second: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_1"
+  - first:
+      213: -8445857287732953031
+    second: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_2"
+  - first:
+      213: -4035792498064740120
+    second: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_3"
+  - first:
+      213: 4655396487924163743
+    second: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_4"
+  - first:
+      213: -1471812064577160047
+    second: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_5"
+  - first:
+      213: 3477263185165677909
+    second: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_6"
+  - first:
+      213: -7611631374315973082
+    second: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_7"
+  - first:
+      213: 7918728411070121311
+    second: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_8"
+  - first:
+      213: 3711777839565466958
+    second: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_9"
+  - first:
+      213: 2875666556749803603
+    second: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_10"
+  - first:
+      213: 8039690563628519542
+    second: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_11"
+  - first:
+      213: 8392144379857227161
+    second: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_12"
+  - first:
+      213: -3006398523120633681
+    second: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_13"
+  - first:
+      213: -9207132152772496078
+    second: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_14"
+  - first:
+      213: 7200002005018075557
+    second: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_15"
+  - first:
+      213: -5987140274148698541
+    second: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_16"
+  - first:
+      213: 6401917913467577553
+    second: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_17"
+  - first:
+      213: -2856742163317186703
+    second: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_18"
+  - first:
+      213: -8399114979917050911
+    second: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_19"
+  - first:
+      213: 7146381350687736500
+    second: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_20"
+  - first:
+      213: 4021278133123976501
+    second: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_21"
+  - first:
+      213: 5140426031052446563
+    second: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_22"
+  - first:
+      213: -6628710076524825464
+    second: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_23"
+  - first:
+      213: 1454513215631738239
+    second: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_24"
+  - first:
+      213: 3826664217400393595
+    second: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_25"
+  - first:
+      213: 3439997700784489077
+    second: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_26"
+  - first:
+      213: 401388575048755190
+    second: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_27"
+  - first:
+      213: 5624254338389964807
+    second: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_28"
+  - first:
+      213: 1345656715249703171
+    second: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_29"
+  - first:
+      213: -500492157039491827
+    second: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_30"
+  - first:
+      213: 6947853397047504180
+    second: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_31"
+  - first:
+      213: -6056180661047844075
+    second: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_32"
+  - first:
+      213: -2510830232512591894
+    second: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_33"
+  - first:
+      213: 3927124049036203079
+    second: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_34"
+  - first:
+      213: -5082251954949387261
+    second: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_35"
+  - first:
+      213: 1559292326889802147
+    second: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_36"
+  - first:
+      213: 5657157477199197725
+    second: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_37"
+  - first:
+      213: 3259160948000791372
+    second: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_38"
+  - first:
+      213: 4737020762828177646
+    second: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_39"
+  - first:
+      213: -283888311164678828
+    second: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_40"
+  - first:
+      213: 3301248256920530762
+    second: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_41"
+  - first:
+      213: -6909274533682751952
+    second: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_42"
+  - first:
+      213: 6938618139692877572
+    second: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_43"
+  - first:
+      213: -8885014833758473801
+    second: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_44"
+  - first:
+      213: 9197702252221014134
+    second: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_45"
+  - first:
+      213: -3054419522765619502
+    second: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_46"
+  - first:
+      213: 456138609017110568
+    second: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_47"
+  - first:
+      213: -3902390970899467636
+    second: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_48"
+  - first:
+      213: -3977729248299983374
+    second: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_49"
+  - first:
+      213: -3825772676242832440
+    second: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_50"
+  - first:
+      213: -4371699076158663134
+    second: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_51"
+  - first:
+      213: -9028842508856487769
+    second: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_52"
+  - first:
+      213: 99665197727663358
+    second: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_53"
+  - first:
+      213: -2487076900566739598
+    second: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_54"
+  - first:
+      213: 1231387337396908012
+    second: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_55"
+  - first:
+      213: -2662823161490355737
+    second: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_56"
+  - first:
+      213: -2524105304338422427
+    second: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_57"
+  - first:
+      213: 2663979613022663297
+    second: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_58"
+  - first:
+      213: 1121467824957478418
+    second: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_59"
+  - first:
+      213: -5874858481026314754
+    second: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_60"
+  - first:
+      213: 6984394574119144895
+    second: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_61"
+  - first:
+      213: 5458617340805661697
+    second: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_62"
+  - first:
+      213: -9166915401463061946
+    second: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_63"
+  - first:
+      213: 8203362725853563462
+    second: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_64"
+  - first:
+      213: 4625397864175632663
+    second: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_65"
+  - first:
+      213: -7116339073230082057
+    second: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_66"
+  - first:
+      213: -8596534142156512023
+    second: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_67"
+  - first:
+      213: -5151165817718965545
+    second: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_68"
+  - first:
+      213: 282564264187586772
+    second: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_69"
+  - first:
+      213: -692152814338266826
+    second: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_70"
+  - first:
+      213: 3875734123442523294
+    second: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_71"
+  - first:
+      213: 4164498434964841512
+    second: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_72"
+  - first:
+      213: 197542151922163032
+    second: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_73"
+  - first:
+      213: 9052612681972264255
+    second: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_74"
+  - first:
+      213: 519803686106729110
+    second: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_75"
+  - first:
+      213: 8784605326309523844
+    second: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_76"
+  - first:
+      213: 6995628824874728425
+    second: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_77"
+  - first:
+      213: 2131938854227485831
+    second: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_78"
+  - first:
+      213: 1773904746070593162
+    second: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_79"
+  - first:
+      213: -5830708390977704330
+    second: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_80"
+  - first:
+      213: 3291198972584600751
+    second: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_81"
+  - first:
+      213: -5037349779742639637
+    second: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_82"
+  - first:
+      213: 4573697071077635709
+    second: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_83"
+  - first:
+      213: -6178971065983382744
+    second: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_84"
+  - first:
+      213: -2075283298954638517
+    second: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_85"
+  - first:
+      213: -4134954790824242436
+    second: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_86"
+  - first:
+      213: -855244439576184487
+    second: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_87"
+  - first:
+      213: 4189541909453938987
+    second: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_88"
+  - first:
+      213: -8494876210635645677
+    second: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_89"
+  - first:
+      213: -4013436707161096001
+    second: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_90"
+  - first:
+      213: 5142885575084853239
+    second: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_91"
+  - first:
+      213: 7675910990037338233
+    second: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_92"
+  - first:
+      213: 2238790957886844628
+    second: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_93"
+  - first:
+      213: 4542548859397967672
+    second: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_94"
+  - first:
+      213: 3475370772488810889
+    second: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_95"
+  - first:
+      213: -6821811863655012655
+    second: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_96"
+  - first:
+      213: 3613612813536588503
+    second: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_97"
+  - first:
+      213: 3155656603263953023
+    second: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_98"
+  - first:
+      213: -2885700865488190764
+    second: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_99"
+  - first:
+      213: -1308586336017616490
+    second: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_100"
+  - first:
+      213: -7099869096882008234
+    second: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_101"
+  - first:
+      213: -601116342516952392
+    second: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_102"
+  - first:
+      213: -2475976765505410877
+    second: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_103"
+  - first:
+      213: 1711937750913858219
+    second: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_104"
+  - first:
+      213: -5223566334013767543
+    second: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_105"
+  - first:
+      213: 1663824214180067091
+    second: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_106"
+  - first:
+      213: 8131022114868251001
+    second: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_107"
+  - first:
+      213: -3142774143577719998
+    second: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_108"
+  - first:
+      213: 506977461641463593
+    second: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_109"
+  - first:
+      213: -1152074223244275883
+    second: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_110"
+  - first:
+      213: 3979226172138094492
+    second: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_111"
+  - first:
+      213: 6796570198907460397
+    second: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_112"
+  - first:
+      213: -4478103631517334870
+    second: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_113"
+  - first:
+      213: -6773591198139170515
+    second: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_114"
+  - first:
+      213: -3104603722586366607
+    second: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_115"
+  - first:
+      213: 2257891184642569726
+    second: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_116"
+  - first:
+      213: -76059548609004816
+    second: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_117"
+  - first:
+      213: 1330786648461668152
+    second: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_118"
+  - first:
+      213: -5622492890679951854
+    second: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_119"
+  - first:
+      213: 538409698672991929
+    second: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_120"
+  - first:
+      213: -109912358471086180
+    second: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_121"
+  - first:
+      213: 8880056795591611175
+    second: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_122"
+  - first:
+      213: 1493370520588031362
+    second: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_123"
+  - first:
+      213: 2527815651420824273
+    second: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_124"
+  - first:
+      213: 7909466029322895619
+    second: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_125"
+  - first:
+      213: 7826253991721752016
+    second: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_126"
+  - first:
+      213: -7395403280843625631
+    second: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_127"
+  - first:
+      213: 2895295191458263518
+    second: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_128"
+  - first:
+      213: -3170452567917754044
+    second: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_129"
+  - first:
+      213: 5423352226346078024
+    second: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_130"
+  - first:
+      213: -668100530826108974
+    second: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_131"
+  - first:
+      213: 7649577534688820297
+    second: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_132"
+  - first:
+      213: -7106130776178961934
+    second: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_133"
+  - first:
+      213: -6845883610352019894
+    second: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_134"
+  - first:
+      213: -7700695589400066424
+    second: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_135"
+  - first:
+      213: -2742771924035848046
+    second: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_136"
+  - first:
+      213: -1441384098579921610
+    second: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_137"
+  - first:
+      213: 8713799506148955794
+    second: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_138"
+  - first:
+      213: 4710398919232907520
+    second: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_139"
+  - first:
+      213: -1557160632677630040
+    second: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_140"
+  - first:
+      213: -5231533810859734639
+    second: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_141"
+  - first:
+      213: -1735809861815606891
+    second: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_142"
+  - first:
+      213: 4130509389456099295
+    second: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_143"
+  - first:
+      213: -6087697347837939570
+    second: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_144"
+  - first:
+      213: -5163307371707551520
+    second: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_145"
+  - first:
+      213: 1692391387054433985
+    second: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_146"
+  - first:
+      213: 3815286169336046846
+    second: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_147"
+  - first:
+      213: -3047445439523171225
+    second: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_148"
+  - first:
+      213: 6783949409893205210
+    second: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_149"
+  - first:
+      213: -8950783346887995627
+    second: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_150"
+  - first:
+      213: -81618670949922197
+    second: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_151"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_0"
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 823
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0755889011317f100800000000000000
+      internalID: 141602877180761456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_1"
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 825
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdd67275360ac7300800000000000000
+      internalID: 251252027750313435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_2"
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 827
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 930880d7b894aca80800000000000000
+      internalID: -8445857287732953031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_3"
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 783
+        width: 50
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e03aa50b1cfdf7c0800000000000000
+      internalID: -4035792498064740120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_4"
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 819
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f94225fb07a4b9040800000000000000
+      internalID: 4655396487924163743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_5"
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 0
+        width: 348
+        height: 869
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19c7ebaa9b2139be0800000000000000
+      internalID: -1471812064577160047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_6"
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 829
+        width: 19
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 555f75e8178b14030800000000000000
+      internalID: 3477263185165677909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_7"
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 804
+        width: 52
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6269dacd79d0e5690800000000000000
+      internalID: -7611631374315973082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_8"
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 0
+        width: 1320
+        height: 879
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f55c0aed889f4ed60800000000000000
+      internalID: 7918728411070121311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_9"
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 838
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4d677c7742e28330800000000000000
+      internalID: 3711777839565466958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_10"
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 802
+        width: 49
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 350fa875f7b68e720800000000000000
+      internalID: 2875666556749803603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_11"
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 838
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6705325b8f7b29f60800000000000000
+      internalID: 8039690563628519542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_12"
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 846
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99d4e2999d2e67470800000000000000
+      internalID: 8392144379857227161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_13"
+      rect:
+        serializedVersion: 2
+        x: 1395
+        y: 821
+        width: 25
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa8b228c8702746d0800000000000000
+      internalID: -3006398523120633681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_14"
+      rect:
+        serializedVersion: 2
+        x: 1425
+        y: 860
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 235fae9a612b93080800000000000000
+      internalID: -9207132152772496078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_15"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 749
+        width: 13
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a1e3332dab8be360800000000000000
+      internalID: 7200002005018075557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_16"
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 751
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3569ee254a769eca0800000000000000
+      internalID: -5987140274148698541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_17"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 696
+        width: 56
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d4e1796c6e28d850800000000000000
+      internalID: 6401917913467577553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_18"
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 749
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17f199c5320da58d0800000000000000
+      internalID: -2856742163317186703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_19"
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 780
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ebc16a1d69507b80800000000000000
+      internalID: -8399114979917050911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_20"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 805
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b2083da9fb0d2360800000000000000
+      internalID: 7146381350687736500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_21"
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 745
+        width: 55
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53d86eb08237ec730800000000000000
+      internalID: 4021278133123976501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_22"
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 773
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36b5d077d36765740800000000000000
+      internalID: 5140426031052446563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_23"
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 757
+        width: 45
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8847fa94e471204a0800000000000000
+      internalID: -6628710076524825464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_24"
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 729
+        width: 16
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7547d230187f2410800000000000000
+      internalID: 1454513215631738239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_25"
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 553
+        width: 100
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7f39d8c4da0b1530800000000000000
+      internalID: 3826664217400393595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_26"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 735
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5728b67dea35dbf20800000000000000
+      internalID: 3439997700784489077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_27"
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 719
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f76ea848c4029500800000000000000
+      internalID: 401388575048755190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_28"
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 724
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 708fe2ea58d5d0e40800000000000000
+      internalID: 5624254338389964807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_29"
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 723
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 309d31627abbca210800000000000000
+      internalID: 1345656715249703171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_30"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 691
+        width: 11
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d05cacee805ed09f0800000000000000
+      internalID: -500492157039491827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_31"
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 652
+        width: 52
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43de1827adbbb6060800000000000000
+      internalID: 6947853397047504180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_32"
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 680
+        width: 17
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51327aa96cf14fba0800000000000000
+      internalID: -6056180661047844075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_33"
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 696
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae786cbd43db72dd0800000000000000
+      internalID: -2510830232512591894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_34"
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 709
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74452bb0482ff7630800000000000000
+      internalID: 3927124049036203079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_35"
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 698
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30c053e16c63879b0800000000000000
+      internalID: -5082251954949387261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_36"
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 682
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a9424d1c18b3a510800000000000000
+      internalID: 1559292326889802147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_37"
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 692
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1637eaa0c2428e40800000000000000
+      internalID: 5657157477199197725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_38"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 563
+        width: 35
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4b996b4d9dda3d20800000000000000
+      internalID: 3259160948000791372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_39"
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 644
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee0060639474db140800000000000000
+      internalID: 4737020762828177646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_40"
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 675
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45dc429c51d6f0cf0800000000000000
+      internalID: -283888311164678828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_41"
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 666
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4f20258cc360dd20800000000000000
+      internalID: 3301248256920530762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_42"
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 650
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 036df242b635d10a0800000000000000
+      internalID: -6909274533682751952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_43"
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 658
+        width: 33
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 407c9788f6cea4060800000000000000
+      internalID: 6938618139692877572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_44"
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 600
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b1ffb1651612b480800000000000000
+      internalID: -8885014833758473801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_45"
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 507
+        width: 94
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 670a175877dc4af70800000000000000
+      internalID: 9197702252221014134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_46"
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 632
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2de798680a58c95d0800000000000000
+      internalID: -3054419522765619502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_47"
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 619
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8204ecee5a7845600800000000000000
+      internalID: 456138609017110568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_48"
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 628
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8278d4761ce7d9c0800000000000000
+      internalID: -3902390970899467636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_49"
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 581
+        width: 33
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fdd566d2544cc8c0800000000000000
+      internalID: -3977729248299983374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_50"
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 632
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c38621550028eac0800000000000000
+      internalID: -3825772676242832440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_51"
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 612
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 226d8ac3ada9453c0800000000000000
+      internalID: -4371699076158663134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_52"
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 633
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a099a6339b13b280800000000000000
+      internalID: -9028842508856487769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_53"
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 584
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef4c60328f4126100800000000000000
+      internalID: 99665197727663358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_54"
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 585
+        width: 7
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 275d3ac6cb02c7dd0800000000000000
+      internalID: -2487076900566739598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_55"
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 588
+        width: 9
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cefe47a5244c61110800000000000000
+      internalID: 1231387337396908012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_56"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 521
+        width: 25
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e94faf5170cb0bd0800000000000000
+      internalID: -2662823161490355737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_57"
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 569
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 565aa37599398fcd0800000000000000
+      internalID: -2524105304338422427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_58"
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 537
+        width: 35
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 182391bf75b58f420800000000000000
+      internalID: 2663979613022663297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_59"
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 572
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 216de958b01409f00800000000000000
+      internalID: 1121467824957478418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_60"
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 563
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efd4cbc765f487ea0800000000000000
+      internalID: -5874858481026314754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_61"
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 464
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbd89893cdd8de060800000000000000
+      internalID: 6984394574119144895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_62"
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 483
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 104428bec87e0cb40800000000000000
+      internalID: 5458617340805661697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_63"
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 507
+        width: 54
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 642acb1c20398c080800000000000000
+      internalID: -9166915401463061946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_64"
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 429
+        width: 64
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64a8e269fe238d170800000000000000
+      internalID: 8203362725853563462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_65"
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 497
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7110a0fd9d6b03040800000000000000
+      internalID: 4625397864175632663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_66"
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 512
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ff63ee115fad3d90800000000000000
+      internalID: -7116339073230082057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_67"
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 497
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e46e3d7eb9f2b880800000000000000
+      internalID: -8596534142156512023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_68"
+      rect:
+        serializedVersion: 2
+        x: 1766
+        y: 487
+        width: 8
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7daf9b71bf16388b0800000000000000
+      internalID: -5151165817718965545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_69"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 424
+        width: 47
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d8ee1183bedbe300800000000000000
+      internalID: 282564264187586772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_70"
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 362
+        width: 68
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 639a41bbeaaf466f0800000000000000
+      internalID: -692152814338266826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_71"
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 479
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9cc6a796af59c530800000000000000
+      internalID: 3875734123442523294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_72"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 402
+        width: 6
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 824efbb13454bc930800000000000000
+      internalID: 4164498434964841512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_73"
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 436
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85d9c716a8fcdb200800000000000000
+      internalID: 197542151922163032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_74"
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 455
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3d272e754751ad70800000000000000
+      internalID: 9052612681972264255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_75"
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 440
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69a845fc2b6b63700800000000000000
+      internalID: 519803686106729110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_76"
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 430
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4810fae500039e970800000000000000
+      internalID: 8784605326309523844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_77"
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 376
+        width: 49
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eb342f0a57751160800000000000000
+      internalID: 6995628824874728425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_78"
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 414
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7842519a71b269d10800000000000000
+      internalID: 2131938854227485831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_79"
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 398
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8ecaeec7fc2e9810800000000000000
+      internalID: 1773904746070593162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_80"
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 426
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67e62ee5c99251fa0800000000000000
+      internalID: -5830708390977704330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_81"
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 428
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa4290e2700bcad20800000000000000
+      internalID: 3291198972584600751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_82"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 322
+        width: 13
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be93c09701db71ab0800000000000000
+      internalID: -5037349779742639637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_83"
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 365
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d76b3dfe049097f30800000000000000
+      internalID: 4573697071077635709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_84"
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 229
+        width: 72
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82bc4a69d82ef3aa0800000000000000
+      internalID: -6178971065983382744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_85"
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 376
+        width: 38
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4b028db5dc1333e0800000000000000
+      internalID: -2075283298954638517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_86"
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 362
+        width: 7
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf21f929680bd96c0800000000000000
+      internalID: -4134954790824242436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_87"
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 382
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 959fee6a6bf8124f0800000000000000
+      internalID: -855244439576184487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_88"
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 376
+        width: 25
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b212d946b2e342a30800000000000000
+      internalID: 4189541909453938987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_89"
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 303
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31d552e18132c1a80800000000000000
+      internalID: -8494876210635645677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_90"
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 360
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb0462534986d48c0800000000000000
+      internalID: -4013436707161096001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_91"
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 283
+        width: 35
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f7c96fae233f5740800000000000000
+      internalID: 5142885575084853239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_92"
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 352
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97841b07060568a60800000000000000
+      internalID: 7675910990037338233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_93"
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 345
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dea33bb388c11f10800000000000000
+      internalID: 2238790957886844628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_94"
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 319
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83f8543ce106a0f30800000000000000
+      internalID: 4542548859397967672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_95"
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 324
+        width: 15
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98178f4ed4ffa3030800000000000000
+      internalID: 3475370772488810889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_96"
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 340
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d62c46e04e0451a0800000000000000
+      internalID: -6821811863655012655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_97"
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 336
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d2f5aa45b1262230800000000000000
+      internalID: 3613612813536588503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_98"
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 347
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f78e9a616f42bcb20800000000000000
+      internalID: 3155656603263953023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_99"
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 332
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d20a881a5ee3f7d0800000000000000
+      internalID: -2885700865488190764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_100"
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 332
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6917dbb19a7f6dde0800000000000000
+      internalID: -1308586336017616490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_101"
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 320
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65f03905ca2387d90800000000000000
+      internalID: -7099869096882008234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_102"
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 295
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b2589f0fd768a7f0800000000000000
+      internalID: -601116342516952392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_103"
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 273
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c8ede3004093add0800000000000000
+      internalID: -2475976765505410877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_104"
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 287
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baa3dc0705602c710800000000000000
+      internalID: 1711937750913858219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_105"
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 285
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9808b68481a2287b0800000000000000
+      internalID: -5223566334013767543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_106"
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 293
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31775e6be47171710800000000000000
+      internalID: 1663824214180067091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_107"
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 297
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9794191988137d070800000000000000
+      internalID: 8131022114868251001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_108"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 84
+        width: 49
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24b74ca419f9264d0800000000000000
+      internalID: -3142774143577719998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_109"
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 258
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 927c446b055290700800000000000000
+      internalID: 506977461641463593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_110"
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 273
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55f04a019920300f0800000000000000
+      internalID: -1152074223244275883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_111"
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 108
+        width: 100
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9f7a37ee1d093730800000000000000
+      internalID: 3979226172138094492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_112"
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 249
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2b92ec0694425e50800000000000000
+      internalID: 6796570198907460397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_113"
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 237
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa2c50029749ad1c0800000000000000
+      internalID: -4478103631517334870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_114"
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 230
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d21c33d71be5ff1a0800000000000000
+      internalID: -6773591198139170515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_115"
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 235
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17d52eafc5b3ae4d0800000000000000
+      internalID: -3104603722586366607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_116"
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 131
+        width: 45
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef53b12d114a55f10800000000000000
+      internalID: 2257891184642569726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_117"
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 227
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fa32675e38c1fef0800000000000000
+      internalID: -76059548609004816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_118"
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 182
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83fe36de767e77210800000000000000
+      internalID: 1330786648461668152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_119"
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 190
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21ebcd25184e8f1b0800000000000000
+      internalID: -5622492890679951854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_120"
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 162
+        width: 13
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9be5701b4c0d87700800000000000000
+      internalID: 538409698672991929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_121"
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 168
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9fc7e4da43897ef0800000000000000
+      internalID: -109912358471086180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_122"
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 178
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72318866b9c4c3b70800000000000000
+      internalID: 8880056795591611175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_123"
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 162
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28590b5839489b410800000000000000
+      internalID: 1493370520588031362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_124"
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 166
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d26c9821fa941320800000000000000
+      internalID: 2527815651420824273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_125"
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 128
+        width: 9
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3018fc0927114cd60800000000000000
+      internalID: 7909466029322895619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_126"
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 142
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d5de8a4a807c9c60800000000000000
+      internalID: 7826253991721752016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_127"
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 0
+        width: 220
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16bae8a06ef3e5990800000000000000
+      internalID: -7395403280843625631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_128"
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 7
+        width: 147
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed134cef2a72e2820800000000000000
+      internalID: 2895295191458263518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_129"
+      rect:
+        serializedVersion: 2
+        x: 1766
+        y: 125
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4498900ff2a4004d0800000000000000
+      internalID: -3170452567917754044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_130"
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 61
+        width: 34
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84f8e2f9d1e934b40800000000000000
+      internalID: 5423352226346078024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_131"
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 78
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2df1cd16b1e6ab6f0800000000000000
+      internalID: -668100530826108974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_132"
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 85
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94c7fe41d32c82a60800000000000000
+      internalID: 7649577534688820297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_133"
+      rect:
+        serializedVersion: 2
+        x: 1766
+        y: 102
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f1d16e75b3f16d90800000000000000
+      internalID: -7106130776178961934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_134"
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 11
+        width: 60
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a469c4f90298ef0a0800000000000000
+      internalID: -6845883610352019894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_135"
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 54
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88644665922a12590800000000000000
+      internalID: -7700695589400066424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_136"
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 55
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 298bde78777bfe9d0800000000000000
+      internalID: -2742771924035848046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_137"
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 65
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6354f339ccc2ffbe0800000000000000
+      internalID: -1441384098579921610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_138"
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 61
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2969bffab72ade870800000000000000
+      internalID: 8713799506148955794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_139"
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 7
+        width: 128
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 009e24b3cd2be5140800000000000000
+      internalID: 4710398919232907520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_140"
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 44
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aff60f97aad36ae0800000000000000
+      internalID: -1557160632677630040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_141"
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 41
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 199824587bbd567b0800000000000000
+      internalID: -5231533810859734639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_142"
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 19
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5916cdc902a29e7e0800000000000000
+      internalID: -1735809861815606891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_143"
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 19
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd742f3c764825930800000000000000
+      internalID: 4130509389456099295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_144"
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 33
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8038022487248ba0800000000000000
+      internalID: -6087697347837939570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_145"
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 27
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e037334d4f3858b0800000000000000
+      internalID: -5163307371707551520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_146"
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 17
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c66f46fff49c7710800000000000000
+      internalID: 1692391387054433985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_147"
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 0
+        width: 68
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef46cb78e8e92f430800000000000000
+      internalID: 3815286169336046846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_148"
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 0
+        width: 61
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76456d0d48c45b5d0800000000000000
+      internalID: -3047445439523171225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_149"
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 0
+        width: 42
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad4c7ee9b0e652e50800000000000000
+      internalID: 6783949409893205210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_150"
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 0
+        width: 58
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51f424328fd68c380800000000000000
+      internalID: -8950783346887995627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_151"
+      rect:
+        serializedVersion: 2
+        x: 1486
+        y: 0
+        width: 76
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6a8dfe40480edef0800000000000000
+      internalID: -81618670949922197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_0": 141602877180761456
+      "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_1": 251252027750313435
+      "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_10": 2875666556749803603
+      "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_100": -1308586336017616490
+      "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_101": -7099869096882008234
+      "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_102": -601116342516952392
+      "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_103": -2475976765505410877
+      "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_104": 1711937750913858219
+      "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_105": -5223566334013767543
+      "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_106": 1663824214180067091
+      "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_107": 8131022114868251001
+      "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_108": -3142774143577719998
+      "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_109": 506977461641463593
+      "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_11": 8039690563628519542
+      "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_110": -1152074223244275883
+      "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_111": 3979226172138094492
+      "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_112": 6796570198907460397
+      "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_113": -4478103631517334870
+      "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_114": -6773591198139170515
+      "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_115": -3104603722586366607
+      "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_116": 2257891184642569726
+      "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_117": -76059548609004816
+      "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_118": 1330786648461668152
+      "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_119": -5622492890679951854
+      "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_12": 8392144379857227161
+      "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_120": 538409698672991929
+      "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_121": -109912358471086180
+      "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_122": 8880056795591611175
+      "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_123": 1493370520588031362
+      "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_124": 2527815651420824273
+      "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_125": 7909466029322895619
+      "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_126": 7826253991721752016
+      "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_127": -7395403280843625631
+      "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_128": 2895295191458263518
+      "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_129": -3170452567917754044
+      "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_13": -3006398523120633681
+      "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_130": 5423352226346078024
+      "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_131": -668100530826108974
+      "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_132": 7649577534688820297
+      "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_133": -7106130776178961934
+      "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_134": -6845883610352019894
+      "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_135": -7700695589400066424
+      "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_136": -2742771924035848046
+      "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_137": -1441384098579921610
+      "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_138": 8713799506148955794
+      "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_139": 4710398919232907520
+      "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_14": -9207132152772496078
+      "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_140": -1557160632677630040
+      "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_141": -5231533810859734639
+      "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_142": -1735809861815606891
+      "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_143": 4130509389456099295
+      "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_144": -6087697347837939570
+      "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_145": -5163307371707551520
+      "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_146": 1692391387054433985
+      "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_147": 3815286169336046846
+      "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_148": -3047445439523171225
+      "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_149": 6783949409893205210
+      "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_15": 7200002005018075557
+      "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_150": -8950783346887995627
+      "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_151": -81618670949922197
+      "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_16": -5987140274148698541
+      "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_17": 6401917913467577553
+      "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_18": -2856742163317186703
+      "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_19": -8399114979917050911
+      "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_2": -8445857287732953031
+      "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_20": 7146381350687736500
+      "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_21": 4021278133123976501
+      "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_22": 5140426031052446563
+      "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_23": -6628710076524825464
+      "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_24": 1454513215631738239
+      "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_25": 3826664217400393595
+      "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_26": 3439997700784489077
+      "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_27": 401388575048755190
+      "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_28": 5624254338389964807
+      "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_29": 1345656715249703171
+      "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_3": -4035792498064740120
+      "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_30": -500492157039491827
+      "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_31": 6947853397047504180
+      "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_32": -6056180661047844075
+      "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_33": -2510830232512591894
+      "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_34": 3927124049036203079
+      "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_35": -5082251954949387261
+      "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_36": 1559292326889802147
+      "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_37": 5657157477199197725
+      "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_38": 3259160948000791372
+      "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_39": 4737020762828177646
+      "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_4": 4655396487924163743
+      "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_40": -283888311164678828
+      "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_41": 3301248256920530762
+      "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_42": -6909274533682751952
+      "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_43": 6938618139692877572
+      "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_44": -8885014833758473801
+      "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_45": 9197702252221014134
+      "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_46": -3054419522765619502
+      "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_47": 456138609017110568
+      "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_48": -3902390970899467636
+      "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_49": -3977729248299983374
+      "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_5": -1471812064577160047
+      "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_50": -3825772676242832440
+      "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_51": -4371699076158663134
+      "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_52": -9028842508856487769
+      "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_53": 99665197727663358
+      "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_54": -2487076900566739598
+      "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_55": 1231387337396908012
+      "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_56": -2662823161490355737
+      "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_57": -2524105304338422427
+      "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_58": 2663979613022663297
+      "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_59": 1121467824957478418
+      "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_6": 3477263185165677909
+      "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_60": -5874858481026314754
+      "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_61": 6984394574119144895
+      "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_62": 5458617340805661697
+      "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_63": -9166915401463061946
+      "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_64": 8203362725853563462
+      "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_65": 4625397864175632663
+      "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_66": -7116339073230082057
+      "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_67": -8596534142156512023
+      "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_68": -5151165817718965545
+      "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_69": 282564264187586772
+      "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_7": -7611631374315973082
+      "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_70": -692152814338266826
+      "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_71": 3875734123442523294
+      "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_72": 4164498434964841512
+      "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_73": 197542151922163032
+      "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_74": 9052612681972264255
+      "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_75": 519803686106729110
+      "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_76": 8784605326309523844
+      "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_77": 6995628824874728425
+      "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_78": 2131938854227485831
+      "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_79": 1773904746070593162
+      "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_8": 7918728411070121311
+      "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_80": -5830708390977704330
+      "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_81": 3291198972584600751
+      "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_82": -5037349779742639637
+      "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_83": 4573697071077635709
+      "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_84": -6178971065983382744
+      "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_85": -2075283298954638517
+      "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_86": -4134954790824242436
+      "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_87": -855244439576184487
+      "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_88": 4189541909453938987
+      "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_89": -8494876210635645677
+      "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_9": 3711777839565466958
+      "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_90": -4013436707161096001
+      "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_91": 5142885575084853239
+      "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_92": 7675910990037338233
+      "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_93": 2238790957886844628
+      "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_94": 4542548859397967672
+      "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_95": 3475370772488810889
+      "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_96": -6821811863655012655
+      "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_97": 3613612813536588503
+      "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_98": 3155656603263953023
+      "Denizalt\u0131 tuzlu su ak\u0131\u015F\u0131 efekti-1_99": -2885700865488190764
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

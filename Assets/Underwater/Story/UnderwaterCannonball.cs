@@ -28,9 +28,10 @@ namespace Abyss.Story
             if(hit.collider)
             {
                 transform.position=from+delta.normalized*Mathf.Max(0,hit.distance-.02f);
-                if(hit.collider==owner.PlayerCollider)owner.chapter.TakeHit();
+                if(hit.collider==owner.PlayerCollider)owner.chapter.TakeHit(velocity.normalized);
                 owner.Impact(transform.position);Retire();return;
             }
+            var environment=owner.chapter.story.GetComponent<WarEnvironment>();if(environment&&environment.StrikeFish(from,from+delta)){owner.Impact(from);Retire();return;}
             transform.position=from+delta;
             if((bubbleClock-=Time.fixedDeltaTime)<=0){bubbleClock=.28f;owner.Wake(transform.position);}
             if(((Vector2)transform.position-owner.chapter.PlayerPosition).sqrMagnitude<25)owner.chapter.NearMiss();

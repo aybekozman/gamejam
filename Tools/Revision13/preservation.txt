@@ -1,0 +1,2 @@
+PASS 131 original colliders unchanged; only authorized initial mayor transform moved. Ship scene, project settings and input asset hashes unchanged.
+[('1713837775', 'm_LocalPosition', '{x: -196.33948, y: -24.446033, z: 0}', '{x: -195.13948, y: -24.446033, z: 0}')]

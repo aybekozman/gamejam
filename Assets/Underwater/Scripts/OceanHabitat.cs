@@ -76,6 +76,9 @@ namespace Abyss
             for (int i = 0; i < 3; i++) TrySpawn(false);
         }
 
+        Abyss.Story.UnderwaterThirdChapter warChapter;
+        public bool WarRouteActive{get{if(!warChapter)warChapter=FindFirstObjectByType<Abyss.Story.UnderwaterThirdChapter>();return warChapter&&warChapter.Started;}}
+        public bool WarRoute(Vector2 p)=>WarRouteActive&&p.x>-160&&p.x<170;
         public float VillageDistance(Vector2 position) => Vector2.Distance(position, villageCenter);
         public bool Allowed(OceanSpecies definition, Vector2 position)
         {
@@ -83,7 +86,7 @@ namespace Abyss
             float distance = VillageDistance(position);
             switch (definition.family)
             {
-                case HabitatFamily.ReefFish: return distance < reefFadeEnd || position.x >= sharkRegionStartX;
+                case HabitatFamily.ReefFish: return WarRoute(position)||distance < reefFadeEnd || position.x >= sharkRegionStartX;
                 case HabitatFamily.Shark: return position.x >= sharkRegionStartX;
                 case HabitatFamily.Whale: return false; // Whales belong exclusively to the distant background.
                 default: return true;
@@ -96,7 +99,7 @@ namespace Abyss
             switch (family)
             {
                 case HabitatFamily.ReefFish:
-                    return position.x >= sharkRegionStartX ? sharkRegionReefFishCount : Mathf.RoundToInt(villageFishCount * (1 - Mathf.InverseLerp(villageRadius, reefFadeEnd, distance)));
+                    return WarRoute(position)?8:position.x >= sharkRegionStartX ? sharkRegionReefFishCount : Mathf.RoundToInt(villageFishCount * (1 - Mathf.InverseLerp(villageRadius, reefFadeEnd, distance)));
                 case HabitatFamily.Shark: return position.x >= sharkRegionStartX ? sharksPerArea : 0;
                 case HabitatFamily.Whale: return 0;
                 default:
@@ -140,7 +143,7 @@ namespace Abyss
                 if (!Allowed(definition, point) || (!initial && InView(point)) || !ClearWater(point, definition.width * .3f)) continue;
                 if (family == HabitatFamily.ReefFish)
                 {
-                    float density = point.x >= sharkRegionStartX ? .35f : 1 - Mathf.InverseLerp(villageRadius, reefFadeEnd, VillageDistance(point));
+                    float density = WarRoute(point)?.65f:point.x >= sharkRegionStartX ? .35f : 1 - Mathf.InverseLerp(villageRadius, reefFadeEnd, VillageDistance(point));
                     if (UnityEngine.Random.value > density) continue;
                 }
                 bool crowded = false;
