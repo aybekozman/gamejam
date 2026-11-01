@@ -1,0 +1,1794 @@
+fileFormatVersion: 2
+guid: fe345329108732347a45ef9bba999a68
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5369884432932960791
+    second: BowStern_CleanSheet_0
+  - first:
+      213: 2609261993831227351
+    second: BowStern_CleanSheet_1
+  - first:
+      213: 2306187965694101772
+    second: BowStern_CleanSheet_2
+  - first:
+      213: -1950465592405281688
+    second: BowStern_CleanSheet_3
+  - first:
+      213: -6138353367311289422
+    second: BowStern_CleanSheet_4
+  - first:
+      213: -4884470778784387465
+    second: BowStern_CleanSheet_5
+  - first:
+      213: -3518440997574080644
+    second: BowStern_CleanSheet_6
+  - first:
+      213: 6408295885907287540
+    second: BowStern_CleanSheet_7
+  - first:
+      213: -5932449650385831411
+    second: BowStern_CleanSheet_8
+  - first:
+      213: -6060112341340155029
+    second: BowStern_CleanSheet_9
+  - first:
+      213: -2665597854658140876
+    second: BowStern_CleanSheet_10
+  - first:
+      213: 3340717923303089083
+    second: BowStern_CleanSheet_11
+  - first:
+      213: -6699640166717704741
+    second: BowStern_CleanSheet_12
+  - first:
+      213: 7768335103438642908
+    second: BowStern_CleanSheet_13
+  - first:
+      213: -6754974027936335793
+    second: BowStern_CleanSheet_14
+  - first:
+      213: 7070081347398693302
+    second: BowStern_CleanSheet_15
+  - first:
+      213: 751597161675498693
+    second: BowStern_CleanSheet_16
+  - first:
+      213: 2672681927626205700
+    second: BowStern_CleanSheet_17
+  - first:
+      213: 7789077263070155344
+    second: BowStern_CleanSheet_18
+  - first:
+      213: -8464031242623850406
+    second: BowStern_CleanSheet_19
+  - first:
+      213: 3015717208237355225
+    second: BowStern_CleanSheet_20
+  - first:
+      213: -7416387110975784357
+    second: BowStern_CleanSheet_21
+  - first:
+      213: -4057774098226811577
+    second: BowStern_CleanSheet_22
+  - first:
+      213: -234434896936358574
+    second: BowStern_CleanSheet_23
+  - first:
+      213: -6346503854495849139
+    second: BowStern_CleanSheet_24
+  - first:
+      213: -2272334869708513033
+    second: BowStern_CleanSheet_25
+  - first:
+      213: -961944508519356207
+    second: BowStern_CleanSheet_26
+  - first:
+      213: -2737928987062845982
+    second: BowStern_CleanSheet_27
+  - first:
+      213: -5314569488812330620
+    second: BowStern_CleanSheet_28
+  - first:
+      213: 7091505494879466978
+    second: BowStern_CleanSheet_29
+  - first:
+      213: 1293674028181705552
+    second: BowStern_CleanSheet_30
+  - first:
+      213: 5464238866216593462
+    second: BowStern_CleanSheet_31
+  - first:
+      213: 7276586621103297234
+    second: BowStern_CleanSheet_32
+  - first:
+      213: -1488094937929618339
+    second: BowStern_CleanSheet_33
+  - first:
+      213: -5444021223753102138
+    second: BowStern_CleanSheet_34
+  - first:
+      213: 3172437863407351653
+    second: BowStern_CleanSheet_35
+  - first:
+      213: 7899805173954153493
+    second: BowStern_CleanSheet_36
+  - first:
+      213: 6804370555402910159
+    second: BowStern_CleanSheet_37
+  - first:
+      213: 4585958761808242031
+    second: BowStern_CleanSheet_38
+  - first:
+      213: -5136931532185875606
+    second: BowStern_CleanSheet_39
+  - first:
+      213: 4064042827610659810
+    second: BowStern_CleanSheet_40
+  - first:
+      213: 1669435615637370805
+    second: BowStern_CleanSheet_41
+  - first:
+      213: -7477714227879930972
+    second: BowStern_CleanSheet_42
+  - first:
+      213: -5833405994598199927
+    second: BowStern_CleanSheet_43
+  - first:
+      213: 5798841427008896708
+    second: BowStern_CleanSheet_44
+  - first:
+      213: 3152554783605697769
+    second: BowStern_CleanSheet_45
+  - first:
+      213: -2731598407046985804
+    second: BowStern_CleanSheet_46
+  - first:
+      213: 4649605249611494364
+    second: BowStern_CleanSheet_47
+  - first:
+      213: -501243316393043912
+    second: BowStern_CleanSheet_48
+  - first:
+      213: -8769358232214859449
+    second: BowStern_CleanSheet_49
+  - first:
+      213: 5159765209894041365
+    second: BowStern_CleanSheet_50
+  - first:
+      213: -1211730544495504990
+    second: BowStern_CleanSheet_51
+  - first:
+      213: -3593955970023614961
+    second: BowStern_CleanSheet_52
+  - first:
+      213: 8563156168589480173
+    second: BowStern_CleanSheet_53
+  - first:
+      213: -2144309088633528693
+    second: BowStern_CleanSheet_54
+  - first:
+      213: -8827637939959626297
+    second: BowStern_CleanSheet_55
+  - first:
+      213: -327974632476695592
+    second: BowStern_CleanSheet_56
+  - first:
+      213: -5327853340325475358
+    second: BowStern_CleanSheet_57
+  - first:
+      213: 510518240270345642
+    second: BowStern_CleanSheet_58
+  - first:
+      213: -8597607204374624991
+    second: BowStern_CleanSheet_59
+  - first:
+      213: 6578619962267294838
+    second: BowStern_CleanSheet_60
+  - first:
+      213: 6582504725809185341
+    second: BowStern_CleanSheet_61
+  - first:
+      213: -3495984988816327671
+    second: BowStern_CleanSheet_62
+  - first:
+      213: 4799424568812372102
+    second: BowStern_CleanSheet_63
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 9
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BowStern_CleanSheet_0
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 508
+        width: 382
+        height: 285
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e581222f865a75b0800000000000000
+      internalID: -5369884432932960791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowStern_CleanSheet_1
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 499
+        width: 373
+        height: 294
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dfdc3c75f5f53420800000000000000
+      internalID: 2609261993831227351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowStern_CleanSheet_2
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 588
+        width: 42
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c094a707cb9310020800000000000000
+      internalID: 2306187965694101772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowStern_CleanSheet_3
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 504
+        width: 364
+        height: 289
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 864bf02b0ed8ee4e0800000000000000
+      internalID: -1950465592405281688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowStern_CleanSheet_4
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 528
+        width: 339
+        height: 265
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b37693822030daa0800000000000000
+      internalID: -6138353367311289422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowStern_CleanSheet_5
+      rect:
+        serializedVersion: 2
+        x: 1696
+        y: 583
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77ee7caa4bfd63cb0800000000000000
+      internalID: -4884470778784387465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowStern_CleanSheet_6
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 544
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c770d60ed8cfb2fc0800000000000000
+      internalID: -3518440997574080644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowStern_CleanSheet_7
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 553
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fdd917d727dee850800000000000000
+      internalID: 6408295885907287540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowStern_CleanSheet_8
+      rect:
+        serializedVersion: 2
+        x: 1675
+        y: 510
+        width: 72
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0abcd47974bbada0800000000000000
+      internalID: -5932449650385831411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowStern_CleanSheet_9
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 507
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b639573fee726eba0800000000000000
+      internalID: -6060112341340155029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowStern_CleanSheet_10
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 510
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 435ee07cfd4e10bd0800000000000000
+      internalID: -2665597854658140876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowStern_CleanSheet_11
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 324
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb3e249504d9c5e20800000000000000
+      internalID: 3340717923303089083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowStern_CleanSheet_12
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 312
+        width: 79
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd53adbb3c81603a0800000000000000
+      internalID: -6699640166717704741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowStern_CleanSheet_13
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 324
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cde58a04e9baecb60800000000000000
+      internalID: 7768335103438642908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowStern_CleanSheet_14
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 325
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f487dd539e28142a0800000000000000
+      internalID: -6754974027936335793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowStern_CleanSheet_15
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 312
+        width: 76
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b170dcc689fd1260800000000000000
+      internalID: 7070081347398693302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowStern_CleanSheet_16
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 324
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c42cdbe2a53e6a00800000000000000
+      internalID: 751597161675498693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowStern_CleanSheet_17
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 324
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40a24cd7d06471520800000000000000
+      internalID: 2672681927626205700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowStern_CleanSheet_18
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 312
+        width: 82
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0525e51a08c581c60800000000000000
+      internalID: 7789077263070155344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowStern_CleanSheet_19
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 325
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a58e89fdd68b98a80800000000000000
+      internalID: -8464031242623850406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowStern_CleanSheet_20
+      rect:
+        serializedVersion: 2
+        x: 1483
+        y: 324
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d0350ca2daf9d920800000000000000
+      internalID: 3015717208237355225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowStern_CleanSheet_21
+      rect:
+        serializedVersion: 2
+        x: 1513
+        y: 312
+        width: 80
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5ab08d5733b31990800000000000000
+      internalID: -7416387110975784357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowStern_CleanSheet_22
+      rect:
+        serializedVersion: 2
+        x: 1604
+        y: 325
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74de868e4f3efa7c0800000000000000
+      internalID: -4057774098226811577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowStern_CleanSheet_23
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 290
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25d272d04be1fbcf0800000000000000
+      internalID: -234434896936358574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowStern_CleanSheet_24
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 266
+        width: 181
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d45a02b9e50bce7a0800000000000000
+      internalID: -6346503854495849139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowStern_CleanSheet_25
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 266
+        width: 196
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f06a40b97b0770e0800000000000000
+      internalID: -2272334869708513033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowStern_CleanSheet_26
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 255
+        width: 208
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d8e01ce09c76a2f0800000000000000
+      internalID: -961944508519356207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowStern_CleanSheet_27
+      rect:
+        serializedVersion: 2
+        x: 1459
+        y: 290
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2edbfd9a71ce00ad0800000000000000
+      internalID: -2737928987062845982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowStern_CleanSheet_28
+      rect:
+        serializedVersion: 2
+        x: 1465
+        y: 266
+        width: 181
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 481363d253bde36b0800000000000000
+      internalID: -5314569488812330620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowStern_CleanSheet_29
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 250
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e57509dca61a6260800000000000000
+      internalID: 7091505494879466978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowStern_CleanSheet_30
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 243
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0535be8acad04f110800000000000000
+      internalID: 1293674028181705552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowStern_CleanSheet_31
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 208
+        width: 232
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63829bc4c40e4db40800000000000000
+      internalID: 5464238866216593462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowStern_CleanSheet_32
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 243
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d2d8389af0abf460800000000000000
+      internalID: 7276586621103297234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowStern_CleanSheet_33
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 243
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5ce5a8c989395be0800000000000000
+      internalID: -1488094937929618339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowStern_CleanSheet_34
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 208
+        width: 246
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cc42886a83f274b0800000000000000
+      internalID: -5444021223753102138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowStern_CleanSheet_35
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 192
+        width: 263
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 567f460bd63c60c20800000000000000
+      internalID: 3172437863407351653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowStern_CleanSheet_36
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 238
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51c845463feb1ad60800000000000000
+      internalID: 7899805173954153493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowStern_CleanSheet_37
+      rect:
+        serializedVersion: 2
+        x: 1419
+        y: 243
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc9fae218fafd6e50800000000000000
+      internalID: 6804370555402910159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowStern_CleanSheet_38
+      rect:
+        serializedVersion: 2
+        x: 1443
+        y: 208
+        width: 225
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f65ab28423994af30800000000000000
+      internalID: 4585958761808242031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowStern_CleanSheet_39
+      rect:
+        serializedVersion: 2
+        x: 1660
+        y: 242
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6bce84fcf3f5b8b0800000000000000
+      internalID: -5136931532185875606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowStern_CleanSheet_40
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 191
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eb15b36b61666830800000000000000
+      internalID: 4064042827610659810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowStern_CleanSheet_41
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 192
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b7737de8d60b2710800000000000000
+      internalID: 1669435615637370805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowStern_CleanSheet_42
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 199
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a315534782d93890800000000000000
+      internalID: -7477714227879930972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowStern_CleanSheet_43
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 144
+        width: 323
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98d075597249b0fa0800000000000000
+      internalID: -5833405994598199927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowStern_CleanSheet_44
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 179
+        width: 49
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ce3fa5ed8f997050800000000000000
+      internalID: 5798841427008896708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowStern_CleanSheet_45
+      rect:
+        serializedVersion: 2
+        x: 1253
+        y: 179
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eca6cb6fdf10cb20800000000000000
+      internalID: 3152554783605697769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowStern_CleanSheet_46
+      rect:
+        serializedVersion: 2
+        x: 1396
+        y: 191
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b701fea8b9671ad0800000000000000
+      internalID: -2731598407046985804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowStern_CleanSheet_47
+      rect:
+        serializedVersion: 2
+        x: 1682
+        y: 191
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd372e00757b68040800000000000000
+      internalID: 4649605249611494364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowStern_CleanSheet_48
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 144
+        width: 287
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8389a540cd93b09f0800000000000000
+      internalID: -501243316393043912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowStern_CleanSheet_49
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 127
+        width: 303
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7419fac562bfc4680800000000000000
+      internalID: -8769358232214859449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowStern_CleanSheet_50
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 186
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 517372cee1b2b9740800000000000000
+      internalID: 5159765209894041365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowStern_CleanSheet_51
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 145
+        width: 289
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a1dad36d711f2fe0800000000000000
+      internalID: -1211730544495504990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowStern_CleanSheet_52
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 145
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f06195c3614bf1ec0800000000000000
+      internalID: -3593955970023614961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowStern_CleanSheet_53
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 133
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de098f07a2176d670800000000000000
+      internalID: 8563156168589480173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowStern_CleanSheet_54
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 139
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8e5b53be32ed32e0800000000000000
+      internalID: -2144309088633528693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowStern_CleanSheet_55
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 145
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c502fe701eed7580800000000000000
+      internalID: -8827637939959626297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowStern_CleanSheet_56
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 121
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d323e73fccc27bf0800000000000000
+      internalID: -327974632476695592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowStern_CleanSheet_57
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 121
+        width: 67
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eb858a7d99af06b0800000000000000
+      internalID: -5327853340325475358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowStern_CleanSheet_58
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 145
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa5ebaa72a9b51700800000000000000
+      internalID: 510518240270345642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowStern_CleanSheet_59
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 110
+        width: 63
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12549e8bcc92fa880800000000000000
+      internalID: -8597607204374624991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowStern_CleanSheet_60
+      rect:
+        serializedVersion: 2
+        x: 1231
+        y: 110
+        width: 65
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67c5c3b2004fb4b50800000000000000
+      internalID: 6578619962267294838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowStern_CleanSheet_61
+      rect:
+        serializedVersion: 2
+        x: 1371
+        y: 133
+        width: 53
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d32cf2a2c21c95b50800000000000000
+      internalID: 6582504725809185341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowStern_CleanSheet_62
+      rect:
+        serializedVersion: 2
+        x: 1683
+        y: 133
+        width: 52
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90c3189dc24cb7fc0800000000000000
+      internalID: -3495984988816327671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowStern_CleanSheet_63
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 133
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6800856873bfa9240800000000000000
+      internalID: 4799424568812372102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 1537655665
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      BowStern_CleanSheet_0: -5369884432932960791
+      BowStern_CleanSheet_1: 2609261993831227351
+      BowStern_CleanSheet_10: -2665597854658140876
+      BowStern_CleanSheet_11: 3340717923303089083
+      BowStern_CleanSheet_12: -6699640166717704741
+      BowStern_CleanSheet_13: 7768335103438642908
+      BowStern_CleanSheet_14: -6754974027936335793
+      BowStern_CleanSheet_15: 7070081347398693302
+      BowStern_CleanSheet_16: 751597161675498693
+      BowStern_CleanSheet_17: 2672681927626205700
+      BowStern_CleanSheet_18: 7789077263070155344
+      BowStern_CleanSheet_19: -8464031242623850406
+      BowStern_CleanSheet_2: 2306187965694101772
+      BowStern_CleanSheet_20: 3015717208237355225
+      BowStern_CleanSheet_21: -7416387110975784357
+      BowStern_CleanSheet_22: -4057774098226811577
+      BowStern_CleanSheet_23: -234434896936358574
+      BowStern_CleanSheet_24: -6346503854495849139
+      BowStern_CleanSheet_25: -2272334869708513033
+      BowStern_CleanSheet_26: -961944508519356207
+      BowStern_CleanSheet_27: -2737928987062845982
+      BowStern_CleanSheet_28: -5314569488812330620
+      BowStern_CleanSheet_29: 7091505494879466978
+      BowStern_CleanSheet_3: -1950465592405281688
+      BowStern_CleanSheet_30: 1293674028181705552
+      BowStern_CleanSheet_31: 5464238866216593462
+      BowStern_CleanSheet_32: 7276586621103297234
+      BowStern_CleanSheet_33: -1488094937929618339
+      BowStern_CleanSheet_34: -5444021223753102138
+      BowStern_CleanSheet_35: 3172437863407351653
+      BowStern_CleanSheet_36: 7899805173954153493
+      BowStern_CleanSheet_37: 6804370555402910159
+      BowStern_CleanSheet_38: 4585958761808242031
+      BowStern_CleanSheet_39: -5136931532185875606
+      BowStern_CleanSheet_4: -6138353367311289422
+      BowStern_CleanSheet_40: 4064042827610659810
+      BowStern_CleanSheet_41: 1669435615637370805
+      BowStern_CleanSheet_42: -7477714227879930972
+      BowStern_CleanSheet_43: -5833405994598199927
+      BowStern_CleanSheet_44: 5798841427008896708
+      BowStern_CleanSheet_45: 3152554783605697769
+      BowStern_CleanSheet_46: -2731598407046985804
+      BowStern_CleanSheet_47: 4649605249611494364
+      BowStern_CleanSheet_48: -501243316393043912
+      BowStern_CleanSheet_49: -8769358232214859449
+      BowStern_CleanSheet_5: -4884470778784387465
+      BowStern_CleanSheet_50: 5159765209894041365
+      BowStern_CleanSheet_51: -1211730544495504990
+      BowStern_CleanSheet_52: -3593955970023614961
+      BowStern_CleanSheet_53: 8563156168589480173
+      BowStern_CleanSheet_54: -2144309088633528693
+      BowStern_CleanSheet_55: -8827637939959626297
+      BowStern_CleanSheet_56: -327974632476695592
+      BowStern_CleanSheet_57: -5327853340325475358
+      BowStern_CleanSheet_58: 510518240270345642
+      BowStern_CleanSheet_59: -8597607204374624991
+      BowStern_CleanSheet_6: -3518440997574080644
+      BowStern_CleanSheet_60: 6578619962267294838
+      BowStern_CleanSheet_61: 6582504725809185341
+      BowStern_CleanSheet_62: -3495984988816327671
+      BowStern_CleanSheet_63: 4799424568812372102
+      BowStern_CleanSheet_7: 6408295885907287540
+      BowStern_CleanSheet_8: -5932449650385831411
+      BowStern_CleanSheet_9: -6060112341340155029
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

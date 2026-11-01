@@ -136,10 +136,14 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::Enemy
   maxHealth: 50
   moveSpeed: 3
-  knockbackForce: 20
+  shipKnockbackForce: 10
+  bulletKnockbackForce: 3
   knockbackDuration: 0.3
   damage: 15
   hitStunDuration: 0.2
+  flashDuration: 0.05
+  flashCount: 3
+  lootPrefab: {fileID: 3742351204053944340, guid: e274f903f0e9a614eac3c0044b66a4b5, type: 3}
   rotationOffset: -90
 --- !u!114 &7158672583832993966
 MonoBehaviour:

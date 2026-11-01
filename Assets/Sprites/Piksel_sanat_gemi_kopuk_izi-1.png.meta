@@ -1,0 +1,1300 @@
+fileFormatVersion: 2
+guid: d8a9ec496ed13d048b382d4972546fd3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7239049409647050613
+    second: Piksel_sanat_gemi_kopuk_izi-1_0
+  - first:
+      213: 645001487686585961
+    second: Piksel_sanat_gemi_kopuk_izi-1_1
+  - first:
+      213: -6402414034923206081
+    second: Piksel_sanat_gemi_kopuk_izi-1_2
+  - first:
+      213: 3775632439242261380
+    second: Piksel_sanat_gemi_kopuk_izi-1_3
+  - first:
+      213: 1451358293146410017
+    second: Piksel_sanat_gemi_kopuk_izi-1_4
+  - first:
+      213: 9084952030812917301
+    second: Piksel_sanat_gemi_kopuk_izi-1_5
+  - first:
+      213: -4017200122270298242
+    second: Piksel_sanat_gemi_kopuk_izi-1_6
+  - first:
+      213: 6147038585652675094
+    second: Piksel_sanat_gemi_kopuk_izi-1_7
+  - first:
+      213: -8491049406623236508
+    second: Piksel_sanat_gemi_kopuk_izi-1_8
+  - first:
+      213: 4948890450620181422
+    second: Piksel_sanat_gemi_kopuk_izi-1_9
+  - first:
+      213: 9077157937404887724
+    second: Piksel_sanat_gemi_kopuk_izi-1_10
+  - first:
+      213: -1018126109828375945
+    second: Piksel_sanat_gemi_kopuk_izi-1_11
+  - first:
+      213: -5904818934172091601
+    second: Piksel_sanat_gemi_kopuk_izi-1_12
+  - first:
+      213: 1875971475414293714
+    second: Piksel_sanat_gemi_kopuk_izi-1_13
+  - first:
+      213: -372700687908770571
+    second: Piksel_sanat_gemi_kopuk_izi-1_14
+  - first:
+      213: 3618560937661051636
+    second: Piksel_sanat_gemi_kopuk_izi-1_15
+  - first:
+      213: 3043830643795110178
+    second: Piksel_sanat_gemi_kopuk_izi-1_16
+  - first:
+      213: -6926349079809996073
+    second: Piksel_sanat_gemi_kopuk_izi-1_17
+  - first:
+      213: 2260350391018361692
+    second: Piksel_sanat_gemi_kopuk_izi-1_18
+  - first:
+      213: -1403240236754745453
+    second: Piksel_sanat_gemi_kopuk_izi-1_19
+  - first:
+      213: -2880747276731781612
+    second: Piksel_sanat_gemi_kopuk_izi-1_20
+  - first:
+      213: 4934687710224301936
+    second: Piksel_sanat_gemi_kopuk_izi-1_21
+  - first:
+      213: -3943112136295393008
+    second: Piksel_sanat_gemi_kopuk_izi-1_22
+  - first:
+      213: 125044142436494405
+    second: Piksel_sanat_gemi_kopuk_izi-1_23
+  - first:
+      213: 8274720054010145752
+    second: Piksel_sanat_gemi_kopuk_izi-1_24
+  - first:
+      213: -8499412809187504268
+    second: Piksel_sanat_gemi_kopuk_izi-1_25
+  - first:
+      213: -1494815997412198236
+    second: Piksel_sanat_gemi_kopuk_izi-1_26
+  - first:
+      213: -7194976646522710997
+    second: Piksel_sanat_gemi_kopuk_izi-1_27
+  - first:
+      213: -6037876321522247316
+    second: Piksel_sanat_gemi_kopuk_izi-1_28
+  - first:
+      213: -5627831028114785482
+    second: Piksel_sanat_gemi_kopuk_izi-1_29
+  - first:
+      213: 8708789314333954074
+    second: Piksel_sanat_gemi_kopuk_izi-1_30
+  - first:
+      213: 8128830616981323890
+    second: Piksel_sanat_gemi_kopuk_izi-1_31
+  - first:
+      213: -7248906721302432475
+    second: Piksel_sanat_gemi_kopuk_izi-1_32
+  - first:
+      213: -6034255920604034186
+    second: Piksel_sanat_gemi_kopuk_izi-1_33
+  - first:
+      213: -7669976151850234987
+    second: Piksel_sanat_gemi_kopuk_izi-1_34
+  - first:
+      213: 8167179826054985965
+    second: Piksel_sanat_gemi_kopuk_izi-1_35
+  - first:
+      213: 3707443835070993660
+    second: Piksel_sanat_gemi_kopuk_izi-1_36
+  - first:
+      213: 3613505618106455221
+    second: Piksel_sanat_gemi_kopuk_izi-1_37
+  - first:
+      213: 6699066842712933554
+    second: Piksel_sanat_gemi_kopuk_izi-1_38
+  - first:
+      213: 3077847976029486078
+    second: Piksel_sanat_gemi_kopuk_izi-1_39
+  - first:
+      213: -3832952570308793798
+    second: Piksel_sanat_gemi_kopuk_izi-1_40
+  - first:
+      213: -7589782723767638359
+    second: Piksel_sanat_gemi_kopuk_izi-1_41
+  - first:
+      213: 5290949572884246943
+    second: Piksel_sanat_gemi_kopuk_izi-1_42
+  - first:
+      213: 5897859558742923723
+    second: Piksel_sanat_gemi_kopuk_izi-1_43
+  - first:
+      213: -6047963164189622365
+    second: Piksel_sanat_gemi_kopuk_izi-1_44
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Piksel_sanat_gemi_kopuk_izi-1_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 65
+        width: 771
+        height: 951
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b808c728aeab98b90800000000000000
+      internalID: -7239049409647050613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_sanat_gemi_kopuk_izi-1_1
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 0
+        width: 699
+        height: 1012
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96e48298f6183f800800000000000000
+      internalID: 645001487686585961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_sanat_gemi_kopuk_izi-1_2
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 808
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3a4d6f4b5e0627a0800000000000000
+      internalID: -6402414034923206081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_sanat_gemi_kopuk_izi-1_3
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 739
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4830a7703bdb56430800000000000000
+      internalID: 3775632439242261380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_sanat_gemi_kopuk_izi-1_4
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 703
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12c1fc09da2442410800000000000000
+      internalID: 1451358293146410017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_sanat_gemi_kopuk_izi-1_5
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 709
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53e4116ecbb341e70800000000000000
+      internalID: 9084952030812917301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_sanat_gemi_kopuk_izi-1_6
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 711
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7f4c68d5c90048c0800000000000000
+      internalID: -4017200122270298242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_sanat_gemi_kopuk_izi-1_7
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 703
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6128276760bae4550800000000000000
+      internalID: 6147038585652675094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_sanat_gemi_kopuk_izi-1_8
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 693
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46e3eeb5d8bb92a80800000000000000
+      internalID: -8491049406623236508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_sanat_gemi_kopuk_izi-1_9
+      rect:
+        serializedVersion: 2
+        x: 1286
+        y: 675
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eabe98df4adfda440800000000000000
+      internalID: 4948890450620181422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_sanat_gemi_kopuk_izi-1_10
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 661
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca2c22d1d0b88fd70800000000000000
+      internalID: 9077157937404887724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_sanat_gemi_kopuk_izi-1_11
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 611
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77a112782b3eed1f0800000000000000
+      internalID: -1018126109828375945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_sanat_gemi_kopuk_izi-1_12
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 531
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2bfba5e67edd0ea0800000000000000
+      internalID: -5904818934172091601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_sanat_gemi_kopuk_izi-1_13
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 535
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dc95d81e1ac80a10800000000000000
+      internalID: 1875971475414293714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_sanat_gemi_kopuk_izi-1_14
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 537
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fc67a1f2b6e3daf0800000000000000
+      internalID: -372700687908770571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_sanat_gemi_kopuk_izi-1_15
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 529
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f234673006b73230800000000000000
+      internalID: 3618560937661051636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_sanat_gemi_kopuk_izi-1_16
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 543
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2292bd7f7dbdd3a20800000000000000
+      internalID: 3043830643795110178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_sanat_gemi_kopuk_izi-1_17
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 527
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7da4293953aa0ef90800000000000000
+      internalID: -6926349079809996073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_sanat_gemi_kopuk_izi-1_18
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 534
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c53909c64b06e5f10800000000000000
+      internalID: 2260350391018361692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_sanat_gemi_kopuk_izi-1_19
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 497
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 397c2b97070b68ce0800000000000000
+      internalID: -1403240236754745453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_sanat_gemi_kopuk_izi-1_20
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 495
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41e6aba5d978508d0800000000000000
+      internalID: -2880747276731781612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_sanat_gemi_kopuk_izi-1_21
+      rect:
+        serializedVersion: 2
+        x: 1334
+        y: 501
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07fb76dc3588b7440800000000000000
+      internalID: 4934687710224301936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_sanat_gemi_kopuk_izi-1_22
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 0
+        width: 380
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 019d49e47604749c0800000000000000
+      internalID: -3943112136295393008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_sanat_gemi_kopuk_izi-1_23
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 467
+        width: 31
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54cab2b2cfe3cb100800000000000000
+      internalID: 125044142436494405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_sanat_gemi_kopuk_izi-1_24
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 15
+        width: 443
+        height: 485
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8db631b3c06b5d270800000000000000
+      internalID: 8274720054010145752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_sanat_gemi_kopuk_izi-1_25
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 455
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47f49f4f4150c0a80800000000000000
+      internalID: -8499412809187504268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_sanat_gemi_kopuk_izi-1_26
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 439
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a8bcad25c8514be0800000000000000
+      internalID: -1494815997412198236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_sanat_gemi_kopuk_izi-1_27
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 433
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2458c05cde462c90800000000000000
+      internalID: -7194976646522710997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_sanat_gemi_kopuk_izi-1_28
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 431
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c699ce1c977253ca0800000000000000
+      internalID: -6037876321522247316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_sanat_gemi_kopuk_izi-1_29
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 393
+        width: 7
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63bfb495f7de5e1b0800000000000000
+      internalID: -5627831028114785482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_sanat_gemi_kopuk_izi-1_30
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 359
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a10d7908db5dbd870800000000000000
+      internalID: 8708789314333954074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_sanat_gemi_kopuk_izi-1_31
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 325
+        width: 39
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 270cd74b0686fc070800000000000000
+      internalID: 8128830616981323890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_sanat_gemi_kopuk_izi-1_32
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 353
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 525b3da4eb5b66b90800000000000000
+      internalID: -7248906721302432475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_sanat_gemi_kopuk_izi-1_33
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 259
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67b49980634024ca0800000000000000
+      internalID: -6034255920604034186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_sanat_gemi_kopuk_izi-1_34
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 275
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59bcf31c355ce8590800000000000000
+      internalID: -7669976151850234987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_sanat_gemi_kopuk_izi-1_35
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 241
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de87ebcb7c6a75170800000000000000
+      internalID: 8167179826054985965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_sanat_gemi_kopuk_izi-1_36
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 242
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf45e1e668c737330800000000000000
+      internalID: 3707443835070993660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_sanat_gemi_kopuk_izi-1_37
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 207
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b41d19e630c52230800000000000000
+      internalID: 3613505618106455221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_sanat_gemi_kopuk_izi-1_38
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 205
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b4808edccdd7fc50800000000000000
+      internalID: 6699066842712933554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_sanat_gemi_kopuk_izi-1_39
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 213
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efb74e35d66b6ba20800000000000000
+      internalID: 3077847976029486078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_sanat_gemi_kopuk_izi-1_40
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 191
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3ae2d5f1fd9ecac0800000000000000
+      internalID: -3832952570308793798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_sanat_gemi_kopuk_izi-1_41
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 191
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a6ee6b33dcaba690800000000000000
+      internalID: -7589782723767638359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_sanat_gemi_kopuk_izi-1_42
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 199
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9135489a9a3d6940800000000000000
+      internalID: 5290949572884246943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_sanat_gemi_kopuk_izi-1_43
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 127
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc9930e350869d150800000000000000
+      internalID: 5897859558742923723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_sanat_gemi_kopuk_izi-1_44
+      rect:
+        serializedVersion: 2
+        x: 1326
+        y: 127
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3af74dfab81511ca0800000000000000
+      internalID: -6047963164189622365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Piksel_sanat_gemi_kopuk_izi-1_0: -7239049409647050613
+      Piksel_sanat_gemi_kopuk_izi-1_1: 645001487686585961
+      Piksel_sanat_gemi_kopuk_izi-1_10: 9077157937404887724
+      Piksel_sanat_gemi_kopuk_izi-1_11: -1018126109828375945
+      Piksel_sanat_gemi_kopuk_izi-1_12: -5904818934172091601
+      Piksel_sanat_gemi_kopuk_izi-1_13: 1875971475414293714
+      Piksel_sanat_gemi_kopuk_izi-1_14: -372700687908770571
+      Piksel_sanat_gemi_kopuk_izi-1_15: 3618560937661051636
+      Piksel_sanat_gemi_kopuk_izi-1_16: 3043830643795110178
+      Piksel_sanat_gemi_kopuk_izi-1_17: -6926349079809996073
+      Piksel_sanat_gemi_kopuk_izi-1_18: 2260350391018361692
+      Piksel_sanat_gemi_kopuk_izi-1_19: -1403240236754745453
+      Piksel_sanat_gemi_kopuk_izi-1_2: -6402414034923206081
+      Piksel_sanat_gemi_kopuk_izi-1_20: -2880747276731781612
+      Piksel_sanat_gemi_kopuk_izi-1_21: 4934687710224301936
+      Piksel_sanat_gemi_kopuk_izi-1_22: -3943112136295393008
+      Piksel_sanat_gemi_kopuk_izi-1_23: 125044142436494405
+      Piksel_sanat_gemi_kopuk_izi-1_24: 8274720054010145752
+      Piksel_sanat_gemi_kopuk_izi-1_25: -8499412809187504268
+      Piksel_sanat_gemi_kopuk_izi-1_26: -1494815997412198236
+      Piksel_sanat_gemi_kopuk_izi-1_27: -7194976646522710997
+      Piksel_sanat_gemi_kopuk_izi-1_28: -6037876321522247316
+      Piksel_sanat_gemi_kopuk_izi-1_29: -5627831028114785482
+      Piksel_sanat_gemi_kopuk_izi-1_3: 3775632439242261380
+      Piksel_sanat_gemi_kopuk_izi-1_30: 8708789314333954074
+      Piksel_sanat_gemi_kopuk_izi-1_31: 8128830616981323890
+      Piksel_sanat_gemi_kopuk_izi-1_32: -7248906721302432475
+      Piksel_sanat_gemi_kopuk_izi-1_33: -6034255920604034186
+      Piksel_sanat_gemi_kopuk_izi-1_34: -7669976151850234987
+      Piksel_sanat_gemi_kopuk_izi-1_35: 8167179826054985965
+      Piksel_sanat_gemi_kopuk_izi-1_36: 3707443835070993660
+      Piksel_sanat_gemi_kopuk_izi-1_37: 3613505618106455221
+      Piksel_sanat_gemi_kopuk_izi-1_38: 6699066842712933554
+      Piksel_sanat_gemi_kopuk_izi-1_39: 3077847976029486078
+      Piksel_sanat_gemi_kopuk_izi-1_4: 1451358293146410017
+      Piksel_sanat_gemi_kopuk_izi-1_40: -3832952570308793798
+      Piksel_sanat_gemi_kopuk_izi-1_41: -7589782723767638359
+      Piksel_sanat_gemi_kopuk_izi-1_42: 5290949572884246943
+      Piksel_sanat_gemi_kopuk_izi-1_43: 5897859558742923723
+      Piksel_sanat_gemi_kopuk_izi-1_44: -6047963164189622365
+      Piksel_sanat_gemi_kopuk_izi-1_5: 9084952030812917301
+      Piksel_sanat_gemi_kopuk_izi-1_6: -4017200122270298242
+      Piksel_sanat_gemi_kopuk_izi-1_7: 6147038585652675094
+      Piksel_sanat_gemi_kopuk_izi-1_8: -8491049406623236508
+      Piksel_sanat_gemi_kopuk_izi-1_9: 4948890450620181422
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,2080 @@
+fileFormatVersion: 2
+guid: 8f8d6518dfb885e4da3c199f75c1b099
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5460902427073525229
+    second: Surface_CleanSheet_0
+  - first:
+      213: -7408740782943642977
+    second: Surface_CleanSheet_1
+  - first:
+      213: 1618806207574785702
+    second: Surface_CleanSheet_2
+  - first:
+      213: 7986828026821164762
+    second: Surface_CleanSheet_3
+  - first:
+      213: 3121841056576440145
+    second: Surface_CleanSheet_4
+  - first:
+      213: -3565816323314453784
+    second: Surface_CleanSheet_5
+  - first:
+      213: -64924617592411477
+    second: Surface_CleanSheet_6
+  - first:
+      213: -8869696873567932854
+    second: Surface_CleanSheet_7
+  - first:
+      213: -6090292823604317551
+    second: Surface_CleanSheet_8
+  - first:
+      213: -7303324809021764637
+    second: Surface_CleanSheet_9
+  - first:
+      213: -3444935670103495341
+    second: Surface_CleanSheet_10
+  - first:
+      213: 52445843379778768
+    second: Surface_CleanSheet_11
+  - first:
+      213: 554358007323880395
+    second: Surface_CleanSheet_12
+  - first:
+      213: -6760511124366174055
+    second: Surface_CleanSheet_13
+  - first:
+      213: 3681682088451483593
+    second: Surface_CleanSheet_14
+  - first:
+      213: 190666196808178437
+    second: Surface_CleanSheet_15
+  - first:
+      213: 2267782780861451124
+    second: Surface_CleanSheet_16
+  - first:
+      213: 38414339604811144
+    second: Surface_CleanSheet_17
+  - first:
+      213: 984256225542676225
+    second: Surface_CleanSheet_18
+  - first:
+      213: -4189517297931646020
+    second: Surface_CleanSheet_19
+  - first:
+      213: 6228835116585978848
+    second: Surface_CleanSheet_20
+  - first:
+      213: -3032329784346482102
+    second: Surface_CleanSheet_21
+  - first:
+      213: -82084417446584069
+    second: Surface_CleanSheet_22
+  - first:
+      213: 5264141246324364539
+    second: Surface_CleanSheet_23
+  - first:
+      213: -1960916328092089268
+    second: Surface_CleanSheet_24
+  - first:
+      213: 8278004179162636748
+    second: Surface_CleanSheet_25
+  - first:
+      213: 4780433293970441305
+    second: Surface_CleanSheet_26
+  - first:
+      213: -539654990935323011
+    second: Surface_CleanSheet_27
+  - first:
+      213: -7326996332036868878
+    second: Surface_CleanSheet_28
+  - first:
+      213: 7274773701050372360
+    second: Surface_CleanSheet_29
+  - first:
+      213: -3430496163841562690
+    second: Surface_CleanSheet_30
+  - first:
+      213: 1022387726947205923
+    second: Surface_CleanSheet_31
+  - first:
+      213: -757956674615952063
+    second: Surface_CleanSheet_32
+  - first:
+      213: -5496274097008637594
+    second: Surface_CleanSheet_33
+  - first:
+      213: 1387916498203679118
+    second: Surface_CleanSheet_34
+  - first:
+      213: -6716370565922747130
+    second: Surface_CleanSheet_35
+  - first:
+      213: -6658567732739264831
+    second: Surface_CleanSheet_36
+  - first:
+      213: -6916919647646567508
+    second: Surface_CleanSheet_37
+  - first:
+      213: 5901936900561259999
+    second: Surface_CleanSheet_38
+  - first:
+      213: 1849809858003383244
+    second: Surface_CleanSheet_39
+  - first:
+      213: 8696039483759360516
+    second: Surface_CleanSheet_40
+  - first:
+      213: 8598229599896038263
+    second: Surface_CleanSheet_41
+  - first:
+      213: -5491356786040300813
+    second: Surface_CleanSheet_42
+  - first:
+      213: 6510086242284573397
+    second: Surface_CleanSheet_43
+  - first:
+      213: 3986516991044858940
+    second: Surface_CleanSheet_44
+  - first:
+      213: 5258745869816260809
+    second: Surface_CleanSheet_45
+  - first:
+      213: 9210939614491435541
+    second: Surface_CleanSheet_46
+  - first:
+      213: 427873752937001368
+    second: Surface_CleanSheet_47
+  - first:
+      213: -127108154053620
+    second: Surface_CleanSheet_48
+  - first:
+      213: 2973767168741849018
+    second: Surface_CleanSheet_49
+  - first:
+      213: -2218477128790541315
+    second: Surface_CleanSheet_50
+  - first:
+      213: -539257920091149359
+    second: Surface_CleanSheet_51
+  - first:
+      213: -8830013481338858982
+    second: Surface_CleanSheet_52
+  - first:
+      213: -3621122994873496560
+    second: Surface_CleanSheet_53
+  - first:
+      213: -1242523137609095099
+    second: Surface_CleanSheet_54
+  - first:
+      213: -1799950270901466402
+    second: Surface_CleanSheet_55
+  - first:
+      213: 7890794560543300485
+    second: Surface_CleanSheet_56
+  - first:
+      213: -1228861969364486973
+    second: Surface_CleanSheet_57
+  - first:
+      213: -72604466766207050
+    second: Surface_CleanSheet_58
+  - first:
+      213: 6260056319883417965
+    second: Surface_CleanSheet_59
+  - first:
+      213: 8385977191826556787
+    second: Surface_CleanSheet_60
+  - first:
+      213: -3138699096067202965
+    second: Surface_CleanSheet_61
+  - first:
+      213: 1401829216655899262
+    second: Surface_CleanSheet_62
+  - first:
+      213: 287120081342664413
+    second: Surface_CleanSheet_63
+  - first:
+      213: 9108292962914640355
+    second: Surface_CleanSheet_64
+  - first:
+      213: 8848836267130065710
+    second: Surface_CleanSheet_65
+  - first:
+      213: -5142549340519503075
+    second: Surface_CleanSheet_66
+  - first:
+      213: 2429922928805985827
+    second: Surface_CleanSheet_67
+  - first:
+      213: -2549569940874011061
+    second: Surface_CleanSheet_68
+  - first:
+      213: -4458955255320915027
+    second: Surface_CleanSheet_69
+  - first:
+      213: 1860944040699870294
+    second: Surface_CleanSheet_70
+  - first:
+      213: 6437984640756616840
+    second: Surface_CleanSheet_71
+  - first:
+      213: 1355130394914889483
+    second: Surface_CleanSheet_72
+  - first:
+      213: -3011829278410759860
+    second: Surface_CleanSheet_73
+  - first:
+      213: 4997680605604039893
+    second: Surface_CleanSheet_74
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 9
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Surface_CleanSheet_0
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 812
+        width: 179
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31ac639fc2af634b0800000000000000
+      internalID: -5460902427073525229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surface_CleanSheet_1
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 844
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9ad1b7d28dde2990800000000000000
+      internalID: -7408740782943642977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surface_CleanSheet_2
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 853
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ae31b24ba7277610800000000000000
+      internalID: 1618806207574785702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surface_CleanSheet_3
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 852
+        width: 33
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ade3fcc36c9e6de60800000000000000
+      internalID: 7986828026821164762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surface_CleanSheet_4
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 845
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 157087696e1035b20800000000000000
+      internalID: 3121841056576440145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surface_CleanSheet_5
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 844
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e27d8a42fca38ec0800000000000000
+      internalID: -3565816323314453784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surface_CleanSheet_6
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 845
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baae93f7767591ff0800000000000000
+      internalID: -64924617592411477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surface_CleanSheet_7
+      rect:
+        serializedVersion: 2
+        x: 1414
+        y: 852
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4e2799efa188e480800000000000000
+      internalID: -8869696873567932854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surface_CleanSheet_8
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 819
+        width: 98
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19234f6d1feea7ba0800000000000000
+      internalID: -6090292823604317551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surface_CleanSheet_9
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 828
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ebc5f6e7c065aa90800000000000000
+      internalID: -7303324809021764637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surface_CleanSheet_10
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 827
+        width: 29
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35da86592412130d0800000000000000
+      internalID: -3444935670103495341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surface_CleanSheet_11
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 820
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d4f89877335ab000800000000000000
+      internalID: 52445843379778768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surface_CleanSheet_12
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 805
+        width: 174
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcbeee8aba971b700800000000000000
+      internalID: 554358007323880395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surface_CleanSheet_13
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 816
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 998d31c73f6dd22a0800000000000000
+      internalID: -6760511124366174055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surface_CleanSheet_14
+      rect:
+        serializedVersion: 2
+        x: 1223
+        y: 828
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c7a1126a56f71330800000000000000
+      internalID: 3681682088451483593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surface_CleanSheet_15
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 828
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50b1d6355e165a200800000000000000
+      internalID: 190666196808178437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surface_CleanSheet_16
+      rect:
+        serializedVersion: 2
+        x: 1402
+        y: 821
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47b8ef88c68c87f10800000000000000
+      internalID: 2267782780861451124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surface_CleanSheet_17
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 828
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88d0d6a63a9788000800000000000000
+      internalID: 38414339604811144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surface_CleanSheet_18
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 806
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10f107382d7c8ad00800000000000000
+      internalID: 984256225542676225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surface_CleanSheet_19
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 808
+        width: 36
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbb0e6ce638dbd5c0800000000000000
+      internalID: -4189517297931646020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surface_CleanSheet_20
+      rect:
+        serializedVersion: 2
+        x: 1321
+        y: 796
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eb06986984417650800000000000000
+      internalID: 6228835116585978848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surface_CleanSheet_21
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 803
+        width: 30
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4ae03a80200be5d0800000000000000
+      internalID: -3032329784346482102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surface_CleanSheet_22
+      rect:
+        serializedVersion: 2
+        x: 1435
+        y: 812
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf0608048a06cdef0800000000000000
+      internalID: -82084417446584069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surface_CleanSheet_23
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 519
+        width: 93
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf455aaa29cfd0940800000000000000
+      internalID: 5264141246324364539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surface_CleanSheet_24
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 526
+        width: 46
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c44cecd2dfc69c4e0800000000000000
+      internalID: -1960916328092089268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surface_CleanSheet_25
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 527
+        width: 50
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc1203431f061e270800000000000000
+      internalID: 8278004179162636748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surface_CleanSheet_26
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 546
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9540f87c0c2875240800000000000000
+      internalID: 4780433293970441305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surface_CleanSheet_27
+      rect:
+        serializedVersion: 2
+        x: 1271
+        y: 541
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7e880c15a2c288f0800000000000000
+      internalID: -539654990935323011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surface_CleanSheet_28
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 547
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f43a56f7a7415a90800000000000000
+      internalID: -7326996332036868878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surface_CleanSheet_29
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 511
+        width: 99
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8011670432035f460800000000000000
+      internalID: 7274773701050372360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surface_CleanSheet_30
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 527
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb722ee1aed6460d0800000000000000
+      internalID: -3430496163841562690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surface_CleanSheet_31
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 520
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32348678830403e00800000000000000
+      internalID: 1022387726947205923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surface_CleanSheet_32
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 511
+        width: 109
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14d31669b623b75f0800000000000000
+      internalID: -757956674615952063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surface_CleanSheet_33
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 519
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6698e9b44df49b3b0800000000000000
+      internalID: -5496274097008637594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surface_CleanSheet_34
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 527
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e89955d93bed24310800000000000000
+      internalID: 1387916498203679118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surface_CleanSheet_35
+      rect:
+        serializedVersion: 2
+        x: 1331
+        y: 511
+        width: 33
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60d094e1e88aac2a0800000000000000
+      internalID: -6716370565922747130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surface_CleanSheet_36
+      rect:
+        serializedVersion: 2
+        x: 1374
+        y: 527
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cea239fce30893a0800000000000000
+      internalID: -6658567732739264831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surface_CleanSheet_37
+      rect:
+        serializedVersion: 2
+        x: 1462
+        y: 519
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca33b165a3a2200a0800000000000000
+      internalID: -6916919647646567508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surface_CleanSheet_38
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 464
+        width: 202
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdd49bc5754e7e150800000000000000
+      internalID: 5901936900561259999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surface_CleanSheet_39
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 479
+        width: 43
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc3be40e348dba910800000000000000
+      internalID: 1849809858003383244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surface_CleanSheet_40
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 487
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40a7f3e36d98ea870800000000000000
+      internalID: 8696039483759360516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surface_CleanSheet_41
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 503
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77b6d07044c035770800000000000000
+      internalID: 8598229599896038263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surface_CleanSheet_42
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 486
+        width: 30
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fa1329f818cac3b0800000000000000
+      internalID: -5491356786040300813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surface_CleanSheet_43
+      rect:
+        serializedVersion: 2
+        x: 1423
+        y: 480
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d2978802f8785a50800000000000000
+      internalID: 6510086242284573397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surface_CleanSheet_44
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 463
+        width: 66
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c34b946f414f25730800000000000000
+      internalID: 3986516991044858940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surface_CleanSheet_45
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 487
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c8637ea181daf840800000000000000
+      internalID: 5258745869816260809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surface_CleanSheet_46
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 455
+        width: 105
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 512e55917c4d3df70800000000000000
+      internalID: 9210939614491435541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surface_CleanSheet_47
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 464
+        width: 45
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 891f58c49ec10f500800000000000000
+      internalID: 427873752937001368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surface_CleanSheet_48
+      rect:
+        serializedVersion: 2
+        x: 1406
+        y: 472
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0c21a3556c8ffff0800000000000000
+      internalID: -127108154053620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surface_CleanSheet_49
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 471
+        width: 25
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab7b399fb71f44920800000000000000
+      internalID: 2973767168741849018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surface_CleanSheet_50
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 463
+        width: 33
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfb7c1c2ec26631e0800000000000000
+      internalID: -2218477128790541315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surface_CleanSheet_51
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 224
+        width: 60
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dba6ae57cb2488f0800000000000000
+      internalID: -539257920091149359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surface_CleanSheet_52
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 218
+        width: 78
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1213eaa58d757580800000000000000
+      internalID: -8830013481338858982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surface_CleanSheet_53
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 231
+        width: 82
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01c019a52df2fbdc0800000000000000
+      internalID: -3621122994873496560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surface_CleanSheet_54
+      rect:
+        serializedVersion: 2
+        x: 1334
+        y: 224
+        width: 31
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5482b9d1acba1cee0800000000000000
+      internalID: -1242523137609095099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surface_CleanSheet_55
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 237
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edacc81e3ca4507e0800000000000000
+      internalID: -1799950270901466402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surface_CleanSheet_56
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 220
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58b94c878dbb18d60800000000000000
+      internalID: 7890794560543300485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surface_CleanSheet_57
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 224
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c4fa06bc8432fee0800000000000000
+      internalID: -1228861969364486973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surface_CleanSheet_58
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 177
+        width: 58
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b72b454f9e0efef0800000000000000
+      internalID: -72604466766207050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surface_CleanSheet_59
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 175
+        width: 69
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6917944e0030e650800000000000000
+      internalID: 6260056319883417965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surface_CleanSheet_60
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 192
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 377895d33d9f06470800000000000000
+      internalID: 8385977191826556787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surface_CleanSheet_61
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 192
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b60231a3dc91174d0800000000000000
+      internalID: -3138699096067202965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surface_CleanSheet_62
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 171
+        width: 93
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7af98ece3c447310800000000000000
+      internalID: 1401829216655899262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surface_CleanSheet_63
+      rect:
+        serializedVersion: 2
+        x: 1223
+        y: 192
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dde8f48513e0cf300800000000000000
+      internalID: 287120081342664413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surface_CleanSheet_64
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 192
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e1a7b42138276e70800000000000000
+      internalID: 9108292962914640355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surface_CleanSheet_65
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 208
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2391e9a3b16dca70800000000000000
+      internalID: 8848836267130065710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surface_CleanSheet_66
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 199
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1b6a660f9ef1a8b0800000000000000
+      internalID: -5142549340519503075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surface_CleanSheet_67
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 160
+        width: 57
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32ebe0b8702d8b120800000000000000
+      internalID: 2429922928805985827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surface_CleanSheet_68
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 161
+        width: 81
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4ed030a5ab1e9cd0800000000000000
+      internalID: -2549569940874011061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surface_CleanSheet_69
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 155
+        width: 83
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da35c31e1db9e12c0800000000000000
+      internalID: -4458955255320915027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surface_CleanSheet_70
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 155
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65cbbccceb663d910800000000000000
+      internalID: 1860944040699870294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surface_CleanSheet_71
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 156
+        width: 65
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88e08bdbbe0585950800000000000000
+      internalID: 6437984640756616840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surface_CleanSheet_72
+      rect:
+        serializedVersion: 2
+        x: 1335
+        y: 156
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0f9c351ae36ec210800000000000000
+      internalID: 1355130394914889483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surface_CleanSheet_73
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 163
+        width: 33
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c41a4388a35d336d0800000000000000
+      internalID: -3011829278410759860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surface_CleanSheet_74
+      rect:
+        serializedVersion: 2
+        x: 1462
+        y: 157
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dc43ed28045b5540800000000000000
+      internalID: 4997680605604039893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 1537655665
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Surface_CleanSheet_0: -5460902427073525229
+      Surface_CleanSheet_1: -7408740782943642977
+      Surface_CleanSheet_10: -3444935670103495341
+      Surface_CleanSheet_11: 52445843379778768
+      Surface_CleanSheet_12: 554358007323880395
+      Surface_CleanSheet_13: -6760511124366174055
+      Surface_CleanSheet_14: 3681682088451483593
+      Surface_CleanSheet_15: 190666196808178437
+      Surface_CleanSheet_16: 2267782780861451124
+      Surface_CleanSheet_17: 38414339604811144
+      Surface_CleanSheet_18: 984256225542676225
+      Surface_CleanSheet_19: -4189517297931646020
+      Surface_CleanSheet_2: 1618806207574785702
+      Surface_CleanSheet_20: 6228835116585978848
+      Surface_CleanSheet_21: -3032329784346482102
+      Surface_CleanSheet_22: -82084417446584069
+      Surface_CleanSheet_23: 5264141246324364539
+      Surface_CleanSheet_24: -1960916328092089268
+      Surface_CleanSheet_25: 8278004179162636748
+      Surface_CleanSheet_26: 4780433293970441305
+      Surface_CleanSheet_27: -539654990935323011
+      Surface_CleanSheet_28: -7326996332036868878
+      Surface_CleanSheet_29: 7274773701050372360
+      Surface_CleanSheet_3: 7986828026821164762
+      Surface_CleanSheet_30: -3430496163841562690
+      Surface_CleanSheet_31: 1022387726947205923
+      Surface_CleanSheet_32: -757956674615952063
+      Surface_CleanSheet_33: -5496274097008637594
+      Surface_CleanSheet_34: 1387916498203679118
+      Surface_CleanSheet_35: -6716370565922747130
+      Surface_CleanSheet_36: -6658567732739264831
+      Surface_CleanSheet_37: -6916919647646567508
+      Surface_CleanSheet_38: 5901936900561259999
+      Surface_CleanSheet_39: 1849809858003383244
+      Surface_CleanSheet_4: 3121841056576440145
+      Surface_CleanSheet_40: 8696039483759360516
+      Surface_CleanSheet_41: 8598229599896038263
+      Surface_CleanSheet_42: -5491356786040300813
+      Surface_CleanSheet_43: 6510086242284573397
+      Surface_CleanSheet_44: 3986516991044858940
+      Surface_CleanSheet_45: 5258745869816260809
+      Surface_CleanSheet_46: 9210939614491435541
+      Surface_CleanSheet_47: 427873752937001368
+      Surface_CleanSheet_48: -127108154053620
+      Surface_CleanSheet_49: 2973767168741849018
+      Surface_CleanSheet_5: -3565816323314453784
+      Surface_CleanSheet_50: -2218477128790541315
+      Surface_CleanSheet_51: -539257920091149359
+      Surface_CleanSheet_52: -8830013481338858982
+      Surface_CleanSheet_53: -3621122994873496560
+      Surface_CleanSheet_54: -1242523137609095099
+      Surface_CleanSheet_55: -1799950270901466402
+      Surface_CleanSheet_56: 7890794560543300485
+      Surface_CleanSheet_57: -1228861969364486973
+      Surface_CleanSheet_58: -72604466766207050
+      Surface_CleanSheet_59: 6260056319883417965
+      Surface_CleanSheet_6: -64924617592411477
+      Surface_CleanSheet_60: 8385977191826556787
+      Surface_CleanSheet_61: -3138699096067202965
+      Surface_CleanSheet_62: 1401829216655899262
+      Surface_CleanSheet_63: 287120081342664413
+      Surface_CleanSheet_64: 9108292962914640355
+      Surface_CleanSheet_65: 8848836267130065710
+      Surface_CleanSheet_66: -5142549340519503075
+      Surface_CleanSheet_67: 2429922928805985827
+      Surface_CleanSheet_68: -2549569940874011061
+      Surface_CleanSheet_69: -4458955255320915027
+      Surface_CleanSheet_7: -8869696873567932854
+      Surface_CleanSheet_70: 1860944040699870294
+      Surface_CleanSheet_71: 6437984640756616840
+      Surface_CleanSheet_72: 1355130394914889483
+      Surface_CleanSheet_73: -3011829278410759860
+      Surface_CleanSheet_74: 4997680605604039893
+      Surface_CleanSheet_8: -6090292823604317551
+      Surface_CleanSheet_9: -7303324809021764637
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -183,9 +183,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e98ca5bc8bf014a46908d09989fcd4e2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::ShipController
-  maxSpeed: 15
   acceleration: 30
-  deceleration: 10
+  maxSpeed: 15
+  turnSpeed: 5
+  driftFactor: 0.95
   dashSpeed: 24
   dashDuration: 1
   dashCooldown: 1
@@ -827,7 +828,7 @@ SpriteRenderer:
   m_Size: {x: 10.24, y: 15.36}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 1
+  m_WasSpriteAssigned: 0
   m_SpriteSortPoint: 0
 --- !u!1 &1355515451
 GameObject:
@@ -858,12 +859,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d55a235f484b2454eb6dff6ae4657d50, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::EnemySpawner
+  initialSpawnCount: 10
+  spawnInterval: 2
+  spawnRadius: 15
+  enemiesPerWave: 1
+  difficultyIncreaseTimer: 15
+  extraEnemiesPerUpgrade: 1
   enemyPrefabs:
   - {fileID: 613330758241878895, guid: 4e2b10a5bb026e84f9f6c946ed3ffb2c, type: 3}
   - {fileID: 592570265641841316, guid: f6e96eddaf54bca4f8579b0d248d4f73, type: 3}
   - {fileID: 1633620517476102853, guid: b26826ac5f3360f4ab3b5f1f4fd92be1, type: 3}
-  spawnInterval: 2
-  spawnRadius: 15
 --- !u!4 &1355515453
 Transform:
   m_ObjectHideFlags: 0

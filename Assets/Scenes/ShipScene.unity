@@ -242,6 +242,37 @@ Transform:
   - {fileID: 1514043910}
   m_Father: {fileID: 1713176368}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &72075035
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 72075036}
+  m_Layer: 0
+  m_Name: Foam Stern
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &72075036
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 72075035}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: -6.8, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1757584479}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &72323418
 GameObject:
   m_ObjectHideFlags: 0
@@ -298,7 +329,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 118050603}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: d55a235f484b2454eb6dff6ae4657d50, type: 3}
   m_Name: 
@@ -737,6 +768,37 @@ SpriteRenderer:
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
   m_SpriteSortPoint: 0
+--- !u!1 &406065047
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 406065048}
+  m_Layer: 0
+  m_Name: Foam Port
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &406065048
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 406065047}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -2.25, y: -0.15, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1757584479}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &416961968
 GameObject:
   m_ObjectHideFlags: 0
@@ -986,7 +1048,7 @@ SpriteRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: a97c105638bdf8b4a8650670310a4cd3, type: 2}
+  - {fileID: 2100000, guid: 423b90546af16c74b9b19a73129fa340, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -1007,13 +1069,13 @@ SpriteRenderer:
   m_GlobalIlluminationMeshLod: 0
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 1
+  m_SortingOrder: -100
   m_MaskInteraction: 0
-  m_Sprite: {fileID: -4257253986502885223, guid: 73feca9ce7be9aa499657f9a858794cb, type: 3}
+  m_Sprite: {fileID: 21300000, guid: a9e56b7126ea8c64ea836f8772640b78, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
-  m_DrawMode: 2
+  m_DrawMode: 0
   m_Size: {x: 230, y: 59}
   m_AdaptiveModeThreshold: 0.496
   m_SpriteTileMode: 1
@@ -1028,8 +1090,8 @@ Transform:
   m_GameObject: {fileID: 705489129}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalPosition: {x: 0.7548, y: 0.1368, z: 0}
+  m_LocalScale: {x: 2.3290985, y: 1.5098588, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -1042,7 +1104,7 @@ Animator:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 705489129}
-  m_Enabled: 1
+  m_Enabled: 0
   m_Avatar: {fileID: 0}
   m_Controller: {fileID: 9100000, guid: 75fc1bc9eb5fb6643ae92dbc0595c0ea, type: 2}
   m_CullingMode: 0
@@ -1069,6 +1131,133 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::InfiniteOcean
   mainCamera: {fileID: 1139190934}
+  worldSpaceWater: 1
+  oceanTexture: {fileID: 2800000, guid: a9e56b7126ea8c64ea836f8772640b78, type: 3}
+  repeatSize: {x: 80, y: 60}
+  tint: {r: 1, g: 1, b: 1, a: 1}
+  currentDirection: {x: 1, y: 0.25}
+  currentSpeed: 0.12
+  waveStrength: 0.65
+  waveSpeed: 0.8
+  coverageMargin: 12
+--- !u!1 &850823292
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 850823293}
+  m_Layer: 0
+  m_Name: Foam Bow
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &850823293
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 850823292}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 7.15, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1757584479}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &873245939
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 873245941}
+  - component: {fileID: 873245940}
+  m_Layer: 0
+  m_Name: Surface Wavelets
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &873245940
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 873245939}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c650feb60f00acd4cbb043dd0dfd4e0b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::OceanSurfaceWavelets
+  view: {fileID: 1139190933}
+  shipHull: {fileID: 1757312186}
+  types:
+  - frames:
+    - {fileID: 21300000, guid: 1ac5e6ff31d02b34aba21aaea1b5d204, type: 3}
+    - {fileID: 21300000, guid: 77cbd8726f0845b46a315b72dd2a83d2, type: 3}
+    - {fileID: 21300000, guid: dcceccee6ac24b045aaeea8b6a6adc24, type: 3}
+    - {fileID: 21300000, guid: 6eb2fc06a84cc1b44acc93203192a8a1, type: 3}
+  - frames:
+    - {fileID: 21300000, guid: 64ed9a6bf6311ea418946cd65abdb676, type: 3}
+    - {fileID: 21300000, guid: fbb3fd31a81462d47a46ed2c12d272f1, type: 3}
+    - {fileID: 21300000, guid: 24603aa8133cbdf4e8ca133c874eefe1, type: 3}
+    - {fileID: 21300000, guid: 25ea8206afbdf7f42a0dca65f9389bea, type: 3}
+  - frames:
+    - {fileID: 21300000, guid: ce291ecda145dd1428be0682a16d1f73, type: 3}
+    - {fileID: 21300000, guid: e4e391c58ebba2b4dab8822baf910903, type: 3}
+    - {fileID: 21300000, guid: 590a1b702a44231499cf8d1b74c6a031, type: 3}
+    - {fileID: 21300000, guid: 8ed6b108a93c8a54eaa76f3880e7d003, type: 3}
+  material: {fileID: 2100000, guid: 967611e0298b67f4f862bc059d7b6d39, type: 2}
+  activeLimit: 8
+  fps: 5
+  spawnInterval: 0.075
+  opacity: 0.32
+  scaleRange: {x: 0.95, y: 1.05}
+  minimumDistance: 6
+  cameraMargin: 2
+  fadeIn: 0.12
+  fadeOut: 0.25
+  sortingLayer: Default
+  sortingOrder: -60
+  exclusionLayers:
+    serializedVersion: 2
+    m_Bits: 9
+  exclusionAreas: []
+  useWaterBounds: 0
+  waterBounds:
+    serializedVersion: 2
+    x: -500
+    y: -500
+    width: 1000
+    height: 1000
+  waterArea: {fileID: 0}
+  shipClearance: 1
+--- !u!4 &873245941
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 873245939}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &944807196
 GameObject:
   m_ObjectHideFlags: 0
@@ -1771,6 +1960,37 @@ SpriteRenderer:
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
   m_SpriteSortPoint: 0
+--- !u!1 &1199452018
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1199452019}
+  m_Layer: 0
+  m_Name: Foam Starboard
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1199452019
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1199452018}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 2.25, y: -0.15, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1757584479}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1340281532
 GameObject:
   m_ObjectHideFlags: 0
@@ -2752,6 +2972,7 @@ GameObject:
   - component: {fileID: 1757584483}
   - component: {fileID: 1757584482}
   - component: {fileID: 1757584484}
+  - component: {fileID: 1757584485}
   m_Layer: 0
   m_Name: Gemi
   m_TagString: Untagged
@@ -2876,6 +3097,10 @@ Transform:
   - {fileID: 1379085522}
   - {fileID: 1129496342}
   - {fileID: 1353055489}
+  - {fileID: 406065048}
+  - {fileID: 1199452019}
+  - {fileID: 72075036}
+  - {fileID: 850823293}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &1757584480
@@ -3048,6 +3273,92 @@ MonoBehaviour:
     DissipationDistance: 100
     PropagationSpeed: 343
   DefaultVelocity: {x: 0, y: -1, z: 0}
+--- !u!114 &1757584485
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1757584475}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3e68b91c5a64aec4f80c624f23f9129b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::ShipMovementFoam
+  movement: {fileID: 1757584476}
+  body: {fileID: 1757584478}
+  leftAnchor: {fileID: 406065048}
+  rightAnchor: {fileID: 1199452019}
+  sternAnchor: {fileID: 72075036}
+  bowAnchor: {fileID: 850823293}
+  localForward: {x: 0, y: 1}
+  leftFrames:
+  - {fileID: 21300000, guid: d9a37ff11b9044a489f8fb6cd491dcf6, type: 3}
+  - {fileID: 21300000, guid: eb1869083778ba547ab1422bd9dd95df, type: 3}
+  - {fileID: 21300000, guid: ee9943687754af8439ab4a48288083ca, type: 3}
+  - {fileID: 21300000, guid: 14971802e02ce4e4ea6cdb184fe6747e, type: 3}
+  rightFrames:
+  - {fileID: 21300000, guid: 29631d78e38bc59469d642259f5d3479, type: 3}
+  - {fileID: 21300000, guid: b5593fd1d697c62488073ffc23d8eadd, type: 3}
+  - {fileID: 21300000, guid: 5f5b417e787897443ac501bc203c6570, type: 3}
+  - {fileID: 21300000, guid: 8893abea756ce314ebe030f81afae4c1, type: 3}
+  wakeFrames:
+  - {fileID: 21300000, guid: 41ada71f0f3f1c541acdbcc195aaf9d9, type: 3}
+  - {fileID: 21300000, guid: 12f12d8527e03ca4c8ace226b15a3bbf, type: 3}
+  - {fileID: 21300000, guid: 28c10848a0d9d644b92fb2d22f202e67, type: 3}
+  - {fileID: 21300000, guid: ec24915f6f0bd244ca98219c2d46fe2d, type: 3}
+  bowFrames:
+  - {fileID: 21300000, guid: cce5a0635f6fa8146be9066ed5547782, type: 3}
+  - {fileID: 21300000, guid: 83ced602610519d40acc57c2cc737cbf, type: 3}
+  - {fileID: 21300000, guid: 36230c78c2137514ebd6d2e4706b680a, type: 3}
+  - {fileID: 21300000, guid: ac16279004fb0e8429d99620d3810b63, type: 3}
+  sternArcFrames:
+  - {fileID: 21300000, guid: 79974650dce18354791388f7046c9f3c, type: 3}
+  - {fileID: 21300000, guid: 922dcdefe79974a44a70b4f28ef5b28c, type: 3}
+  - {fileID: 21300000, guid: cc44b3dbee2382a48a914a868f7544dd, type: 3}
+  - {fileID: 21300000, guid: 7cb14ef633d214d4a846307ac1a47009, type: 3}
+  sternArcScale: {x: 1.05, y: 1.15}
+  bowScale: {x: 1.65, y: 1.05}
+  foamMaterial: {fileID: 2100000, guid: 967611e0298b67f4f862bc059d7b6d39, type: 2}
+  fps: 7
+  startSpeed: 0.65
+  stopSpeed: 0.3
+  speedResponse:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - serializedVersion: 3
+      time: 1
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  opacity: 0.62
+  sideScale: {x: 1, y: 1}
+  wakeScale: {x: 0.8, y: 0.55}
+  trailLength: 7
+  trailLifetime: 1.3
+  emissionDistance: 0.9
+  emissionInterval: 0.08
+  fadeTime: 0.6
+  teleportDistance: 5
+  sortingLayer: Default
+  sortingOrder: -20
+  poolSize: 40
 --- !u!1 &1900067197
 GameObject:
   m_ObjectHideFlags: 0
@@ -3331,3 +3642,4 @@ SceneRoots:
   - {fileID: 671062979}
   - {fileID: 705489131}
   - {fileID: 118050605}
+  - {fileID: 873245941}

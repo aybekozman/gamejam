@@ -1,0 +1,1404 @@
+fileFormatVersion: 2
+guid: b0fec59121b66a741999b40c321967e1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7689610524816560296
+    second: Piksel_tekne_yan_kopuk_spritelar-2_0
+  - first:
+      213: 8141295524703189536
+    second: Piksel_tekne_yan_kopuk_spritelar-2_1
+  - first:
+      213: 1729315550607215279
+    second: Piksel_tekne_yan_kopuk_spritelar-2_2
+  - first:
+      213: 2397850743144367564
+    second: Piksel_tekne_yan_kopuk_spritelar-2_3
+  - first:
+      213: -494516144093294687
+    second: Piksel_tekne_yan_kopuk_spritelar-2_4
+  - first:
+      213: -7134876386669818241
+    second: Piksel_tekne_yan_kopuk_spritelar-2_5
+  - first:
+      213: -3233341923240905565
+    second: Piksel_tekne_yan_kopuk_spritelar-2_6
+  - first:
+      213: -3487622788151958536
+    second: Piksel_tekne_yan_kopuk_spritelar-2_7
+  - first:
+      213: 546530303351948776
+    second: Piksel_tekne_yan_kopuk_spritelar-2_8
+  - first:
+      213: -2050003148094803862
+    second: Piksel_tekne_yan_kopuk_spritelar-2_9
+  - first:
+      213: 2653691488984309621
+    second: Piksel_tekne_yan_kopuk_spritelar-2_10
+  - first:
+      213: 2592149930346056909
+    second: Piksel_tekne_yan_kopuk_spritelar-2_11
+  - first:
+      213: 6011965493844054119
+    second: Piksel_tekne_yan_kopuk_spritelar-2_12
+  - first:
+      213: -4587820088938680993
+    second: Piksel_tekne_yan_kopuk_spritelar-2_13
+  - first:
+      213: 774729423493655178
+    second: Piksel_tekne_yan_kopuk_spritelar-2_14
+  - first:
+      213: -3773888953726097904
+    second: Piksel_tekne_yan_kopuk_spritelar-2_15
+  - first:
+      213: -4537530870140641201
+    second: Piksel_tekne_yan_kopuk_spritelar-2_16
+  - first:
+      213: 7480057109726700898
+    second: Piksel_tekne_yan_kopuk_spritelar-2_17
+  - first:
+      213: 4019431620567966503
+    second: Piksel_tekne_yan_kopuk_spritelar-2_18
+  - first:
+      213: -2920413180838298151
+    second: Piksel_tekne_yan_kopuk_spritelar-2_19
+  - first:
+      213: -1865546374515237018
+    second: Piksel_tekne_yan_kopuk_spritelar-2_20
+  - first:
+      213: 6433143902064827572
+    second: Piksel_tekne_yan_kopuk_spritelar-2_21
+  - first:
+      213: -4108355636595331206
+    second: Piksel_tekne_yan_kopuk_spritelar-2_22
+  - first:
+      213: -5152213700069650536
+    second: Piksel_tekne_yan_kopuk_spritelar-2_23
+  - first:
+      213: 1945298019693271813
+    second: Piksel_tekne_yan_kopuk_spritelar-2_24
+  - first:
+      213: -7836287946909117972
+    second: Piksel_tekne_yan_kopuk_spritelar-2_25
+  - first:
+      213: -6424219424187817917
+    second: Piksel_tekne_yan_kopuk_spritelar-2_26
+  - first:
+      213: -6911169706959731102
+    second: Piksel_tekne_yan_kopuk_spritelar-2_27
+  - first:
+      213: 8172780129919897718
+    second: Piksel_tekne_yan_kopuk_spritelar-2_28
+  - first:
+      213: -2609220500698393361
+    second: Piksel_tekne_yan_kopuk_spritelar-2_29
+  - first:
+      213: -6139755447167142920
+    second: Piksel_tekne_yan_kopuk_spritelar-2_30
+  - first:
+      213: -2855579087031591936
+    second: Piksel_tekne_yan_kopuk_spritelar-2_31
+  - first:
+      213: 8789896614855199321
+    second: Piksel_tekne_yan_kopuk_spritelar-2_32
+  - first:
+      213: 8080208210207527608
+    second: Piksel_tekne_yan_kopuk_spritelar-2_33
+  - first:
+      213: 1723147541598949251
+    second: Piksel_tekne_yan_kopuk_spritelar-2_34
+  - first:
+      213: -6230473925349005701
+    second: Piksel_tekne_yan_kopuk_spritelar-2_35
+  - first:
+      213: -95911145635073837
+    second: Piksel_tekne_yan_kopuk_spritelar-2_36
+  - first:
+      213: -6484714231880569276
+    second: Piksel_tekne_yan_kopuk_spritelar-2_37
+  - first:
+      213: -3990381167680828882
+    second: Piksel_tekne_yan_kopuk_spritelar-2_38
+  - first:
+      213: 4169527335012058103
+    second: Piksel_tekne_yan_kopuk_spritelar-2_39
+  - first:
+      213: -1407911132382085104
+    second: Piksel_tekne_yan_kopuk_spritelar-2_40
+  - first:
+      213: 4005190594422692920
+    second: Piksel_tekne_yan_kopuk_spritelar-2_41
+  - first:
+      213: -7263686217427009225
+    second: Piksel_tekne_yan_kopuk_spritelar-2_42
+  - first:
+      213: 1785298125214892647
+    second: Piksel_tekne_yan_kopuk_spritelar-2_43
+  - first:
+      213: -7761646520034367755
+    second: Piksel_tekne_yan_kopuk_spritelar-2_44
+  - first:
+      213: -7353869801343341259
+    second: Piksel_tekne_yan_kopuk_spritelar-2_45
+  - first:
+      213: -5612644699884713201
+    second: Piksel_tekne_yan_kopuk_spritelar-2_46
+  - first:
+      213: 1163250749687929081
+    second: Piksel_tekne_yan_kopuk_spritelar-2_47
+  - first:
+      213: 7487604525659655576
+    second: Piksel_tekne_yan_kopuk_spritelar-2_48
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Piksel_tekne_yan_kopuk_spritelar-2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 293
+        width: 449
+        height: 711
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a0dbc0f70cf6ba60800000000000000
+      internalID: 7689610524816560296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_tekne_yan_kopuk_spritelar-2_1
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 0
+        width: 455
+        height: 1011
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02a39613521bbf070800000000000000
+      internalID: 8141295524703189536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_tekne_yan_kopuk_spritelar-2_2
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 859
+        width: 89
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faa808ab453cff710800000000000000
+      internalID: 1729315550607215279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_tekne_yan_kopuk_spritelar-2_3
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 895
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc5c689eb80e64120800000000000000
+      internalID: 2397850743144367564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_tekne_yan_kopuk_spritelar-2_4
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 495
+        width: 315
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1af8f9fdf202329f0800000000000000
+      internalID: -494516144093294687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_tekne_yan_kopuk_spritelar-2_5
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 895
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7e09308ab3dbfc90800000000000000
+      internalID: -7134876386669818241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_tekne_yan_kopuk_spritelar-2_6
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 897
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a4f8dbd6acd023d0800000000000000
+      internalID: -3233341923240905565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_tekne_yan_kopuk_spritelar-2_7
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 879
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f325a96d89799fc0800000000000000
+      internalID: -3487622788151958536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_tekne_yan_kopuk_spritelar-2_8
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 807
+        width: 35
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e5874e4a6aa59700800000000000000
+      internalID: 546530303351948776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_tekne_yan_kopuk_spritelar-2_9
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 885
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6070698ffcec83e0800000000000000
+      internalID: -2050003148094803862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_tekne_yan_kopuk_spritelar-2_10
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 0
+        width: 463
+        height: 996
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57f1360795ec3d420800000000000000
+      internalID: 2653691488984309621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_tekne_yan_kopuk_spritelar-2_11
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 783
+        width: 105
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcc84dab0aa29f320800000000000000
+      internalID: 2592149930346056909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_tekne_yan_kopuk_spritelar-2_12
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 741
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7601b7e83cace6350800000000000000
+      internalID: 6011965493844054119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_tekne_yan_kopuk_spritelar-2_13
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 683
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5da869bfe9c450c0800000000000000
+      internalID: -4587820088938680993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_tekne_yan_kopuk_spritelar-2_14
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 671
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8ae1645e4460ca00800000000000000
+      internalID: 774729423493655178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_tekne_yan_kopuk_spritelar-2_15
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 681
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 016a263ddf370abc0800000000000000
+      internalID: -3773888953726097904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_tekne_yan_kopuk_spritelar-2_16
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 543
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f40e5e7e6b37701c0800000000000000
+      internalID: -4537530870140641201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_tekne_yan_kopuk_spritelar-2_17
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 545
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26525ec6f408ec760800000000000000
+      internalID: 7480057109726700898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_tekne_yan_kopuk_spritelar-2_18
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 551
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7232de653c3e7c730800000000000000
+      internalID: 4019431620567966503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_tekne_yan_kopuk_spritelar-2_19
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 516
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ddb3ce5fab9877d0800000000000000
+      internalID: -2920413180838298151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_tekne_yan_kopuk_spritelar-2_20
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 23
+        width: 187
+        height: 483
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66f500bd47f3c16e0800000000000000
+      internalID: -1865546374515237018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_tekne_yan_kopuk_spritelar-2_21
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 453
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bc5b8f6b4e174950800000000000000
+      internalID: 6433143902064827572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_tekne_yan_kopuk_spritelar-2_22
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 445
+        width: 10
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7fe2c5c0503cf6c0800000000000000
+      internalID: -4108355636595331206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_tekne_yan_kopuk_spritelar-2_23
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 449
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89f8278ffe8af78b0800000000000000
+      internalID: -5152213700069650536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_tekne_yan_kopuk_spritelar-2_24
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 31
+        width: 173
+        height: 467
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50b96160e361ffa10800000000000000
+      internalID: 1945298019693271813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_tekne_yan_kopuk_spritelar-2_25
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 429
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce19ec671a9ef3390800000000000000
+      internalID: -7836287946909117972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_tekne_yan_kopuk_spritelar-2_26
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 445
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 340ee1e787698d6a0800000000000000
+      internalID: -6424219424187817917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_tekne_yan_kopuk_spritelar-2_27
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 405
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 266893ab4c79610a0800000000000000
+      internalID: -6911169706959731102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_tekne_yan_kopuk_spritelar-2_28
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 23
+        width: 237
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6701f371a3c8b6170800000000000000
+      internalID: 8172780129919897718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_tekne_yan_kopuk_spritelar-2_29
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 420
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe4943367cf2acbd0800000000000000
+      internalID: -2609220500698393361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_tekne_yan_kopuk_spritelar-2_30
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 417
+        width: 39
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f335db53f43bcaa0800000000000000
+      internalID: -6139755447167142920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_tekne_yan_kopuk_spritelar-2_31
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 341
+        width: 55
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00c927923f1fe58d0800000000000000
+      internalID: -2855579087031591936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_tekne_yan_kopuk_spritelar-2_32
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 391
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95a4adc766cfbf970800000000000000
+      internalID: 8789896614855199321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_tekne_yan_kopuk_spritelar-2_33
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 399
+        width: 59
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b25d907e8aa22070800000000000000
+      internalID: 8080208210207527608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_tekne_yan_kopuk_spritelar-2_34
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 27
+        width: 179
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38fc7983f89d9e710800000000000000
+      internalID: 1723147541598949251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_tekne_yan_kopuk_spritelar-2_35
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 431
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b762d31b9f8e889a0800000000000000
+      internalID: -6230473925349005701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_tekne_yan_kopuk_spritelar-2_36
+      rect:
+        serializedVersion: 2
+        x: 1388
+        y: 413
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d0bb6a32514baef0800000000000000
+      internalID: -95911145635073837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_tekne_yan_kopuk_spritelar-2_37
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 383
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44ea6da73caa106a0800000000000000
+      internalID: -6484714231880569276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_tekne_yan_kopuk_spritelar-2_38
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 383
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2ac9fd48715f98c0800000000000000
+      internalID: -3990381167680828882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_tekne_yan_kopuk_spritelar-2_39
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 407
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f3cca425032dd930800000000000000
+      internalID: 4169527335012058103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_tekne_yan_kopuk_spritelar-2_40
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 377
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0104c07d848167ce0800000000000000
+      internalID: -1407911132382085104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_tekne_yan_kopuk_spritelar-2_41
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 147
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83cdc4e00ab459730800000000000000
+      internalID: 4005190594422692920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_tekne_yan_kopuk_spritelar-2_42
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 196
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 731cc52bed3323b90800000000000000
+      internalID: -7263686217427009225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_tekne_yan_kopuk_spritelar-2_43
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 167
+        width: 35
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 762ca9b9f27a6c810800000000000000
+      internalID: 1785298125214892647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_tekne_yan_kopuk_spritelar-2_44
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 178
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f6643dec97194490800000000000000
+      internalID: -7761646520034367755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_tekne_yan_kopuk_spritelar-2_45
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 161
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53d257ec06ec1f990800000000000000
+      internalID: -7353869801343341259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_tekne_yan_kopuk_spritelar-2_46
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 167
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0b84ece161eb12b0800000000000000
+      internalID: -5612644699884713201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_tekne_yan_kopuk_spritelar-2_47
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 80
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f81bd7c462b42010800000000000000
+      internalID: 1163250749687929081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_tekne_yan_kopuk_spritelar-2_48
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 47
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89d0d8225a059e760800000000000000
+      internalID: 7487604525659655576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Piksel_tekne_yan_kopuk_spritelar-2_0: 7689610524816560296
+      Piksel_tekne_yan_kopuk_spritelar-2_1: 8141295524703189536
+      Piksel_tekne_yan_kopuk_spritelar-2_10: 2653691488984309621
+      Piksel_tekne_yan_kopuk_spritelar-2_11: 2592149930346056909
+      Piksel_tekne_yan_kopuk_spritelar-2_12: 6011965493844054119
+      Piksel_tekne_yan_kopuk_spritelar-2_13: -4587820088938680993
+      Piksel_tekne_yan_kopuk_spritelar-2_14: 774729423493655178
+      Piksel_tekne_yan_kopuk_spritelar-2_15: -3773888953726097904
+      Piksel_tekne_yan_kopuk_spritelar-2_16: -4537530870140641201
+      Piksel_tekne_yan_kopuk_spritelar-2_17: 7480057109726700898
+      Piksel_tekne_yan_kopuk_spritelar-2_18: 4019431620567966503
+      Piksel_tekne_yan_kopuk_spritelar-2_19: -2920413180838298151
+      Piksel_tekne_yan_kopuk_spritelar-2_2: 1729315550607215279
+      Piksel_tekne_yan_kopuk_spritelar-2_20: -1865546374515237018
+      Piksel_tekne_yan_kopuk_spritelar-2_21: 6433143902064827572
+      Piksel_tekne_yan_kopuk_spritelar-2_22: -4108355636595331206
+      Piksel_tekne_yan_kopuk_spritelar-2_23: -5152213700069650536
+      Piksel_tekne_yan_kopuk_spritelar-2_24: 1945298019693271813
+      Piksel_tekne_yan_kopuk_spritelar-2_25: -7836287946909117972
+      Piksel_tekne_yan_kopuk_spritelar-2_26: -6424219424187817917
+      Piksel_tekne_yan_kopuk_spritelar-2_27: -6911169706959731102
+      Piksel_tekne_yan_kopuk_spritelar-2_28: 8172780129919897718
+      Piksel_tekne_yan_kopuk_spritelar-2_29: -2609220500698393361
+      Piksel_tekne_yan_kopuk_spritelar-2_3: 2397850743144367564
+      Piksel_tekne_yan_kopuk_spritelar-2_30: -6139755447167142920
+      Piksel_tekne_yan_kopuk_spritelar-2_31: -2855579087031591936
+      Piksel_tekne_yan_kopuk_spritelar-2_32: 8789896614855199321
+      Piksel_tekne_yan_kopuk_spritelar-2_33: 8080208210207527608
+      Piksel_tekne_yan_kopuk_spritelar-2_34: 1723147541598949251
+      Piksel_tekne_yan_kopuk_spritelar-2_35: -6230473925349005701
+      Piksel_tekne_yan_kopuk_spritelar-2_36: -95911145635073837
+      Piksel_tekne_yan_kopuk_spritelar-2_37: -6484714231880569276
+      Piksel_tekne_yan_kopuk_spritelar-2_38: -3990381167680828882
+      Piksel_tekne_yan_kopuk_spritelar-2_39: 4169527335012058103
+      Piksel_tekne_yan_kopuk_spritelar-2_4: -494516144093294687
+      Piksel_tekne_yan_kopuk_spritelar-2_40: -1407911132382085104
+      Piksel_tekne_yan_kopuk_spritelar-2_41: 4005190594422692920
+      Piksel_tekne_yan_kopuk_spritelar-2_42: -7263686217427009225
+      Piksel_tekne_yan_kopuk_spritelar-2_43: 1785298125214892647
+      Piksel_tekne_yan_kopuk_spritelar-2_44: -7761646520034367755
+      Piksel_tekne_yan_kopuk_spritelar-2_45: -7353869801343341259
+      Piksel_tekne_yan_kopuk_spritelar-2_46: -5612644699884713201
+      Piksel_tekne_yan_kopuk_spritelar-2_47: 1163250749687929081
+      Piksel_tekne_yan_kopuk_spritelar-2_48: 7487604525659655576
+      Piksel_tekne_yan_kopuk_spritelar-2_5: -7134876386669818241
+      Piksel_tekne_yan_kopuk_spritelar-2_6: -3233341923240905565
+      Piksel_tekne_yan_kopuk_spritelar-2_7: -3487622788151958536
+      Piksel_tekne_yan_kopuk_spritelar-2_8: 546530303351948776
+      Piksel_tekne_yan_kopuk_spritelar-2_9: -2050003148094803862
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
