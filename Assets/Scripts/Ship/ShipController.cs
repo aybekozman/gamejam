@@ -20,6 +20,11 @@ public class ShipController : MonoBehaviour
     public float energyDrainRate = 8f; // Hareket halindeyken saniyede eksilen enerji miktarı
     public float energyRegenRate = 0f; // EnergyRegen upgrade kartlarıyla artan pasif yenilenme
 
+    [Header("Su Arıtma (Water Purification) Ayarları")]
+    public float maxWater = 100f;
+    public float currentWater = 0f;
+    public float waterPurifyRate = 5f;
+
     [Header("Dash (Atılım) Ayarları")]
     public float dashSpeed = 24f;
     public float dashDuration = 0.2f;
@@ -87,6 +92,7 @@ public class ShipController : MonoBehaviour
     void Start()
     {
         SyncEnergyUI();
+        SyncWaterUI();
     }
 
     void OnEnable()
@@ -139,6 +145,13 @@ public class ShipController : MonoBehaviour
         {
             currentEnergy = Mathf.Min(maxEnergy, currentEnergy + energyRegenRate * Time.deltaTime);
             SyncEnergyUI();
+        }
+
+        // 2. Su Arıtma: Gemi SADECE çizgisel olarak hareket ederken (sadece kendi etrafında dönmesi yetmez) suyu arıt
+        if (rb != null && rb.linearVelocity.magnitude > 0.5f && currentWater < maxWater)
+        {
+            currentWater = Mathf.Clamp(currentWater + waterPurifyRate * Time.deltaTime, 0f, maxWater);
+            SyncWaterUI();
         }
 
         // Dash dolumu: uiManager atanmışsa onun currentDash değerini senkronize tut, atanmamışsa kendi içinde doldur
@@ -344,6 +357,14 @@ public class ShipController : MonoBehaviour
         if (uiManager != null && maxEnergy > 0f)
         {
             uiManager.UpdateEnergyBar((currentEnergy / maxEnergy) * 100f);
+        }
+    }
+
+    public void SyncWaterUI()
+    {
+        if (uiManager != null && maxWater > 0f)
+        {
+            uiManager.UpdateWaterBar(currentWater, maxWater);
         }
     }
 }

@@ -570,6 +570,11 @@ Transform:
   - {fileID: 1944571426}
   m_Father: {fileID: 1078244441}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!224 &239164672 stripped
+RectTransform:
+  m_CorrespondingSourceObject: {fileID: 3435140934504877509, guid: 3e4c06280db2291478c7d8031bdc3368, type: 3}
+  m_PrefabInstance: {fileID: 1509468972}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &380383019
 GameObject:
   m_ObjectHideFlags: 0
@@ -995,15 +1000,50 @@ MonoBehaviour:
   - {fileID: 1734364878}
   energyFill: {fileID: 1509468976}
   xpFill: {fileID: 1509468974}
+  waterFill: {fileID: 1081345306}
   healthText: {fileID: 47516376}
   energyText: {fileID: 1362071264}
   xpText: {fileID: 775626163}
+  waterPercentText: {fileID: 1089581483}
   modeText: {fileID: 2013865335}
-  levelText: {fileID: 0}
+  levelText: {fileID: 958859820}
   xpBarContainer: {fileID: 1509468975}
   energyBarContainer: {fileID: 1509468977}
   compassNeedle: {fileID: 1423148069}
+  slidingThumb: {fileID: 239164672}
+  slidingThumbImage: {fileID: 0}
+  energyThumbPos: {x: 8, y: 0}
+  xpThumbPos: {x: 152, y: 0}
+  energyColor: {r: 0, g: 1, b: 0, a: 1}
+  xpColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
   levelUpDocument: {fileID: 1585977641}
+  levelUpOverlay: {fileID: 0}
+  levelUpTitle: {fileID: 0}
+  levelUpSubtitle: {fileID: 0}
+  cardButtons:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  cardTierBadges:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  cardTierTexts:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  cardIcons:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  cardTitles:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  cardDescs:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
   isLootingXP: 1
   currentLevel: 1
   currentXP: 0
@@ -1326,6 +1366,17 @@ SpriteRenderer:
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
   m_SpriteSortPoint: 0
+--- !u!114 &958859820 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 3420411110716138786, guid: 3e4c06280db2291478c7d8031bdc3368, type: 3}
+  m_PrefabInstance: {fileID: 1509468972}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Unity.TextMeshPro::TMPro.TextMeshProUGUI
 --- !u!1 &1012926564
 GameObject:
   m_ObjectHideFlags: 0
@@ -1517,6 +1568,28 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
+--- !u!114 &1081345306 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 8904592527511635306, guid: 3e4c06280db2291478c7d8031bdc3368, type: 3}
+  m_PrefabInstance: {fileID: 1509468972}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.Image
+--- !u!114 &1089581483 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 8712626225379570555, guid: 3e4c06280db2291478c7d8031bdc3368, type: 3}
+  m_PrefabInstance: {fileID: 1509468972}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Unity.TextMeshPro::TMPro.TextMeshProUGUI
 --- !u!1 &1129496341
 GameObject:
   m_ObjectHideFlags: 0
@@ -3500,6 +3573,9 @@ MonoBehaviour:
   currentEnergy: 100
   energyDrainRate: 2
   energyRegenRate: 0
+  maxWater: 100
+  currentWater: 0
+  waterPurifyRate: 5
   dashSpeed: 24
   dashDuration: 1
   dashCooldown: 1
@@ -3703,7 +3779,7 @@ MonoBehaviour:
   shipController: {fileID: 1757584476}
   shipLevel: 3
   fireRate: 0.5
-  attackRange: 20
+  attackRange: 15
   enemyLayer:
     serializedVersion: 2
     m_Bits: 64
