@@ -1,0 +1,107 @@
+.main-container {
+    width: 100%;
+    height: 100%;
+    justify-content: space-between;
+    padding: 20px;
+}
+
+.top-left-panel { align-items: flex-start; }
+.top-right-panel { position: absolute; top: 20px; right: 20px; }
+.bottom-center-panel { position: absolute; bottom: 20px; width: 100%; align-items: center; }
+
+/* --- PİKSEL BAR ANA ÇERÇEVE --- */
+.pixel-bar-wrapper {
+    flex-direction: row;
+    height: 44px;
+    margin-bottom: 12px;
+    background-color: #D38C3B; /* İç ahşap rengi */
+    border-width: 4px;
+    border-color: #4A2B18; /* Dış kalın ahşap çerçeve */
+    border-radius: 0; /* Piksel görünümü için kavis yok */
+}
+
+.dash-wrapper {
+    height: 34px; 
+    width: 220px; 
+}
+
+/* Harf/İkon Kutusu */
+.icon-box {
+    width: 44px;
+    height: 100%;
+    background-color: #A66527;
+    border-right-width: 4px;
+    border-right-color: #4A2B18;
+    justify-content: center;
+    align-items: center;
+}
+
+.icon-text {
+    font-size: 24px;
+    -unity-font-style: bold;
+    -unity-text-align: middle-center;
+}
+
+/* Tipografik Renkler */
+.health-text { color: #FF2222; }
+.energy-text { color: #FFEA00; }
+.dash-text { color: #00E5FF; font-size: 20px; }
+.xp-text { color: #C600FF; }
+
+/* Bar Arka Planı (Açık Krem) */
+.bar-bg {
+    width: 320px;
+    height: 100%;
+    background-color: #F8DCA5; 
+    padding: 2px; /* İç dolgunun çerçeveye nefes bırakması için */
+}
+
+/* Dinamik Dolgu Katmanı */
+.bar-fill {
+    height: 100%;
+    background-color: #39FF14;
+    transition-duration: 0.2s; /* Hasar yediğinde yumuşak inme efekti */
+}
+
+/* Dolgu Renkleri */
+.health-fill { background-color: #39FF14; } /* Görseldeki fosforlu yeşil */
+.energy-fill { background-color: #FFEA00; } /* Sarı */
+.dash-fill { background-color: #00E5FF; } /* Neon Mavi */
+.xp-fill { background-color: #C600FF; } /* Mor */
+
+/* --- PUSULA --- */
+.compass-box {
+    width: 100px;
+    height: 100px;
+    background-color: #A66527;
+    border-width: 4px;
+    border-color: #4A2B18;
+    border-radius: 50%;
+    justify-content: center;
+    align-items: center;
+}
+
+.compass-needle {
+    width: 8px;
+    height: 60px;
+    background-color: #FF2222;
+    border-radius: 4px;
+}
+
+/* --- TOGGLE (XP / ENERJİ DEĞİŞTİRİCİ) --- */
+.pixel-toggle {
+    color: white;
+    font-size: 16px;
+    -unity-font-style: bold;
+    margin-bottom: 8px;
+    background-color: #4A2B18;
+    padding: 5px 10px;
+    border-width: 2px;
+    border-color: #D38C3B;
+}
+
+.pixel-toggle .unity-toggle__checkmark {
+    background-color: #F8DCA5;
+    border-color: #4A2B18;
+    border-radius: 0;
+}

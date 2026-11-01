@@ -3,27 +3,26 @@ using UnityEngine;
 public class LootMagnet : MonoBehaviour
 {
     [Header("Mıknatıs Ayarları")]
-    public float magnetRadius = 4f; // Çekim alanının büyüklüğü
-    public LayerMask lootLayer; // Inspector'dan sadece "Loot" katmanını seç
+    public float magnetRadius = 5f; // Ganimetleri çekmeye başlayacağı mesafe
+    public float pullSpeed = 8f;    // Ganimetlerin gemiye uçuş hızı
+    public LayerMask lootLayer;     // Inspector'dan "Loot" katmanını seç
 
     void Update()
     {
-        // Etraftaki Loot katmanındaki objeleri tarar
-        Collider2D[] hitLoots = Physics2D.OverlapCircleAll(transform.position, magnetRadius, lootLayer);
+        // Çekim alanındaki tüm ganimetleri radarla bul
+        Collider2D[] loots = Physics2D.OverlapCircleAll(transform.position, magnetRadius, lootLayer);
 
-        foreach (var hit in hitLoots)
+        foreach (Collider2D loot in loots)
         {
-            if (hit.TryGetComponent(out Loot loot))
-            {
-                loot.Magnetize(transform);
-            }
+            // Ganimeti yavaşça gemiye doğru kaydır
+            loot.transform.position = Vector2.MoveTowards(loot.transform.position, transform.position, pullSpeed * Time.deltaTime);
         }
     }
 
-    // Sahne ekranında (Scene) çekim alanını sarı bir çember olarak görmeni sağlar
+    // Seçiliyken editörde çekim alanını yeşil bir çemberle gösterir
     private void OnDrawGizmosSelected()
     {
-        Gizmos.color = Color.yellow;
+        Gizmos.color = Color.green;
         Gizmos.DrawWireSphere(transform.position, magnetRadius);
     }
 }

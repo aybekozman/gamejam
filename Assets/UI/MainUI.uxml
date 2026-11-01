@@ -1,0 +1,46 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="False">
+    <Style src="project://database/Assets/UI/MainUI.uss" />
+    <ui:VisualElement name="MainContainer" class="main-container">
+
+        <ui:VisualElement class="top-left-panel">
+            <ui:VisualElement class="pixel-bar-wrapper">
+                <ui:VisualElement class="icon-box"><ui:Label text="H" class="icon-text health-text" /></ui:VisualElement>
+                <ui:VisualElement class="bar-bg">
+                    <ui:VisualElement name="HealthFill" class="bar-fill health-fill" />
+                </ui:VisualElement>
+            </ui:VisualElement>
+            
+            <ui:VisualElement class="pixel-bar-wrapper dash-wrapper">
+                <ui:VisualElement class="icon-box"><ui:Label text="D" class="icon-text dash-text" /></ui:VisualElement>
+                <ui:VisualElement class="bar-bg">
+                    <ui:VisualElement name="DashFill" class="bar-fill dash-fill" />
+                </ui:VisualElement>
+            </ui:VisualElement>
+        </ui:VisualElement>
+
+        <ui:VisualElement class="top-right-panel">
+            <ui:VisualElement name="Compass" class="compass-box">
+                <ui:VisualElement name="CompassNeedle" class="compass-needle" />
+            </ui:VisualElement>
+        </ui:VisualElement>
+
+        <ui:VisualElement class="bottom-center-panel">
+            <ui:Toggle name="ModeToggle" label="XP / Enerji" class="pixel-toggle" />
+            
+            <ui:VisualElement name="EnergyBarContainer" class="pixel-bar-wrapper">
+                <ui:VisualElement class="icon-box"><ui:Label text="E" class="icon-text energy-text" /></ui:VisualElement>
+                <ui:VisualElement class="bar-bg">
+                    <ui:VisualElement name="EnergyFill" class="bar-fill energy-fill" />
+                </ui:VisualElement>
+            </ui:VisualElement>
+
+            <ui:VisualElement name="XPBarContainer" class="pixel-bar-wrapper">
+                <ui:VisualElement class="icon-box"><ui:Label text="XP" class="icon-text xp-text" /></ui:VisualElement>
+                <ui:VisualElement class="bar-bg">
+                    <ui:VisualElement name="XPFill" class="bar-fill xp-fill" />
+                </ui:VisualElement>
+            </ui:VisualElement>
+        </ui:VisualElement>
+
+    </ui:VisualElement>
+</ui:UXML>
