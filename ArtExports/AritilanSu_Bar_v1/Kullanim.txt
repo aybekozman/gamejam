@@ -1,0 +1,27 @@
+ARITILAN SU — PNG BAR PAKETİ
+
+AritilanSu_Cerceve.png   655x94 : Altın/ahşap çerçeve, koyu boş kanal ve temiz su damlası.
+AritilanSu_Dolum.png     490x34 : Soldan sağa doldurulacak mavi sprite.
+AritilanSu_Yazi.png      270x26 : Sabit ARITILAN SU yazısı, şeffaf arka plan.
+Ornek_Bos.png / Ornek_Yari_Dolu.png / Ornek_Tam_Dolu.png: birleşik görünüm örnekleri.
+
+Unity katman sırası: Çerçeve → Dolum → Yazı.
+Ortak 655x94 panelde, sol üst köşeye göre:
+Dolum: X=132, Y=35; boyut 490x34.
+Yazı:  X=242, Y=39; boyut 270x26.
+Üst-sol anchor/pivot kullanırsan anchoredPosition Y değerlerini negatif gir.
+Bütün parçaları aynı oranla ölçekle.
+
+Import: Sprite (2D and UI), Single, Point, mipmap kapalı,
+Compression None, Alpha Is Transparency açık.
+Dolum Image: Type=Filled, Fill Method=Horizontal, Fill Origin=Left.
+Yazı Image: Simple; Raycast Target kapalı.
+
+Hareket ilerlemesini yalnızca dolgunun fillAmount değerine bağla (0 boş, 1 dolu).
+Kat edilen mesafeyi hedef mesafeye bölerek ilerleme elde edebilirsin.
+Gemi durduğunda mesafe artmadığı için dolum da ilerlemez.
+Yazıyı dolumla birlikte kesme veya ölçekleme; üstte sabit tut.
+
+Bu teslim PNG tasarım paketidir; harekete bağlı dolum kodu/sahne entegrasyonu yapılmadı.
+Görseller yerleşik image_gen ile üretildi; şeffaf kenar payları kırpılıp
+Point/nearest örneklemeyle HUD boyutlarına hazırlandı.

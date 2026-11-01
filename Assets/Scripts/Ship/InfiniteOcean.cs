@@ -18,6 +18,11 @@ public class InfiniteOcean : MonoBehaviour
     [Range(0, 1)] public float waveStrength;
     [Min(0)] public float waveSpeed = .3f;
     public float coverageMargin = 12;
+    [Header("Beyaz dalga çizgileri (0 = kapalı)")]
+    [Range(0, 2)] public float crestDisplacementPixels;
+    [Min(0)] public float crestSpeed = 1.1f;
+    [Range(0, .3f)] public float crestShimmer = .14f;
+    [Range(2, 12)] public float crestFramesPerSecond = 6;
     SpriteRenderer surface;
     Camera view;
     MaterialPropertyBlock properties;
@@ -45,9 +50,9 @@ public class InfiniteOcean : MonoBehaviour
     void LateUpdate()
     {
         if (!mainCamera || !surface || !surface.sprite) return;
+        elapsed += Time.deltaTime;
         if (worldSpaceWater)
         {
-            elapsed += Time.deltaTime;
             Vector3 center = mainCamera.position;
             center.z = transform.position.z;
             transform.position = center;
@@ -66,6 +71,7 @@ public class InfiniteOcean : MonoBehaviour
             properties.SetVector("_Flow", new Vector4(flow.x, flow.y, waveStrength, waveSpeed));
             properties.SetFloat("_OceanTime", elapsed);
             properties.SetColor("_Tint", tint);
+            SetCrestProperties(false);
             surface.SetPropertyBlock(properties);
             return;
         }
@@ -79,5 +85,26 @@ public class InfiniteOcean : MonoBehaviour
 
         // Su objesini yeni pozisyonuna ışınla (Z eksenindeki derinliği bozmadan)
         transform.position = new Vector3(snapX, snapY, transform.position.z);
+        // Legacy sprite-sheet seas keep their Animator, tiling and original artwork.
+        // Only explicitly configured ship surfaces use the crest shader.
+        if (surface.sharedMaterial && surface.sharedMaterial.HasProperty("_CrestMotion"))
+        {
+            surface.GetPropertyBlock(properties);
+            var texture = surface.sprite.texture;
+            var rect = surface.sprite.textureRect;
+            properties.SetVector("_OceanPixelSize", new Vector4(1f/texture.width,1f/texture.height,texture.width,texture.height));
+            properties.SetVector("_SourceRect",new Vector4(rect.x/texture.width,rect.y/texture.height,rect.width/texture.width,rect.height/texture.height));
+            properties.SetVector("_Flow", new Vector4(0,0,0,waveSpeed));
+            properties.SetFloat("_OceanTime",elapsed);
+            properties.SetColor("_Tint",tint);
+            SetCrestProperties(true);
+            surface.SetPropertyBlock(properties);
+        }
+    }
+    void SetCrestProperties(bool spriteUV)
+    {
+        properties.SetFloat("_UseSpriteUV",spriteUV?1:0);
+        if (!spriteUV) properties.SetVector("_SourceRect", new Vector4(0,0,1,1));
+        properties.SetVector("_CrestMotion",new Vector4(crestDisplacementPixels,crestSpeed,crestShimmer,crestFramesPerSecond));
     }
 }

@@ -1,0 +1,16 @@
+RENKLE SEÇİM — ENERJİ / XP
+
+Enerji_Secili.png : Sol yarı yeşil; sağ yarı koyu ahşap.
+XP_Secili.png     : Sağ yarı altın sarısı; sol yarı koyu ahşap.
+
+Her ikisi de 512x64 RGBA PNG. Dış arka plan şeffaf.
+Tek bir UI Image üzerinde seçime göre sprite değiştirilebilir.
+Sabit ölçü ve ortalanmış pivot kullan: Center (0.5,0.5).
+
+Unity import: Sprite (2D and UI), Single, Point (no filter),
+Mip Maps kapalı, Compression None, Alpha Is Transparency açık.
+Image Type Simple; iki durum için aynı RectTransform ölçüsü.
+
+Bu paket sadece görsellerdir. Sahneye veya oyun koduna ekleme yapılmadı.
+Yerleşik image_gen ile üretildi; şeffaf kenar payları kırpılıp
+Point/nearest örneklemeyle aynı oyun ölçüsüne getirildi.
