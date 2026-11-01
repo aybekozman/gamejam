@@ -3,14 +3,29 @@ using System.Collections;
 
 public class PlayerHealth : MonoBehaviour, IDamageable
 {
-    [Header("Referanslar (Manuel Atama)")]
-    public ShipUIManager uiManager;
-
     [Header("Can Ayarları")]
     public float maxHealth = 100f;
-    public float healthRegen = 0f; // Saniyede yenilenen can
-    [Range(0f, 80f)] public float damageResistPercent = 0f; // Hasar direnci yüzdesi
     private float currentHealth;
+    public float CurrentHealth => currentHealth;
+    public float MaxHealth => Mathf.Max(1, maxHealth);
+    public bool IsDead => currentHealth <= 0;
+    public event System.Action<float, float> HealthChanged;
+    private float observedMax;
+    void Awake() { observedMax = maxHealth; currentHealth = MaxHealth; }
+    public void Heal(float amount)
+    {
+        if (amount <= 0 || IsDead) return;
+        currentHealth = Mathf.Min(MaxHealth, currentHealth + amount);
+        HealthChanged?.Invoke(currentHealth, MaxHealth);
+    }
+    public void SetMaxHealth(float value, bool healToFull = false)
+    {
+        maxHealth = Mathf.Max(1, value);
+        observedMax = maxHealth;
+        currentHealth = healToFull ? MaxHealth : Mathf.Min(currentHealth, MaxHealth);
+        HealthChanged?.Invoke(currentHealth, MaxHealth);
+    }
+    void Update() { if (!Mathf.Approximately(observedMax,maxHealth)) SetMaxHealth(maxHealth); }
 
     [Header("Efekt Ayarları")]
     public float flashDuration = 0.1f;
@@ -23,7 +38,7 @@ public class PlayerHealth : MonoBehaviour, IDamageable
 
     void Start()
     {
-        currentHealth = maxHealth;
+        HealthChanged?.Invoke(currentHealth, MaxHealth);
         allSprites = GetComponentsInChildren<SpriteRenderer>();
         originalColors = new Color[allSprites.Length];
 
@@ -31,55 +46,14 @@ public class PlayerHealth : MonoBehaviour, IDamageable
         {
             originalColors[i] = allSprites[i].color;
         }
-
-        UpdateHealthUI();
-    }
-
-    void Update()
-    {
-        if (healthRegen > 0f && currentHealth > 0f && currentHealth < maxHealth)
-        {
-            currentHealth = Mathf.Min(maxHealth, currentHealth + healthRegen * Time.deltaTime);
-            UpdateHealthUI();
-        }
-    }
-
-    public void Heal(float amount)
-    {
-        currentHealth = Mathf.Min(maxHealth, currentHealth + amount);
-        UpdateHealthUI();
-    }
-
-    public void IncreaseMaxHealth(float amount)
-    {
-        maxHealth += amount;
-        currentHealth += amount;
-        UpdateHealthUI();
-    }
-
-    public void AddIframeDuration(float extraSeconds)
-    {
-        int totalFlashes = Mathf.Max(1, flashCount * 2);
-        flashDuration += extraSeconds / totalFlashes;
-    }
-
-    private void UpdateHealthUI()
-    {
-        if (uiManager != null && maxHealth > 0f)
-        {
-            uiManager.UpdateHealthBar((currentHealth / maxHealth) * 100f);
-        }
     }
 
     public void TakeDamage(float damageAmount)
     {
-        if (IsInvulnerable) return;
+        if (IsInvulnerable || IsDead || damageAmount <= 0) return;
 
-        float multiplier = 1f - (Mathf.Clamp(damageResistPercent, 0f, 80f) / 100f);
-        float finalDamage = damageAmount * multiplier;
-
-        currentHealth = Mathf.Max(0f, currentHealth - finalDamage);
-        UpdateHealthUI();
+        currentHealth = Mathf.Max(0, currentHealth - damageAmount);
+        HealthChanged?.Invoke(currentHealth, MaxHealth);
         Debug.Log("Gemi hasar aldı! Kalan can: " + currentHealth);
 
         StartCoroutine(DamageFlashRoutine());
