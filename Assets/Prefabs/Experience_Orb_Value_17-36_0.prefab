@@ -107,9 +107,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::Loot
   uiManager: {fileID: 0}
   shipController: {fileID: 0}
-  collectDistance: 15
-  baseMoveSpeed: 50
-  acceleration: 30
+  collectDistance: 25
+  baseMoveSpeed: 100
+  acceleration: 100
   expValue: 1
   energyValue: 5
 --- !u!58 &8419361346381693212
