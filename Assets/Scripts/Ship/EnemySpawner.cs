@@ -3,6 +3,10 @@ using UnityEngine;
 
 public class EnemySpawner : MonoBehaviour
 {
+    [Header("Hedef Referansları (Manuel Atama)")]
+    public Transform playerTransform; // Doğacak düşmanlara atanacak ana gemi Transform'u
+    public Collider2D playerCollider; // EnemyFishVisual için gemi Collider'ı
+
     [Header("Başlangıç Ayarları (Test İçin)")]
     public int initialSpawnCount = 10;
 
@@ -25,6 +29,10 @@ public class EnemySpawner : MonoBehaviour
     void Start()
     {
         mainCamera = Camera.main;
+        if (playerTransform != null && playerCollider == null)
+        {
+            playerCollider = playerTransform.GetComponent<Collider2D>();
+        }
 
         for (int i = 0; i < initialSpawnCount; i++)
         {
@@ -85,6 +93,21 @@ public class EnemySpawner : MonoBehaviour
         Vector2 spawnDirection = new Vector2(Mathf.Cos(randomAngle * Mathf.Deg2Rad), Mathf.Sin(randomAngle * Mathf.Deg2Rad));
         Vector2 spawnPosition = cameraPos + (spawnDirection * spawnRadius);
 
-        Instantiate(selectedEnemy, spawnPosition, Quaternion.identity);
+        GameObject spawnedObj = Instantiate(selectedEnemy, spawnPosition, Quaternion.identity);
+
+        // Sahne taraması (FindAnyObjectByType) yapmadan, doğan düşmana gemi referansını doğrudan aktar
+        if (playerTransform != null)
+        {
+            if (spawnedObj.TryGetComponent(out Enemy enemyScript) && enemyScript.player == null)
+            {
+                enemyScript.player = playerTransform;
+            }
+
+            if (spawnedObj.TryGetComponent(out EnemyFishVisual fishVisual))
+            {
+                if (fishVisual.ship == null) fishVisual.ship = playerTransform;
+                if (fishVisual.shipCollider == null) fishVisual.shipCollider = playerCollider;
+            }
+        }
     }
 }

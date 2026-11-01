@@ -134,12 +134,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d9d5255160e83fa4ea2f50eb1856409e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Enemy
-  maxHealth: 50
-  moveSpeed: 3
-  shipKnockbackForce: 10
-  bulletKnockbackForce: 3
+  stats: {fileID: 11400000, guid: 3dfcfd44f6c230946bbe5b1f20d764fd, type: 2}
   knockbackDuration: 0.3
-  damage: 15
   hitStunDuration: 0.2
   flashDuration: 0.05
   flashCount: 3

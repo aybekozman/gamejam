@@ -105,3 +105,195 @@
     border-color: #4A2B18;
     border-radius: 0;
 }
+
+/* ===================================================
+   LEVEL UP VE ROGUELIKE KART SEÇİM EKRANI (RETRO AHŞAP)
+   =================================================== */
+.level-up-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(14, 8, 4, 0.85);
+    justify-content: center;
+    align-items: center;
+    display: none;
+}
+
+.level-up-header {
+    background-color: #4A2B18;
+    border-width: 4px;
+    border-color: #D38C3B;
+    padding: 12px 32px;
+    margin-bottom: 24px;
+    align-items: center;
+}
+
+.level-up-title {
+    font-size: 36px;
+    -unity-font-style: bold;
+    color: #FFEA00;
+    -unity-text-align: middle-center;
+    margin-bottom: 4px;
+}
+
+.level-up-subtitle {
+    font-size: 16px;
+    -unity-font-style: bold;
+    color: #F8DCA5;
+    -unity-text-align: middle-center;
+}
+
+.cards-container {
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+/* Dikey Retro Ahşap Kart */
+.upgrade-card {
+    width: 250px;
+    height: 380px;
+    margin-left: 16px;
+    margin-right: 16px;
+    padding: 14px;
+    background-color: #D38C3B;
+    border-width: 6px;
+    border-color: #4A2B18;
+    border-radius: 0;
+    align-items: center;
+    justify-content: space-between;
+    transition-property: scale, translate, background-color, border-color;
+    transition-duration: 0.15s;
+}
+
+/* Kart Hover (Üzerine Gelme) Efekti */
+.upgrade-card:hover {
+    scale: 1.06 1.06;
+    translate: 0 -10px;
+    background-color: #E39D4C;
+    border-color: #FFEA00;
+}
+
+/* --- TIER ROZETİ (I, II, III VE RENKLİ YILDIZLAR) --- */
+.card-tier-badge {
+    width: 100%;
+    height: 30px;
+    background-color: #4A2B18;
+    border-width: 3px;
+    border-color: #A66527;
+    justify-content: center;
+    align-items: center;
+}
+
+.card-tier-text {
+    font-size: 15px;
+    -unity-font-style: bold;
+    color: #F8DCA5;
+    -unity-text-align: middle-center;
+}
+
+/* Tier 1 (Bronz / Standart Ahşap) */
+.card-tier-badge.tier-1 {
+    background-color: #6E4023;
+    border-color: #D38C3B;
+}
+.card-tier-badge.tier-1 .card-tier-text {
+    color: #F8DCA5;
+}
+
+/* Tier 2 (Nadir / Neon Mavi Yıldızlar) */
+.upgrade-card.tier-2 {
+    border-color: #00A8C6;
+}
+.card-tier-badge.tier-2 {
+    background-color: #0A3A4A;
+    border-color: #00E5FF;
+}
+.card-tier-badge.tier-2 .card-tier-text {
+    color: #00E5FF;
+}
+
+/* Tier 3 (Epik / Altın & Mor Yıldızlar) */
+.upgrade-card.tier-3 {
+    border-color: #C600FF;
+}
+.card-tier-badge.tier-3 {
+    background-color: #3B094C;
+    border-color: #FFEA00;
+}
+.card-tier-badge.tier-3 .card-tier-text {
+    color: #FFEA00;
+}
+
+.card-icon-frame {
+    width: 84px;
+    height: 84px;
+    background-color: #A66527;
+    border-width: 4px;
+    border-color: #4A2B18;
+    justify-content: center;
+    align-items: center;
+}
+
+.card-icon {
+    width: 60px;
+    height: 60px;
+    -unity-background-scale-mode: scale-to-fit;
+}
+
+.card-title {
+    font-size: 19px;
+    -unity-font-style: bold;
+    color: #4A2B18;
+    -unity-text-align: middle-center;
+    white-space: normal;
+}
+
+.card-desc-box {
+    width: 100%;
+    height: 104px;
+    background-color: #F8DCA5;
+    border-width: 3px;
+    border-color: #4A2B18;
+    padding: 8px;
+    justify-content: center;
+    align-items: center;
+}
+
+.card-desc {
+    font-size: 14px;
+    -unity-font-style: bold;
+    color: #4A2B18;
+    -unity-text-align: middle-center;
+    white-space: normal;
+}
+
+.card-select-btn {
+    width: 100%;
+    height: 36px;
+    background-color: #4A2B18;
+    border-width: 3px;
+    border-color: #A66527;
+    justify-content: center;
+    align-items: center;
+    transition-property: background-color, border-color;
+    transition-duration: 0.15s;
+}
+
+.card-select-text {
+    font-size: 17px;
+    -unity-font-style: bold;
+    color: #F8DCA5;
+    -unity-text-align: middle-center;
+}
+
+.upgrade-card:hover .card-select-btn {
+    background-color: #39FF14;
+    border-color: #4A2B18;
+}
+
+.upgrade-card:hover .card-select-text {
+    color: #4A2B18;
+}

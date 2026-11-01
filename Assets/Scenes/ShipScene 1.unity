@@ -303,11 +303,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d55a235f484b2454eb6dff6ae4657d50, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::EnemySpawner
-  initialSpawnCount: 12
-  spawnInterval: 2
-  spawnRadius: 15
+  playerTransform: {fileID: 1757584479}
+  playerCollider: {fileID: 1757584477}
+  initialSpawnCount: 2
+  spawnInterval: 5.14
+  spawnRadius: 23.2
   enemiesPerWave: 1
-  difficultyIncreaseTimer: 15
+  difficultyIncreaseTimer: 20.9
   extraEnemiesPerUpgrade: 1
   spawnRandom: 1
   allEnemyPrefabs:
@@ -854,7 +856,20 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::ShipUIManager
   shipTransform: {fileID: 1757584479}
+  shipController: {fileID: 1757584476}
+  shipWeapons: {fileID: 1757584482}
+  playerHealth: {fileID: 1757584480}
+  lootMagnet: {fileID: 1757584483}
+  isLootingXP: 1
+  currentLevel: 1
+  currentXP: 0
+  baseXP: 5
+  xpGrowthMultiplier: 1.5
+  xpGainMultiplier: 1
+  nextLevelXP: 0
+  upgradePool: []
   dashRegenRate: 20
+  dashCostMultiplier: 1
 --- !u!114 &630805027
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2843,10 +2858,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e98ca5bc8bf014a46908d09989fcd4e2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::ShipController
+  uiManager: {fileID: 630805026}
   acceleration: 30
   maxSpeed: 15
   turnSpeed: 5
   driftFactor: 0.95
+  maxEnergy: 100
+  currentEnergy: 100
+  energyDrainRate: 2
+  energyRegenRate: 0
   dashSpeed: 24
   dashDuration: 1
   dashCooldown: 1
@@ -2962,7 +2982,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4a0f0d4345d8f0d45a56286c9073624d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PlayerHealth
+  uiManager: {fileID: 630805026}
   maxHealth: 100
+  healthRegen: 0
+  damageResistPercent: 0
   flashDuration: 0.1
   flashCount: 3
 --- !u!212 &1757584481
@@ -3036,6 +3059,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f4ab9be1141ddce4ab3218d4ad1f67f8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::ShipWeapons
+  shipController: {fileID: 1757584476}
   shipLevel: 3
   fireRate: 0.5
   attackRange: 10
@@ -3063,8 +3087,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 666554e013fcb474abc01b3d8d6fb1a5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::LootMagnet
+  uiManager: {fileID: 630805026}
+  shipController: {fileID: 1757584476}
   magnetRadius: 9.36
   pullSpeed: 8
+  collectDistance: 0.8
+  defaultXPValue: 1
+  defaultEnergyValue: 15
   lootLayer:
     serializedVersion: 2
     m_Bits: 128

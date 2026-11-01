@@ -24,8 +24,9 @@
             </ui:VisualElement>
         </ui:VisualElement>
 
+        <!-- ALT ORTA PANEL: Aktif Loot Modu Toggle + Her Zaman Görünür Enerji ve XP Barları -->
         <ui:VisualElement class="bottom-center-panel">
-            <ui:Toggle name="ModeToggle" label="XP / Enerji" class="pixel-toggle" />
+            <ui:Toggle name="ModeToggle" label="Toplanan: XP" value="true" class="pixel-toggle" />
             
             <ui:VisualElement name="EnergyBarContainer" class="pixel-bar-wrapper">
                 <ui:VisualElement class="icon-box"><ui:Label text="E" class="icon-text energy-text" /></ui:VisualElement>
@@ -38,6 +39,67 @@
                 <ui:VisualElement class="icon-box"><ui:Label text="XP" class="icon-text xp-text" /></ui:VisualElement>
                 <ui:VisualElement class="bar-bg">
                     <ui:VisualElement name="XPFill" class="bar-fill xp-fill" />
+                </ui:VisualElement>
+            </ui:VisualElement>
+        </ui:VisualElement>
+
+        <!-- LEVEL UP OVERLAY (Seviye Atlama ve 60 Kartlık Roguelike Seçim Ekranı) -->
+        <ui:VisualElement name="LevelUpOverlay" class="level-up-overlay">
+            <ui:VisualElement class="level-up-header">
+                <ui:Label name="LevelUpTitle" text="SEVİYE ATLANDI!" class="level-up-title" />
+                <ui:Label name="LevelUpSubtitle" text="Gemin için bir geliştirme seç" class="level-up-subtitle" />
+            </ui:VisualElement>
+
+            <ui:VisualElement name="CardsContainer" class="cards-container">
+                <!-- 1. KART -->
+                <ui:VisualElement name="Card0" class="upgrade-card tier-1">
+                    <ui:VisualElement name="CardTierBadge0" class="card-tier-badge tier-1">
+                        <ui:Label name="CardTierText0" text="TIER I ★" class="card-tier-text" />
+                    </ui:VisualElement>
+                    <ui:VisualElement class="card-icon-frame">
+                        <ui:VisualElement name="CardIcon0" class="card-icon" />
+                    </ui:VisualElement>
+                    <ui:Label name="CardTitle0" text="Geliştirme 1" class="card-title" />
+                    <ui:VisualElement class="card-desc-box">
+                        <ui:Label name="CardDesc0" text="Açıklama metni" class="card-desc" />
+                    </ui:VisualElement>
+                    <ui:VisualElement class="card-select-btn">
+                        <ui:Label text="SEÇ" class="card-select-text" />
+                    </ui:VisualElement>
+                </ui:VisualElement>
+
+                <!-- 2. KART -->
+                <ui:VisualElement name="Card1" class="upgrade-card tier-1">
+                    <ui:VisualElement name="CardTierBadge1" class="card-tier-badge tier-1">
+                        <ui:Label name="CardTierText1" text="TIER I ★" class="card-tier-text" />
+                    </ui:VisualElement>
+                    <ui:VisualElement class="card-icon-frame">
+                        <ui:VisualElement name="CardIcon1" class="card-icon" />
+                    </ui:VisualElement>
+                    <ui:Label name="CardTitle1" text="Geliştirme 2" class="card-title" />
+                    <ui:VisualElement class="card-desc-box">
+                        <ui:Label name="CardDesc1" text="Açıklama metni" class="card-desc" />
+                    </ui:VisualElement>
+                    <ui:VisualElement class="card-select-btn">
+                        <ui:Label text="SEÇ" class="card-select-text" />
+                    </ui:VisualElement>
+                </ui:VisualElement>
+
+                <!-- 3. KART -->
+                <ui:VisualElement name="Card2" class="upgrade-card tier-1">
+                    <ui:VisualElement name="CardTierBadge2" class="card-tier-badge tier-1">
+                        <ui:Label name="CardTierText2" text="TIER I ★" class="card-tier-text" />
+                    </ui:VisualElement>
+                    <ui:VisualElement class="card-icon-frame">
+                        <ui:VisualElement name="CardIcon2" class="card-icon" />
+                    </ui:VisualElement>
+                    <ui:Label name="CardTitle2" text="Geliştirme 3" class="card-title" />
+                    <ui:VisualElement class="card-desc-box">
+                        <ui:Label name="CardDesc2" text="Açıklama metni" class="card-desc" />
+                    </ui:VisualElement>
+                    <ui:VisualElement class="card-select-btn">
+                        <ui:Label text="SEÇ" class="card-select-text" />
+                    </ui:VisualElement>
                 </ui:VisualElement>
             </ui:VisualElement>
         </ui:VisualElement>

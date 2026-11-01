@@ -4,21 +4,16 @@ using System.Collections;
 [RequireComponent(typeof(Rigidbody2D), typeof(SpriteRenderer))]
 public class Enemy : MonoBehaviour
 {
-    [Header("Can Ayarları")]
-    public float maxHealth = 10f;
+    [Header("Hedef Referansı (Manuel / Spawner Ataması)")]
+    public Transform player;
+
+    [Header("Veri Odaklı Statlar (ScriptableObject)")]
+    public EnemyStatsData stats;
     private float currentHealth;
 
-    [Header("Hareket Ayarları")]
-    public float moveSpeed = 3f;
-    public float shipKnockbackForce = 10f;
-    public float bulletKnockbackForce = 3f;
+    [Header("Süre ve Efekt Ayarları")]
     public float knockbackDuration = 0.3f;
-
-    [Header("Hasar Verme Ayarları")]
-    public float damage = 10f;
     public float hitStunDuration = 0.2f;
-
-    [Header("Efekt Ayarları")]
     public float flashDuration = 0.05f;
     public int flashCount = 3;
 
@@ -28,7 +23,6 @@ public class Enemy : MonoBehaviour
     [Header("Görsel Ayarları")]
     public float rotationOffset = 0f;
 
-    private Transform player;
     private Rigidbody2D rb;
     private SpriteRenderer spriteRenderer;
     private Color originalColor;
@@ -39,31 +33,32 @@ public class Enemy : MonoBehaviour
 
     void Start()
     {
-        currentHealth = maxHealth;
+        if (stats == null)
+        {
+            Debug.LogError($"{gameObject.name} üzerinde EnemyStatsData (stats) atanmamış!", this);
+            enabled = false;
+            return;
+        }
+
+        currentHealth = stats.maxHealth;
         rb = GetComponent<Rigidbody2D>();
         spriteRenderer = GetComponent<SpriteRenderer>();
         originalColor = spriteRenderer.color;
 
         rb.gravityScale = 0f;
         rb.freezeRotation = true;
-
-        ShipController targetShip = FindAnyObjectByType<ShipController>();
-        if (targetShip != null)
-        {
-            player = targetShip.transform;
-        }
     }
 
     void FixedUpdate()
     {
-        if (player == null || isKnockedBack || isStunned || isDead)
+        if (stats == null || player == null || isKnockedBack || isStunned || isDead)
         {
             if (isStunned && !isKnockedBack && rb != null) rb.linearVelocity = Vector2.zero;
             return;
         }
 
         Vector2 direction = (player.position - transform.position).normalized;
-        rb.linearVelocity = direction * moveSpeed;
+        rb.linearVelocity = direction * stats.moveSpeed;
 
         float angle = Mathf.Atan2(direction.y, direction.x) * Mathf.Rad2Deg + rotationOffset;
         transform.rotation = Quaternion.Euler(0, 0, angle);
@@ -71,26 +66,28 @@ public class Enemy : MonoBehaviour
 
     private void OnCollisionEnter2D(Collision2D collision)
     {
+        if (stats == null) return;
+
         IDamageable damageableObj = collision.gameObject.GetComponentInParent<IDamageable>();
 
         if (damageableObj != null && !isKnockedBack && !isDead)
         {
-            damageableObj.TakeDamage(damage);
+            damageableObj.TakeDamage(stats.damage);
             Vector2 knockbackDir = (transform.position - collision.transform.position).normalized;
-            StartCoroutine(KnockbackRoutine(knockbackDir, shipKnockbackForce));
+            StartCoroutine(KnockbackRoutine(knockbackDir, stats.shipKnockbackForce));
         }
     }
 
     public void TakeDamage(float damageAmount, Vector2 damageSourcePos)
     {
-        if (isDead) return; // Zaten öldüyse işlemi anında kes
+        if (isDead || stats == null) return; // Zaten öldüyse işlemi anında kes
 
         currentHealth -= damageAmount;
 
         if (!isKnockedBack)
         {
             Vector2 knockbackDir = ((Vector2)transform.position - damageSourcePos).normalized;
-            StartCoroutine(KnockbackRoutine(knockbackDir, bulletKnockbackForce));
+            StartCoroutine(KnockbackRoutine(knockbackDir, stats.bulletKnockbackForce + Bullet.bonusKnockback));
         }
 
         if (!isStunned)

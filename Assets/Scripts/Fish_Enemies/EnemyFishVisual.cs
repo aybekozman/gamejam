@@ -1,9 +1,12 @@
-
 using UnityEngine;
 
 [RequireComponent(typeof(SpriteRenderer))]
 public class EnemyFishVisual : MonoBehaviour
 {
+    [Header("Hedef Referansları (Manuel / Spawner Ataması)")]
+    public Transform ship;
+    public Collider2D shipCollider;
+
     [Header("Animasyon Kareleri")]
     public Sprite[] swimFrames;
     public Sprite[] attackFrames;
@@ -21,8 +24,6 @@ public class EnemyFishVisual : MonoBehaviour
 
     private SpriteRenderer sr;
     private Collider2D fishCollider;
-    private Collider2D shipCollider;
-    private Transform ship;
 
     private float timer;
     private bool readyToAttack = true;
@@ -48,18 +49,11 @@ public class EnemyFishVisual : MonoBehaviour
 
     void Start()
     {
-        ShipController target =
-            FindAnyObjectByType<ShipController>();
-
-        if (target != null)
+        if (ship != null && shipCollider == null)
         {
-            ship = target.transform;
-
-            shipCollider = target.GetComponent<Collider2D>();
-
+            shipCollider = ship.GetComponent<Collider2D>();
             if (shipCollider == null)
-                shipCollider =
-                    target.GetComponentInChildren<Collider2D>();
+                shipCollider = ship.GetComponentInChildren<Collider2D>();
         }
     }
 

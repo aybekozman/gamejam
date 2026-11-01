@@ -4,6 +4,9 @@ using Unity.Cinemachine; // Ekran sallantısı için
 
 public class ShipWeapons : MonoBehaviour
 {
+    [Header("Referanslar")]
+    public ShipController shipController; // Enerji kontrolü için ana gemi referansı
+
     [Header("Silah Seviyesi")]
     [Range(1, 3)] public int shipLevel = 1;
 
@@ -26,12 +29,19 @@ public class ShipWeapons : MonoBehaviour
 
     void Start()
     {
+        if (shipController == null) shipController = GetComponent<ShipController>();
         if (impulseSource == null) impulseSource = GetComponent<CinemachineImpulseSource>();
     }
 
     void Update()
     {
         ManageTurretLevels();
+
+        // Geminin enerjisi bittiyse (currentEnergy <= 0) silahlar KESİNLİKLE ATEŞ EDEMESİN
+        if (shipController != null && shipController.currentEnergy <= 0f)
+        {
+            return;
+        }
 
         fireTimer -= Time.deltaTime;
         if (fireTimer <= 0)
@@ -53,6 +63,8 @@ public class ShipWeapons : MonoBehaviour
 
     private void FireActiveWeapons()
     {
+        if (shipController != null && shipController.currentEnergy <= 0f) return;
+
         Collider2D[] hitEnemies = Physics2D.OverlapCircleAll(transform.position, attackRange, enemyLayer);
         if (hitEnemies.Length == 0) return;
 

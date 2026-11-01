@@ -5,11 +5,20 @@ using Unity.Cinemachine;
 [RequireComponent(typeof(Rigidbody2D))]
 public class ShipController : MonoBehaviour
 {
+    [Header("Referanslar (Manuel Atama)")]
+    public ShipUIManager uiManager;
+
     [Header("Gemi Fiziği ve Drift Ayarları")]
     public float acceleration = 25f; // Motorun itme gücü
     public float maxSpeed = 8f; // Maksimum hız sınırı
     public float turnSpeed = 5f; // Dönüş yumuşaklığı (Düşürdükçe gemi daha hantal döner)
     [Range(0f, 1f)] public float driftFactor = 0.95f; // 1 = Rayda gider gibi, 0.90 = Kaygan drift
+
+    [Header("Enerji / Yakıt Ayarları")]
+    public float maxEnergy = 100f;
+    public float currentEnergy = 100f;
+    public float energyDrainRate = 8f; // Hareket halindeyken saniyede eksilen enerji miktarı
+    public float energyRegenRate = 0f; // EnergyRegen upgrade kartlarıyla artan pasif yenilenme
 
     [Header("Dash (Atılım) Ayarları")]
     public float dashSpeed = 24f;
@@ -24,6 +33,7 @@ public class ShipController : MonoBehaviour
     public float zoomSpeed = 4f;
 
     public bool IsDashing { get; private set; }
+    public bool HasEnergy => currentEnergy > 0f;
 
     private Rigidbody2D rb;
     private Vector2 moveInput;
@@ -47,24 +57,49 @@ public class ShipController : MonoBehaviour
         // Suyun sürtünme hissi için Linear Drag değerini 1.5 civarı yapabilirsin
         rb.linearDamping = 1.5f;
 
+        currentEnergy = maxEnergy;
         playerHealth = GetComponent<PlayerHealth>();
         playerLayer = LayerMask.NameToLayer("Player");
         enemyLayer = LayerMask.NameToLayer("Enemy");
 
         controls = new InputSystem_Actions();
-        controls.Player.Sprint.performed += ctx => Dash();
+        controls.Player.Sprint.performed += OnSprintPerformed;
+    }
+
+    void Start()
+    {
+        SyncEnergyUI();
     }
 
     void OnEnable() => controls.Enable();
     void OnDisable()
     {
         controls.Disable();
-        controls.Player.Sprint.performed -= ctx => Dash();
+        controls.Player.Sprint.performed -= OnSprintPerformed;
     }
+
+    private void OnSprintPerformed(InputAction.CallbackContext ctx) => Dash();
 
     void Update()
     {
         moveInput = controls.Player.Move.ReadValue<Vector2>();
+
+        // 1. Sadece oyuncu hareket tuşlarına basıyorsa enerjiyi azalt
+        if (moveInput.sqrMagnitude > 0.01f && currentEnergy > 0f)
+        {
+            currentEnergy = Mathf.Max(0f, currentEnergy - energyDrainRate * Time.deltaTime);
+            if (currentEnergy <= 0f)
+            {
+                IsDashing = false;
+            }
+            SyncEnergyUI();
+        }
+        // Pasif enerji yenilenmesi upgrade'i alınmışsa uygula
+        else if (energyRegenRate > 0f && currentEnergy < maxEnergy)
+        {
+            currentEnergy = Mathf.Min(maxEnergy, currentEnergy + energyRegenRate * Time.deltaTime);
+            SyncEnergyUI();
+        }
 
         if (dashCooldownCounter > 0) dashCooldownCounter -= Time.deltaTime;
 
@@ -85,8 +120,8 @@ public class ShipController : MonoBehaviour
         if (vcam != null)
         {
             float targetZoom = idleZoom;
-            if (IsDashing) targetZoom = dashZoom;
-            else if (moveInput.magnitude > 0) targetZoom = moveZoom;
+            if (IsDashing && HasEnergy) targetZoom = dashZoom;
+            else if (moveInput.magnitude > 0 && HasEnergy) targetZoom = moveZoom;
 
             vcam.Lens.OrthographicSize = Mathf.Lerp(vcam.Lens.OrthographicSize, targetZoom, zoomSpeed * Time.deltaTime);
         }
@@ -94,6 +129,13 @@ public class ShipController : MonoBehaviour
 
     void FixedUpdate()
     {
+        // Enerji bittiyse gemi KESİNLİKLE HAREKET EDEMESİN
+        if (currentEnergy <= 0f)
+        {
+            ApplyDrift();
+            return;
+        }
+
         if (IsDashing)
         {
             rb.linearVelocity = dashDirection * dashSpeed;
@@ -107,6 +149,9 @@ public class ShipController : MonoBehaviour
 
     private void ApplyEngineForce()
     {
+        // Enerji bittiyse gemi KESİNLİKLE HAREKET EDEMESİN (Rigidbody'ye güç uygulanmasın)
+        if (currentEnergy <= 0f) return;
+
         if (moveInput.magnitude > 0)
         {
             // 1. YUMUŞAK DÖNÜŞ
@@ -115,12 +160,8 @@ public class ShipController : MonoBehaviour
             transform.rotation = Quaternion.Lerp(transform.rotation, targetRotation, turnSpeed * Time.fixedDeltaTime);
 
             // 2. YENİ FİZİK DOSTU İVME MATEMATİĞİ
-            // Geminin anlık olarak "kendi baktığı yöndeki" hızını ölçeriz.
             float forwardSpeed = Vector2.Dot(rb.linearVelocity, transform.up);
 
-            // Sadece ileri yöndeki hızımız maxSpeed'den düşükse motor gücü uygularız.
-            // Bu sayede dışarıdan gelen (Geri tepme) kuvvetler hızı anlık olarak sınırsızca artırabilir 
-            // ve suyun sürtünmesi (Rigidbody Linear Damping) ile doğal, kaygan bir şekilde yavaşlar.
             if (forwardSpeed < maxSpeed)
             {
                 rb.AddForce(transform.up * acceleration);
@@ -141,12 +182,35 @@ public class ShipController : MonoBehaviour
 
     private void Dash()
     {
+        if (currentEnergy <= 0f) return;
+
         if (dashCooldownCounter <= 0 && moveInput.magnitude > 0)
         {
             IsDashing = true;
             dashTimeCounter = dashDuration;
             dashCooldownCounter = dashCooldown;
             dashDirection = moveInput;
+        }
+    }
+
+    public void AddEnergy(float amount)
+    {
+        currentEnergy = Mathf.Clamp(currentEnergy + amount, 0f, maxEnergy);
+        SyncEnergyUI();
+    }
+
+    public void IncreaseMaxEnergy(float amount)
+    {
+        maxEnergy += amount;
+        currentEnergy = Mathf.Clamp(currentEnergy + amount, 0f, maxEnergy);
+        SyncEnergyUI();
+    }
+
+    public void SyncEnergyUI()
+    {
+        if (uiManager != null && maxEnergy > 0f)
+        {
+            uiManager.UpdateEnergyBar((currentEnergy / maxEnergy) * 100f);
         }
     }
 }
