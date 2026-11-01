@@ -49,21 +49,8 @@ public class Loot : MonoBehaviour
     public bool TryCollect(PlayerExperience experience)
     {
         if (collected) return false;
-
-        if (experience != null)
-        {
-            OrbRewardMode rewardMode = experience.GetComponent<OrbRewardMode>();
-            if (rewardMode != null && rewardMode.isActiveAndEnabled)
-            {
-                if (!rewardMode.TryAward(expValue)) return false;
-            }
-            else
-            {
-                experience.AddExperience(expValue);
-            }
-        }
-
         collected = true;
+        if (experience != null) experience.AddExperience(expValue);
         Destroy(gameObject);
         return true;
     }
@@ -71,25 +58,6 @@ public class Loot : MonoBehaviour
     private void Collect()
     {
         if (collected) return;
-
-        if (target != null)
-        {
-            OrbRewardMode rewardMode = target.GetComponent<OrbRewardMode>();
-            if (rewardMode != null && rewardMode.isActiveAndEnabled)
-            {
-                rewardMode.TryAward(expValue);
-                collected = true;
-                Destroy(gameObject);
-                return;
-            }
-
-            PlayerExperience exp = target.GetComponent<PlayerExperience>();
-            if (exp != null)
-            {
-                TryCollect(exp);
-                return;
-            }
-        }
 
         if (uiManager != null)
         {

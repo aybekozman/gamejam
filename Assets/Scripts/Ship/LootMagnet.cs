@@ -14,14 +14,9 @@ public class LootMagnet : MonoBehaviour
     public float defaultEnergyValue = 15f; // Enerji modundayken verilecek varsayılan Enerji
     public LayerMask lootLayer;            // Inspector'dan "Loot" katmanını seç
 
-    private PlayerExperience playerExperience;
-    private OrbRewardMode orbRewardMode;
-
     void Awake()
     {
         if (shipController == null) shipController = GetComponent<ShipController>();
-        playerExperience = GetComponent<PlayerExperience>();
-        orbRewardMode = GetComponent<OrbRewardMode>();
     }
 
     void Update()
@@ -36,7 +31,7 @@ public class LootMagnet : MonoBehaviour
             // Ganimeti yavaşça gemiye doğru kaydır
             loot.transform.position = Vector2.MoveTowards(loot.transform.position, transform.position, pullSpeed * Time.deltaTime);
 
-            // Gemiye yeterince yaklaştıysa aktif moda göre SADECE XP veya SADECE Enerji olarak topla
+            // Gemiye yeterince yaklaştıysa ShipUIManager'daki aktif moda göre SADECE XP veya SADECE Enerji olarak topla
             if (Vector2.Distance(loot.transform.position, transform.position) <= collectDistance)
             {
                 float xpToGain = defaultXPValue;
@@ -46,12 +41,6 @@ public class LootMagnet : MonoBehaviour
                 {
                     xpToGain = lootItem.expValue;
                     energyToGain = lootItem.energyValue;
-
-                    if (playerExperience != null || (orbRewardMode != null && orbRewardMode.isActiveAndEnabled))
-                    {
-                        lootItem.TryCollect(playerExperience);
-                        continue;
-                    }
                 }
 
                 if (uiManager != null)

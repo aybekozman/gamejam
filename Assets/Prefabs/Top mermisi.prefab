@@ -107,7 +107,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Bullet
   speed: 20
-  damage: 5
+  damage: 15
   lifetime: 2
 --- !u!61 &8784099444386633964
 BoxCollider2D:
