@@ -303,14 +303,20 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d55a235f484b2454eb6dff6ae4657d50, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::EnemySpawner
-  initialSpawnCount: 30
+  initialSpawnCount: 12
   spawnInterval: 2
   spawnRadius: 15
   enemiesPerWave: 1
   difficultyIncreaseTimer: 15
   extraEnemiesPerUpgrade: 1
   enemyPrefabs:
-  - {fileID: 3531141502846604222, guid: dee1ffde1e7faa54b9faf4749dd3aa5b, type: 3}
+  - {fileID: 996427506293984974, guid: 58b7720304684d243a810234d076becc, type: 3}
+  - {fileID: 694477202601599132, guid: e7f0a95e90b975c45b0645a719bd4b84, type: 3}
+  - {fileID: 592570265641841316, guid: f6e96eddaf54bca4f8579b0d248d4f73, type: 3}
+  - {fileID: 9207246472652308653, guid: 9fa9064b0127fa141867afad4d1bfb64, type: 3}
+  - {fileID: 613330758241878895, guid: 4e2b10a5bb026e84f9f6c946ed3ffb2c, type: 3}
+  - {fileID: 1633620517476102853, guid: b26826ac5f3360f4ab3b5f1f4fd92be1, type: 3}
+  - {fileID: 6825577220813364052, guid: fb2ac7f3708f957489c5b2c30c319a13, type: 3}
 --- !u!4 &118050605
 Transform:
   m_ObjectHideFlags: 0
