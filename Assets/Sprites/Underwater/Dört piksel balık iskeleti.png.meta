@@ -1,0 +1,1768 @@
+fileFormatVersion: 2
+guid: 7791658062ac68c409d7b29397ef3704
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6205752122828737855
+    second: "D\xF6rt piksel bal\u0131k iskeleti_0"
+  - first:
+      213: -7407939984844765685
+    second: "D\xF6rt piksel bal\u0131k iskeleti_1"
+  - first:
+      213: 8224182666562985247
+    second: "D\xF6rt piksel bal\u0131k iskeleti_2"
+  - first:
+      213: 1681790202886948636
+    second: "D\xF6rt piksel bal\u0131k iskeleti_3"
+  - first:
+      213: 9024252646828483333
+    second: "D\xF6rt piksel bal\u0131k iskeleti_4"
+  - first:
+      213: -3815520501561767738
+    second: "D\xF6rt piksel bal\u0131k iskeleti_5"
+  - first:
+      213: 3677241745843200371
+    second: "D\xF6rt piksel bal\u0131k iskeleti_6"
+  - first:
+      213: -1025775715878598161
+    second: "D\xF6rt piksel bal\u0131k iskeleti_7"
+  - first:
+      213: 8374189833014285061
+    second: "D\xF6rt piksel bal\u0131k iskeleti_8"
+  - first:
+      213: 8756132926775733327
+    second: "D\xF6rt piksel bal\u0131k iskeleti_9"
+  - first:
+      213: 4862389549138753859
+    second: "D\xF6rt piksel bal\u0131k iskeleti_10"
+  - first:
+      213: -8837590332708231073
+    second: "D\xF6rt piksel bal\u0131k iskeleti_11"
+  - first:
+      213: 116850854130373806
+    second: "D\xF6rt piksel bal\u0131k iskeleti_12"
+  - first:
+      213: 9147049905045308524
+    second: "D\xF6rt piksel bal\u0131k iskeleti_13"
+  - first:
+      213: -5470407599195715687
+    second: "D\xF6rt piksel bal\u0131k iskeleti_14"
+  - first:
+      213: 8079145790949921397
+    second: "D\xF6rt piksel bal\u0131k iskeleti_15"
+  - first:
+      213: 6644472383121078785
+    second: "D\xF6rt piksel bal\u0131k iskeleti_16"
+  - first:
+      213: -2422869942126858029
+    second: "D\xF6rt piksel bal\u0131k iskeleti_17"
+  - first:
+      213: 5837945569707890122
+    second: "D\xF6rt piksel bal\u0131k iskeleti_18"
+  - first:
+      213: 5113459032635778119
+    second: "D\xF6rt piksel bal\u0131k iskeleti_19"
+  - first:
+      213: -4251317651166783298
+    second: "D\xF6rt piksel bal\u0131k iskeleti_20"
+  - first:
+      213: 1154014853174401372
+    second: "D\xF6rt piksel bal\u0131k iskeleti_21"
+  - first:
+      213: -3452619969924213913
+    second: "D\xF6rt piksel bal\u0131k iskeleti_22"
+  - first:
+      213: -1112950385244262000
+    second: "D\xF6rt piksel bal\u0131k iskeleti_23"
+  - first:
+      213: 7017064342263944978
+    second: "D\xF6rt piksel bal\u0131k iskeleti_24"
+  - first:
+      213: -3787455853487836775
+    second: "D\xF6rt piksel bal\u0131k iskeleti_25"
+  - first:
+      213: -9063367548657543133
+    second: "D\xF6rt piksel bal\u0131k iskeleti_26"
+  - first:
+      213: -9144317390842351975
+    second: "D\xF6rt piksel bal\u0131k iskeleti_27"
+  - first:
+      213: 6842819028614444203
+    second: "D\xF6rt piksel bal\u0131k iskeleti_28"
+  - first:
+      213: 5415461136410435017
+    second: "D\xF6rt piksel bal\u0131k iskeleti_29"
+  - first:
+      213: -1756116756902641801
+    second: "D\xF6rt piksel bal\u0131k iskeleti_30"
+  - first:
+      213: 6114028575225759443
+    second: "D\xF6rt piksel bal\u0131k iskeleti_31"
+  - first:
+      213: -5675694278352395042
+    second: "D\xF6rt piksel bal\u0131k iskeleti_32"
+  - first:
+      213: -8704997405681129628
+    second: "D\xF6rt piksel bal\u0131k iskeleti_33"
+  - first:
+      213: 6272490275503586529
+    second: "D\xF6rt piksel bal\u0131k iskeleti_34"
+  - first:
+      213: -5266058256087115566
+    second: "D\xF6rt piksel bal\u0131k iskeleti_35"
+  - first:
+      213: 5147600743235258295
+    second: "D\xF6rt piksel bal\u0131k iskeleti_36"
+  - first:
+      213: -5421823099595700544
+    second: "D\xF6rt piksel bal\u0131k iskeleti_37"
+  - first:
+      213: -6460580183234986161
+    second: "D\xF6rt piksel bal\u0131k iskeleti_38"
+  - first:
+      213: -2188777447768445512
+    second: "D\xF6rt piksel bal\u0131k iskeleti_39"
+  - first:
+      213: -6289735858853303579
+    second: "D\xF6rt piksel bal\u0131k iskeleti_40"
+  - first:
+      213: 5130162187549080316
+    second: "D\xF6rt piksel bal\u0131k iskeleti_41"
+  - first:
+      213: -265131815512350577
+    second: "D\xF6rt piksel bal\u0131k iskeleti_42"
+  - first:
+      213: 7728166362338008242
+    second: "D\xF6rt piksel bal\u0131k iskeleti_43"
+  - first:
+      213: 8751579886967748081
+    second: "D\xF6rt piksel bal\u0131k iskeleti_44"
+  - first:
+      213: 769159587190569780
+    second: "D\xF6rt piksel bal\u0131k iskeleti_45"
+  - first:
+      213: 2358509150888196534
+    second: "D\xF6rt piksel bal\u0131k iskeleti_46"
+  - first:
+      213: -6889033079403492444
+    second: "D\xF6rt piksel bal\u0131k iskeleti_47"
+  - first:
+      213: -1298141286694661042
+    second: "D\xF6rt piksel bal\u0131k iskeleti_48"
+  - first:
+      213: -8083857577809499151
+    second: "D\xF6rt piksel bal\u0131k iskeleti_49"
+  - first:
+      213: 9182524853356275654
+    second: "D\xF6rt piksel bal\u0131k iskeleti_50"
+  - first:
+      213: 5642769372758871231
+    second: "D\xF6rt piksel bal\u0131k iskeleti_51"
+  - first:
+      213: 4431303876186858679
+    second: "D\xF6rt piksel bal\u0131k iskeleti_52"
+  - first:
+      213: -2498975140456690051
+    second: "D\xF6rt piksel bal\u0131k iskeleti_53"
+  - first:
+      213: 7000991899097328506
+    second: "D\xF6rt piksel bal\u0131k iskeleti_54"
+  - first:
+      213: -7491715086799327552
+    second: "D\xF6rt piksel bal\u0131k iskeleti_55"
+  - first:
+      213: -5919464465950924594
+    second: "D\xF6rt piksel bal\u0131k iskeleti_56"
+  - first:
+      213: 4255110268335173835
+    second: "D\xF6rt piksel bal\u0131k iskeleti_57"
+  - first:
+      213: -2249909199362968375
+    second: "D\xF6rt piksel bal\u0131k iskeleti_58"
+  - first:
+      213: 3410191947466986511
+    second: "D\xF6rt piksel bal\u0131k iskeleti_59"
+  - first:
+      213: -6592578495777828500
+    second: "D\xF6rt piksel bal\u0131k iskeleti_60"
+  - first:
+      213: 7146020524718553666
+    second: "D\xF6rt piksel bal\u0131k iskeleti_61"
+  - first:
+      213: 4705458736817965062
+    second: "D\xF6rt piksel bal\u0131k iskeleti_62"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "D\xF6rt piksel bal\u0131k iskeleti_0"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 247
+        width: 781
+        height: 732
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3d455d1da24f1650800000000000000
+      internalID: 6205752122828737855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel bal\u0131k iskeleti_1"
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 971
+        width: 83
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b064aed25d5b13990800000000000000
+      internalID: -7407939984844765685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel bal\u0131k iskeleti_2"
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 955
+        width: 7
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1d5968cf8a222270800000000000000
+      internalID: 8224182666562985247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel bal\u0131k iskeleti_3"
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 979
+        width: 39
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c170fcd674be65710800000000000000
+      internalID: 1681790202886948636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel bal\u0131k iskeleti_4"
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 962
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 503279148f59c3d70800000000000000
+      internalID: 9024252646828483333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel bal\u0131k iskeleti_5"
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 959
+        width: 89
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c8c03fb15c8c0bc0800000000000000
+      internalID: -3815520501561767738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel bal\u0131k iskeleti_6"
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 430
+        width: 743
+        height: 547
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 371a83e82ef280330800000000000000
+      internalID: 3677241745843200371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel bal\u0131k iskeleti_7"
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 975
+        width: 55
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe985d3db66b3c1f0800000000000000
+      internalID: -1025775715878598161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel bal\u0131k iskeleti_8"
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 975
+        width: 51
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5031186e849173470800000000000000
+      internalID: 8374189833014285061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel bal\u0131k iskeleti_9"
+      rect:
+        serializedVersion: 2
+        x: 1138
+        y: 967
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4ca1924188048970800000000000000
+      internalID: 8756132926775733327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel bal\u0131k iskeleti_10"
+      rect:
+        serializedVersion: 2
+        x: 1262
+        y: 934
+        width: 33
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 349bcfb688daa7340800000000000000
+      internalID: 4862389549138753859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel bal\u0131k iskeleti_11"
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 945
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f58ef7c7a629a5580800000000000000
+      internalID: -8837590332708231073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel bal\u0131k iskeleti_12"
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 959
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea454249b332f9100800000000000000
+      internalID: 116850854130373806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel bal\u0131k iskeleti_13"
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 935
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c640ffcec69d0fe70800000000000000
+      internalID: 9147049905045308524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel bal\u0131k iskeleti_14"
+      rect:
+        serializedVersion: 2
+        x: 1327
+        y: 927
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9978751a5453514b0800000000000000
+      internalID: -5470407599195715687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel bal\u0131k iskeleti_15"
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 863
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 572992eaa44ee1070800000000000000
+      internalID: 8079145790949921397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel bal\u0131k iskeleti_16"
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 847
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10a33d3bd68e53c50800000000000000
+      internalID: 6644472383121078785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel bal\u0131k iskeleti_17"
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 558
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d0be82ef9c306ed0800000000000000
+      internalID: -2422869942126858029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel bal\u0131k iskeleti_18"
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 559
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac5118c909c840150800000000000000
+      internalID: 5837945569707890122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel bal\u0131k iskeleti_19"
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 542
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 744a4cdd5e7a6f640800000000000000
+      internalID: 5113459032635778119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel bal\u0131k iskeleti_20"
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 533
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb81bd6ee194005c0800000000000000
+      internalID: -4251317651166783298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel bal\u0131k iskeleti_21"
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 511
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c591cfc0562e30010800000000000000
+      internalID: 1154014853174401372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel bal\u0131k iskeleti_22"
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 511
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7635f3c1e64d510d0800000000000000
+      internalID: -3452619969924213913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel bal\u0131k iskeleti_23"
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 482
+        width: 17
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 091b1e275810e80f0800000000000000
+      internalID: -1112950385244262000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel bal\u0131k iskeleti_24"
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 495
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 217d3be57de916160800000000000000
+      internalID: 7017064342263944978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel bal\u0131k iskeleti_25"
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 501
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9913262d7f0407bc0800000000000000
+      internalID: -3787455853487836775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel bal\u0131k iskeleti_26"
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 509
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 328d679fb33783280800000000000000
+      internalID: -9063367548657543133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel bal\u0131k iskeleti_27"
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 513
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99e2a6d18cbd81180800000000000000
+      internalID: -9144317390842351975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel bal\u0131k iskeleti_28"
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 513
+        width: 6
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba4f8d6d6a396fe50800000000000000
+      internalID: 6842819028614444203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel bal\u0131k iskeleti_29"
+      rect:
+        serializedVersion: 2
+        x: 1318
+        y: 479
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cd5da21635972b40800000000000000
+      internalID: 5415461136410435017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel bal\u0131k iskeleti_30"
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 503
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77ff4b82d1501a7e0800000000000000
+      internalID: -1756116756902641801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel bal\u0131k iskeleti_31"
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 495
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d64bec789469d450800000000000000
+      internalID: 6114028575225759443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel bal\u0131k iskeleti_32"
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 479
+        width: 13
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed4a61dff12eb31b0800000000000000
+      internalID: -5675694278352395042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel bal\u0131k iskeleti_33"
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 497
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 467eda70bf2a13780800000000000000
+      internalID: -8704997405681129628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel bal\u0131k iskeleti_34"
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 479
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ecbb782cac5c0750800000000000000
+      internalID: 6272490275503586529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel bal\u0131k iskeleti_35"
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 477
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d81a67bae33be6b0800000000000000
+      internalID: -5266058256087115566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel bal\u0131k iskeleti_36"
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 443
+        width: 57
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b703125a93ff6740800000000000000
+      internalID: 5147600743235258295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel bal\u0131k iskeleti_37"
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 485
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c64791fd90d1c4b0800000000000000
+      internalID: -5421823099595700544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel bal\u0131k iskeleti_38"
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 487
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4fb95f8d886756a0800000000000000
+      internalID: -6460580183234986161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel bal\u0131k iskeleti_39"
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 463
+        width: 11
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bd20650286ef91e0800000000000000
+      internalID: -2188777447768445512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel bal\u0131k iskeleti_40"
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 445
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ea23029f8e56b8a0800000000000000
+      internalID: -6289735858853303579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel bal\u0131k iskeleti_41"
+      rect:
+        serializedVersion: 2
+        x: 1342
+        y: 455
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfaf00d245ff13740800000000000000
+      internalID: 5130162187549080316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel bal\u0131k iskeleti_42"
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 453
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f806bbdb400125cf0800000000000000
+      internalID: -265131815512350577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel bal\u0131k iskeleti_43"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 687
+        height: 449
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bc97486c56ff3b60800000000000000
+      internalID: 7728166362338008242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel bal\u0131k iskeleti_44"
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 0
+        width: 731
+        height: 422
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f57a221a8bd37970800000000000000
+      internalID: 8751579886967748081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel bal\u0131k iskeleti_45"
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 399
+        width: 33
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43b7412c19a9caa00800000000000000
+      internalID: 769159587190569780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel bal\u0131k iskeleti_46"
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 78
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b9f23aa39b1bb020800000000000000
+      internalID: 2358509150888196534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel bal\u0131k iskeleti_47"
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 78
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ab4d38f9ec3560a0800000000000000
+      internalID: -6889033079403492444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel bal\u0131k iskeleti_48"
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 67
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e44db4aa0631cfde0800000000000000
+      internalID: -1298141286694661042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel bal\u0131k iskeleti_49"
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 59
+        width: 9
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fba0d3fc5e50df80800000000000000
+      internalID: -8083857577809499151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel bal\u0131k iskeleti_50"
+      rect:
+        serializedVersion: 2
+        x: 1322
+        y: 64
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c72f79f3b1ee6f70800000000000000
+      internalID: 9182524853356275654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel bal\u0131k iskeleti_51"
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 60
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbc0fbc09d42f4e40800000000000000
+      internalID: 5642769372758871231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel bal\u0131k iskeleti_52"
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 49
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b4ede7b5672f7d30800000000000000
+      internalID: 4431303876186858679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel bal\u0131k iskeleti_53"
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 57
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7e0c82995bd15dd0800000000000000
+      internalID: -2498975140456690051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel bal\u0131k iskeleti_54"
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 51
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7b65151a05882160800000000000000
+      internalID: 7000991899097328506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel bal\u0131k iskeleti_55"
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 31
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ce24e442d4180890800000000000000
+      internalID: -7491715086799327552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel bal\u0131k iskeleti_56"
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 43
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec0a27e4e66d9dda0800000000000000
+      internalID: -5919464465950924594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel bal\u0131k iskeleti_57"
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 25
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc03c389e303d0b30800000000000000
+      internalID: 4255110268335173835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel bal\u0131k iskeleti_58"
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 31
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c43613f087b6c0e0800000000000000
+      internalID: -2249909199362968375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel bal\u0131k iskeleti_59"
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 17
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f04daac128f635f20800000000000000
+      internalID: 3410191947466986511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel bal\u0131k iskeleti_60"
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 0
+        width: 119
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c61984d79c47284a0800000000000000
+      internalID: -6592578495777828500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel bal\u0131k iskeleti_61"
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 16
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24aff755ec3cb2360800000000000000
+      internalID: 7146020524718553666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel bal\u0131k iskeleti_62"
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 17
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6080b416ac52d4140800000000000000
+      internalID: 4705458736817965062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "D\xF6rt piksel bal\u0131k iskeleti_0": 6205752122828737855
+      "D\xF6rt piksel bal\u0131k iskeleti_1": -7407939984844765685
+      "D\xF6rt piksel bal\u0131k iskeleti_10": 4862389549138753859
+      "D\xF6rt piksel bal\u0131k iskeleti_11": -8837590332708231073
+      "D\xF6rt piksel bal\u0131k iskeleti_12": 116850854130373806
+      "D\xF6rt piksel bal\u0131k iskeleti_13": 9147049905045308524
+      "D\xF6rt piksel bal\u0131k iskeleti_14": -5470407599195715687
+      "D\xF6rt piksel bal\u0131k iskeleti_15": 8079145790949921397
+      "D\xF6rt piksel bal\u0131k iskeleti_16": 6644472383121078785
+      "D\xF6rt piksel bal\u0131k iskeleti_17": -2422869942126858029
+      "D\xF6rt piksel bal\u0131k iskeleti_18": 5837945569707890122
+      "D\xF6rt piksel bal\u0131k iskeleti_19": 5113459032635778119
+      "D\xF6rt piksel bal\u0131k iskeleti_2": 8224182666562985247
+      "D\xF6rt piksel bal\u0131k iskeleti_20": -4251317651166783298
+      "D\xF6rt piksel bal\u0131k iskeleti_21": 1154014853174401372
+      "D\xF6rt piksel bal\u0131k iskeleti_22": -3452619969924213913
+      "D\xF6rt piksel bal\u0131k iskeleti_23": -1112950385244262000
+      "D\xF6rt piksel bal\u0131k iskeleti_24": 7017064342263944978
+      "D\xF6rt piksel bal\u0131k iskeleti_25": -3787455853487836775
+      "D\xF6rt piksel bal\u0131k iskeleti_26": -9063367548657543133
+      "D\xF6rt piksel bal\u0131k iskeleti_27": -9144317390842351975
+      "D\xF6rt piksel bal\u0131k iskeleti_28": 6842819028614444203
+      "D\xF6rt piksel bal\u0131k iskeleti_29": 5415461136410435017
+      "D\xF6rt piksel bal\u0131k iskeleti_3": 1681790202886948636
+      "D\xF6rt piksel bal\u0131k iskeleti_30": -1756116756902641801
+      "D\xF6rt piksel bal\u0131k iskeleti_31": 6114028575225759443
+      "D\xF6rt piksel bal\u0131k iskeleti_32": -5675694278352395042
+      "D\xF6rt piksel bal\u0131k iskeleti_33": -8704997405681129628
+      "D\xF6rt piksel bal\u0131k iskeleti_34": 6272490275503586529
+      "D\xF6rt piksel bal\u0131k iskeleti_35": -5266058256087115566
+      "D\xF6rt piksel bal\u0131k iskeleti_36": 5147600743235258295
+      "D\xF6rt piksel bal\u0131k iskeleti_37": -5421823099595700544
+      "D\xF6rt piksel bal\u0131k iskeleti_38": -6460580183234986161
+      "D\xF6rt piksel bal\u0131k iskeleti_39": -2188777447768445512
+      "D\xF6rt piksel bal\u0131k iskeleti_4": 9024252646828483333
+      "D\xF6rt piksel bal\u0131k iskeleti_40": -6289735858853303579
+      "D\xF6rt piksel bal\u0131k iskeleti_41": 5130162187549080316
+      "D\xF6rt piksel bal\u0131k iskeleti_42": -265131815512350577
+      "D\xF6rt piksel bal\u0131k iskeleti_43": 7728166362338008242
+      "D\xF6rt piksel bal\u0131k iskeleti_44": 8751579886967748081
+      "D\xF6rt piksel bal\u0131k iskeleti_45": 769159587190569780
+      "D\xF6rt piksel bal\u0131k iskeleti_46": 2358509150888196534
+      "D\xF6rt piksel bal\u0131k iskeleti_47": -6889033079403492444
+      "D\xF6rt piksel bal\u0131k iskeleti_48": -1298141286694661042
+      "D\xF6rt piksel bal\u0131k iskeleti_49": -8083857577809499151
+      "D\xF6rt piksel bal\u0131k iskeleti_5": -3815520501561767738
+      "D\xF6rt piksel bal\u0131k iskeleti_50": 9182524853356275654
+      "D\xF6rt piksel bal\u0131k iskeleti_51": 5642769372758871231
+      "D\xF6rt piksel bal\u0131k iskeleti_52": 4431303876186858679
+      "D\xF6rt piksel bal\u0131k iskeleti_53": -2498975140456690051
+      "D\xF6rt piksel bal\u0131k iskeleti_54": 7000991899097328506
+      "D\xF6rt piksel bal\u0131k iskeleti_55": -7491715086799327552
+      "D\xF6rt piksel bal\u0131k iskeleti_56": -5919464465950924594
+      "D\xF6rt piksel bal\u0131k iskeleti_57": 4255110268335173835
+      "D\xF6rt piksel bal\u0131k iskeleti_58": -2249909199362968375
+      "D\xF6rt piksel bal\u0131k iskeleti_59": 3410191947466986511
+      "D\xF6rt piksel bal\u0131k iskeleti_6": 3677241745843200371
+      "D\xF6rt piksel bal\u0131k iskeleti_60": -6592578495777828500
+      "D\xF6rt piksel bal\u0131k iskeleti_61": 7146020524718553666
+      "D\xF6rt piksel bal\u0131k iskeleti_62": 4705458736817965062
+      "D\xF6rt piksel bal\u0131k iskeleti_7": -1025775715878598161
+      "D\xF6rt piksel bal\u0131k iskeleti_8": 8374189833014285061
+      "D\xF6rt piksel bal\u0131k iskeleti_9": 8756132926775733327
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1794 @@
+fileFormatVersion: 2
+guid: 0749473df7d4e6f4ab3dad4e6d6b5ae4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5846558405989141244
+    second: "Deniz At\u0131klar\u0131 Pixel Sanat Seti-1_0"
+  - first:
+      213: -2102032785925228467
+    second: "Deniz At\u0131klar\u0131 Pixel Sanat Seti-1_1"
+  - first:
+      213: -1216979399683536942
+    second: "Deniz At\u0131klar\u0131 Pixel Sanat Seti-1_2"
+  - first:
+      213: 2771047693947362087
+    second: "Deniz At\u0131klar\u0131 Pixel Sanat Seti-1_3"
+  - first:
+      213: -6577789117613310325
+    second: "Deniz At\u0131klar\u0131 Pixel Sanat Seti-1_4"
+  - first:
+      213: 548313508238968279
+    second: "Deniz At\u0131klar\u0131 Pixel Sanat Seti-1_5"
+  - first:
+      213: 629772041236186278
+    second: "Deniz At\u0131klar\u0131 Pixel Sanat Seti-1_6"
+  - first:
+      213: -4809889817685963121
+    second: "Deniz At\u0131klar\u0131 Pixel Sanat Seti-1_7"
+  - first:
+      213: 7649689558448169128
+    second: "Deniz At\u0131klar\u0131 Pixel Sanat Seti-1_8"
+  - first:
+      213: -2448456282253943927
+    second: "Deniz At\u0131klar\u0131 Pixel Sanat Seti-1_9"
+  - first:
+      213: -520412845467936271
+    second: "Deniz At\u0131klar\u0131 Pixel Sanat Seti-1_10"
+  - first:
+      213: -7489862515432726305
+    second: "Deniz At\u0131klar\u0131 Pixel Sanat Seti-1_11"
+  - first:
+      213: 4039089255055456511
+    second: "Deniz At\u0131klar\u0131 Pixel Sanat Seti-1_12"
+  - first:
+      213: -5758138052555597919
+    second: "Deniz At\u0131klar\u0131 Pixel Sanat Seti-1_13"
+  - first:
+      213: 5079314687826451880
+    second: "Deniz At\u0131klar\u0131 Pixel Sanat Seti-1_14"
+  - first:
+      213: 8081707199322304800
+    second: "Deniz At\u0131klar\u0131 Pixel Sanat Seti-1_15"
+  - first:
+      213: 2480735426750037837
+    second: "Deniz At\u0131klar\u0131 Pixel Sanat Seti-1_16"
+  - first:
+      213: -1115406555138356849
+    second: "Deniz At\u0131klar\u0131 Pixel Sanat Seti-1_17"
+  - first:
+      213: -6877457235230336158
+    second: "Deniz At\u0131klar\u0131 Pixel Sanat Seti-1_18"
+  - first:
+      213: 5991383914092837001
+    second: "Deniz At\u0131klar\u0131 Pixel Sanat Seti-1_19"
+  - first:
+      213: -1309604918325788310
+    second: "Deniz At\u0131klar\u0131 Pixel Sanat Seti-1_20"
+  - first:
+      213: -8740344762018534353
+    second: "Deniz At\u0131klar\u0131 Pixel Sanat Seti-1_21"
+  - first:
+      213: 3021420235795934709
+    second: "Deniz At\u0131klar\u0131 Pixel Sanat Seti-1_22"
+  - first:
+      213: 811338168007490930
+    second: "Deniz At\u0131klar\u0131 Pixel Sanat Seti-1_23"
+  - first:
+      213: -6487985930680344297
+    second: "Deniz At\u0131klar\u0131 Pixel Sanat Seti-1_24"
+  - first:
+      213: -1712062148718437145
+    second: "Deniz At\u0131klar\u0131 Pixel Sanat Seti-1_25"
+  - first:
+      213: -5563355861178531856
+    second: "Deniz At\u0131klar\u0131 Pixel Sanat Seti-1_26"
+  - first:
+      213: -8722277774452247297
+    second: "Deniz At\u0131klar\u0131 Pixel Sanat Seti-1_27"
+  - first:
+      213: -6279446814562757008
+    second: "Deniz At\u0131klar\u0131 Pixel Sanat Seti-1_28"
+  - first:
+      213: 8508714069557130062
+    second: "Deniz At\u0131klar\u0131 Pixel Sanat Seti-1_29"
+  - first:
+      213: 5497875910991529047
+    second: "Deniz At\u0131klar\u0131 Pixel Sanat Seti-1_30"
+  - first:
+      213: 2874412520362132957
+    second: "Deniz At\u0131klar\u0131 Pixel Sanat Seti-1_31"
+  - first:
+      213: -9214129733545506086
+    second: "Deniz At\u0131klar\u0131 Pixel Sanat Seti-1_32"
+  - first:
+      213: 7382658152166733857
+    second: "Deniz At\u0131klar\u0131 Pixel Sanat Seti-1_33"
+  - first:
+      213: 271142996773718438
+    second: "Deniz At\u0131klar\u0131 Pixel Sanat Seti-1_34"
+  - first:
+      213: -4618636160656442702
+    second: "Deniz At\u0131klar\u0131 Pixel Sanat Seti-1_35"
+  - first:
+      213: 3759923046456278314
+    second: "Deniz At\u0131klar\u0131 Pixel Sanat Seti-1_36"
+  - first:
+      213: 7006920349781062594
+    second: "Deniz At\u0131klar\u0131 Pixel Sanat Seti-1_37"
+  - first:
+      213: -7350680117357968011
+    second: "Deniz At\u0131klar\u0131 Pixel Sanat Seti-1_38"
+  - first:
+      213: 6897218368035867
+    second: "Deniz At\u0131klar\u0131 Pixel Sanat Seti-1_39"
+  - first:
+      213: 4523903527486703334
+    second: "Deniz At\u0131klar\u0131 Pixel Sanat Seti-1_40"
+  - first:
+      213: 4030861097161370939
+    second: "Deniz At\u0131klar\u0131 Pixel Sanat Seti-1_41"
+  - first:
+      213: 7749428159699422085
+    second: "Deniz At\u0131klar\u0131 Pixel Sanat Seti-1_42"
+  - first:
+      213: 5148319199691596944
+    second: "Deniz At\u0131klar\u0131 Pixel Sanat Seti-1_43"
+  - first:
+      213: -180320021353212001
+    second: "Deniz At\u0131klar\u0131 Pixel Sanat Seti-1_44"
+  - first:
+      213: 4846142002784538686
+    second: "Deniz At\u0131klar\u0131 Pixel Sanat Seti-1_45"
+  - first:
+      213: 9110214409179467422
+    second: "Deniz At\u0131klar\u0131 Pixel Sanat Seti-1_46"
+  - first:
+      213: -4897548395975296448
+    second: "Deniz At\u0131klar\u0131 Pixel Sanat Seti-1_47"
+  - first:
+      213: 8614606710788933736
+    second: "Deniz At\u0131klar\u0131 Pixel Sanat Seti-1_48"
+  - first:
+      213: -7988975205650874374
+    second: "Deniz At\u0131klar\u0131 Pixel Sanat Seti-1_49"
+  - first:
+      213: -942719449614980587
+    second: "Deniz At\u0131klar\u0131 Pixel Sanat Seti-1_50"
+  - first:
+      213: 1723955446050915569
+    second: "Deniz At\u0131klar\u0131 Pixel Sanat Seti-1_51"
+  - first:
+      213: 9164626961022732446
+    second: "Deniz At\u0131klar\u0131 Pixel Sanat Seti-1_52"
+  - first:
+      213: 1229904066390808457
+    second: "Deniz At\u0131klar\u0131 Pixel Sanat Seti-1_53"
+  - first:
+      213: 5329830862175088934
+    second: "Deniz At\u0131klar\u0131 Pixel Sanat Seti-1_54"
+  - first:
+      213: 2492233596532890254
+    second: "Deniz At\u0131klar\u0131 Pixel Sanat Seti-1_55"
+  - first:
+      213: -351096551776002172
+    second: "Deniz At\u0131klar\u0131 Pixel Sanat Seti-1_56"
+  - first:
+      213: 6400028565269975237
+    second: "Deniz At\u0131klar\u0131 Pixel Sanat Seti-1_57"
+  - first:
+      213: 6081100487148762720
+    second: "Deniz At\u0131klar\u0131 Pixel Sanat Seti-1_58"
+  - first:
+      213: 6602464034400189019
+    second: "Deniz At\u0131klar\u0131 Pixel Sanat Seti-1_59"
+  - first:
+      213: 4525169389296925783
+    second: "Deniz At\u0131klar\u0131 Pixel Sanat Seti-1_60"
+  - first:
+      213: -3627722903672008462
+    second: "Deniz At\u0131klar\u0131 Pixel Sanat Seti-1_61"
+  - first:
+      213: 79221389064097566
+    second: "Deniz At\u0131klar\u0131 Pixel Sanat Seti-1_62"
+  - first:
+      213: -5352894246586997207
+    second: "Deniz At\u0131klar\u0131 Pixel Sanat Seti-1_63"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Deniz At\u0131klar\u0131 Pixel Sanat Seti-1_0"
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 431
+        width: 589
+        height: 571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 405717c2b1adcdea0800000000000000
+      internalID: -5846558405989141244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz At\u0131klar\u0131 Pixel Sanat Seti-1_1"
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 981
+        width: 57
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d48b3b8715414d2e0800000000000000
+      internalID: -2102032785925228467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz At\u0131klar\u0131 Pixel Sanat Seti-1_2"
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 927
+        width: 41
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d705ee0fab6c1fe0800000000000000
+      internalID: -1216979399683536942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz At\u0131klar\u0131 Pixel Sanat Seti-1_3"
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 813
+        width: 313
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72bd56d223db47620800000000000000
+      internalID: 2771047693947362087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz At\u0131klar\u0131 Pixel Sanat Seti-1_4"
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 423
+        width: 453
+        height: 548
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8e7a3de5aff6b4a0800000000000000
+      internalID: -6577789117613310325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz At\u0131klar\u0131 Pixel Sanat Seti-1_5"
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 961
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d5c12c0b300c9700800000000000000
+      internalID: 548313508238968279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz At\u0131klar\u0131 Pixel Sanat Seti-1_6"
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 941
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a40b57b5566db800800000000000000
+      internalID: 629772041236186278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz At\u0131klar\u0131 Pixel Sanat Seti-1_7"
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 951
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8e4f08d1b6df3db0800000000000000
+      internalID: -4809889817685963121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz At\u0131klar\u0131 Pixel Sanat Seti-1_8"
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 935
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a06155af18292a60800000000000000
+      internalID: 7649689558448169128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz At\u0131klar\u0131 Pixel Sanat Seti-1_9"
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 929
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98b1e28dbf5550ed0800000000000000
+      internalID: -2448456282253943927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz At\u0131klar\u0131 Pixel Sanat Seti-1_10"
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 928
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f95559364f17c8f0800000000000000
+      internalID: -520412845467936271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz At\u0131klar\u0131 Pixel Sanat Seti-1_11"
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 895
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd06e17a9b9ae0890800000000000000
+      internalID: -7489862515432726305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz At\u0131klar\u0131 Pixel Sanat Seti-1_12"
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 897
+        width: 67
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff87da7074abd0830800000000000000
+      internalID: 4039089255055456511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz At\u0131klar\u0131 Pixel Sanat Seti-1_13"
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 895
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a793c9f2fbf610b0800000000000000
+      internalID: -5758138052555597919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz At\u0131klar\u0131 Pixel Sanat Seti-1_14"
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 894
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8add1561cc95d7640800000000000000
+      internalID: 5079314687826451880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz At\u0131klar\u0131 Pixel Sanat Seti-1_15"
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 838
+        width: 47
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 021b25a01edf72070800000000000000
+      internalID: 8081707199322304800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz At\u0131klar\u0131 Pixel Sanat Seti-1_16"
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 870
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4fb9252ab75d6220800000000000000
+      internalID: 2480735426750037837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz At\u0131klar\u0131 Pixel Sanat Seti-1_17"
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 867
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8906d4d5a74580f0800000000000000
+      internalID: -1115406555138356849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz At\u0131klar\u0131 Pixel Sanat Seti-1_18"
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 831
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26bd728351d5e80a0800000000000000
+      internalID: -6877457235230336158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz At\u0131klar\u0131 Pixel Sanat Seti-1_19"
+      rect:
+        serializedVersion: 2
+        x: 1396
+        y: 853
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9883e781deba52350800000000000000
+      internalID: 5991383914092837001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz At\u0131klar\u0131 Pixel Sanat Seti-1_20"
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 799
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a61461fe34953dde0800000000000000
+      internalID: -1309604918325788310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz At\u0131klar\u0131 Pixel Sanat Seti-1_21"
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 327
+        width: 447
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2c607d4fbe04b680800000000000000
+      internalID: -8740344762018534353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz At\u0131klar\u0131 Pixel Sanat Seti-1_22"
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 814
+        width: 19
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fd2bcf32bd3ee920800000000000000
+      internalID: 3021420235795934709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz At\u0131klar\u0131 Pixel Sanat Seti-1_23"
+      rect:
+        serializedVersion: 2
+        x: 1454
+        y: 771
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27d7dc0e3c3724b00800000000000000
+      internalID: 811338168007490930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz At\u0131klar\u0131 Pixel Sanat Seti-1_24"
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 569
+        width: 22
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 711e01ebb2b06f5a0800000000000000
+      internalID: -6487985930680344297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz At\u0131klar\u0131 Pixel Sanat Seti-1_25"
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 549
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ecde30fb888d38e0800000000000000
+      internalID: -1712062148718437145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz At\u0131klar\u0131 Pixel Sanat Seti-1_26"
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 527
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ffbd57f15dfac2b0800000000000000
+      internalID: -5563355861178531856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz At\u0131klar\u0131 Pixel Sanat Seti-1_27"
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 539
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff43d75a39e34f680800000000000000
+      internalID: -8722277774452247297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz At\u0131klar\u0131 Pixel Sanat Seti-1_28"
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 487
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0765700646cead8a0800000000000000
+      internalID: -6279446814562757008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz At\u0131klar\u0131 Pixel Sanat Seti-1_29"
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 495
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e43325b7d56051670800000000000000
+      internalID: 8508714069557130062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz At\u0131klar\u0131 Pixel Sanat Seti-1_30"
+      rect:
+        serializedVersion: 2
+        x: 1468
+        y: 511
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 754c3d513016c4c40800000000000000
+      internalID: 5497875910991529047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz At\u0131klar\u0131 Pixel Sanat Seti-1_31"
+      rect:
+        serializedVersion: 2
+        x: 1486
+        y: 495
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd5ce1e35f6f3e720800000000000000
+      internalID: 2874412520362132957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz At\u0131klar\u0131 Pixel Sanat Seti-1_32"
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 461
+        width: 9
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adac7ad63d5d02080800000000000000
+      internalID: -9214129733545506086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz At\u0131klar\u0131 Pixel Sanat Seti-1_33"
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 429
+        width: 79
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1283a027978747660800000000000000
+      internalID: 7382658152166733857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz At\u0131klar\u0131 Pixel Sanat Seti-1_34"
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 463
+        width: 9
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a948067e1b43c300800000000000000
+      internalID: 271142996773718438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz At\u0131klar\u0131 Pixel Sanat Seti-1_35"
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 477
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ba7c49e1ee47efb0800000000000000
+      internalID: -4618636160656442702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz At\u0131klar\u0131 Pixel Sanat Seti-1_36"
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 475
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2db4def61eed2430800000000000000
+      internalID: 3759923046456278314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz At\u0131klar\u0131 Pixel Sanat Seti-1_37"
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 479
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c3f7221fe49d3160800000000000000
+      internalID: 7006920349781062594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz At\u0131klar\u0131 Pixel Sanat Seti-1_38"
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 488
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5750a5bf0632df990800000000000000
+      internalID: -7350680117357968011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz At\u0131klar\u0131 Pixel Sanat Seti-1_39"
+      rect:
+        serializedVersion: 2
+        x: 1478
+        y: 479
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1cd3cacbf0881000800000000000000
+      internalID: 6897218368035867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz At\u0131klar\u0131 Pixel Sanat Seti-1_40"
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 446
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e64bf12a4228ce30800000000000000
+      internalID: 4523903527486703334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz At\u0131klar\u0131 Pixel Sanat Seti-1_41"
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 467
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3dae3bbfce70f730800000000000000
+      internalID: 4030861097161370939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz At\u0131klar\u0131 Pixel Sanat Seti-1_42"
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 463
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58b0b4f5adf7b8b60800000000000000
+      internalID: 7749428159699422085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz At\u0131klar\u0131 Pixel Sanat Seti-1_43"
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 463
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 094e0fff801827740800000000000000
+      internalID: 5148319199691596944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz At\u0131klar\u0131 Pixel Sanat Seti-1_44"
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 464
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f97d95d55ef5f7df0800000000000000
+      internalID: -180320021353212001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz At\u0131klar\u0131 Pixel Sanat Seti-1_45"
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 443
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e30921fb974f04340800000000000000
+      internalID: 4846142002784538686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz At\u0131klar\u0131 Pixel Sanat Seti-1_46"
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 447
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9e89c6bcbbfd6e70800000000000000
+      internalID: 9110214409179467422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz At\u0131klar\u0131 Pixel Sanat Seti-1_47"
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 431
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04abb93aea9680cb0800000000000000
+      internalID: -4897548395975296448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz At\u0131klar\u0131 Pixel Sanat Seti-1_48"
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 0
+        width: 559
+        height: 431
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 868454c492b3d8770800000000000000
+      internalID: 8614606710788933736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz At\u0131klar\u0131 Pixel Sanat Seti-1_49"
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 339
+        width: 39
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: affb6cbb065712190800000000000000
+      internalID: -7988975205650874374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz At\u0131klar\u0131 Pixel Sanat Seti-1_50"
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 0
+        width: 477
+        height: 446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51ae8d2c7a9cae2f0800000000000000
+      internalID: -942719449614980587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz At\u0131klar\u0131 Pixel Sanat Seti-1_51"
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 0
+        width: 423
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f407722858bce710800000000000000
+      internalID: 1723955446050915569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz At\u0131klar\u0131 Pixel Sanat Seti-1_52"
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 311
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e984abe2aab4f2f70800000000000000
+      internalID: 9164626961022732446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz At\u0131klar\u0131 Pixel Sanat Seti-1_53"
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 389
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98758096b3f711110800000000000000
+      internalID: 1229904066390808457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz At\u0131klar\u0131 Pixel Sanat Seti-1_54"
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 399
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6213cd43eec57f940800000000000000
+      internalID: 5329830862175088934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz At\u0131klar\u0131 Pixel Sanat Seti-1_55"
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 375
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8a13aa6041369220800000000000000
+      internalID: 2492233596532890254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz At\u0131klar\u0131 Pixel Sanat Seti-1_56"
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 127
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48fd68ddb87a02bf0800000000000000
+      internalID: -351096551776002172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz At\u0131klar\u0131 Pixel Sanat Seti-1_57"
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 70
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c01541421871d850800000000000000
+      internalID: 6400028565269975237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz At\u0131klar\u0131 Pixel Sanat Seti-1_58"
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 31
+        width: 25
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 066f4fb8ca8646450800000000000000
+      internalID: 6081100487148762720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz At\u0131klar\u0131 Pixel Sanat Seti-1_59"
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 33
+        width: 41
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5a37b4de0aa0ab50800000000000000
+      internalID: 6602464034400189019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz At\u0131klar\u0131 Pixel Sanat Seti-1_60"
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 49
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75cb38d8591acce30800000000000000
+      internalID: 4525169389296925783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz At\u0131klar\u0131 Pixel Sanat Seti-1_61"
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 18
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f0d4175d3db7adc0800000000000000
+      internalID: -3627722903672008462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz At\u0131klar\u0131 Pixel Sanat Seti-1_62"
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 0
+        width: 46
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1f47c10f63791100800000000000000
+      internalID: 79221389064097566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz At\u0131klar\u0131 Pixel Sanat Seti-1_63"
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 25
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92623f72b03b6b5b0800000000000000
+      internalID: -5352894246586997207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "Deniz At\u0131klar\u0131 Pixel Sanat Seti-1_0": -5846558405989141244
+      "Deniz At\u0131klar\u0131 Pixel Sanat Seti-1_1": -2102032785925228467
+      "Deniz At\u0131klar\u0131 Pixel Sanat Seti-1_10": -520412845467936271
+      "Deniz At\u0131klar\u0131 Pixel Sanat Seti-1_11": -7489862515432726305
+      "Deniz At\u0131klar\u0131 Pixel Sanat Seti-1_12": 4039089255055456511
+      "Deniz At\u0131klar\u0131 Pixel Sanat Seti-1_13": -5758138052555597919
+      "Deniz At\u0131klar\u0131 Pixel Sanat Seti-1_14": 5079314687826451880
+      "Deniz At\u0131klar\u0131 Pixel Sanat Seti-1_15": 8081707199322304800
+      "Deniz At\u0131klar\u0131 Pixel Sanat Seti-1_16": 2480735426750037837
+      "Deniz At\u0131klar\u0131 Pixel Sanat Seti-1_17": -1115406555138356849
+      "Deniz At\u0131klar\u0131 Pixel Sanat Seti-1_18": -6877457235230336158
+      "Deniz At\u0131klar\u0131 Pixel Sanat Seti-1_19": 5991383914092837001
+      "Deniz At\u0131klar\u0131 Pixel Sanat Seti-1_2": -1216979399683536942
+      "Deniz At\u0131klar\u0131 Pixel Sanat Seti-1_20": -1309604918325788310
+      "Deniz At\u0131klar\u0131 Pixel Sanat Seti-1_21": -8740344762018534353
+      "Deniz At\u0131klar\u0131 Pixel Sanat Seti-1_22": 3021420235795934709
+      "Deniz At\u0131klar\u0131 Pixel Sanat Seti-1_23": 811338168007490930
+      "Deniz At\u0131klar\u0131 Pixel Sanat Seti-1_24": -6487985930680344297
+      "Deniz At\u0131klar\u0131 Pixel Sanat Seti-1_25": -1712062148718437145
+      "Deniz At\u0131klar\u0131 Pixel Sanat Seti-1_26": -5563355861178531856
+      "Deniz At\u0131klar\u0131 Pixel Sanat Seti-1_27": -8722277774452247297
+      "Deniz At\u0131klar\u0131 Pixel Sanat Seti-1_28": -6279446814562757008
+      "Deniz At\u0131klar\u0131 Pixel Sanat Seti-1_29": 8508714069557130062
+      "Deniz At\u0131klar\u0131 Pixel Sanat Seti-1_3": 2771047693947362087
+      "Deniz At\u0131klar\u0131 Pixel Sanat Seti-1_30": 5497875910991529047
+      "Deniz At\u0131klar\u0131 Pixel Sanat Seti-1_31": 2874412520362132957
+      "Deniz At\u0131klar\u0131 Pixel Sanat Seti-1_32": -9214129733545506086
+      "Deniz At\u0131klar\u0131 Pixel Sanat Seti-1_33": 7382658152166733857
+      "Deniz At\u0131klar\u0131 Pixel Sanat Seti-1_34": 271142996773718438
+      "Deniz At\u0131klar\u0131 Pixel Sanat Seti-1_35": -4618636160656442702
+      "Deniz At\u0131klar\u0131 Pixel Sanat Seti-1_36": 3759923046456278314
+      "Deniz At\u0131klar\u0131 Pixel Sanat Seti-1_37": 7006920349781062594
+      "Deniz At\u0131klar\u0131 Pixel Sanat Seti-1_38": -7350680117357968011
+      "Deniz At\u0131klar\u0131 Pixel Sanat Seti-1_39": 6897218368035867
+      "Deniz At\u0131klar\u0131 Pixel Sanat Seti-1_4": -6577789117613310325
+      "Deniz At\u0131klar\u0131 Pixel Sanat Seti-1_40": 4523903527486703334
+      "Deniz At\u0131klar\u0131 Pixel Sanat Seti-1_41": 4030861097161370939
+      "Deniz At\u0131klar\u0131 Pixel Sanat Seti-1_42": 7749428159699422085
+      "Deniz At\u0131klar\u0131 Pixel Sanat Seti-1_43": 5148319199691596944
+      "Deniz At\u0131klar\u0131 Pixel Sanat Seti-1_44": -180320021353212001
+      "Deniz At\u0131klar\u0131 Pixel Sanat Seti-1_45": 4846142002784538686
+      "Deniz At\u0131klar\u0131 Pixel Sanat Seti-1_46": 9110214409179467422
+      "Deniz At\u0131klar\u0131 Pixel Sanat Seti-1_47": -4897548395975296448
+      "Deniz At\u0131klar\u0131 Pixel Sanat Seti-1_48": 8614606710788933736
+      "Deniz At\u0131klar\u0131 Pixel Sanat Seti-1_49": -7988975205650874374
+      "Deniz At\u0131klar\u0131 Pixel Sanat Seti-1_5": 548313508238968279
+      "Deniz At\u0131klar\u0131 Pixel Sanat Seti-1_50": -942719449614980587
+      "Deniz At\u0131klar\u0131 Pixel Sanat Seti-1_51": 1723955446050915569
+      "Deniz At\u0131klar\u0131 Pixel Sanat Seti-1_52": 9164626961022732446
+      "Deniz At\u0131klar\u0131 Pixel Sanat Seti-1_53": 1229904066390808457
+      "Deniz At\u0131klar\u0131 Pixel Sanat Seti-1_54": 5329830862175088934
+      "Deniz At\u0131klar\u0131 Pixel Sanat Seti-1_55": 2492233596532890254
+      "Deniz At\u0131klar\u0131 Pixel Sanat Seti-1_56": -351096551776002172
+      "Deniz At\u0131klar\u0131 Pixel Sanat Seti-1_57": 6400028565269975237
+      "Deniz At\u0131klar\u0131 Pixel Sanat Seti-1_58": 6081100487148762720
+      "Deniz At\u0131klar\u0131 Pixel Sanat Seti-1_59": 6602464034400189019
+      "Deniz At\u0131klar\u0131 Pixel Sanat Seti-1_6": 629772041236186278
+      "Deniz At\u0131klar\u0131 Pixel Sanat Seti-1_60": 4525169389296925783
+      "Deniz At\u0131klar\u0131 Pixel Sanat Seti-1_61": -3627722903672008462
+      "Deniz At\u0131klar\u0131 Pixel Sanat Seti-1_62": 79221389064097566
+      "Deniz At\u0131klar\u0131 Pixel Sanat Seti-1_63": -5352894246586997207
+      "Deniz At\u0131klar\u0131 Pixel Sanat Seti-1_7": -4809889817685963121
+      "Deniz At\u0131klar\u0131 Pixel Sanat Seti-1_8": 7649689558448169128
+      "Deniz At\u0131klar\u0131 Pixel Sanat Seti-1_9": -2448456282253943927
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
