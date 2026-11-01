@@ -3093,6 +3093,10 @@ MonoBehaviour:
   waveStrength: 0.65
   waveSpeed: 0.8
   coverageMargin: 12
+  crestDisplacementPixels: 0
+  crestSpeed: 1.1
+  crestShimmer: 0.14
+  crestFramesPerSecond: 6
 --- !u!95 &1652056168
 Animator:
   serializedVersion: 7
@@ -3726,9 +3730,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::LootMagnet
   uiManager: {fileID: 630805026}
   shipController: {fileID: 1757584476}
-  magnetRadius: 9.36
-  pullSpeed: 8
-  collectDistance: 0.8
+  magnetRadius: 20
+  pullSpeed: 18
+  collectDistance: 2
   defaultXPValue: 1
   defaultEnergyValue: 15
   lootLayer:
