@@ -2,13 +2,15 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using UnityEngine;
+using UnityEngine.Serialization;
 
 namespace Abyss.Story
 {
     [Serializable] public class CannonSection {public float left,right;[NonSerialized] public float nextShot;[NonSerialized] public int shots;}
     public class CannonHazards:MonoBehaviour
     {
-        public UnderwaterThirdChapter chapter;public UnderwaterSceneAudio audio;
+        public UnderwaterThirdChapter chapter;
+        [FormerlySerializedAs("audio")] public UnderwaterSceneAudio audioSource;
         public Sprite ballSprite;public Sprite[] splashFrames,wakeFrames,sedimentFrames;
         public CannonSection[] sections;
         public int maximumActive=10;
@@ -51,9 +53,9 @@ namespace Abyss.Story
             var ball=balls.FirstOrDefault(b=>!b.gameObject.activeSelf);
             if(!ball){var go=new GameObject("Sinking cannonball");go.transform.SetParent(transform,false);ball=go.AddComponent<UnderwaterCannonball>();balls.Add(ball);}
             // Always originate at the real surface, even when it is outside the camera.
-            ball.Launch(this,at,UnityEngine.Random.Range(-.12f,.12f));Effect(splashFrames,new Vector2(x,chapter.story.player.surfaceY),1.4f,.6f,0);audio?.PlayImpact(true);return ball;
+            ball.Launch(this,at,UnityEngine.Random.Range(-.12f,.12f));Effect(splashFrames,new Vector2(x,chapter.story.player.surfaceY),1.4f,.6f,0);audioSource?.PlayImpact(true);return ball;
         }
-        public void Impact(Vector2 at){Effect(sedimentFrames,at,1.6f,.85f,.35f);audio?.PlayImpact(false);}
+        public void Impact(Vector2 at){Effect(sedimentFrames,at,1.6f,.85f,.35f);audioSource?.PlayImpact(false);}
         public void Wake(Vector2 at){Effect(wakeFrames,at+Vector2.up*.25f,.45f,.65f,.9f);}
         void Effect(Sprite[] sprites,Vector2 at,float width,float life,float rise)
         {

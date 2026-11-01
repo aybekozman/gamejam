@@ -3,31 +3,23 @@ using System.Collections;
 
 public class PlayerHealth : MonoBehaviour, IDamageable
 {
+    [Header("Referanslar (Manuel Atama)")]
+    public ShipUIManager uiManager;
+
     [Header("Can Ayarları")]
     public float maxHealth = 100f;
+    public float healthRegen = 0f; // Saniyede yenilenen can miktarı
+    [Range(0f, 80f)] public float damageResistPercent = 0f; // Alınan hasarı yüzde olarak düşürür
     private float currentHealth;
-    public float CurrentHealth => currentHealth;
-    public float MaxHealth => Mathf.Max(1, maxHealth);
-    public bool IsDead => currentHealth <= 0;
-    public event System.Action<float, float> HealthChanged;
-    private float observedMax;
-    void Awake() { observedMax = maxHealth; currentHealth = MaxHealth; }
-    public void Heal(float amount)
-    {
-        if (amount <= 0 || IsDead) return;
-        currentHealth = Mathf.Min(MaxHealth, currentHealth + amount);
-        HealthChanged?.Invoke(currentHealth, MaxHealth);
-    }
-    public void SetMaxHealth(float value, bool healToFull = false)
-    {
-        maxHealth = Mathf.Max(1, value);
-        observedMax = maxHealth;
-        currentHealth = healToFull ? MaxHealth : Mathf.Min(currentHealth, MaxHealth);
-        HealthChanged?.Invoke(currentHealth, MaxHealth);
-    }
-    void Update() { if (!Mathf.Approximately(observedMax,maxHealth)) SetMaxHealth(maxHealth); }
 
-    [Header("Efekt Ayarları")]
+    public float CurrentHealth => currentHealth;
+    public float MaxHealth => Mathf.Max(1f, maxHealth);
+    public bool IsDead => currentHealth <= 0f;
+    public event System.Action<float, float> HealthChanged;
+
+    private float observedMax;
+
+    [Header("Efekt ve Dokunulmazlık (I-Frame) Ayarları")]
     public float flashDuration = 0.1f;
     public int flashCount = 3;
 
@@ -36,9 +28,15 @@ public class PlayerHealth : MonoBehaviour, IDamageable
     private SpriteRenderer[] allSprites;
     private Color[] originalColors;
 
+    void Awake()
+    {
+        observedMax = maxHealth;
+        currentHealth = MaxHealth;
+    }
+
     void Start()
     {
-        HealthChanged?.Invoke(currentHealth, MaxHealth);
+        NotifyHealthChanged();
         allSprites = GetComponentsInChildren<SpriteRenderer>();
         originalColors = new Color[allSprites.Length];
 
@@ -48,17 +46,76 @@ public class PlayerHealth : MonoBehaviour, IDamageable
         }
     }
 
+    void Update()
+    {
+        if (!Mathf.Approximately(observedMax, maxHealth))
+        {
+            SetMaxHealth(maxHealth);
+        }
+
+        // Can yenileme (HealthRegen) mantığı (Max canı geçmez)
+        if (healthRegen > 0f && !IsDead && currentHealth < MaxHealth)
+        {
+            currentHealth = Mathf.Min(MaxHealth, currentHealth + healthRegen * Time.deltaTime);
+            NotifyHealthChanged();
+        }
+    }
+
+    public void Heal(float amount)
+    {
+        if (amount <= 0f || IsDead) return;
+        currentHealth = Mathf.Min(MaxHealth, currentHealth + amount);
+        NotifyHealthChanged();
+    }
+
+    public void SetMaxHealth(float value, bool healToFull = false)
+    {
+        maxHealth = Mathf.Max(1f, value);
+        observedMax = maxHealth;
+        currentHealth = healToFull ? MaxHealth : Mathf.Min(currentHealth, MaxHealth);
+        NotifyHealthChanged();
+    }
+
+    public void IncreaseMaxHealth(float amount)
+    {
+        if (amount <= 0f) return;
+        maxHealth = Mathf.Max(1f, maxHealth + amount);
+        observedMax = maxHealth;
+        currentHealth = Mathf.Min(MaxHealth, currentHealth + amount);
+        NotifyHealthChanged();
+    }
+
+    public void AddIframeDuration(float amount)
+    {
+        if (amount <= 0f) return;
+        int totalSteps = Mathf.Max(1, flashCount * 2);
+        flashDuration += amount / totalSteps;
+    }
+
+    private void NotifyHealthChanged()
+    {
+        HealthChanged?.Invoke(currentHealth, MaxHealth);
+        if (uiManager != null && MaxHealth > 0f)
+        {
+            uiManager.UpdateHealthBar((currentHealth / MaxHealth) * 100f);
+        }
+    }
+
     public void TakeDamage(float damageAmount)
     {
-        if (IsInvulnerable || IsDead || damageAmount <= 0) return;
+        if (IsInvulnerable || IsDead || damageAmount <= 0f) return;
 
-        currentHealth = Mathf.Max(0, currentHealth - damageAmount);
-        HealthChanged?.Invoke(currentHealth, MaxHealth);
+        // Hasar direnci (damageResistPercent) oranında gelen hasarı düşür
+        float resistMultiplier = 1f - (Mathf.Clamp(damageResistPercent, 0f, 80f) / 100f);
+        float finalDamage = damageAmount * resistMultiplier;
+
+        currentHealth = Mathf.Max(0f, currentHealth - finalDamage);
+        NotifyHealthChanged();
         Debug.Log("Gemi hasar aldı! Kalan can: " + currentHealth);
 
         StartCoroutine(DamageFlashRoutine());
 
-        if (currentHealth <= 0)
+        if (currentHealth <= 0f)
         {
             Debug.Log("Oyun Bitti! Gemi Parçalandı.");
             Time.timeScale = 0f;

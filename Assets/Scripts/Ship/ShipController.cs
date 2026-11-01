@@ -24,6 +24,7 @@ public class ShipController : MonoBehaviour
     public float dashSpeed = 24f;
     public float dashDuration = 0.2f;
     public float dashCooldown = 1f;
+    [SerializeField, Min(1)] private int dashCapacity = 3;
 
     [Header("Kamera Zoom (FOV) Ayarları")]
     public CinemachineCamera vcam;
@@ -35,11 +36,25 @@ public class ShipController : MonoBehaviour
     public bool IsDashing { get; private set; }
     public bool HasEnergy => currentEnergy > 0f;
 
+    public int AvailableDashCharges
+    {
+        get
+        {
+            EnsureDashSlots();
+            int ready = 0;
+            for (int i = 0; i < dashRemaining.Length; i++)
+            {
+                if (dashRemaining[i] <= 0f) ready++;
+            }
+            return ready;
+        }
+    }
+
     private Rigidbody2D rb;
     private Vector2 moveInput;
 
     private float dashTimeCounter;
-    private float dashCooldownCounter;
+    private float[] dashRemaining = new float[3];
     private Vector2 dashDirection;
 
     private InputSystem_Actions controls;
@@ -58,12 +73,13 @@ public class ShipController : MonoBehaviour
         rb.linearDamping = 1.5f;
 
         currentEnergy = maxEnergy;
+        EnsureDashSlots();
+
         playerHealth = GetComponent<PlayerHealth>();
         playerLayer = LayerMask.NameToLayer("Player");
         enemyLayer = LayerMask.NameToLayer("Enemy");
 
         controls = new InputSystem_Actions();
-        controls.Player.Sprint.performed += OnSprintPerformed;
     }
 
     void Start()
@@ -71,11 +87,33 @@ public class ShipController : MonoBehaviour
         SyncEnergyUI();
     }
 
-    void OnEnable() => controls.Enable();
+    void OnEnable()
+    {
+        if (controls == null) controls = new InputSystem_Actions();
+        controls.Player.Sprint.performed -= OnSprintPerformed;
+        controls.Player.Sprint.performed += OnSprintPerformed;
+        controls.Enable();
+    }
+
     void OnDisable()
     {
-        controls.Disable();
-        controls.Player.Sprint.performed -= OnSprintPerformed;
+        if (controls != null)
+        {
+            controls.Player.Sprint.performed -= OnSprintPerformed;
+            controls.Disable();
+        }
+
+        IsDashing = false;
+        dashTimeCounter = 0f;
+
+        if (isGhostModeActive)
+        {
+            isGhostModeActive = false;
+            if (playerLayer >= 0 && enemyLayer >= 0)
+            {
+                Physics2D.IgnoreLayerCollision(playerLayer, enemyLayer, false);
+            }
+        }
     }
 
     private void OnSprintPerformed(InputAction.CallbackContext ctx) => Dash();
@@ -101,12 +139,23 @@ public class ShipController : MonoBehaviour
             SyncEnergyUI();
         }
 
-        if (dashCooldownCounter > 0) dashCooldownCounter -= Time.deltaTime;
+        // Dash slotlarının bağımsız dolum sayaçları
+        EnsureDashSlots();
+        if (Time.deltaTime > 0f)
+        {
+            for (int i = 0; i < dashRemaining.Length; i++)
+            {
+                if (dashRemaining[i] > 0f)
+                {
+                    dashRemaining[i] = Mathf.Max(0f, dashRemaining[i] - Time.deltaTime);
+                }
+            }
+        }
 
         if (IsDashing)
         {
             dashTimeCounter -= Time.deltaTime;
-            if (dashTimeCounter <= 0) IsDashing = false;
+            if (dashTimeCounter <= 0f) IsDashing = false;
         }
 
         bool shouldBeGhost = IsDashing || (playerHealth != null && playerHealth.IsInvulnerable);
@@ -114,7 +163,10 @@ public class ShipController : MonoBehaviour
         if (shouldBeGhost != isGhostModeActive)
         {
             isGhostModeActive = shouldBeGhost;
-            Physics2D.IgnoreLayerCollision(playerLayer, enemyLayer, isGhostModeActive);
+            if (playerLayer >= 0 && enemyLayer >= 0)
+            {
+                Physics2D.IgnoreLayerCollision(playerLayer, enemyLayer, isGhostModeActive);
+            }
         }
 
         if (vcam != null)
@@ -182,14 +234,74 @@ public class ShipController : MonoBehaviour
 
     private void Dash()
     {
-        if (currentEnergy <= 0f) return;
+        TryDash(moveInput);
+    }
 
-        if (dashCooldownCounter <= 0 && moveInput.magnitude > 0)
+    public bool TryDash(Vector2 direction)
+    {
+        if (!isActiveAndEnabled || IsDashing || currentEnergy <= 0f || direction.sqrMagnitude <= 0.0001f)
         {
-            IsDashing = true;
-            dashTimeCounter = dashDuration;
-            dashCooldownCounter = dashCooldown;
-            dashDirection = moveInput;
+            return false;
+        }
+
+        EnsureDashSlots();
+        int availableSlot = -1;
+        for (int i = 0; i < dashRemaining.Length; i++)
+        {
+            if (dashRemaining[i] <= 0f)
+            {
+                availableSlot = i;
+                break;
+            }
+        }
+
+        if (availableSlot < 0) return false;
+
+        IsDashing = true;
+        dashTimeCounter = dashDuration;
+        dashRemaining[availableSlot] = Mathf.Max(0.01f, dashCooldown);
+        dashDirection = direction.normalized;
+        return true;
+    }
+
+    public void SetDashCapacity(int capacity)
+    {
+        dashCapacity = Mathf.Max(1, capacity);
+        dashRemaining = new float[dashCapacity];
+    }
+
+    /// <summary>
+    /// Mevcut dash dolum/süre oranını (0 ile 1 arası float) döndürür.
+    /// </summary>
+    public float GetDashProgress()
+    {
+        return GetDashProgress(0);
+    }
+
+    /// <summary>
+    /// Belirtilen dash slotunun dolum oranını (0 ile 1 arası float) döndürür (ShipHUDController uyumu).
+    /// </summary>
+    public float GetDashProgress(int slotIndex)
+    {
+        EnsureDashSlots();
+        if (slotIndex < 0 || slotIndex >= dashRemaining.Length) return 0f;
+        if (dashCooldown <= 0f) return 1f;
+        return Mathf.Clamp01(1f - (dashRemaining[slotIndex] / dashCooldown));
+    }
+
+    public float GetDashRemaining(int slotIndex = 0)
+    {
+        EnsureDashSlots();
+        if (slotIndex < 0 || slotIndex >= dashRemaining.Length) return 0f;
+        return dashRemaining[slotIndex];
+    }
+
+    private void EnsureDashSlots()
+    {
+        int count = Mathf.Max(1, dashCapacity);
+        if (dashRemaining == null || dashRemaining.Length != count)
+        {
+            dashRemaining = new float[count];
         }
     }
 

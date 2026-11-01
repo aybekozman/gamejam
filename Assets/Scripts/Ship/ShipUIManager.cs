@@ -1,7 +1,8 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.InputSystem;
-using UnityEngine.UIElements;
+using UnityEngine.UI;
+using TMPro;
 #if UNITY_EDITOR
 using UnityEditor;
 #endif
@@ -15,8 +16,23 @@ public class ShipUIManager : MonoBehaviour
     public PlayerHealth playerHealth;     // Can upgrade'leri için
     public LootMagnet lootMagnet;         // Mıknatıs upgrade'leri için
 
+    [Header("Canvas (uGUI) Bar Dolgu Görselleri")]
+    public Image healthFill;
+    public Image dashFill;
+    public Image energyFill;
+    public Image xpFill;
+
+    [Header("Canvas (uGUI) Bar Konteynerleri ve Pusula")]
+    public GameObject xpBarContainer;
+    public GameObject energyBarContainer;
+    public RectTransform compass;
+    public TextMeshProUGUI modeText;
+    public Toggle modeToggle;
+
     [Header("Aktif Loot Modu (Taktiksel Toplama)")]
     public bool isLootingXP = true; // true = XP Topla, false = Enerji Topla
+    [Tooltip("Tikliyse sadece aktif modun barı görünür; tiksizse hem XP hem Enerji barı aynı anda açık kalır.")]
+    public bool toggleBarVisibility = true;
 
     [Header("Seviye ve Eksponansiyel XP Ayarları")]
     public int currentLevel = 1;
@@ -29,37 +45,30 @@ public class ShipUIManager : MonoBehaviour
     [Header("60 Kartlık Roguelike Upgrade Havuzu (20 Özellik x 3 Tier)")]
     public List<UpgradeData> upgradePool = new List<UpgradeData>();
 
+    [Header("Canvas (uGUI) Level Up Ekranı Elemanları")]
+    public GameObject levelUpOverlay;
+    public TextMeshProUGUI levelUpTitle;
+    public TextMeshProUGUI levelUpSubtitle;
+    public Button[] cardButtons = new Button[3];
+    public Image[] cardTierBadges = new Image[3];
+    public TextMeshProUGUI[] cardTierTexts = new TextMeshProUGUI[3];
+    public Image[] cardIcons = new Image[3];
+    public TextMeshProUGUI[] cardTitles = new TextMeshProUGUI[3];
+    public TextMeshProUGUI[] cardDescs = new TextMeshProUGUI[3];
+
     [Header("Dash Ayarları")]
     public float dashRegenRate = 20f;
     public float dashCostMultiplier = 1f;
     private float currentDash = 100f;
     private bool isDashing = false;
 
-    // Arayüz Elemanları (HUD)
-    private VisualElement healthFill;
-    private VisualElement dashFill;
-    private VisualElement energyFill;
-    private VisualElement xpFill;
-
-    private VisualElement xpBarContainer;
-    private VisualElement energyBarContainer;
-
-    private VisualElement compass;
-    private Toggle modeToggle;
-
-    // Level Up Arayüz Elemanları
-    private VisualElement levelUpOverlay;
-    private Label levelUpTitle;
-    private Label levelUpSubtitle;
-    private readonly VisualElement[] cardElements = new VisualElement[3];
-    private readonly VisualElement[] cardTierBadges = new VisualElement[3];
-    private readonly Label[] cardTierTexts = new Label[3];
-    private readonly VisualElement[] cardIcons = new VisualElement[3];
-    private readonly Label[] cardTitles = new Label[3];
-    private readonly Label[] cardDescs = new Label[3];
-
     // O an ekranda gösterilen 3 kartın verisi
     private readonly UpgradeData[] currentOfferedUpgrades = new UpgradeData[3];
+
+    // Tier rozet renkleri
+    private static readonly Color Tier1BadgeColor = new Color(0.43f, 0.25f, 0.14f, 1f);
+    private static readonly Color Tier2BadgeColor = new Color(0.04f, 0.23f, 0.29f, 1f);
+    private static readonly Color Tier3BadgeColor = new Color(0.23f, 0.04f, 0.30f, 1f);
 
     void Awake()
     {
@@ -75,60 +84,32 @@ public class ShipUIManager : MonoBehaviour
 
     void OnEnable()
     {
-        var root = GetComponent<UIDocument>().rootVisualElement;
-
-        // UXML'deki isimlere (name="") göre dolgu elemanlarını bul
-        healthFill = root.Q<VisualElement>("HealthFill");
-        dashFill = root.Q<VisualElement>("DashFill");
-        energyFill = root.Q<VisualElement>("EnergyFill");
-        xpFill = root.Q<VisualElement>("XPFill");
-
-        // XP ve Enerji ana çerçeveleri (Her ikisi de her zaman görünür kalır)
-        xpBarContainer = root.Q<VisualElement>("XPBarContainer");
-        energyBarContainer = root.Q<VisualElement>("EnergyBarContainer");
-
-        if (xpBarContainer != null) xpBarContainer.style.display = DisplayStyle.Flex;
-        if (energyBarContainer != null) energyBarContainer.style.display = DisplayStyle.Flex;
-
-        compass = root.Q<VisualElement>("Compass");
-        modeToggle = root.Q<Toggle>("ModeToggle");
-
-        // Level Up Ekranı Elemanlarını Bul
-        levelUpOverlay = root.Q<VisualElement>("LevelUpOverlay");
-        levelUpTitle = root.Q<Label>("LevelUpTitle");
-        levelUpSubtitle = root.Q<Label>("LevelUpSubtitle");
-
-        for (int i = 0; i < 3; i++)
+        // Kart butonlarının tıklama olaylarını bağla
+        if (cardButtons != null)
         {
-            int cardIndex = i;
-            cardElements[i] = root.Q<VisualElement>($"Card{i}");
-            cardTierBadges[i] = root.Q<VisualElement>($"CardTierBadge{i}");
-            cardTierTexts[i] = root.Q<Label>($"CardTierText{i}");
-            cardIcons[i] = root.Q<VisualElement>($"CardIcon{i}");
-            cardTitles[i] = root.Q<Label>($"CardTitle{i}");
-            cardDescs[i] = root.Q<Label>($"CardDesc{i}");
-
-            if (cardElements[i] != null)
+            for (int i = 0; i < cardButtons.Length && i < 3; i++)
             {
-                cardElements[i].RegisterCallback<ClickEvent>(evt => OnCardClicked(cardIndex));
+                int cardIndex = i;
+                if (cardButtons[i] != null)
+                {
+                    cardButtons[i].onClick.RemoveAllListeners();
+                    cardButtons[i].onClick.AddListener(() => OnCardClicked(cardIndex));
+                }
             }
         }
 
-        // Toggle Mantığı: Fareyle tıklandığında da aktif loot modunu değiştirsin
+        // uGUI Toggle atanmışsa dinleyici ekle
         if (modeToggle != null)
         {
-            modeToggle.RegisterValueChangedCallback(evt =>
-            {
-                isLootingXP = evt.newValue;
-                UpdateLootModeUI();
-            });
-
-            UpdateLootModeUI();
+            modeToggle.onValueChanged.RemoveListener(OnModeToggleChanged);
+            modeToggle.onValueChanged.AddListener(OnModeToggleChanged);
         }
+
+        UpdateLootModeUI();
 
         if (levelUpOverlay != null)
         {
-            levelUpOverlay.style.display = DisplayStyle.None;
+            levelUpOverlay.gameObject.SetActive(false);
         }
 
         // Başlangıç bar değerlerini ayarla
@@ -136,6 +117,20 @@ public class ShipUIManager : MonoBehaviour
         UpdateBar(dashFill, 100f);
         UpdateBar(energyFill, 100f);
         UpdateXPBarUI();
+    }
+
+    void OnDisable()
+    {
+        if (modeToggle != null)
+        {
+            modeToggle.onValueChanged.RemoveListener(OnModeToggleChanged);
+        }
+    }
+
+    private void OnModeToggleChanged(bool newValue)
+    {
+        isLootingXP = newValue;
+        UpdateLootModeUI();
     }
 
     void Update()
@@ -149,7 +144,7 @@ public class ShipUIManager : MonoBehaviour
         // 1. Pusula: Geminin Z rotasyonunu pusulaya aktar
         if (shipTransform != null && compass != null)
         {
-            compass.style.rotate = new StyleRotate(new Rotate(new Angle(-shipTransform.eulerAngles.z, AngleUnit.Degree)));
+            compass.localRotation = Quaternion.Euler(0f, 0f, -shipTransform.eulerAngles.z);
         }
 
         // 2. Dash Bar Yenilenmesi
@@ -170,8 +165,24 @@ public class ShipUIManager : MonoBehaviour
     {
         if (modeToggle != null)
         {
-            modeToggle.SetValueWithoutNotify(isLootingXP);
-            modeToggle.label = isLootingXP ? "Toplanan: XP" : "Toplanan: ENERJİ";
+            modeToggle.SetIsOnWithoutNotify(isLootingXP);
+        }
+
+        if (modeText != null)
+        {
+            modeText.text = isLootingXP ? "Toplanan: XP" : "Toplanan: ENERJİ";
+        }
+
+        // Bar konteynerlerinin görünürlüğünü gameObject.SetActive ile yönet
+        if (toggleBarVisibility)
+        {
+            if (xpBarContainer != null) xpBarContainer.gameObject.SetActive(isLootingXP);
+            if (energyBarContainer != null) energyBarContainer.gameObject.SetActive(!isLootingXP);
+        }
+        else
+        {
+            if (xpBarContainer != null) xpBarContainer.gameObject.SetActive(true);
+            if (energyBarContainer != null) energyBarContainer.gameObject.SetActive(true);
         }
     }
 
@@ -313,49 +324,59 @@ public class ShipUIManager : MonoBehaviour
                 UpgradeData data = selectedUpgrades[i];
                 currentOfferedUpgrades[i] = data;
 
-                if (cardElements[i] != null)
+                if (cardButtons != null && i < cardButtons.Length && cardButtons[i] != null)
                 {
-                    cardElements[i].style.display = DisplayStyle.Flex;
-                    ApplyTierClasses(cardElements[i], data.tier);
+                    cardButtons[i].gameObject.SetActive(true);
                 }
 
-                if (cardTierBadges[i] != null)
+                if (cardTierBadges != null && i < cardTierBadges.Length && cardTierBadges[i] != null)
                 {
-                    ApplyTierClasses(cardTierBadges[i], data.tier);
+                    cardTierBadges[i].color = GetTierBadgeColor(data.tier);
                 }
 
-                if (cardTierTexts[i] != null)
+                if (cardTierTexts != null && i < cardTierTexts.Length && cardTierTexts[i] != null)
                 {
                     cardTierTexts[i].text = GetTierLabel(data.tier);
                 }
 
-                if (cardTitles[i] != null) cardTitles[i].text = data.upgradeName;
-                if (cardDescs[i] != null) cardDescs[i].text = data.description;
-
-                if (cardIcons[i] != null)
+                if (cardTitles != null && i < cardTitles.Length && cardTitles[i] != null)
                 {
-                    if (data.icon != null)
-                        cardIcons[i].style.backgroundImage = new StyleBackground(data.icon);
-                    else
-                        cardIcons[i].style.backgroundImage = StyleKeyword.None;
+                    cardTitles[i].text = data.upgradeName;
+                }
+
+                if (cardDescs != null && i < cardDescs.Length && cardDescs[i] != null)
+                {
+                    cardDescs[i].text = data.description;
+                }
+
+                if (cardIcons != null && i < cardIcons.Length && cardIcons[i] != null)
+                {
+                    cardIcons[i].sprite = data.icon;
+                    cardIcons[i].gameObject.SetActive(data.icon != null);
                 }
             }
             else
             {
                 currentOfferedUpgrades[i] = null;
-                if (cardElements[i] != null) cardElements[i].style.display = DisplayStyle.None;
+                if (cardButtons != null && i < cardButtons.Length && cardButtons[i] != null)
+                {
+                    cardButtons[i].gameObject.SetActive(false);
+                }
             }
         }
 
-        levelUpOverlay.style.display = DisplayStyle.Flex;
+        levelUpOverlay.gameObject.SetActive(true);
     }
 
-    private void ApplyTierClasses(VisualElement element, int tier)
+    private Color GetTierBadgeColor(int tier)
     {
-        element.RemoveFromClassList("tier-1");
-        element.RemoveFromClassList("tier-2");
-        element.RemoveFromClassList("tier-3");
-        element.AddToClassList($"tier-{Mathf.Clamp(tier, 1, 3)}");
+        switch (tier)
+        {
+            case 1: return Tier1BadgeColor;
+            case 2: return Tier2BadgeColor;
+            case 3: return Tier3BadgeColor;
+            default: return Tier1BadgeColor;
+        }
     }
 
     private string GetTierLabel(int tier)
@@ -380,7 +401,7 @@ public class ShipUIManager : MonoBehaviour
         }
     }
 
-    private void OnCardClicked(int cardIndex)
+    public void OnCardClicked(int cardIndex)
     {
         if (cardIndex < 0 || cardIndex >= currentOfferedUpgrades.Length) return;
 
@@ -392,7 +413,7 @@ public class ShipUIManager : MonoBehaviour
 
         if (levelUpOverlay != null)
         {
-            levelUpOverlay.style.display = DisplayStyle.None;
+            levelUpOverlay.gameObject.SetActive(false);
         }
 
         Time.timeScale = 1f;
@@ -578,13 +599,13 @@ public class ShipUIManager : MonoBehaviour
     }
 #endif
 
-    // Barların genişliğini (Can, XP, Enerji) dışarıdan değiştirmek için kullanacağımız ana metot
-    public void UpdateBar(VisualElement fillElement, float percentage)
+    // Barların doluluk oranını (Can, XP, Enerji, Dash) Canvas Image.fillAmount üzerinden değiştiren ana metot
+    public void UpdateBar(Image fillImage, float percentage)
     {
-        if (fillElement != null)
+        if (fillImage != null)
         {
-            percentage = Mathf.Clamp(percentage, 0, 100);
-            fillElement.style.width = new Length(percentage, LengthUnit.Percent);
+            percentage = Mathf.Clamp(percentage, 0f, 100f);
+            fillImage.fillAmount = percentage / 100f;
         }
     }
 
