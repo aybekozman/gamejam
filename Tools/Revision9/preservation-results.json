@@ -1,0 +1,25 @@
+{
+  "result": "PASS world and user House preserved; only requested corpse rotations changed",
+  "existingColliderBlocksUnchanged": 121,
+  "authorizedCorpseRotationCorrection": [
+    [
+      "Inspectable body 3",
+      "m_LocalRotation"
+    ],
+    [
+      "Inspectable body 2",
+      "m_LocalRotation"
+    ],
+    [
+      "Inspectable body 1",
+      "m_LocalRotation"
+    ]
+  ],
+  "shipAndInputFilesUnchanged": [
+    "Assets/Scenes/ShipScene.unity",
+    "Assets/Scripts/Ship",
+    "Assets/InputSystem_Actions.inputactions",
+    "Packages/manifest.json",
+    "ProjectSettings/ProjectSettings.asset"
+  ]
+}

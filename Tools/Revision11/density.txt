@@ -1,0 +1,1 @@
+Max 10 active; normal shots 0.65s; tutorial 1s; 7-unit lanes; every 3 shots a two-ball salvo with 1.4s pause. Speed/player movement and safe columns unchanged.

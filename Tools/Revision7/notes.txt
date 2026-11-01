@@ -1,0 +1,6 @@
+Bu revizyonda yalnız istenen yüzüş/görsel ayarları değiştirildi:
+- Hikâye balığının yükselme hızı: 1.1 → 1.8 dünya birimi/sn (yaklaşık %64 hızlı).
+- Üç yüzey balığı: flipY ile karın yukarı; dönüşler -12/+12/-12 derece ve hafif salınım.
+- Başkan: oyuncunun mevcut tilt=58 ve pitchResponse=9 değerleriyle hareket yönüne yumuşak dönüş.
+- Kullanıcının House adını verdiği ev, konumu ve colliderı korunur. Gelecekteki hedef ShipScene; sahne geçişi ve E etkileşimi bu revizyonda eklenmedi.
+Play Mode: 8 kontrol geçti. Mevcut collider ve dünya transform kontrolü geçti (yalnız istenen üç ölü balık dönüşü değişti). ShipScene, FishScene ve Build Settings değişmedi.

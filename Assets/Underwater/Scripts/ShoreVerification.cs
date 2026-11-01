@@ -16,13 +16,14 @@ namespace Abyss
         void Check(bool condition,string label)=>results.Add((condition?"PASS ":"FAIL ")+label);
         void Capture(string name,Vector3? position=null)
         {
+            var canvases=FindObjectsByType<Canvas>(FindObjectsSortMode.None).Where(c=>c.enabled).ToArray();foreach(var canvas in canvases)canvas.enabled=false;
             var camera=Camera.main;var savedPosition=camera.transform.position;if(position.HasValue)camera.transform.position=position.Value;
             var rt=RenderTexture.GetTemporary(1280,720,24);var old=camera.targetTexture;var active=RenderTexture.active;camera.targetTexture=rt;camera.Render();RenderTexture.active=rt;
-            var texture=new Texture2D(1280,720,TextureFormat.RGB24,false);texture.ReadPixels(new Rect(0,0,1280,720),0,0);texture.Apply();File.WriteAllBytes("Tools/Revision4/"+name+".png",texture.EncodeToPNG());Destroy(texture);camera.targetTexture=old;RenderTexture.active=active;RenderTexture.ReleaseTemporary(rt);camera.transform.position=savedPosition;
+            var texture=new Texture2D(1280,720,TextureFormat.RGB24,false);texture.ReadPixels(new Rect(0,0,1280,720),0,0);texture.Apply();File.WriteAllBytes("Tools/Revision6/"+name+".png",texture.EncodeToPNG());Destroy(texture);camera.targetTexture=old;RenderTexture.active=active;RenderTexture.ReleaseTemporary(rt);camera.transform.position=savedPosition;foreach(var canvas in canvases)canvas.enabled=true;
         }
         IEnumerator Start()
         {
-            Application.runInBackground=true;Time.timeScale=1;Directory.CreateDirectory("Tools/Revision4");yield return new WaitForSeconds(2);
+            Application.runInBackground=true;Time.timeScale=1;Directory.CreateDirectory("Tools/Revision6");yield return new WaitForSeconds(2);
             var shore=FindFirstObjectByType<ShorelineProfile>();var pilot=FindFirstObjectByType<FishPilot>();var body=pilot.GetComponent<Rigidbody2D>();var start=body.position;
             var collider=shore.GetComponentsInChildren<PolygonCollider2D>().Single(c=>c.name.StartsWith("Continuous shore"));
             Check(shore&&collider,"Continuous shore profile and solid slope present");
@@ -52,7 +53,7 @@ namespace Abyss
             Check(body.position.x>-310&&body.position.x<-304&&body.position.y<11.85f,"Fish stops naturally where shallow water closes at shore");
             Check(rocks.Select((r,i)=>Vector3.Distance(r.transform.localPosition,positions[i])<.001f).All(v=>v),"Background rock feet stay attached during camera movement");
             pilot.testInput=Vector2.zero;body.position=new Vector2(20,-23);body.linearVelocity=Vector2.zero;yield return new WaitForSeconds(1);Capture("deep-grounding");
-            pilot.testInput=null;body.position=start;body.linearVelocity=Vector2.zero;Check(errors==0,"No runtime errors during shore verification");File.WriteAllLines("Tools/Revision4/playmode-results.txt",results);Debug.Log(string.Join("\n",results));
+            pilot.testInput=null;body.position=start;body.linearVelocity=Vector2.zero;Check(errors==0,"No runtime errors during shore verification");File.WriteAllLines("Tools/Revision6/shore-playmode-results.txt",results);Debug.Log(string.Join("\n",results));
         }
     }
 }

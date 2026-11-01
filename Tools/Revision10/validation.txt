@@ -1,0 +1,11 @@
+Current verification (Editor Play Mode):
+playmode-results.txt: 67 PASS / 0 FAIL
+first-chapter-regression.txt: 58 PASS / 0 FAIL
+second-chapter-regression.txt: 87 PASS / 0 FAIL
+Third chapter tested at timeScale=1 with actual Input System WASD/E states and unchanged speed=6; no testInput movement override was used for the route.
+Final road/NPC heights allow the grounded warning sign to remain visible. Live route swimming: 54.3s + 3.1s + 6.9s, zero route hits. Isolated swept-hit/floor-collision and death/respawn scenarios also executed.
+Narrow/normal/wide camera aspect marker bounds, actual leader target, 14 dialogue lines, both portraits, opening/advance E, safe areas, audio loop boundary/source counts, all three rally positions and one-shot ending passed.
+Second-chapter regression includes two additional third-chapter handoff checks: scientists remain in town and completed chapters/free control persist.
+All 554 pre-existing transforms and 127 collider definitions preserved. ShipScene, FishScene, Input asset and global settings match start-of-task hashes.
+Ambience/bubble audio waveform levels analyzed in Unity; loop crossfade exercised. No subjective listening test claimed. Splash/impact recordings are absent; assignable fields left empty.
+Standalone build not run. Earlier diagnostic reports describe intermediate revisions; the three current result files above are final.

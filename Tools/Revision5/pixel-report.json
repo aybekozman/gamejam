@@ -4,7 +4,7 @@
     0.04680851101875305,
     0.03846153989434242
   ],
-  "resampling": "none; pixels copied directly from existing floor",
+  "resampling": "none; original surface edge with shaded, subdued non-repeating stone interior",
   "chunks": 14,
   "joinHeight": -31.801538467407227
 }

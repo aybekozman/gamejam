@@ -36,6 +36,8 @@ Köyün solunda taban yaklaşık X=-232’den başlayarak kademeli yükselir ve 
 Evler, oyuncunun köydeki başlangıcı ve mevcut collider tanımları korunur. Son işlem öncesi yedek: `Tools/Revision4/user-layout-before.unity`. Kıyı ve taban kontrolleri ile ekran görüntüleri aynı klasördedir. Araç: `Underwater > Add gradual western shore and grounded seabed`; ikinci çalıştırmada sahneyi çoğaltmaz.
 ## Mevcut zeminle aynı sprite kıyısı
 
-Sığlaşan bölümde MeshRenderer veya esnetilmiş panorama dolgusu kullanılmaz. Kıyı, mevcut `ground_0_0` sprite’ının piksellerinden oluşturulan 14 SpriteRenderer parçasıdır. Her parça mevcut zeminin aynı PPU, X/Y ölçeği, Point filtresi ve taş renklerini kullanır; görüntü yeniden örneklenmez. Taş dokusu dikeyde uzatılmadan tekrarlanır. Son parçalar mevcut zeminin arkasına bindirilir ve birleşim yüksekliği görünür zemin piksellerine hizalanır.
+Sığlaşan bölümde MeshRenderer veya esnetilmiş panorama dolgusu kullanılmaz. Kıyı, mevcut `ground_0_0` sprite’ının piksellerinden oluşturulan 14 SpriteRenderer parçasıdır. Her parça mevcut zeminin aynı PPU, X/Y ölçeği, Point filtresi ve taş renklerini kullanır; görüntü yeniden örneklenmez. Üst kenar ve taş şeritleri iç dolguda tekrarlanmaz; koyu taş paletinden düşük kontrastlı piksel malzemesi kullanılır. Son parçalar mevcut zeminin arkasına bindirilir ve birleşim yüksekliği görünür zemin piksellerine hizalanır.
 
 İskele, kıyının ana eğimi, köy, kamera başlangıcı ve diğer collider’lar korunur. Yalnız oluşturulan kıyı collider’ının eski zeminle birleşen son yüksekliği düzeltilmiştir. Yedek ve piksel ölçeği raporu: `Tools/Revision5`. Sprite üretim betiği: `Tools/prepare_sprite_shore.py` (sahne konfigürasyonu `config.json`, yerleşim `manifest.json`).
+
+İlk günün su altı keşif hikâyesi ve E ile etkileşimler için `Assets/Underwater/Story/README.md` dosyasına bakın.

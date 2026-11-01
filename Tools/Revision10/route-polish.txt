@@ -1,0 +1,1 @@
+Only new chapter road/NPC heights adjusted for ground sign visibility. Road=(-162.27, -26.95); leader=(216.00, -25.00). Existing world and camera unchanged.

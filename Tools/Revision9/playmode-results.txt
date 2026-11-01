@@ -1,0 +1,87 @@
+PASS Home entry cannot skip unfinished first chapter
+PASS Clear player route to (-198.34, 10.05)
+PASS Actual player swim reaches (-198.34, 10.05)
+PASS Source corpse retains pose without extra 180-degree inversion
+PASS Source corpse retains pose without extra 180-degree inversion
+PASS Source corpse retains pose without extra 180-degree inversion
+PASS Clear player route to (-188.56, -25.73)
+PASS Actual player swim reaches (-188.56, -25.73)
+PASS Development skip disabled invokes exactly one connection event, no scene loading or lock
+PASS Clear player route to (-188.56, -25.73)
+PASS Actual player swim reaches (-188.56, -25.73)
+PASS Real E at home begins fade and preparation
+PASS Same-scene entry preserves chapter-one completion and starts chapter two
+PASS Chapter-two arrival is safely in front of House
+PASS Controls restored, old escort stopped, existing mayor reused
+PASS Selected lower reef fish used as two scientists
+PASS Exactly two scientists and four citizens, no duplicate NPCs
+PASS All meeting actors stand clear of original buildings and terrain
+PASS Meeting actors have separate resting positions
+PASS Dialogue drains safely
+PASS Repeated home entry/start cannot duplicate or restart chapter
+PASS Clear player route to (-162.27, -22.95)
+PASS Actual player swim reaches (-162.27, -22.95)
+PASS Exit point and interaction at distance cannot bypass announcement
+PASS Clear player route to (-207.15, -24.20)
+PASS Actual player swim reaches (-207.15, -24.20)
+PASS Opening E starts first sentence without skipping it
+PASS Sentence 1: correct text, speaker and portrait
+PASS First E completes sentence 1
+PASS Sentence 2: correct text, speaker and portrait
+PASS First E completes sentence 2
+PASS Sentence 3: correct text, speaker and portrait
+PASS First E completes sentence 3
+PASS Sentence 4: correct text, speaker and portrait
+PASS First E completes sentence 4
+PASS Sentence 5: correct text, speaker and portrait
+PASS First E completes sentence 5
+PASS Sentence 6: correct text, speaker and portrait
+PASS First E completes sentence 6
+PASS Sentence 7: correct text, speaker and portrait
+PASS First E completes sentence 7
+PASS Sentence 8: correct text, speaker and portrait
+PASS First E completes sentence 8
+PASS Sentence 9: correct text, speaker and portrait
+PASS First E completes sentence 9
+PASS Sentence 10: correct text, speaker and portrait
+PASS First E completes sentence 10
+PASS Sentence 11: correct text, speaker and portrait
+PASS First E completes sentence 11
+PASS Sentence 12: correct text, speaker and portrait
+PASS First E completes sentence 12
+PASS Sentence 13: correct text, speaker and portrait
+PASS First E completes sentence 13
+PASS Sentence 14: correct text, speaker and portrait
+PASS First E completes sentence 14
+PASS Sentence 15: correct text, speaker and portrait
+PASS First E completes sentence 15
+PASS Sentence 16: correct text, speaker and portrait
+PASS First E completes sentence 16
+PASS Sentence 17: correct text, speaker and portrait
+PASS First E completes sentence 17
+PASS Sentence 18: correct text, speaker and portrait
+PASS First E completes sentence 18
+PASS Sentence 19: correct text, speaker and portrait
+PASS First E completes sentence 19
+PASS Sentence 20: correct text, speaker and portrait
+PASS First E completes sentence 20
+PASS Sentence 21: correct text, speaker and portrait
+PASS First E completes sentence 21
+PASS Announcement releases controls and enables travel objective only once
+PASS Requested travel objective is displayed
+PASS Citizen departures start in staggered small groups
+PASS Mayor and scientists remain at the meeting
+PASS Dialogue drains safely
+PASS Departing fish reach surface on obstacle-free physical routes
+PASS Some citizens remain in the town
+PASS Clear player route to (-162.27, -22.95)
+PASS Actual player swim reaches (-162.27, -22.95)
+PASS Exit after announcement completes chapter once and keeps controls free
+PASS Short chapter completion message appears
+PASS Active objective clears after completion
+PASS Repeated entry and interaction cannot replay completed chapter
+PASS Free swimming remains available after completion
+PASS No scene transition, combat or runtime errors
+PASS Developer direct entry resets and reuses actors
+PASS Chapter-three handoff preserves scientists already waiting in town
+PASS Second-to-third handoff keeps completed chapters and free controls without errors

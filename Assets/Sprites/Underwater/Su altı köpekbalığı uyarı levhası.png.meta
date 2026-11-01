@@ -1,0 +1,1170 @@
+fileFormatVersion: 2
+guid: 617294c18f637ee45a334f8377480e2a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3960675614783289948
+    second: "Su alt\u0131 k\xF6pekbal\u0131\u011F\u0131 uyar\u0131 levhas\u0131_0"
+  - first:
+      213: 3879385307444970412
+    second: "Su alt\u0131 k\xF6pekbal\u0131\u011F\u0131 uyar\u0131 levhas\u0131_1"
+  - first:
+      213: 2656528313488988094
+    second: "Su alt\u0131 k\xF6pekbal\u0131\u011F\u0131 uyar\u0131 levhas\u0131_2"
+  - first:
+      213: -2579845321572912491
+    second: "Su alt\u0131 k\xF6pekbal\u0131\u011F\u0131 uyar\u0131 levhas\u0131_3"
+  - first:
+      213: -1113428917341032114
+    second: "Su alt\u0131 k\xF6pekbal\u0131\u011F\u0131 uyar\u0131 levhas\u0131_4"
+  - first:
+      213: 2806266412778300527
+    second: "Su alt\u0131 k\xF6pekbal\u0131\u011F\u0131 uyar\u0131 levhas\u0131_5"
+  - first:
+      213: -404451176513953881
+    second: "Su alt\u0131 k\xF6pekbal\u0131\u011F\u0131 uyar\u0131 levhas\u0131_6"
+  - first:
+      213: 6815669184802682113
+    second: "Su alt\u0131 k\xF6pekbal\u0131\u011F\u0131 uyar\u0131 levhas\u0131_7"
+  - first:
+      213: -1392925179356631012
+    second: "Su alt\u0131 k\xF6pekbal\u0131\u011F\u0131 uyar\u0131 levhas\u0131_8"
+  - first:
+      213: -7090813467793334871
+    second: "Su alt\u0131 k\xF6pekbal\u0131\u011F\u0131 uyar\u0131 levhas\u0131_9"
+  - first:
+      213: 4930096250936877600
+    second: "Su alt\u0131 k\xF6pekbal\u0131\u011F\u0131 uyar\u0131 levhas\u0131_10"
+  - first:
+      213: 8852376711274319435
+    second: "Su alt\u0131 k\xF6pekbal\u0131\u011F\u0131 uyar\u0131 levhas\u0131_11"
+  - first:
+      213: -1129606494239439848
+    second: "Su alt\u0131 k\xF6pekbal\u0131\u011F\u0131 uyar\u0131 levhas\u0131_12"
+  - first:
+      213: -5243842998687293767
+    second: "Su alt\u0131 k\xF6pekbal\u0131\u011F\u0131 uyar\u0131 levhas\u0131_13"
+  - first:
+      213: 634309680462075532
+    second: "Su alt\u0131 k\xF6pekbal\u0131\u011F\u0131 uyar\u0131 levhas\u0131_14"
+  - first:
+      213: 2876855273954882931
+    second: "Su alt\u0131 k\xF6pekbal\u0131\u011F\u0131 uyar\u0131 levhas\u0131_15"
+  - first:
+      213: 1166811682631366248
+    second: "Su alt\u0131 k\xF6pekbal\u0131\u011F\u0131 uyar\u0131 levhas\u0131_16"
+  - first:
+      213: -8427339751046361669
+    second: "Su alt\u0131 k\xF6pekbal\u0131\u011F\u0131 uyar\u0131 levhas\u0131_17"
+  - first:
+      213: -3330127521540664625
+    second: "Su alt\u0131 k\xF6pekbal\u0131\u011F\u0131 uyar\u0131 levhas\u0131_18"
+  - first:
+      213: 2295289743136161189
+    second: "Su alt\u0131 k\xF6pekbal\u0131\u011F\u0131 uyar\u0131 levhas\u0131_19"
+  - first:
+      213: 7744552694558422145
+    second: "Su alt\u0131 k\xF6pekbal\u0131\u011F\u0131 uyar\u0131 levhas\u0131_20"
+  - first:
+      213: 4886261398109069441
+    second: "Su alt\u0131 k\xF6pekbal\u0131\u011F\u0131 uyar\u0131 levhas\u0131_21"
+  - first:
+      213: 2678479224838958731
+    second: "Su alt\u0131 k\xF6pekbal\u0131\u011F\u0131 uyar\u0131 levhas\u0131_22"
+  - first:
+      213: 8579869032739789808
+    second: "Su alt\u0131 k\xF6pekbal\u0131\u011F\u0131 uyar\u0131 levhas\u0131_23"
+  - first:
+      213: 7947815436468971501
+    second: "Su alt\u0131 k\xF6pekbal\u0131\u011F\u0131 uyar\u0131 levhas\u0131_24"
+  - first:
+      213: 1107973642466499499
+    second: "Su alt\u0131 k\xF6pekbal\u0131\u011F\u0131 uyar\u0131 levhas\u0131_25"
+  - first:
+      213: -8541385029739790929
+    second: "Su alt\u0131 k\xF6pekbal\u0131\u011F\u0131 uyar\u0131 levhas\u0131_26"
+  - first:
+      213: -3011598170262938545
+    second: "Su alt\u0131 k\xF6pekbal\u0131\u011F\u0131 uyar\u0131 levhas\u0131_27"
+  - first:
+      213: -2061205297318458678
+    second: "Su alt\u0131 k\xF6pekbal\u0131\u011F\u0131 uyar\u0131 levhas\u0131_28"
+  - first:
+      213: 6827370409054986337
+    second: "Su alt\u0131 k\xF6pekbal\u0131\u011F\u0131 uyar\u0131 levhas\u0131_29"
+  - first:
+      213: 5417690834309487266
+    second: "Su alt\u0131 k\xF6pekbal\u0131\u011F\u0131 uyar\u0131 levhas\u0131_30"
+  - first:
+      213: -7961262840426260353
+    second: "Su alt\u0131 k\xF6pekbal\u0131\u011F\u0131 uyar\u0131 levhas\u0131_31"
+  - first:
+      213: -2890945686183515149
+    second: "Su alt\u0131 k\xF6pekbal\u0131\u011F\u0131 uyar\u0131 levhas\u0131_32"
+  - first:
+      213: 7916565305500904447
+    second: "Su alt\u0131 k\xF6pekbal\u0131\u011F\u0131 uyar\u0131 levhas\u0131_33"
+  - first:
+      213: 2597667852640850979
+    second: "Su alt\u0131 k\xF6pekbal\u0131\u011F\u0131 uyar\u0131 levhas\u0131_34"
+  - first:
+      213: -7439754827766383299
+    second: "Su alt\u0131 k\xF6pekbal\u0131\u011F\u0131 uyar\u0131 levhas\u0131_35"
+  - first:
+      213: -6066518703561913935
+    second: "Su alt\u0131 k\xF6pekbal\u0131\u011F\u0131 uyar\u0131 levhas\u0131_36"
+  - first:
+      213: -7629828426306555915
+    second: "Su alt\u0131 k\xF6pekbal\u0131\u011F\u0131 uyar\u0131 levhas\u0131_37"
+  - first:
+      213: -4653909418095021657
+    second: "Su alt\u0131 k\xF6pekbal\u0131\u011F\u0131 uyar\u0131 levhas\u0131_38"
+  - first:
+      213: -7793347558922482422
+    second: "Su alt\u0131 k\xF6pekbal\u0131\u011F\u0131 uyar\u0131 levhas\u0131_39"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Su alt\u0131 k\xF6pekbal\u0131\u011F\u0131 uyar\u0131 levhas\u0131_0"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1239
+        height: 1224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5ab5b1bc7527f630800000000000000
+      internalID: 3960675614783289948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Su alt\u0131 k\xF6pekbal\u0131\u011F\u0131 uyar\u0131 levhas\u0131_1"
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 1173
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca3802d126856d530800000000000000
+      internalID: 3879385307444970412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Su alt\u0131 k\xF6pekbal\u0131\u011F\u0131 uyar\u0131 levhas\u0131_2"
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 1171
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb7574d1d62edd420800000000000000
+      internalID: 2656528313488988094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Su alt\u0131 k\xF6pekbal\u0131\u011F\u0131 uyar\u0131 levhas\u0131_3"
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 1171
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5927130495c823cd0800000000000000
+      internalID: -2579845321572912491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Su alt\u0131 k\xF6pekbal\u0131\u011F\u0131 uyar\u0131 levhas\u0131_4"
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 1167
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e417d338c4e4c80f0800000000000000
+      internalID: -1113428917341032114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Su alt\u0131 k\xF6pekbal\u0131\u011F\u0131 uyar\u0131 levhas\u0131_5"
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 1164
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f64a2c62f6cd1f620800000000000000
+      internalID: 2806266412778300527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Su alt\u0131 k\xF6pekbal\u0131\u011F\u0131 uyar\u0131 levhas\u0131_6"
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 1158
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7af95ee3cc9136af0800000000000000
+      internalID: -404451176513953881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Su alt\u0131 k\xF6pekbal\u0131\u011F\u0131 uyar\u0131 levhas\u0131_7"
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 1162
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1057dba330f169e50800000000000000
+      internalID: 6815669184802682113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Su alt\u0131 k\xF6pekbal\u0131\u011F\u0131 uyar\u0131 levhas\u0131_8"
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 900
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1030cdede55bace0800000000000000
+      internalID: -1392925179356631012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Su alt\u0131 k\xF6pekbal\u0131\u011F\u0131 uyar\u0131 levhas\u0131_9"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 819
+        width: 33
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ad5f9348be589d90800000000000000
+      internalID: -7090813467793334871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Su alt\u0131 k\xF6pekbal\u0131\u011F\u0131 uyar\u0131 levhas\u0131_10"
+      rect:
+        serializedVersion: 2
+        x: 1228
+        y: 858
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 022e3916b683b6440800000000000000
+      internalID: 4930096250936877600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Su alt\u0131 k\xF6pekbal\u0131\u011F\u0131 uyar\u0131 levhas\u0131_11"
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 842
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4e427d87b5f9da70800000000000000
+      internalID: 8852376711274319435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Su alt\u0131 k\xF6pekbal\u0131\u011F\u0131 uyar\u0131 levhas\u0131_12"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 827
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81442eed0e4d250f0800000000000000
+      internalID: -1129606494239439848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Su alt\u0131 k\xF6pekbal\u0131\u011F\u0131 uyar\u0131 levhas\u0131_13"
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 803
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9be135563902a37b0800000000000000
+      internalID: -5243842998687293767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Su alt\u0131 k\xF6pekbal\u0131\u011F\u0131 uyar\u0131 levhas\u0131_14"
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 771
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c86988d2b458dc800800000000000000
+      internalID: 634309680462075532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Su alt\u0131 k\xF6pekbal\u0131\u011F\u0131 uyar\u0131 levhas\u0131_15"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 479
+        width: 17
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3753a4221a4ace720800000000000000
+      internalID: 2876855273954882931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Su alt\u0131 k\xF6pekbal\u0131\u011F\u0131 uyar\u0131 levhas\u0131_16"
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 451
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 866b4071b09513010800000000000000
+      internalID: 1166811682631366248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Su alt\u0131 k\xF6pekbal\u0131\u011F\u0131 uyar\u0131 levhas\u0131_17"
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 433
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbd4a5975231c0b80800000000000000
+      internalID: -8427339751046361669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Su alt\u0131 k\xF6pekbal\u0131\u011F\u0131 uyar\u0131 levhas\u0131_18"
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 416
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc211d5b9a209c1d0800000000000000
+      internalID: -3330127521540664625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Su alt\u0131 k\xF6pekbal\u0131\u011F\u0131 uyar\u0131 levhas\u0131_19"
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 416
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ad7a344cd18adf10800000000000000
+      internalID: 2295289743136161189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Su alt\u0131 k\xF6pekbal\u0131\u011F\u0131 uyar\u0131 levhas\u0131_20"
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 415
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 184f27fa4ad2a7b60800000000000000
+      internalID: 7744552694558422145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Su alt\u0131 k\xF6pekbal\u0131\u011F\u0131 uyar\u0131 levhas\u0131_21"
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 377
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 180aef16adc7fc340800000000000000
+      internalID: 4886261398109069441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Su alt\u0131 k\xF6pekbal\u0131\u011F\u0131 uyar\u0131 levhas\u0131_22"
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 385
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8e2acee9aedb2520800000000000000
+      internalID: 2678479224838958731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Su alt\u0131 k\xF6pekbal\u0131\u011F\u0131 uyar\u0131 levhas\u0131_23"
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 395
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fb54db5d61d11770800000000000000
+      internalID: 8579869032739789808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Su alt\u0131 k\xF6pekbal\u0131\u011F\u0131 uyar\u0131 levhas\u0131_24"
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 373
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de76917b7005c4e60800000000000000
+      internalID: 7947815436468971501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Su alt\u0131 k\xF6pekbal\u0131\u011F\u0131 uyar\u0131 levhas\u0131_25"
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 375
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bab16b35820506f00800000000000000
+      internalID: 1107973642466499499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Su alt\u0131 k\xF6pekbal\u0131\u011F\u0131 uyar\u0131 levhas\u0131_26"
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 359
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fad3584d197e67980800000000000000
+      internalID: -8541385029739790929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Su alt\u0131 k\xF6pekbal\u0131\u011F\u0131 uyar\u0131 levhas\u0131_27"
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 294
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4cd2479b67a436d0800000000000000
+      internalID: -3011598170262938545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Su alt\u0131 k\xF6pekbal\u0131\u011F\u0131 uyar\u0131 levhas\u0131_28"
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 294
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aca0e2ce3b02563e0800000000000000
+      internalID: -2061205297318458678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Su alt\u0131 k\xF6pekbal\u0131\u011F\u0131 uyar\u0131 levhas\u0131_29"
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 296
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1606cbdc631bfbe50800000000000000
+      internalID: 6827370409054986337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Su alt\u0131 k\xF6pekbal\u0131\u011F\u0131 uyar\u0131 levhas\u0131_30"
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 226
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aa18e11c118f2b40800000000000000
+      internalID: 5417690834309487266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Su alt\u0131 k\xF6pekbal\u0131\u011F\u0131 uyar\u0131 levhas\u0131_31"
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 160
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7810e090a9e38190800000000000000
+      internalID: -7961262840426260353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Su alt\u0131 k\xF6pekbal\u0131\u011F\u0131 uyar\u0131 levhas\u0131_32"
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 146
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fb651e173c41e7d0800000000000000
+      internalID: -2890945686183515149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Su alt\u0131 k\xF6pekbal\u0131\u011F\u0131 uyar\u0131 levhas\u0131_33"
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 109
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffb209b933a4ddd60800000000000000
+      internalID: 7916565305500904447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Su alt\u0131 k\xF6pekbal\u0131\u011F\u0131 uyar\u0131 levhas\u0131_34"
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 115
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3241c112625cc0420800000000000000
+      internalID: 2597667852640850979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Su alt\u0131 k\xF6pekbal\u0131\u011F\u0131 uyar\u0131 levhas\u0131_35"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 75
+        width: 7
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3dbcf2d66ea0c890800000000000000
+      internalID: -7439754827766383299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Su alt\u0131 k\xF6pekbal\u0131\u011F\u0131 uyar\u0131 levhas\u0131_36"
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 99
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b9cde281656fcba0800000000000000
+      internalID: -6066518703561913935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Su alt\u0131 k\xF6pekbal\u0131\u011F\u0131 uyar\u0131 levhas\u0131_37"
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 83
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ffe1d888776d1690800000000000000
+      internalID: -7629828426306555915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Su alt\u0131 k\xF6pekbal\u0131\u011F\u0131 uyar\u0131 levhas\u0131_38"
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 31
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a1f99daa0ef96fb0800000000000000
+      internalID: -4653909418095021657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Su alt\u0131 k\xF6pekbal\u0131\u011F\u0131 uyar\u0131 levhas\u0131_39"
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 33
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0d8443afa778d390800000000000000
+      internalID: -7793347558922482422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "Su alt\u0131 k\xF6pekbal\u0131\u011F\u0131 uyar\u0131 levhas\u0131_0": 3960675614783289948
+      "Su alt\u0131 k\xF6pekbal\u0131\u011F\u0131 uyar\u0131 levhas\u0131_1": 3879385307444970412
+      "Su alt\u0131 k\xF6pekbal\u0131\u011F\u0131 uyar\u0131 levhas\u0131_10": 4930096250936877600
+      "Su alt\u0131 k\xF6pekbal\u0131\u011F\u0131 uyar\u0131 levhas\u0131_11": 8852376711274319435
+      "Su alt\u0131 k\xF6pekbal\u0131\u011F\u0131 uyar\u0131 levhas\u0131_12": -1129606494239439848
+      "Su alt\u0131 k\xF6pekbal\u0131\u011F\u0131 uyar\u0131 levhas\u0131_13": -5243842998687293767
+      "Su alt\u0131 k\xF6pekbal\u0131\u011F\u0131 uyar\u0131 levhas\u0131_14": 634309680462075532
+      "Su alt\u0131 k\xF6pekbal\u0131\u011F\u0131 uyar\u0131 levhas\u0131_15": 2876855273954882931
+      "Su alt\u0131 k\xF6pekbal\u0131\u011F\u0131 uyar\u0131 levhas\u0131_16": 1166811682631366248
+      "Su alt\u0131 k\xF6pekbal\u0131\u011F\u0131 uyar\u0131 levhas\u0131_17": -8427339751046361669
+      "Su alt\u0131 k\xF6pekbal\u0131\u011F\u0131 uyar\u0131 levhas\u0131_18": -3330127521540664625
+      "Su alt\u0131 k\xF6pekbal\u0131\u011F\u0131 uyar\u0131 levhas\u0131_19": 2295289743136161189
+      "Su alt\u0131 k\xF6pekbal\u0131\u011F\u0131 uyar\u0131 levhas\u0131_2": 2656528313488988094
+      "Su alt\u0131 k\xF6pekbal\u0131\u011F\u0131 uyar\u0131 levhas\u0131_20": 7744552694558422145
+      "Su alt\u0131 k\xF6pekbal\u0131\u011F\u0131 uyar\u0131 levhas\u0131_21": 4886261398109069441
+      "Su alt\u0131 k\xF6pekbal\u0131\u011F\u0131 uyar\u0131 levhas\u0131_22": 2678479224838958731
+      "Su alt\u0131 k\xF6pekbal\u0131\u011F\u0131 uyar\u0131 levhas\u0131_23": 8579869032739789808
+      "Su alt\u0131 k\xF6pekbal\u0131\u011F\u0131 uyar\u0131 levhas\u0131_24": 7947815436468971501
+      "Su alt\u0131 k\xF6pekbal\u0131\u011F\u0131 uyar\u0131 levhas\u0131_25": 1107973642466499499
+      "Su alt\u0131 k\xF6pekbal\u0131\u011F\u0131 uyar\u0131 levhas\u0131_26": -8541385029739790929
+      "Su alt\u0131 k\xF6pekbal\u0131\u011F\u0131 uyar\u0131 levhas\u0131_27": -3011598170262938545
+      "Su alt\u0131 k\xF6pekbal\u0131\u011F\u0131 uyar\u0131 levhas\u0131_28": -2061205297318458678
+      "Su alt\u0131 k\xF6pekbal\u0131\u011F\u0131 uyar\u0131 levhas\u0131_29": 6827370409054986337
+      "Su alt\u0131 k\xF6pekbal\u0131\u011F\u0131 uyar\u0131 levhas\u0131_3": -2579845321572912491
+      "Su alt\u0131 k\xF6pekbal\u0131\u011F\u0131 uyar\u0131 levhas\u0131_30": 5417690834309487266
+      "Su alt\u0131 k\xF6pekbal\u0131\u011F\u0131 uyar\u0131 levhas\u0131_31": -7961262840426260353
+      "Su alt\u0131 k\xF6pekbal\u0131\u011F\u0131 uyar\u0131 levhas\u0131_32": -2890945686183515149
+      "Su alt\u0131 k\xF6pekbal\u0131\u011F\u0131 uyar\u0131 levhas\u0131_33": 7916565305500904447
+      "Su alt\u0131 k\xF6pekbal\u0131\u011F\u0131 uyar\u0131 levhas\u0131_34": 2597667852640850979
+      "Su alt\u0131 k\xF6pekbal\u0131\u011F\u0131 uyar\u0131 levhas\u0131_35": -7439754827766383299
+      "Su alt\u0131 k\xF6pekbal\u0131\u011F\u0131 uyar\u0131 levhas\u0131_36": -6066518703561913935
+      "Su alt\u0131 k\xF6pekbal\u0131\u011F\u0131 uyar\u0131 levhas\u0131_37": -7629828426306555915
+      "Su alt\u0131 k\xF6pekbal\u0131\u011F\u0131 uyar\u0131 levhas\u0131_38": -4653909418095021657
+      "Su alt\u0131 k\xF6pekbal\u0131\u011F\u0131 uyar\u0131 levhas\u0131_39": -7793347558922482422
+      "Su alt\u0131 k\xF6pekbal\u0131\u011F\u0131 uyar\u0131 levhas\u0131_4": -1113428917341032114
+      "Su alt\u0131 k\xF6pekbal\u0131\u011F\u0131 uyar\u0131 levhas\u0131_5": 2806266412778300527
+      "Su alt\u0131 k\xF6pekbal\u0131\u011F\u0131 uyar\u0131 levhas\u0131_6": -404451176513953881
+      "Su alt\u0131 k\xF6pekbal\u0131\u011F\u0131 uyar\u0131 levhas\u0131_7": 6815669184802682113
+      "Su alt\u0131 k\xF6pekbal\u0131\u011F\u0131 uyar\u0131 levhas\u0131_8": -1392925179356631012
+      "Su alt\u0131 k\xF6pekbal\u0131\u011F\u0131 uyar\u0131 levhas\u0131_9": -7090813467793334871
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

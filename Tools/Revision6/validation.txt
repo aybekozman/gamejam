@@ -1,0 +1,9 @@
+Play Mode doğrulaması:
+- Ölü balık keşfi akışı: 58 kontrol geçti. Gerçek Rigidbody2D yüzüşü ve Input System üzerinden sentetik E basışları kullanıldı. Editor arka plan odağı yalnız test sırasında geçici InputSettings kopyasıyla yönetildi; proje input ayarları değiştirilmedi.
+- Balık ölümü ve normal hızda yükselmesi, oyuncu geride kaldığında silinmemesi, yüzey sınırı, ayrı dört görünür balık, üç incelemenin 3-1-2 sırası ve tekrar sayılmaması doğrulandı.
+- Başkanla erken konuşma ilerletmedi. Rapor diyaloğu sonrasında takip başladı. Başkanın hızı test sırasında geçici azaltılarak oyuncunun tek başına varmasının son konuşmayı başlatmadığı doğrulandı; normal hıza döndüğünde başkan gerçek rotadan ulaştı.
+- Son konuşma tamamlandı, takip durdu, başkan park etti, serbest yüzüş geri geldi ve tekrar konuşma tamamlanan olayı yeniden başlatmadı. Geliştirici reseti de doğrulandı.
+- Türkçe karakterler, kaynak portreli paneller ve açık/kapalı göz tuval/pivot eşitliği kontrol edildi; 1280x720 arayüz görüntüleri görsel olarak incelendi.
+- Kıyı için ayrı 15 fizik/render kontrolü çalıştırıldı; sonuçlar shore-playmode-results.txt dosyasındadır.
+Koruma karşılaştırması: mevcut collider blokları aynı; evler, iskele, oyuncu/kamera başlangıcı ve mevcut dünya transform’ları korunur. Yalnız bir oluşturulmuş kıyı sprite’ının komşularından farklı Y ölçeği düzeltildi. Gemi sahnesi, gemi scriptleri, input asset’i ve ana proje/paket ayarları Git karşılaştırmasında değişmedi.
+Çalışma/derleme hatası görülmedi. Bağımsız platform build'i ve uzun süreli manuel oynanış testi yapılmadı; doğrulama Unity Editor Play Mode kapsamındadır.

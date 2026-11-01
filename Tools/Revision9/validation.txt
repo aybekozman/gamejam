@@ -1,0 +1,9 @@
+İkinci bölüm doğrulaması:
+- Gerçek Unity Play Mode ve Input System'e verilen E basışları.
+- Testte oyuncu fiziksel olarak WaterRoute ara noktalarından yüzdürülür; hızlı doğrulama için arazi içinden ışınlanma kullanılmaz.
+- Geliştirme bağlantısı kapalı/açık ev girişi, ilk bölüm tamamlanma koruması, erken çıkış kapısı, tüm konuşma cümleleri ve portreleri, grupların fiziksel yükselişi, tek seferlik son olay ve serbest yüzme sınanır.
+- Test amaçlı InputSettings kopyası kullanılır, proje ayar dosyasına yazılmaz ve test bitince orijinal ayar geri yüklenir.
+- İlk bölümün mevcut 58 kontrolü bu revizyonda yeniden çalıştırıldı: 58 PASS, 0 FAIL. Kopyası first-chapter-regression.txt içindedir.
+- İkinci bölüm sonuçları playmode-results.txt dosyasında; son satırlar ve test-complete.txt tam yürütmeyi gösterir.
+- Önceden var olan 121 collider tanımı ve dünya dönüşümleri korundu (yalnız istenen üç ölü balığın dönüşü değişti). Gemi/FishScene ve global ayarlar başlangıç SHA256 değerleriyle karşılaştırılır.
+- Standalone build çalıştırılmadı. İlerleme mevcut oturumda tutulur; kapsamlı kayıt sistemi eklenmedi.

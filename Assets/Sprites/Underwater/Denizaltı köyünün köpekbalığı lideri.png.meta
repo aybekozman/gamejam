@@ -1,0 +1,1794 @@
+fileFormatVersion: 2
+guid: 752ab4f77b294ce47b91bc095134788a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6314476048975292428
+    second: "Denizalt\u0131 k\xF6y\xFCn\xFCn k\xF6pekbal\u0131\u011F\u0131 lideri_0"
+  - first:
+      213: -6516310617855960086
+    second: "Denizalt\u0131 k\xF6y\xFCn\xFCn k\xF6pekbal\u0131\u011F\u0131 lideri_1"
+  - first:
+      213: -2821102409856040935
+    second: "Denizalt\u0131 k\xF6y\xFCn\xFCn k\xF6pekbal\u0131\u011F\u0131 lideri_2"
+  - first:
+      213: 990819906915497431
+    second: "Denizalt\u0131 k\xF6y\xFCn\xFCn k\xF6pekbal\u0131\u011F\u0131 lideri_3"
+  - first:
+      213: -4603048776403197679
+    second: "Denizalt\u0131 k\xF6y\xFCn\xFCn k\xF6pekbal\u0131\u011F\u0131 lideri_4"
+  - first:
+      213: -7740710966146897202
+    second: "Denizalt\u0131 k\xF6y\xFCn\xFCn k\xF6pekbal\u0131\u011F\u0131 lideri_5"
+  - first:
+      213: -3609456392442162505
+    second: "Denizalt\u0131 k\xF6y\xFCn\xFCn k\xF6pekbal\u0131\u011F\u0131 lideri_6"
+  - first:
+      213: 8412496916871802472
+    second: "Denizalt\u0131 k\xF6y\xFCn\xFCn k\xF6pekbal\u0131\u011F\u0131 lideri_7"
+  - first:
+      213: -5117729641093000530
+    second: "Denizalt\u0131 k\xF6y\xFCn\xFCn k\xF6pekbal\u0131\u011F\u0131 lideri_8"
+  - first:
+      213: -1148667592092349344
+    second: "Denizalt\u0131 k\xF6y\xFCn\xFCn k\xF6pekbal\u0131\u011F\u0131 lideri_9"
+  - first:
+      213: -3344550360545038826
+    second: "Denizalt\u0131 k\xF6y\xFCn\xFCn k\xF6pekbal\u0131\u011F\u0131 lideri_10"
+  - first:
+      213: -4664483483317878393
+    second: "Denizalt\u0131 k\xF6y\xFCn\xFCn k\xF6pekbal\u0131\u011F\u0131 lideri_11"
+  - first:
+      213: 2482486062492410687
+    second: "Denizalt\u0131 k\xF6y\xFCn\xFCn k\xF6pekbal\u0131\u011F\u0131 lideri_12"
+  - first:
+      213: -3188186007985476638
+    second: "Denizalt\u0131 k\xF6y\xFCn\xFCn k\xF6pekbal\u0131\u011F\u0131 lideri_13"
+  - first:
+      213: -2156353262213694051
+    second: "Denizalt\u0131 k\xF6y\xFCn\xFCn k\xF6pekbal\u0131\u011F\u0131 lideri_14"
+  - first:
+      213: 3009938569712257037
+    second: "Denizalt\u0131 k\xF6y\xFCn\xFCn k\xF6pekbal\u0131\u011F\u0131 lideri_15"
+  - first:
+      213: -6884088974753506926
+    second: "Denizalt\u0131 k\xF6y\xFCn\xFCn k\xF6pekbal\u0131\u011F\u0131 lideri_16"
+  - first:
+      213: 2274650971068641878
+    second: "Denizalt\u0131 k\xF6y\xFCn\xFCn k\xF6pekbal\u0131\u011F\u0131 lideri_17"
+  - first:
+      213: 4691128772409298854
+    second: "Denizalt\u0131 k\xF6y\xFCn\xFCn k\xF6pekbal\u0131\u011F\u0131 lideri_18"
+  - first:
+      213: -5899344472015185946
+    second: "Denizalt\u0131 k\xF6y\xFCn\xFCn k\xF6pekbal\u0131\u011F\u0131 lideri_19"
+  - first:
+      213: -7695033408186693253
+    second: "Denizalt\u0131 k\xF6y\xFCn\xFCn k\xF6pekbal\u0131\u011F\u0131 lideri_20"
+  - first:
+      213: -2816685801084449294
+    second: "Denizalt\u0131 k\xF6y\xFCn\xFCn k\xF6pekbal\u0131\u011F\u0131 lideri_21"
+  - first:
+      213: 1658664997592806572
+    second: "Denizalt\u0131 k\xF6y\xFCn\xFCn k\xF6pekbal\u0131\u011F\u0131 lideri_22"
+  - first:
+      213: 772172887180348715
+    second: "Denizalt\u0131 k\xF6y\xFCn\xFCn k\xF6pekbal\u0131\u011F\u0131 lideri_23"
+  - first:
+      213: 1951616535613859609
+    second: "Denizalt\u0131 k\xF6y\xFCn\xFCn k\xF6pekbal\u0131\u011F\u0131 lideri_24"
+  - first:
+      213: -6712703601847804349
+    second: "Denizalt\u0131 k\xF6y\xFCn\xFCn k\xF6pekbal\u0131\u011F\u0131 lideri_25"
+  - first:
+      213: 2746159125265886214
+    second: "Denizalt\u0131 k\xF6y\xFCn\xFCn k\xF6pekbal\u0131\u011F\u0131 lideri_26"
+  - first:
+      213: 6746764607520158509
+    second: "Denizalt\u0131 k\xF6y\xFCn\xFCn k\xF6pekbal\u0131\u011F\u0131 lideri_27"
+  - first:
+      213: -1440005061561300852
+    second: "Denizalt\u0131 k\xF6y\xFCn\xFCn k\xF6pekbal\u0131\u011F\u0131 lideri_28"
+  - first:
+      213: 858900515377583423
+    second: "Denizalt\u0131 k\xF6y\xFCn\xFCn k\xF6pekbal\u0131\u011F\u0131 lideri_29"
+  - first:
+      213: -6561637648831667786
+    second: "Denizalt\u0131 k\xF6y\xFCn\xFCn k\xF6pekbal\u0131\u011F\u0131 lideri_30"
+  - first:
+      213: 9100467166221626319
+    second: "Denizalt\u0131 k\xF6y\xFCn\xFCn k\xF6pekbal\u0131\u011F\u0131 lideri_31"
+  - first:
+      213: 2899066936548775204
+    second: "Denizalt\u0131 k\xF6y\xFCn\xFCn k\xF6pekbal\u0131\u011F\u0131 lideri_32"
+  - first:
+      213: -4694475787822681136
+    second: "Denizalt\u0131 k\xF6y\xFCn\xFCn k\xF6pekbal\u0131\u011F\u0131 lideri_33"
+  - first:
+      213: -5968576660445870296
+    second: "Denizalt\u0131 k\xF6y\xFCn\xFCn k\xF6pekbal\u0131\u011F\u0131 lideri_34"
+  - first:
+      213: -8965731549321067456
+    second: "Denizalt\u0131 k\xF6y\xFCn\xFCn k\xF6pekbal\u0131\u011F\u0131 lideri_35"
+  - first:
+      213: 7789061244275888414
+    second: "Denizalt\u0131 k\xF6y\xFCn\xFCn k\xF6pekbal\u0131\u011F\u0131 lideri_36"
+  - first:
+      213: 4659621999037803047
+    second: "Denizalt\u0131 k\xF6y\xFCn\xFCn k\xF6pekbal\u0131\u011F\u0131 lideri_37"
+  - first:
+      213: 6847670425693043787
+    second: "Denizalt\u0131 k\xF6y\xFCn\xFCn k\xF6pekbal\u0131\u011F\u0131 lideri_38"
+  - first:
+      213: 7118611182485518537
+    second: "Denizalt\u0131 k\xF6y\xFCn\xFCn k\xF6pekbal\u0131\u011F\u0131 lideri_39"
+  - first:
+      213: 5974873561214538607
+    second: "Denizalt\u0131 k\xF6y\xFCn\xFCn k\xF6pekbal\u0131\u011F\u0131 lideri_40"
+  - first:
+      213: -552764266025351084
+    second: "Denizalt\u0131 k\xF6y\xFCn\xFCn k\xF6pekbal\u0131\u011F\u0131 lideri_41"
+  - first:
+      213: 1168796285075297192
+    second: "Denizalt\u0131 k\xF6y\xFCn\xFCn k\xF6pekbal\u0131\u011F\u0131 lideri_42"
+  - first:
+      213: -6139868325945651374
+    second: "Denizalt\u0131 k\xF6y\xFCn\xFCn k\xF6pekbal\u0131\u011F\u0131 lideri_43"
+  - first:
+      213: -5802073431874745672
+    second: "Denizalt\u0131 k\xF6y\xFCn\xFCn k\xF6pekbal\u0131\u011F\u0131 lideri_44"
+  - first:
+      213: -865441468189679569
+    second: "Denizalt\u0131 k\xF6y\xFCn\xFCn k\xF6pekbal\u0131\u011F\u0131 lideri_45"
+  - first:
+      213: -587769221384333120
+    second: "Denizalt\u0131 k\xF6y\xFCn\xFCn k\xF6pekbal\u0131\u011F\u0131 lideri_46"
+  - first:
+      213: -735534097603325525
+    second: "Denizalt\u0131 k\xF6y\xFCn\xFCn k\xF6pekbal\u0131\u011F\u0131 lideri_47"
+  - first:
+      213: -7766818686324402810
+    second: "Denizalt\u0131 k\xF6y\xFCn\xFCn k\xF6pekbal\u0131\u011F\u0131 lideri_48"
+  - first:
+      213: -2283793398655597970
+    second: "Denizalt\u0131 k\xF6y\xFCn\xFCn k\xF6pekbal\u0131\u011F\u0131 lideri_49"
+  - first:
+      213: 8487774335659966303
+    second: "Denizalt\u0131 k\xF6y\xFCn\xFCn k\xF6pekbal\u0131\u011F\u0131 lideri_50"
+  - first:
+      213: -1536077337756066719
+    second: "Denizalt\u0131 k\xF6y\xFCn\xFCn k\xF6pekbal\u0131\u011F\u0131 lideri_51"
+  - first:
+      213: -1426385097948280845
+    second: "Denizalt\u0131 k\xF6y\xFCn\xFCn k\xF6pekbal\u0131\u011F\u0131 lideri_52"
+  - first:
+      213: -4268537295569801565
+    second: "Denizalt\u0131 k\xF6y\xFCn\xFCn k\xF6pekbal\u0131\u011F\u0131 lideri_53"
+  - first:
+      213: -8669915140152107968
+    second: "Denizalt\u0131 k\xF6y\xFCn\xFCn k\xF6pekbal\u0131\u011F\u0131 lideri_54"
+  - first:
+      213: -3256245108652774438
+    second: "Denizalt\u0131 k\xF6y\xFCn\xFCn k\xF6pekbal\u0131\u011F\u0131 lideri_55"
+  - first:
+      213: 4269565589326095434
+    second: "Denizalt\u0131 k\xF6y\xFCn\xFCn k\xF6pekbal\u0131\u011F\u0131 lideri_56"
+  - first:
+      213: 4255913192242171897
+    second: "Denizalt\u0131 k\xF6y\xFCn\xFCn k\xF6pekbal\u0131\u011F\u0131 lideri_57"
+  - first:
+      213: -8798076734312923977
+    second: "Denizalt\u0131 k\xF6y\xFCn\xFCn k\xF6pekbal\u0131\u011F\u0131 lideri_58"
+  - first:
+      213: -8850889666115848862
+    second: "Denizalt\u0131 k\xF6y\xFCn\xFCn k\xF6pekbal\u0131\u011F\u0131 lideri_59"
+  - first:
+      213: -6782517419715063336
+    second: "Denizalt\u0131 k\xF6y\xFCn\xFCn k\xF6pekbal\u0131\u011F\u0131 lideri_60"
+  - first:
+      213: 4432268268354735959
+    second: "Denizalt\u0131 k\xF6y\xFCn\xFCn k\xF6pekbal\u0131\u011F\u0131 lideri_61"
+  - first:
+      213: 2645249584542692517
+    second: "Denizalt\u0131 k\xF6y\xFCn\xFCn k\xF6pekbal\u0131\u011F\u0131 lideri_62"
+  - first:
+      213: -5621557979272418516
+    second: "Denizalt\u0131 k\xF6y\xFCn\xFCn k\xF6pekbal\u0131\u011F\u0131 lideri_63"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Denizalt\u0131 k\xF6y\xFCn\xFCn k\xF6pekbal\u0131\u011F\u0131 lideri_0"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 485
+        width: 781
+        height: 519
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f79d1e2d797e58a0800000000000000
+      internalID: -6314476048975292428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 k\xF6y\xFCn\xFCn k\xF6pekbal\u0131\u011F\u0131 lideri_1"
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 487
+        width: 744
+        height: 519
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aebd698940a6195a0800000000000000
+      internalID: -6516310617855960086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 k\xF6y\xFCn\xFCn k\xF6pekbal\u0131\u011F\u0131 lideri_2"
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 959
+        width: 23
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91048891e4e69d8d0800000000000000
+      internalID: -2821102409856040935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 k\xF6y\xFCn\xFCn k\xF6pekbal\u0131\u011F\u0131 lideri_3"
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 993
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d5751ca47910cd00800000000000000
+      internalID: 990819906915497431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 k\xF6y\xFCn\xFCn k\xF6pekbal\u0131\u011F\u0131 lideri_4"
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 956
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 111e0be968fae10c0800000000000000
+      internalID: -4603048776403197679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 k\xF6y\xFCn\xFCn k\xF6pekbal\u0131\u011F\u0131 lideri_5"
+      rect:
+        serializedVersion: 2
+        x: 1318
+        y: 959
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecae7d96368739490800000000000000
+      internalID: -7740710966146897202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 k\xF6y\xFCn\xFCn k\xF6pekbal\u0131\u011F\u0131 lideri_6"
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 703
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b2d838e882a8edc0800000000000000
+      internalID: -3609456392442162505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 k\xF6y\xFCn\xFCn k\xF6pekbal\u0131\u011F\u0131 lideri_7"
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 703
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86e6634ef513fb470800000000000000
+      internalID: 8412496916871802472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 k\xF6y\xFCn\xFCn k\xF6pekbal\u0131\u011F\u0131 lideri_8"
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 661
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea21a2e910c2af8b0800000000000000
+      internalID: -5117729641093000530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 k\xF6y\xFCn\xFCn k\xF6pekbal\u0131\u011F\u0131 lideri_9"
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 535
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06c055039ec1f00f0800000000000000
+      internalID: -1148667592092349344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 k\xF6y\xFCn\xFCn k\xF6pekbal\u0131\u011F\u0131 lideri_10"
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 517
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61eee42da25c591d0800000000000000
+      internalID: -3344550360545038826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 k\xF6y\xFCn\xFCn k\xF6pekbal\u0131\u011F\u0131 lideri_11"
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 545
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78149244cfc644fb0800000000000000
+      internalID: -4664483483317878393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 k\xF6y\xFCn\xFCn k\xF6pekbal\u0131\u011F\u0131 lideri_12"
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 527
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f33e7bacbef837220800000000000000
+      internalID: 2482486062492410687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 k\xF6y\xFCn\xFCn k\xF6pekbal\u0131\u011F\u0131 lideri_13"
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 521
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eba72ca7b941c3d0800000000000000
+      internalID: -3188186007985476638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 k\xF6y\xFCn\xFCn k\xF6pekbal\u0131\u011F\u0131 lideri_14"
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 513
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9d7f7302281312e0800000000000000
+      internalID: -2156353262213694051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 k\xF6y\xFCn\xFCn k\xF6pekbal\u0131\u011F\u0131 lideri_15"
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 505
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d08427b8e2375c920800000000000000
+      internalID: 3009938569712257037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 k\xF6y\xFCn\xFCn k\xF6pekbal\u0131\u011F\u0131 lideri_16"
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 481
+        width: 35
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29952a90d8dc670a0800000000000000
+      internalID: -6884088974753506926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 k\xF6y\xFCn\xFCn k\xF6pekbal\u0131\u011F\u0131 lideri_17"
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 510
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6523b8ea10f219f10800000000000000
+      internalID: 2274650971068641878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 k\xF6y\xFCn\xFCn k\xF6pekbal\u0131\u011F\u0131 lideri_18"
+      rect:
+        serializedVersion: 2
+        x: 1520
+        y: 511
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6af021b83cc3a1140800000000000000
+      internalID: 4691128772409298854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 k\xF6y\xFCn\xFCn k\xF6pekbal\u0131\u011F\u0131 lideri_19"
+      rect:
+        serializedVersion: 2
+        x: 1525
+        y: 514
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e7ded17571512ea0800000000000000
+      internalID: -5899344472015185946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 k\xF6y\xFCn\xFCn k\xF6pekbal\u0131\u011F\u0131 lideri_20"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 783
+        height: 488
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b79c442a2efb53590800000000000000
+      internalID: -7695033408186693253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 k\xF6y\xFCn\xFCn k\xF6pekbal\u0131\u011F\u0131 lideri_21"
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 482
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fd8976ff2f19e8d0800000000000000
+      internalID: -2816685801084449294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 k\xF6y\xFCn\xFCn k\xF6pekbal\u0131\u011F\u0131 lideri_22"
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 0
+        width: 743
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca4b4eef603c40710800000000000000
+      internalID: 1658664997592806572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 k\xF6y\xFCn\xFCn k\xF6pekbal\u0131\u011F\u0131 lideri_23"
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 463
+        width: 24
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2d8295562f47ba00800000000000000
+      internalID: 772172887180348715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 k\xF6y\xFCn\xFCn k\xF6pekbal\u0131\u011F\u0131 lideri_24"
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 147
+        width: 37
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 917ea0726e8851b10800000000000000
+      internalID: 1951616535613859609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 k\xF6y\xFCn\xFCn k\xF6pekbal\u0131\u011F\u0131 lideri_25"
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 51
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34e5069b3afa7d2a0800000000000000
+      internalID: -6712703601847804349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 k\xF6y\xFCn\xFCn k\xF6pekbal\u0131\u011F\u0131 lideri_26"
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 73
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60cab26bc215c1620800000000000000
+      internalID: 2746159125265886214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 k\xF6y\xFCn\xFCn k\xF6pekbal\u0131\u011F\u0131 lideri_27"
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 91
+        width: 35
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d23ba662aa251ad50800000000000000
+      internalID: 6746764607520158509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 k\xF6y\xFCn\xFCn k\xF6pekbal\u0131\u011F\u0131 lideri_28"
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 70
+        width: 7
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c88cfd6a603140ce0800000000000000
+      internalID: -1440005061561300852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 k\xF6y\xFCn\xFCn k\xF6pekbal\u0131\u011F\u0131 lideri_29"
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 17
+        width: 91
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f351b74d77d6beb00800000000000000
+      internalID: 858900515377583423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 k\xF6y\xFCn\xFCn k\xF6pekbal\u0131\u011F\u0131 lideri_30"
+      rect:
+        serializedVersion: 2
+        x: 1388
+        y: 53
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b12f8cc25160f4a0800000000000000
+      internalID: -6561637648831667786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 k\xF6y\xFCn\xFCn k\xF6pekbal\u0131\u011F\u0131 lideri_31"
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 63
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcbeebcdbaa5b4e70800000000000000
+      internalID: 9100467166221626319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 k\xF6y\xFCn\xFCn k\xF6pekbal\u0131\u011F\u0131 lideri_32"
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 45
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 425d115d40e8b3820800000000000000
+      internalID: 2899066936548775204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 k\xF6y\xFCn\xFCn k\xF6pekbal\u0131\u011F\u0131 lideri_33"
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 57
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d33824b42fd9deb0800000000000000
+      internalID: -4694475787822681136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 k\xF6y\xFCn\xFCn k\xF6pekbal\u0131\u011F\u0131 lideri_34"
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 47
+        width: 9
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 827cf63762b5b2da0800000000000000
+      internalID: -5968576660445870296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 k\xF6y\xFCn\xFCn k\xF6pekbal\u0131\u011F\u0131 lideri_35"
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 42
+        width: 21
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 044843b88a2539380800000000000000
+      internalID: -8965731549321067456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 k\xF6y\xFCn\xFCn k\xF6pekbal\u0131\u011F\u0131 lideri_36"
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 31
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1193d6feed481c60800000000000000
+      internalID: 7789061244275888414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 k\xF6y\xFCn\xFCn k\xF6pekbal\u0131\u011F\u0131 lideri_37"
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 17
+        width: 63
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72a6e38358d4aa040800000000000000
+      internalID: 4659621999037803047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 k\xF6y\xFCn\xFCn k\xF6pekbal\u0131\u011F\u0131 lideri_38"
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 61
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4cb16eb8ffc70f50800000000000000
+      internalID: 6847670425693043787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 k\xF6y\xFCn\xFCn k\xF6pekbal\u0131\u011F\u0131 lideri_39"
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 63
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c83c2a87236ac260800000000000000
+      internalID: 7118611182485518537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 k\xF6y\xFCn\xFCn k\xF6pekbal\u0131\u011F\u0131 lideri_40"
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 35
+        width: 19
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f63d01209d30be250800000000000000
+      internalID: 5974873561214538607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 k\xF6y\xFCn\xFCn k\xF6pekbal\u0131\u011F\u0131 lideri_41"
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 61
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 458870724df2458f0800000000000000
+      internalID: -552764266025351084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 k\xF6y\xFCn\xFCn k\xF6pekbal\u0131\u011F\u0131 lideri_42"
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 33
+        width: 37
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a395ba5706683010800000000000000
+      internalID: 1168796285075297192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 k\xF6y\xFCn\xFCn k\xF6pekbal\u0131\u011F\u0131 lideri_43"
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 61
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25f4658b94ecacaa0800000000000000
+      internalID: -6139868325945651374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 k\xF6y\xFCn\xFCn k\xF6pekbal\u0131\u011F\u0131 lideri_44"
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 63
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bacf5454f4ea7fa0800000000000000
+      internalID: -5802073431874745672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 k\xF6y\xFCn\xFCn k\xF6pekbal\u0131\u011F\u0131 lideri_45"
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 65
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2069aae1955df3f0800000000000000
+      internalID: -865441468189679569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 k\xF6y\xFCn\xFCn k\xF6pekbal\u0131\u011F\u0131 lideri_46"
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 69
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c89a7dd103d7d7f0800000000000000
+      internalID: -587769221384333120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 k\xF6y\xFCn\xFCn k\xF6pekbal\u0131\u011F\u0131 lideri_47"
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 25
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba19a20a2abdac5f0800000000000000
+      internalID: -735534097603325525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 k\xF6y\xFCn\xFCn k\xF6pekbal\u0131\u011F\u0131 lideri_48"
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 45
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68594ce1e87b63490800000000000000
+      internalID: -7766818686324402810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 k\xF6y\xFCn\xFCn k\xF6pekbal\u0131\u011F\u0131 lideri_49"
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 43
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6240c401065e40e0800000000000000
+      internalID: -2283793398655597970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 k\xF6y\xFCn\xFCn k\xF6pekbal\u0131\u011F\u0131 lideri_50"
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 38
+        width: 9
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5f70b2c9c1aac570800000000000000
+      internalID: 8487774335659966303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 k\xF6y\xFCn\xFCn k\xF6pekbal\u0131\u011F\u0131 lideri_51"
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 51
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16c958fbcc1ceaae0800000000000000
+      internalID: -1536077337756066719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 k\xF6y\xFCn\xFCn k\xF6pekbal\u0131\u011F\u0131 lideri_52"
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 31
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f7c1eb8f46743ce0800000000000000
+      internalID: -1426385097948280845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 k\xF6y\xFCn\xFCn k\xF6pekbal\u0131\u011F\u0131 lideri_53"
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 37
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ae2e0302fb13c4c0800000000000000
+      internalID: -4268537295569801565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 k\xF6y\xFCn\xFCn k\xF6pekbal\u0131\u011F\u0131 lideri_54"
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 23
+        width: 17
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04cd37e7d164ea780800000000000000
+      internalID: -8669915140152107968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 k\xF6y\xFCn\xFCn k\xF6pekbal\u0131\u011F\u0131 lideri_55"
+      rect:
+        serializedVersion: 2
+        x: 1374
+        y: 34
+        width: 9
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adbe525735e7fc2d0800000000000000
+      internalID: -3256245108652774438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 k\xF6y\xFCn\xFCn k\xF6pekbal\u0131\u011F\u0131 lideri_56"
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 37
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a446309484b804b30800000000000000
+      internalID: 4269565589326095434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 k\xF6y\xFCn\xFCn k\xF6pekbal\u0131\u011F\u0131 lideri_57"
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 33
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ff4e72ef7a001b30800000000000000
+      internalID: 4255913192242171897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 k\xF6y\xFCn\xFCn k\xF6pekbal\u0131\u011F\u0131 lideri_58"
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 34
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bc36a803d3f6e580800000000000000
+      internalID: -8798076734312923977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 k\xF6y\xFCn\xFCn k\xF6pekbal\u0131\u011F\u0131 lideri_59"
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 29
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2653df02eb25b2580800000000000000
+      internalID: -8850889666115848862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 k\xF6y\xFCn\xFCn k\xF6pekbal\u0131\u011F\u0131 lideri_60"
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 29
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d11cf29758afd1a0800000000000000
+      internalID: -6782517419715063336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 k\xF6y\xFCn\xFCn k\xF6pekbal\u0131\u011F\u0131 lideri_61"
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 31
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75f0584c184928d30800000000000000
+      internalID: 4432268268354735959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 k\xF6y\xFCn\xFCn k\xF6pekbal\u0131\u011F\u0131 lideri_62"
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 31
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a4bae46b70d5b420800000000000000
+      internalID: 2645249584542692517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Denizalt\u0131 k\xF6y\xFCn\xFCn k\xF6pekbal\u0131\u011F\u0131 lideri_63"
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 33
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2b64395dc63cf1b0800000000000000
+      internalID: -5621557979272418516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "Denizalt\u0131 k\xF6y\xFCn\xFCn k\xF6pekbal\u0131\u011F\u0131 lideri_0": -6314476048975292428
+      "Denizalt\u0131 k\xF6y\xFCn\xFCn k\xF6pekbal\u0131\u011F\u0131 lideri_1": -6516310617855960086
+      "Denizalt\u0131 k\xF6y\xFCn\xFCn k\xF6pekbal\u0131\u011F\u0131 lideri_10": -3344550360545038826
+      "Denizalt\u0131 k\xF6y\xFCn\xFCn k\xF6pekbal\u0131\u011F\u0131 lideri_11": -4664483483317878393
+      "Denizalt\u0131 k\xF6y\xFCn\xFCn k\xF6pekbal\u0131\u011F\u0131 lideri_12": 2482486062492410687
+      "Denizalt\u0131 k\xF6y\xFCn\xFCn k\xF6pekbal\u0131\u011F\u0131 lideri_13": -3188186007985476638
+      "Denizalt\u0131 k\xF6y\xFCn\xFCn k\xF6pekbal\u0131\u011F\u0131 lideri_14": -2156353262213694051
+      "Denizalt\u0131 k\xF6y\xFCn\xFCn k\xF6pekbal\u0131\u011F\u0131 lideri_15": 3009938569712257037
+      "Denizalt\u0131 k\xF6y\xFCn\xFCn k\xF6pekbal\u0131\u011F\u0131 lideri_16": -6884088974753506926
+      "Denizalt\u0131 k\xF6y\xFCn\xFCn k\xF6pekbal\u0131\u011F\u0131 lideri_17": 2274650971068641878
+      "Denizalt\u0131 k\xF6y\xFCn\xFCn k\xF6pekbal\u0131\u011F\u0131 lideri_18": 4691128772409298854
+      "Denizalt\u0131 k\xF6y\xFCn\xFCn k\xF6pekbal\u0131\u011F\u0131 lideri_19": -5899344472015185946
+      "Denizalt\u0131 k\xF6y\xFCn\xFCn k\xF6pekbal\u0131\u011F\u0131 lideri_2": -2821102409856040935
+      "Denizalt\u0131 k\xF6y\xFCn\xFCn k\xF6pekbal\u0131\u011F\u0131 lideri_20": -7695033408186693253
+      "Denizalt\u0131 k\xF6y\xFCn\xFCn k\xF6pekbal\u0131\u011F\u0131 lideri_21": -2816685801084449294
+      "Denizalt\u0131 k\xF6y\xFCn\xFCn k\xF6pekbal\u0131\u011F\u0131 lideri_22": 1658664997592806572
+      "Denizalt\u0131 k\xF6y\xFCn\xFCn k\xF6pekbal\u0131\u011F\u0131 lideri_23": 772172887180348715
+      "Denizalt\u0131 k\xF6y\xFCn\xFCn k\xF6pekbal\u0131\u011F\u0131 lideri_24": 1951616535613859609
+      "Denizalt\u0131 k\xF6y\xFCn\xFCn k\xF6pekbal\u0131\u011F\u0131 lideri_25": -6712703601847804349
+      "Denizalt\u0131 k\xF6y\xFCn\xFCn k\xF6pekbal\u0131\u011F\u0131 lideri_26": 2746159125265886214
+      "Denizalt\u0131 k\xF6y\xFCn\xFCn k\xF6pekbal\u0131\u011F\u0131 lideri_27": 6746764607520158509
+      "Denizalt\u0131 k\xF6y\xFCn\xFCn k\xF6pekbal\u0131\u011F\u0131 lideri_28": -1440005061561300852
+      "Denizalt\u0131 k\xF6y\xFCn\xFCn k\xF6pekbal\u0131\u011F\u0131 lideri_29": 858900515377583423
+      "Denizalt\u0131 k\xF6y\xFCn\xFCn k\xF6pekbal\u0131\u011F\u0131 lideri_3": 990819906915497431
+      "Denizalt\u0131 k\xF6y\xFCn\xFCn k\xF6pekbal\u0131\u011F\u0131 lideri_30": -6561637648831667786
+      "Denizalt\u0131 k\xF6y\xFCn\xFCn k\xF6pekbal\u0131\u011F\u0131 lideri_31": 9100467166221626319
+      "Denizalt\u0131 k\xF6y\xFCn\xFCn k\xF6pekbal\u0131\u011F\u0131 lideri_32": 2899066936548775204
+      "Denizalt\u0131 k\xF6y\xFCn\xFCn k\xF6pekbal\u0131\u011F\u0131 lideri_33": -4694475787822681136
+      "Denizalt\u0131 k\xF6y\xFCn\xFCn k\xF6pekbal\u0131\u011F\u0131 lideri_34": -5968576660445870296
+      "Denizalt\u0131 k\xF6y\xFCn\xFCn k\xF6pekbal\u0131\u011F\u0131 lideri_35": -8965731549321067456
+      "Denizalt\u0131 k\xF6y\xFCn\xFCn k\xF6pekbal\u0131\u011F\u0131 lideri_36": 7789061244275888414
+      "Denizalt\u0131 k\xF6y\xFCn\xFCn k\xF6pekbal\u0131\u011F\u0131 lideri_37": 4659621999037803047
+      "Denizalt\u0131 k\xF6y\xFCn\xFCn k\xF6pekbal\u0131\u011F\u0131 lideri_38": 6847670425693043787
+      "Denizalt\u0131 k\xF6y\xFCn\xFCn k\xF6pekbal\u0131\u011F\u0131 lideri_39": 7118611182485518537
+      "Denizalt\u0131 k\xF6y\xFCn\xFCn k\xF6pekbal\u0131\u011F\u0131 lideri_4": -4603048776403197679
+      "Denizalt\u0131 k\xF6y\xFCn\xFCn k\xF6pekbal\u0131\u011F\u0131 lideri_40": 5974873561214538607
+      "Denizalt\u0131 k\xF6y\xFCn\xFCn k\xF6pekbal\u0131\u011F\u0131 lideri_41": -552764266025351084
+      "Denizalt\u0131 k\xF6y\xFCn\xFCn k\xF6pekbal\u0131\u011F\u0131 lideri_42": 1168796285075297192
+      "Denizalt\u0131 k\xF6y\xFCn\xFCn k\xF6pekbal\u0131\u011F\u0131 lideri_43": -6139868325945651374
+      "Denizalt\u0131 k\xF6y\xFCn\xFCn k\xF6pekbal\u0131\u011F\u0131 lideri_44": -5802073431874745672
+      "Denizalt\u0131 k\xF6y\xFCn\xFCn k\xF6pekbal\u0131\u011F\u0131 lideri_45": -865441468189679569
+      "Denizalt\u0131 k\xF6y\xFCn\xFCn k\xF6pekbal\u0131\u011F\u0131 lideri_46": -587769221384333120
+      "Denizalt\u0131 k\xF6y\xFCn\xFCn k\xF6pekbal\u0131\u011F\u0131 lideri_47": -735534097603325525
+      "Denizalt\u0131 k\xF6y\xFCn\xFCn k\xF6pekbal\u0131\u011F\u0131 lideri_48": -7766818686324402810
+      "Denizalt\u0131 k\xF6y\xFCn\xFCn k\xF6pekbal\u0131\u011F\u0131 lideri_49": -2283793398655597970
+      "Denizalt\u0131 k\xF6y\xFCn\xFCn k\xF6pekbal\u0131\u011F\u0131 lideri_5": -7740710966146897202
+      "Denizalt\u0131 k\xF6y\xFCn\xFCn k\xF6pekbal\u0131\u011F\u0131 lideri_50": 8487774335659966303
+      "Denizalt\u0131 k\xF6y\xFCn\xFCn k\xF6pekbal\u0131\u011F\u0131 lideri_51": -1536077337756066719
+      "Denizalt\u0131 k\xF6y\xFCn\xFCn k\xF6pekbal\u0131\u011F\u0131 lideri_52": -1426385097948280845
+      "Denizalt\u0131 k\xF6y\xFCn\xFCn k\xF6pekbal\u0131\u011F\u0131 lideri_53": -4268537295569801565
+      "Denizalt\u0131 k\xF6y\xFCn\xFCn k\xF6pekbal\u0131\u011F\u0131 lideri_54": -8669915140152107968
+      "Denizalt\u0131 k\xF6y\xFCn\xFCn k\xF6pekbal\u0131\u011F\u0131 lideri_55": -3256245108652774438
+      "Denizalt\u0131 k\xF6y\xFCn\xFCn k\xF6pekbal\u0131\u011F\u0131 lideri_56": 4269565589326095434
+      "Denizalt\u0131 k\xF6y\xFCn\xFCn k\xF6pekbal\u0131\u011F\u0131 lideri_57": 4255913192242171897
+      "Denizalt\u0131 k\xF6y\xFCn\xFCn k\xF6pekbal\u0131\u011F\u0131 lideri_58": -8798076734312923977
+      "Denizalt\u0131 k\xF6y\xFCn\xFCn k\xF6pekbal\u0131\u011F\u0131 lideri_59": -8850889666115848862
+      "Denizalt\u0131 k\xF6y\xFCn\xFCn k\xF6pekbal\u0131\u011F\u0131 lideri_6": -3609456392442162505
+      "Denizalt\u0131 k\xF6y\xFCn\xFCn k\xF6pekbal\u0131\u011F\u0131 lideri_60": -6782517419715063336
+      "Denizalt\u0131 k\xF6y\xFCn\xFCn k\xF6pekbal\u0131\u011F\u0131 lideri_61": 4432268268354735959
+      "Denizalt\u0131 k\xF6y\xFCn\xFCn k\xF6pekbal\u0131\u011F\u0131 lideri_62": 2645249584542692517
+      "Denizalt\u0131 k\xF6y\xFCn\xFCn k\xF6pekbal\u0131\u011F\u0131 lideri_63": -5621557979272418516
+      "Denizalt\u0131 k\xF6y\xFCn\xFCn k\xF6pekbal\u0131\u011F\u0131 lideri_7": 8412496916871802472
+      "Denizalt\u0131 k\xF6y\xFCn\xFCn k\xF6pekbal\u0131\u011F\u0131 lideri_8": -5117729641093000530
+      "Denizalt\u0131 k\xF6y\xFCn\xFCn k\xF6pekbal\u0131\u011F\u0131 lideri_9": -1148667592092349344
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

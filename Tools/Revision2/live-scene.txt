@@ -1,4 +1,4 @@
-Scene=Assets/Scenes/UnderwaterWorld.unity; dirty=False; playing=False; paused=False; gameTime=0,7763763; timeScale=1; testComponents=0
+Scene=Assets/Scenes/UnderwaterWorld.unity; dirty=False; playing=False; paused=False; gameTime=0; timeScale=1; testComponents=0
 Exploration Camera | pos=(-201.34, -27.00, -10.00) scale=(1.00, 1.00, 1.00) active=True | 
 World anchored water gradient | pos=(-56.00, -10.00, 0.00) scale=(1.00, 1.00, 1.00) active=True | 
 Sky | pos=(-56.00, 22.00, 0.00) scale=(1.84, 4.09, 1.00) active=True | 
@@ -58,7 +58,7 @@ Reef rock | pos=(5.40, -28.31, 0.00) scale=(3.25, 3.25, 3.25) active=True | Poly
 Reef rock | pos=(-1.00, -31.61, 0.00) scale=(1.63, 1.63, 1.63) active=True | PolygonCollider2D:True
 Coral village home | pos=(-223.88, -29.50, 0.00) scale=(2.41, 2.41, 2.41) active=True | PolygonCollider2D:True
 Coral village home (1) | pos=(-181.66, -30.09, 0.00) scale=(2.41, 2.41, 2.41) active=True | PolygonCollider2D:True
-Coral village home | pos=(-188.56, -29.63, 0.00) scale=(2.84, 2.84, 2.84) active=True | PolygonCollider2D:True
+House | pos=(-188.56, -29.63, 0.00) scale=(2.84, 2.84, 2.84) active=True | PolygonCollider2D:True
 Coral village home | pos=(-196.06, -30.17, 0.00) scale=(2.41, 2.41, 2.41) active=True | PolygonCollider2D:True
 Coral village home | pos=(-216.14, -30.41, 0.00) scale=(2.65, 2.65, 2.65) active=True | PolygonCollider2D:True
 Coral village home | pos=(-207.15, -29.41, 0.00) scale=(3.19, 3.19, 3.19) active=True | PolygonCollider2D:True
@@ -96,3 +96,4 @@ Occasional distant shoals | pos=(0.00, 0.00, 0.00) scale=(1.00, 1.00, 1.00) acti
 Ocean expansion • preserved layout | pos=(0.00, 0.00, 0.00) scale=(1.00, 1.00, 1.00) active=True | 
 Distant ocean life • schools and whales | pos=(0.00, 0.00, 0.00) scale=(1.00, 1.00, 1.00) active=True | 
 Shore and grounded seabed | pos=(0.00, 0.00, 0.00) scale=(1.00, 1.00, 1.00) active=True | 
+Underwater day • dead fish discovery | pos=(0.00, 0.00, 0.00) scale=(1.00, 1.00, 1.00) active=True | 

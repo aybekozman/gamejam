@@ -1,0 +1,1 @@
+PASS Authored House preserved; scene transition deferred. Rise speed 1.8, mayor pitch matches player, three belly-up bodies.
