@@ -5,6 +5,7 @@ using TMPro;
 public sealed class OrbRewardToggleView : MonoBehaviour, IPointerClickHandler
 {
     public OrbRewardMode owner;
+    public ShipUIManager lootMode;
     public RectTransform thumb;
     public UnityEngine.UI.Image accent, energyIcon, xpIcon;
     public Sprite energyFill, xpFill;
@@ -12,6 +13,7 @@ public sealed class OrbRewardToggleView : MonoBehaviour, IPointerClickHandler
     [Min(.01f)] public float slideDuration=.16f;
     RectTransform track;
     float targetX;
+    bool lastLootingXP;
     void Awake() { track=(RectTransform)transform; }
     void OnEnable()
     {
@@ -25,7 +27,8 @@ public sealed class OrbRewardToggleView : MonoBehaviour, IPointerClickHandler
     {
         if(!track) track=(RectTransform)transform;
         if(!thumb) return;
-        bool left=owner && owner.CurrentMode==OrbRewardMode.RewardKind.Energy;
+        if(lootMode) lastLootingXP=lootMode.isLootingXP;
+        bool left=lootMode ? !lootMode.isLootingXP : owner && owner.CurrentMode==OrbRewardMode.RewardKind.Energy;
         targetX=left?8:track.rect.width-thumb.rect.width-8;
         if(instant) thumb.anchoredPosition=new Vector2(targetX,0);
         if(accent) accent.sprite=left?energyFill:xpFill;
@@ -38,14 +41,23 @@ public sealed class OrbRewardToggleView : MonoBehaviour, IPointerClickHandler
     }
     void Update()
     {
+        if(lootMode && lootMode.isLootingXP!=lastLootingXP) Refresh(false);
         if(!thumb) return;
         float distance=Mathf.Max(1,track.rect.width-thumb.rect.width-16);
         thumb.anchoredPosition=new Vector2(Mathf.MoveTowards(thumb.anchoredPosition.x,targetX,distance*Time.deltaTime/slideDuration),0);
     }
     public void OnPointerClick(PointerEventData data)
     {
-        if(!owner || data.button!=PointerEventData.InputButton.Left) return;
+        if(data.button!=PointerEventData.InputButton.Left || Time.timeScale<=0) return;
         if(RectTransformUtility.ScreenPointToLocalPointInRectangle(track,data.position,data.pressEventCamera,out var local))
-            owner.TrySelectMode(local.x<track.rect.center.x?OrbRewardMode.RewardKind.Energy:OrbRewardMode.RewardKind.Experience);
+        {
+            bool xp=local.x>=track.rect.center.x;
+            if(lootMode)
+            {
+                if(lootMode.isLootingXP!=xp) lootMode.ToggleLootMode();
+                Refresh(false);
+            }
+            else if(owner) owner.TrySelectMode(xp?OrbRewardMode.RewardKind.Experience:OrbRewardMode.RewardKind.Energy);
+        }
     }
 }
