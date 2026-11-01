@@ -1,0 +1,11 @@
+Reference: 0cd6cdf89930a069c0691d662b53d836dba0233b
+PASS direct native scene; integration passive
+PASS native camera tracks native ship
+PASS same native movement and consumption via actual controls ((0.00, 0.00, 0.00) -> (1.34, 1.27, 0.00), 100 -> 99,37086)
+PASS native HUD reacts to actual damage
+PASS real orb gives energy through native magnet
+PASS real orb gives native upgrade XP
+PASS native HUD energy and XP display real state
+PASS native automatic targeting creates real projectiles
+PASS native HUD text references retained
+PASS no runtime errors in native smoke checks

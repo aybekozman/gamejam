@@ -1,0 +1,7 @@
+{
+  "reference": "0cd6cdf89930a069c0691d662b53d836dba0233b",
+  "different_ship_files": [
+    "Assets\\Scripts\\Ship\\PlayerHealth.cs"
+  ],
+  "underwater_scene_unchanged": true
+}

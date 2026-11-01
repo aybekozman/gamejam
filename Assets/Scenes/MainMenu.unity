@@ -152,7 +152,7 @@ MonoBehaviour:
   canvas: {fileID: 0}
   root: {fileID: 0}
   font: {fileID: 0}
-  gameTitle: 
+  gameTitle: Remnants of the Sea
 --- !u!4 &172339543
 Transform:
   m_ObjectHideFlags: 0

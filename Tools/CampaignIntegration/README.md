@@ -1,3 +1,5 @@
+> GEÇERSİZ ESKİ KAPSAM: Bu klasördeki tank/teslimat testleri önceki entegrasyona aittir ve güncel doğrulama değildir. Güncel kapsam ve yeni testler: `Tools/ShipRestore/REPORT.md`.
+
 # Gemi / su altı entegrasyonu
 
 Gerçek gemi sahnesi: `Assets/Scenes/ShipScene 1.unity`. Yeni gemi sahnesi kopyalanmadı.

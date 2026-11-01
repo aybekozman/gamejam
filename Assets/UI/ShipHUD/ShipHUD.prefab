@@ -2542,7 +2542,6 @@ GameObject:
   - component: {fileID: 3294065133843976039}
   - component: {fileID: 5586489240991845516}
   - component: {fileID: 2668256371161956600}
-  - component: {fileID: 2317601079133291843}
   m_Layer: 5
   m_Name: ShipHUD
   m_TagString: Untagged
@@ -2633,36 +2632,6 @@ MonoBehaviour:
   m_BlockingMask:
     serializedVersion: 2
     m_Bits: 4294967295
---- !u!114 &2317601079133291843
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 7568254041077681099}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 8c678b01a4141bb4f8f762cb2a8c5d52, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::ShipHUDController
-  ship: {fileID: 0}
-  health: {fileID: 0}
-  energy: {fileID: 0}
-  experience: {fileID: 0}
-  healthFill: {fileID: 2698467919415248893}
-  energyFill: {fileID: 9070699249245775361}
-  xpFill: {fileID: 5513630508071339569}
-  dashFills:
-  - {fileID: 8516765919622471181}
-  - {fileID: 2353750888032116819}
-  - {fileID: 3168864516838655600}
-  healthText: {fileID: 9071089529323797062}
-  energyText: {fileID: 889342708133976030}
-  xpText: {fileID: 8838913663063008065}
-  levelText: {fileID: 3420411110716138786}
-  compassNeedle: {fileID: 9088911036016409833}
-  safeArea: {fileID: 2272073363012304704}
-  hudFont: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
 --- !u!1 &7650997499975472061
 GameObject:
   m_ObjectHideFlags: 0

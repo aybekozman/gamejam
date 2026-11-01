@@ -1,0 +1,34 @@
+Reference: 0cd6cdf89930a069c0691d662b53d836dba0233b
+PASS direct ShipScene 1 has passive story integration
+PASS native initial enemies spawn
+PASS native HUD and UI Toolkit references present
+PASS native movement and energy consumption ((0.00, 0.00, 0.00) -> (1.07, 3.84, 0.00), energy 100 -> 99,19741)
+PASS native Space orb selection
+PASS native UI Toolkit card selection pauses play
+PASS native card applies and resumes
+PASS direct ship keeps native death behavior
+PASS New Game begins underwater
+PASS first interlude is dialogue only
+PASS interlude returns to announcement
+PASS campaign entry preserves native gameplay tuning and enemy pool
+PASS ship exists
+PASS control restored after one-time story
+PASS manual pause does not advance boundary timer
+PASS native card selection does not advance timer
+PASS time boundary stops native production
+PASS surviving enemies prevent completion
+PASS no new spawn after native interval; existing enemies retained
+PASS clearing combatants completes once and opens third underwater chapter
+PASS third underwater chapter restored
+PASS campaign death restarts same chapter with fresh timer
+PASS retry uses native starting tuning
+PASS time boundary stops native production
+PASS surviving enemies prevent completion
+PASS shark cleanup enters whale chapter
+PASS time boundary stops native production
+PASS surviving enemies prevent completion
+PASS final-only damage protection
+PASS real final completion reaches white flag and ending choices
+PASS menu returns with clean time scale
+PASS no runtime errors in current verification
+Runtime limits shortened for verification only; enemies killed through native damage API. Not full human balance testing.

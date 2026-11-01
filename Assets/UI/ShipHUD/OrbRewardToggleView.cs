@@ -5,7 +5,6 @@ using TMPro;
 public sealed class OrbRewardToggleView : MonoBehaviour, IPointerClickHandler
 {
     public OrbRewardMode owner;
-    public ShipUIManager shipProgress;
     public RectTransform thumb;
     public UnityEngine.UI.Image accent, energyIcon, xpIcon;
     public Sprite energyFill, xpFill;
@@ -26,7 +25,7 @@ public sealed class OrbRewardToggleView : MonoBehaviour, IPointerClickHandler
     {
         if(!track) track=(RectTransform)transform;
         if(!thumb) return;
-        bool left=shipProgress?!shipProgress.isLootingXP:owner && owner.CurrentMode==OrbRewardMode.RewardKind.Energy;
+        bool left=owner && owner.CurrentMode==OrbRewardMode.RewardKind.Energy;
         targetX=left?8:track.rect.width-thumb.rect.width-8;
         if(instant) thumb.anchoredPosition=new Vector2(targetX,0);
         if(accent) accent.sprite=left?energyFill:xpFill;
@@ -40,17 +39,13 @@ public sealed class OrbRewardToggleView : MonoBehaviour, IPointerClickHandler
     void Update()
     {
         if(!thumb) return;
-        if(shipProgress)Refresh(false);
         float distance=Mathf.Max(1,track.rect.width-thumb.rect.width-16);
         thumb.anchoredPosition=new Vector2(Mathf.MoveTowards(thumb.anchoredPosition.x,targetX,distance*Time.deltaTime/slideDuration),0);
     }
     public void OnPointerClick(PointerEventData data)
     {
-        if((!owner&&!shipProgress) || Time.timeScale<=0 || data.button!=PointerEventData.InputButton.Left) return;
+        if(!owner || data.button!=PointerEventData.InputButton.Left) return;
         if(RectTransformUtility.ScreenPointToLocalPointInRectangle(track,data.position,data.pressEventCamera,out var local))
-            {
-                if(shipProgress){bool xp=local.x>=track.rect.center.x;if(shipProgress.isLootingXP!=xp)shipProgress.ToggleLootMode();Refresh(false);}
-                else owner.TrySelectMode(local.x<track.rect.center.x?OrbRewardMode.RewardKind.Energy:OrbRewardMode.RewardKind.Experience);
-            }
+            owner.TrySelectMode(local.x<track.rect.center.x?OrbRewardMode.RewardKind.Energy:OrbRewardMode.RewardKind.Experience);
     }
 }

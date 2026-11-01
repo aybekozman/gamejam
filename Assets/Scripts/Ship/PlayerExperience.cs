@@ -14,7 +14,6 @@ public sealed class PlayerExperience : MonoBehaviour
         System.Math.Round(baseRequiredXP * System.Math.Pow(System.Math.Max(1,requirementGrowth),playerLevel-1),System.MidpointRounding.AwayFromZero)));
     public event System.Action<long,int,int> ExperienceChanged;
     public event System.Action<int> LevelUp;
-    public void RestoreCampaignProgress(int level,long xp){playerLevel=level;currentXP=xp;ExperienceChanged?.Invoke(currentXP,RequiredXP,playerLevel);}
     public void AddExperience(int amount)
     {
         if (amount <= 0) return;

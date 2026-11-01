@@ -24,6 +24,9 @@ public class ShipController : MonoBehaviour
     public float dashSpeed = 24f;
     public float dashDuration = 0.2f;
     public float dashCooldown = 1f;
+    public int maxDashCharges = 3;
+    public float currentDash = 3f;
+    public float dashRegenRate = 0.5f;
     [SerializeField, Min(1)] private int dashCapacity = 3;
 
     [Header("Kamera Zoom (FOV) Ayarları")]
@@ -40,13 +43,11 @@ public class ShipController : MonoBehaviour
     {
         get
         {
-            EnsureDashSlots();
-            int ready = 0;
-            for (int i = 0; i < dashRemaining.Length; i++)
+            if (uiManager != null)
             {
-                if (dashRemaining[i] <= 0f) ready++;
+                return Mathf.FloorToInt(uiManager.currentDash);
             }
-            return ready;
+            return Mathf.FloorToInt(currentDash);
         }
     }
 
@@ -73,6 +74,7 @@ public class ShipController : MonoBehaviour
         rb.linearDamping = 1.5f;
 
         currentEnergy = maxEnergy;
+        currentDash = maxDashCharges;
         EnsureDashSlots();
 
         playerHealth = GetComponent<PlayerHealth>();
@@ -139,7 +141,17 @@ public class ShipController : MonoBehaviour
             SyncEnergyUI();
         }
 
-        // Dash slotlarının bağımsız dolum sayaçları
+        // Dash dolumu: uiManager atanmışsa onun currentDash değerini senkronize tut, atanmamışsa kendi içinde doldur
+        if (uiManager != null)
+        {
+            currentDash = uiManager.currentDash;
+            maxDashCharges = uiManager.maxDashCharges;
+        }
+        else if (currentDash < maxDashCharges)
+        {
+            currentDash = Mathf.Min(maxDashCharges, currentDash + dashRegenRate * Time.deltaTime);
+        }
+
         EnsureDashSlots();
         if (Time.deltaTime > 0f)
         {
@@ -244,22 +256,31 @@ public class ShipController : MonoBehaviour
             return false;
         }
 
+        // Tüketim mantığı: currentDash >= 1f kontrolü ve tam 1 birim düşürme
+        if (uiManager != null)
+        {
+            if (uiManager.currentDash < 1f) return false;
+            uiManager.ConsumeDash();
+            currentDash = uiManager.currentDash;
+        }
+        else
+        {
+            if (currentDash < 1f) return false;
+            currentDash -= 1f;
+        }
+
         EnsureDashSlots();
-        int availableSlot = -1;
         for (int i = 0; i < dashRemaining.Length; i++)
         {
             if (dashRemaining[i] <= 0f)
             {
-                availableSlot = i;
+                dashRemaining[i] = Mathf.Max(0.01f, dashCooldown);
                 break;
             }
         }
 
-        if (availableSlot < 0) return false;
-
         IsDashing = true;
         dashTimeCounter = dashDuration;
-        dashRemaining[availableSlot] = Mathf.Max(0.01f, dashCooldown);
         dashDirection = direction.normalized;
         return true;
     }
@@ -267,6 +288,8 @@ public class ShipController : MonoBehaviour
     public void SetDashCapacity(int capacity)
     {
         dashCapacity = Mathf.Max(1, capacity);
+        maxDashCharges = dashCapacity;
+        currentDash = Mathf.Min(currentDash, maxDashCharges);
         dashRemaining = new float[dashCapacity];
     }
 
@@ -279,14 +302,12 @@ public class ShipController : MonoBehaviour
     }
 
     /// <summary>
-    /// Belirtilen dash slotunun dolum oranını (0 ile 1 arası float) döndürür (ShipHUDController uyumu).
+    /// Belirtilen dash slotunun dolum oranını (0 ile 1 arası float) döndürür.
     /// </summary>
     public float GetDashProgress(int slotIndex)
     {
-        EnsureDashSlots();
-        if (slotIndex < 0 || slotIndex >= dashRemaining.Length) return 0f;
-        if (dashCooldown <= 0f) return 1f;
-        return Mathf.Clamp01(1f - (dashRemaining[slotIndex] / dashCooldown));
+        float activeDash = uiManager != null ? uiManager.currentDash : currentDash;
+        return Mathf.Clamp01(activeDash - slotIndex);
     }
 
     public float GetDashRemaining(int slotIndex = 0)

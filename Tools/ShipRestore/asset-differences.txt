@@ -1,0 +1,107 @@
+R067	Assets/_Recovery/0 (1).unity.meta	Assets/Campaign.meta
+A	Assets/Campaign/CampaignDeliveryVerification.cs
+A	Assets/Campaign/CampaignDeliveryVerification.cs.meta
+A	Assets/Campaign/CampaignFlow.cs
+A	Assets/Campaign/CampaignFlow.cs.meta
+A	Assets/Campaign/CampaignMenu.cs
+A	Assets/Campaign/CampaignMenu.cs.meta
+A	Assets/Campaign/CampaignPreferenceVerification.cs
+A	Assets/Campaign/CampaignPreferenceVerification.cs.meta
+A	Assets/Campaign/CampaignUI.cs
+A	Assets/Campaign/CampaignUI.cs.meta
+A	Assets/Campaign/CampaignVerification.cs
+A	Assets/Campaign/CampaignVerification.cs.meta
+A	Assets/Campaign/Editor.meta
+A	Assets/Campaign/Editor/CampaignSetup.cs
+A	Assets/Campaign/Editor/CampaignSetup.cs.meta
+A	Assets/Campaign/Pixelify SDF.asset
+A	Assets/Campaign/Pixelify SDF.asset.meta
+A	Assets/Campaign/Resources.meta
+A	Assets/Campaign/Resources/Campaign.meta
+A	Assets/Campaign/Resources/Campaign/OFL.txt
+R062	Assets/Prefabs/Experience_Orb_Value_17-36_0.prefab.meta	Assets/Campaign/Resources/Campaign/OFL.txt.meta
+A	Assets/Campaign/Resources/Campaign/PixelifySans.ttf
+A	Assets/Campaign/Resources/Campaign/PixelifySans.ttf.meta
+A	Assets/Campaign/Resources/Campaign/button.png
+A	Assets/Campaign/Resources/Campaign/button.png.meta
+A	Assets/Campaign/Resources/Campaign/button_hover.png
+A	Assets/Campaign/Resources/Campaign/button_hover.png.meta
+A	Assets/Campaign/Resources/Campaign/button_pressed.png
+A	Assets/Campaign/Resources/Campaign/button_pressed.png.meta
+A	Assets/Campaign/Resources/Campaign/close.png
+A	Assets/Campaign/Resources/Campaign/close.png.meta
+A	Assets/Campaign/Resources/Campaign/flag_0.png
+A	Assets/Campaign/Resources/Campaign/flag_0.png.meta
+A	Assets/Campaign/Resources/Campaign/flag_1.png
+A	Assets/Campaign/Resources/Campaign/flag_1.png.meta
+A	Assets/Campaign/Resources/Campaign/flag_2.png
+A	Assets/Campaign/Resources/Campaign/flag_2.png.meta
+A	Assets/Campaign/Resources/Campaign/flag_3.png
+A	Assets/Campaign/Resources/Campaign/flag_3.png.meta
+A	Assets/Campaign/Resources/Campaign/harbor.png
+A	Assets/Campaign/Resources/Campaign/harbor.png.meta
+A	Assets/Campaign/Resources/Campaign/mayor_portrait.png
+A	Assets/Campaign/Resources/Campaign/mayor_portrait.png.meta
+A	Assets/Campaign/Resources/Campaign/menu_ocean.png
+A	Assets/Campaign/Resources/Campaign/menu_ocean.png.meta
+A	Assets/Campaign/Resources/Campaign/settings.png
+A	Assets/Campaign/Resources/Campaign/settings.png.meta
+A	Assets/Campaign/Resources/Campaign/ship_dialogue_left.png
+A	Assets/Campaign/Resources/Campaign/ship_dialogue_left.png.meta
+A	Assets/Campaign/Resources/Campaign/ship_dialogue_right.png
+A	Assets/Campaign/Resources/Campaign/ship_dialogue_right.png.meta
+A	Assets/Campaign/Resources/Campaign/slider.png
+A	Assets/Campaign/Resources/Campaign/slider.png.meta
+A	Assets/Campaign/Resources/Campaign/slider_fill.png
+A	Assets/Campaign/Resources/Campaign/slider_fill.png.meta
+A	Assets/Campaign/Resources/Campaign/slider_knob.png
+A	Assets/Campaign/Resources/Campaign/slider_knob.png.meta
+A	Assets/Campaign/Resources/Campaign/sound.png
+A	Assets/Campaign/Resources/Campaign/sound.png.meta
+A	Assets/Campaign/Resources/Campaign/title.png
+A	Assets/Campaign/Resources/Campaign/title.png.meta
+A	Assets/Campaign/Resources/Campaign/town.png
+A	Assets/Campaign/Resources/Campaign/town.png.meta
+A	Assets/Campaign/ShipCampaignDirector.cs
+A	Assets/Campaign/ShipCampaignDirector.cs.meta
+D	Assets/Experience_Orb_Value_17-36.png
+M	Assets/Prefabs/Enemies/Enemy_Blue_Fish.prefab
+M	Assets/Prefabs/Enemies/Enemy_Blue_Sharp_Fish.prefab
+M	Assets/Prefabs/Enemies/Enemy_Orca.prefab
+M	Assets/Prefabs/Enemies/Enemy_Pink_Fish.prefab
+M	Assets/Prefabs/Enemies/Enemy_Shark.prefab
+M	Assets/Prefabs/Enemies/Enemy_SharkTopDown.prefab
+M	Assets/Prefabs/Enemies/Enemy_Whale.prefab
+M	Assets/Prefabs/Enemies/Enemy_Yellow_Fish.prefab
+D	Assets/Prefabs/Experience_Orb_Value_17-36_0.prefab
+M	Assets/Prefabs/Loot.prefab
+M	Assets/Prefabs/Top mermisi.prefab
+A	Assets/Scenes/MainMenu.unity
+R074	Assets/Scenes/ShipScene 2.unity.meta	Assets/Scenes/MainMenu.unity.meta
+M	Assets/Scenes/ShipScene 1.unity
+D	Assets/Scenes/ShipScene 2.unity
+M	Assets/Scenes/UnderwaterWorld.unity
+M	Assets/Scripts/Ship/EnemySpawner.cs
+M	Assets/Scripts/Ship/Loot.cs
+M	Assets/Scripts/Ship/LootMagnet.cs
+M	Assets/Scripts/Ship/PlayerExperience.cs
+M	Assets/Scripts/Ship/PlayerHealth.cs
+M	Assets/Scripts/Ship/ShipController.cs
+M	Assets/Scripts/Ship/ShipUIManager.cs
+M	Assets/Scripts/Ship/Turret.cs
+A	"Assets/Sprites/Beyaz teslim bayra\304\237\304\261 sprite sayfas\304\261-2.png"
+A	"Assets/Sprites/Beyaz teslim bayra\304\237\304\261 sprite sayfas\304\261-2.png.meta"
+A	"Assets/Sprites/Kurumu\305\237 Nehirli K\304\261y\304\261 K\303\266y\303\274.png"
+A	"Assets/Sprites/Kurumu\305\237 Nehirli K\304\261y\304\261 K\303\266y\303\274.png.meta"
+A	"Assets/Sprites/Piksel sanatl\304\261 denizcilik men\303\274 aray\303\274z\303\274-1.png"
+A	"Assets/Sprites/Piksel sanatl\304\261 denizcilik men\303\274 aray\303\274z\303\274-1.png.meta"
+A	"Assets/Sprites/Terrakota \303\207at\304\261l\304\261 Piksel Liman\304\261.png"
+R075	Assets/Experience_Orb_Value_17-36.png.meta	"Assets/Sprites/Terrakota \303\207at\304\261l\304\261 Piksel Liman\304\261.png.meta"
+M	Assets/UI/ShipHUD/OrbRewardToggleView.cs
+M	Assets/UI/ShipHUD/ShipHUD.prefab
+M	Assets/UI/ShipHUD/ShipHUDController.cs
+M	Assets/Underwater/Story/UnderwaterDayStory.cs
+M	Assets/Underwater/Story/UnderwaterSceneAudio.cs
+M	Assets/Underwater/Story/UnderwaterStoryUI.cs
+M	Assets/Underwater/Story/WarEnvironment.cs
+D	Assets/_Recovery/0 (1).unity
