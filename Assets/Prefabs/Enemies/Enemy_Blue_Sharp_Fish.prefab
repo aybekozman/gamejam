@@ -134,12 +134,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d9d5255160e83fa4ea2f50eb1856409e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Enemy
+  player: {fileID: 0}
   stats: {fileID: 11400000, guid: 87270081e009de245858c198e815217c, type: 2}
   knockbackDuration: 0.3
   hitStunDuration: 0.2
   flashDuration: 0.05
   flashCount: 3
-  lootPrefab: {fileID: 3742351204053944340, guid: e274f903f0e9a614eac3c0044b66a4b5, type: 3}
+  lootPrefab: {fileID: 5829750467236916883, guid: 6853ee42a3d19ed41896e8fc63f7ee1b, type: 3}
   rotationOffset: -90
 --- !u!114 &4451301963454186104
 MonoBehaviour:
@@ -153,6 +154,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6e552da4a96f0d14cbe7dfda48699f2e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::EnemyFishVisual
+  ship: {fileID: 0}
+  shipCollider: {fileID: 0}
   swimFrames:
   - {fileID: -6249642390769990858, guid: 735ea593c4aeba946ad633bd1e80be47, type: 3}
   - {fileID: -8033320266941140917, guid: 735ea593c4aeba946ad633bd1e80be47, type: 3}

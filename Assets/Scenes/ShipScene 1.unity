@@ -989,17 +989,21 @@ MonoBehaviour:
   playerHealth: {fileID: 1757584480}
   lootMagnet: {fileID: 1757584483}
   healthFill: {fileID: 1509468978}
-  dashFill: {fileID: 0}
+  dashFills:
+  - {fileID: 1386912204}
+  - {fileID: 646272449}
+  - {fileID: 1734364878}
   energyFill: {fileID: 1509468976}
   xpFill: {fileID: 1509468974}
   healthText: {fileID: 47516376}
   energyText: {fileID: 1362071264}
   xpText: {fileID: 775626163}
   modeText: {fileID: 2013865335}
+  levelText: {fileID: 0}
   xpBarContainer: {fileID: 1509468975}
   energyBarContainer: {fileID: 1509468977}
   compassNeedle: {fileID: 1423148069}
-  modeToggle: {fileID: 0}
+  levelUpDocument: {fileID: 1585977641}
   isLootingXP: 1
   currentLevel: 1
   currentXP: 0
@@ -1008,33 +1012,8 @@ MonoBehaviour:
   xpGainMultiplier: 1
   nextLevelXP: 0
   upgradePool: []
-  levelUpOverlay: {fileID: 0}
-  levelUpTitle: {fileID: 0}
-  levelUpSubtitle: {fileID: 0}
-  cardButtons:
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  cardTierBadges:
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  cardTierTexts:
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  cardIcons:
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  cardTitles:
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  cardDescs:
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
+  maxDashCharges: 3
+  currentDash: 3
   dashRegenRate: 20
   dashCostMultiplier: 1
 --- !u!4 &630805028
@@ -1052,6 +1031,17 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &646272449 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 2353750888032116819, guid: 3e4c06280db2291478c7d8031bdc3368, type: 3}
+  m_PrefabInstance: {fileID: 1509468972}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.Image
 --- !u!1 &671062976
 GameObject:
   m_ObjectHideFlags: 0
@@ -2446,6 +2436,17 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
+--- !u!114 &1386912204 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 8516765919622471181, guid: 3e4c06280db2291478c7d8031bdc3368, type: 3}
+  m_PrefabInstance: {fileID: 1509468972}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.Image
 --- !u!224 &1423148069 stripped
 RectTransform:
   m_CorrespondingSourceObject: {fileID: 9088911036016409833, guid: 3e4c06280db2291478c7d8031bdc3368, type: 3}
@@ -2988,6 +2989,61 @@ Transform:
   - {fileID: 1188391752}
   m_Father: {fileID: 1353055489}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1585977640
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1585977642}
+  - component: {fileID: 1585977641}
+  m_Layer: 0
+  m_Name: LootUI
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1585977641
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1585977640}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 19102, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: UnityEngine.dll::UnityEngine.UIElements.UIDocument
+  m_PanelSettings: {fileID: 11400000, guid: b240d2014ea801b4f879339fbabbdf0b, type: 2}
+  m_ParentUI: {fileID: 0}
+  sourceAsset: {fileID: 9197481963319205126, guid: c4cbb8dcac62b984ba7178c6980d53fb, type: 3}
+  m_SortingOrder: 0
+  m_Position: 0
+  m_WorldSpaceSizeMode: 1
+  m_WorldSpaceWidth: 1920
+  m_WorldSpaceHeight: 1080
+  m_PivotReferenceSize: 0
+  m_Pivot: 0
+  m_WorldSpaceCollider: {fileID: 0}
+--- !u!4 &1585977642
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1585977640}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0.96139, y: 3.12331, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1652056166
 GameObject:
   m_ObjectHideFlags: 0
@@ -3284,6 +3340,17 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
+--- !u!114 &1734364878 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 3168864516838655600, guid: 3e4c06280db2291478c7d8031bdc3368, type: 3}
+  m_PrefabInstance: {fileID: 1509468972}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.Image
 --- !u!1 &1757312184
 GameObject:
   m_ObjectHideFlags: 0
@@ -3424,6 +3491,9 @@ MonoBehaviour:
   dashSpeed: 24
   dashDuration: 1
   dashCooldown: 1
+  maxDashCharges: 3
+  currentDash: 3
+  dashRegenRate: 0.5
   dashCapacity: 3
   vcam: {fileID: 671062978}
   idleZoom: 15
@@ -4124,3 +4194,4 @@ SceneRoots:
   - {fileID: 1509468972}
   - {fileID: 380383021}
   - {fileID: 1652056170}
+  - {fileID: 1585977642}
