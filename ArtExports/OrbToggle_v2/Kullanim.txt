@@ -1,0 +1,37 @@
+ENERJİ / XP KAYDIRMALI SEÇİCİ — PNG PAKETİ
+
+Toggle_Panel.png          512 x 64    Sabit ahşap/altın panel. Sol ENERJİ, sağ XP.
+Toggle_Kayan_Cerceve.png  220 x 40    Ayrı kayan altın çerçeve. Ortası ve dışı şeffaf.
+Durum_Enerji.png          512 x 64    Sol seçim birleşik önizlemesi / hazır durum PNG'si.
+Durum_XP.png              512 x 64    Sağ seçim birleşik önizlemesi / hazır durum PNG'si.
+
+Gerçek kayma için Panel + Kayan Çerçeve dosyalarını ayrı kullan.
+İki Durum dosyası kaydırma animasyonu içermez; görünümü göstermek veya doğrudan durum görseli olarak kullanmak içindir.
+
+UNITY İÇİN
+Texture Type: Sprite (2D and UI)
+Sprite Mode: Single
+Filter Mode: Point (no filter)
+Generate Mip Maps: Off
+Compression: None
+Alpha Is Transparency: On
+Pivot: Center
+Image Type: Simple
+
+512x64 panelde çerçeve 220x40 ölçüsünde kalır.
+Çerçeve pivotu ve anchor'ı ortada olduğunda:
+ENERJİ konumu: anchoredPosition = (-128, 0)
+XP konumu:     anchoredPosition = ( 128, 0)
+Üstten ölçülen karşılıklar: sol (18,12), sağ (274,12).
+İki uç arasında X konumunu kaydır; Y sabit kalır.
+Başka ölçü kullanırsan bütün ölçüleri aynı oranla değiştir.
+
+uGUI Slider ile: Min 0, Max 1, Whole Numbers açık, Direction Left To Right.
+Panel Image sabit arka plan; çerçeve Image Handle Rect olur.
+Ortalanmış Handle Slide Area genişliği 256, yüksekliği 40 olabilir.
+Fill Rect gerekmez. 0 Enerji, 1 XP olarak kendi oyun koduna bağla.
+PNG'ler tek başına orb davranışını değiştirmez.
+
+Paket sahneye veya mevcut koda otomatik eklenmedi.
+Görseller yerleşik image_gen ile üretildi; saydam kenar boşlukları kırpıldı,
+oyun boyutlarına Point/nearest örneklemeyle hazırlandı ve iki durum önizlemesi oluşturuldu.

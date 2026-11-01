@@ -334,6 +334,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d55a235f484b2454eb6dff6ae4657d50, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::EnemySpawner
+  playerTransform: {fileID: 0}
+  playerCollider: {fileID: 0}
   initialSpawnCount: 12
   spawnInterval: 2
   spawnRadius: 15
@@ -1142,6 +1144,10 @@ MonoBehaviour:
   waveStrength: 0.65
   waveSpeed: 0.8
   coverageMargin: 12
+  crestDisplacementPixels: 1.25
+  crestSpeed: 1.1
+  crestShimmer: 0.14
+  crestFramesPerSecond: 6
 --- !u!1 &850823292
 GameObject:
   m_ObjectHideFlags: 0
@@ -1682,6 +1688,26 @@ PrefabInstance:
       propertyPath: m_TextStyleHashCode
       value: -1183493901
       objectReference: {fileID: 0}
+    - target: {fileID: 4303914189027299360, guid: 3e4c06280db2291478c7d8031bdc3368, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 4303914189027299360, guid: 3e4c06280db2291478c7d8031bdc3368, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 1.6
+      objectReference: {fileID: 0}
+    - target: {fileID: 4303914189027299360, guid: 3e4c06280db2291478c7d8031bdc3368, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 198.04
+      objectReference: {fileID: 0}
+    - target: {fileID: 4303914189027299360, guid: 3e4c06280db2291478c7d8031bdc3368, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 712.4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4303914189027299360, guid: 3e4c06280db2291478c7d8031bdc3368, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -19.9
+      objectReference: {fileID: 0}
     - target: {fileID: 4788271984315974000, guid: 3e4c06280db2291478c7d8031bdc3368, type: 3}
       propertyPath: m_fontColor32.rgba
       value: 4286224035
@@ -1701,6 +1727,14 @@ PrefabInstance:
     - target: {fileID: 7568254041077681099, guid: 3e4c06280db2291478c7d8031bdc3368, type: 3}
       propertyPath: m_Name
       value: ShipHUDCanvas
+      objectReference: {fileID: 0}
+    - target: {fileID: 8712626225379570555, guid: 3e4c06280db2291478c7d8031bdc3368, type: 3}
+      propertyPath: m_fontColor32.rgba
+      value: 4291621631
+      objectReference: {fileID: 0}
+    - target: {fileID: 8712626225379570555, guid: 3e4c06280db2291478c7d8031bdc3368, type: 3}
+      propertyPath: m_TextStyleHashCode
+      value: -1183493901
       objectReference: {fileID: 0}
     - target: {fileID: 8838913663063008065, guid: 3e4c06280db2291478c7d8031bdc3368, type: 3}
       propertyPath: m_fontColor32.rgba
@@ -2693,6 +2727,57 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::ShipUIManager
   shipTransform: {fileID: 0}
+  shipController: {fileID: 0}
+  shipWeapons: {fileID: 0}
+  playerHealth: {fileID: 0}
+  lootMagnet: {fileID: 0}
+  healthFill: {fileID: 0}
+  dashFill: {fileID: 0}
+  energyFill: {fileID: 0}
+  xpFill: {fileID: 0}
+  xpBarContainer: {fileID: 0}
+  energyBarContainer: {fileID: 0}
+  compass: {fileID: 0}
+  modeText: {fileID: 0}
+  modeToggle: {fileID: 0}
+  isLootingXP: 1
+  toggleBarVisibility: 1
+  currentLevel: 1
+  currentXP: 0
+  baseXP: 5
+  xpGrowthMultiplier: 1.5
+  xpGainMultiplier: 1
+  nextLevelXP: 0
+  upgradePool: []
+  levelUpOverlay: {fileID: 0}
+  levelUpTitle: {fileID: 0}
+  levelUpSubtitle: {fileID: 0}
+  cardButtons:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  cardTierBadges:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  cardTierTexts:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  cardIcons:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  cardTitles:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  cardDescs:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  dashRegenRate: 20
+  dashCostMultiplier: 1
 --- !u!114 &1454947112
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3323,14 +3408,19 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e98ca5bc8bf014a46908d09989fcd4e2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::ShipController
+  uiManager: {fileID: 0}
   acceleration: 30
   maxSpeed: 15
   turnSpeed: 5
   driftFactor: 0.95
+  maxEnergy: 100
+  currentEnergy: 100
+  energyDrainRate: 8
+  energyRegenRate: 0
   dashSpeed: 24
   dashDuration: 1
   dashCooldown: 3
-  maxDashCharges: 3
+  dashCapacity: 3
   vcam: {fileID: 671062978}
   idleZoom: 15
   moveZoom: 20
@@ -3447,7 +3537,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4a0f0d4345d8f0d45a56286c9073624d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PlayerHealth
+  uiManager: {fileID: 0}
   maxHealth: 100
+  healthRegen: 0
+  damageResistPercent: 0
   flashDuration: 0.1
   flashCount: 3
 --- !u!212 &1757584481
@@ -3521,6 +3614,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f4ab9be1141ddce4ab3218d4ad1f67f8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::ShipWeapons
+  shipController: {fileID: 0}
   shipLevel: 3
   fireRate: 0.5
   attackRange: 10
@@ -3548,8 +3642,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 666554e013fcb474abc01b3d8d6fb1a5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::LootMagnet
+  uiManager: {fileID: 0}
+  shipController: {fileID: 0}
   magnetRadius: 9.36
   pullSpeed: 8
+  collectDistance: 0.8
+  defaultXPValue: 1
+  defaultEnergyValue: 15
   lootLayer:
     serializedVersion: 2
     m_Bits: 128

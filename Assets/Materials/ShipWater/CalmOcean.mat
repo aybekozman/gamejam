@@ -34,10 +34,13 @@ Material:
     m_Ints: []
     m_Floats:
     - _OceanTime: 0
+    - _UseSpriteUV: 0
     m_Colors:
+    - _CrestMotion: {r: 1.25, g: 1.1, b: 0.14, a: 6}
     - _Flow: {r: 0.12, g: 0.03, b: 0.65, a: 0.8}
     - _OceanPixelSize: {r: 0.001953125, g: 0.0026041667, b: 512, a: 384}
     - _RepeatSize: {r: 80, g: 60, b: 0, a: 0}
+    - _SourceRect: {r: 0, g: 0, b: 1, a: 1}
     - _Tint: {r: 1, g: 1, b: 1, a: 1}
   m_BuildTextureStacks: []
   m_AllowLocking: 1
