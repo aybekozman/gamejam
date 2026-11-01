@@ -10,8 +10,8 @@ public class Enemy : MonoBehaviour
 
     [Header("Hareket Ayarları")]
     public float moveSpeed = 3f;
-    public float shipKnockbackForce = 10f; // Gemiye çarptığında ne kadar sekeceği
-    public float bulletKnockbackForce = 3f; // Mermi yediğinde ne kadar sekeceği
+    public float shipKnockbackForce = 10f;
+    public float bulletKnockbackForce = 3f;
     public float knockbackDuration = 0.3f;
 
     [Header("Hasar Verme Ayarları")]
@@ -20,13 +20,13 @@ public class Enemy : MonoBehaviour
 
     [Header("Efekt Ayarları")]
     public float flashDuration = 0.05f;
-    public int flashCount = 3; // Kaç kere yanıp söneceği
+    public int flashCount = 3;
 
     [Header("Ödül (Loot) Ayarları")]
-    public GameObject lootPrefab; // Düşecek ganimet
+    public GameObject lootPrefab;
 
     [Header("Görsel Ayarları")]
-    public float rotationOffset = 0f; // Yön düzeltme (örn: -90, 90, 180)
+    public float rotationOffset = 0f;
 
     private Transform player;
     private Rigidbody2D rb;
@@ -35,6 +35,7 @@ public class Enemy : MonoBehaviour
 
     private bool isKnockedBack;
     private bool isStunned;
+    private bool isDead = false; // Çifte ölümü engellemek için kilit
 
     void Start()
     {
@@ -55,45 +56,40 @@ public class Enemy : MonoBehaviour
 
     void FixedUpdate()
     {
-        if (player == null || isKnockedBack || isStunned)
+        if (player == null || isKnockedBack || isStunned || isDead)
         {
-            if (isStunned && !isKnockedBack) rb.linearVelocity = Vector2.zero;
+            if (isStunned && !isKnockedBack && rb != null) rb.linearVelocity = Vector2.zero;
             return;
         }
 
-        // Oyuncuyu takip etme
         Vector2 direction = (player.position - transform.position).normalized;
         rb.linearVelocity = direction * moveSpeed;
 
-        // Görsel dönüş hesaplaması
         float angle = Mathf.Atan2(direction.y, direction.x) * Mathf.Rad2Deg + rotationOffset;
         transform.rotation = Quaternion.Euler(0, 0, angle);
     }
 
     private void OnCollisionEnter2D(Collision2D collision)
     {
-        // Gemiye çarpma kontrolü
         IDamageable damageableObj = collision.gameObject.GetComponentInParent<IDamageable>();
 
-        if (damageableObj != null && !isKnockedBack)
+        if (damageableObj != null && !isKnockedBack && !isDead)
         {
             damageableObj.TakeDamage(damage);
-
             Vector2 knockbackDir = (transform.position - collision.transform.position).normalized;
-            // Gemi sekmesi gücü uygulanır
             StartCoroutine(KnockbackRoutine(knockbackDir, shipKnockbackForce));
         }
     }
 
-    // Mermiden veya dışarıdan alınan hasar
     public void TakeDamage(float damageAmount, Vector2 damageSourcePos)
     {
+        if (isDead) return; // Zaten öldüyse işlemi anında kes
+
         currentHealth -= damageAmount;
 
         if (!isKnockedBack)
         {
             Vector2 knockbackDir = ((Vector2)transform.position - damageSourcePos).normalized;
-            // Mermi sekmesi gücü uygulanır
             StartCoroutine(KnockbackRoutine(knockbackDir, bulletKnockbackForce));
         }
 
@@ -104,7 +100,11 @@ public class Enemy : MonoBehaviour
 
         if (currentHealth <= 0)
         {
-            if (lootPrefab != null) Instantiate(lootPrefab, transform.position, Quaternion.identity);
+            isDead = true; // Ölüm kilidini kapat
+            if (lootPrefab != null)
+            {
+                Instantiate(lootPrefab, transform.position, Quaternion.identity);
+            }
             Destroy(gameObject);
         }
     }
@@ -112,7 +112,7 @@ public class Enemy : MonoBehaviour
     private IEnumerator KnockbackRoutine(Vector2 direction, float force)
     {
         isKnockedBack = true;
-        rb.linearVelocity = direction * force;
+        if (rb != null) rb.linearVelocity = direction * force;
         yield return new WaitForSeconds(knockbackDuration);
         isKnockedBack = false;
     }
@@ -122,9 +122,9 @@ public class Enemy : MonoBehaviour
         isStunned = true;
         for (int i = 0; i < flashCount; i++)
         {
-            spriteRenderer.color = Color.red;
+            if (spriteRenderer != null) spriteRenderer.color = Color.red;
             yield return new WaitForSeconds(flashDuration);
-            spriteRenderer.color = originalColor;
+            if (spriteRenderer != null) spriteRenderer.color = originalColor;
             yield return new WaitForSeconds(flashDuration);
         }
         isStunned = false;

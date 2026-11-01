@@ -4,17 +4,21 @@ using UnityEngine;
 public class EnemySpawner : MonoBehaviour
 {
     [Header("Başlangıç Ayarları (Test İçin)")]
-    public int initialSpawnCount = 10; // Oyun başlar başlamaz bir kerede doğacak düşman sayısı
+    public int initialSpawnCount = 10;
 
     [Header("Zamanla Artış (Survivor Zorluk)")]
-    public float spawnInterval = 2f; // Dalga bekleme süresi
+    public float spawnInterval = 2f;
     public float spawnRadius = 15f;
-    public int enemiesPerWave = 1; // Her dalgada (2 saniyede bir) kaç düşman doğacak
-    public float difficultyIncreaseTimer = 15f; // Kaç saniyede bir düşman sayısı artacak
-    public int extraEnemiesPerUpgrade = 1; // Zorluk artışında dalgaya eklenecek ekstra düşman
+    public int enemiesPerWave = 1;
+    public float difficultyIncreaseTimer = 15f;
+    public int extraEnemiesPerUpgrade = 1;
 
-    [Header("Düşmanlar")]
-    public GameObject[] enemyPrefabs;
+    [Header("Düşman Havuzu ve Seçim")]
+    [Tooltip("Tikliyse tüm düşmanlardan rastgele seçer, tiksizse sadece alttaki Seçili Düşmanlar listesini kullanır.")]
+    public bool spawnRandom = true;
+
+    public GameObject[] allEnemyPrefabs; // Oyundaki tüm düşmanlar (Random açıksa buradan seçer)
+    public GameObject[] selectedEnemyPrefabs; // Sadece o bölüm çıkmasını istediklerin (Random kapalıysa buradan)
 
     private Camera mainCamera;
 
@@ -22,13 +26,11 @@ public class EnemySpawner : MonoBehaviour
     {
         mainCamera = Camera.main;
 
-        // 1. Oyun başladığı an test/aksiyon için toplu düşman doğur
         for (int i = 0; i < initialSpawnCount; i++)
         {
             SpawnEnemy();
         }
 
-        // Sürekli doğma ve zorluk artırma döngülerini başlat
         StartCoroutine(SpawnRoutine());
         StartCoroutine(DifficultyRoutine());
     }
@@ -39,7 +41,6 @@ public class EnemySpawner : MonoBehaviour
         {
             yield return new WaitForSeconds(spawnInterval);
 
-            // O anki zorluk seviyesi (enemiesPerWave) kadar düşman doğur
             for (int i = 0; i < enemiesPerWave; i++)
             {
                 SpawnEnemy();
@@ -52,23 +53,35 @@ public class EnemySpawner : MonoBehaviour
         while (true)
         {
             yield return new WaitForSeconds(difficultyIncreaseTimer);
-            enemiesPerWave += extraEnemiesPerUpgrade; // Her 15 saniyede bir, dalga başına düşen sayıyı artır
+            enemiesPerWave += extraEnemiesPerUpgrade;
         }
+    }
+
+    // İLERİSİ İÇİN: Bölüm bittiğinde UI üzerinden veya Level Manager ile yeni düşmanları buraya gönderebilirsin.
+    public void SetSelectedEnemies(GameObject[] newEnemies)
+    {
+        selectedEnemyPrefabs = newEnemies;
+        spawnRandom = false; // Yeni liste geldiğinde rastgele doğmayı otomatik kapat
     }
 
     private void SpawnEnemy()
     {
-        if (mainCamera == null || enemyPrefabs == null || enemyPrefabs.Length == 0) return;
+        if (mainCamera == null) return;
 
-        int randomIndex = Random.Range(0, enemyPrefabs.Length);
-        GameObject selectedEnemy = enemyPrefabs[randomIndex];
+        // Tikin durumuna göre hangi havuzdan düşman seçeceğimize karar veriyoruz
+        GameObject[] spawnPool = spawnRandom ? allEnemyPrefabs : selectedEnemyPrefabs;
+
+        // Seçilen havuz boşsa hata vermemesi için koruma
+        if (spawnPool == null || spawnPool.Length == 0) return;
+
+        int randomIndex = Random.Range(0, spawnPool.Length);
+        GameObject selectedEnemy = spawnPool[randomIndex];
 
         if (selectedEnemy == null) return;
 
         Vector2 cameraPos = mainCamera.transform.position;
         float randomAngle = Random.Range(0f, 360f);
 
-        // Matematiksel çarpım hatası düzeltildi
         Vector2 spawnDirection = new Vector2(Mathf.Cos(randomAngle * Mathf.Deg2Rad), Mathf.Sin(randomAngle * Mathf.Deg2Rad));
         Vector2 spawnPosition = cameraPos + (spawnDirection * spawnRadius);
 
