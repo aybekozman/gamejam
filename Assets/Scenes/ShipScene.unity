@@ -2958,14 +2958,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f4ab9be1141ddce4ab3218d4ad1f67f8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::ShipWeapons
-  shipLevel: 1
+  shipLevel: 3
   fireRate: 0.5
   attackRange: 10
   enemyLayer:
     serializedVersion: 2
     m_Bits: 64
-  maxShotsPerEnemy: 1
-  impulseSource: {fileID: 0}
+  maxShotsPerEnemy: 2
+  impulseSource: {fileID: 1757584484}
   allTurrets:
   - {fileID: 1379085523}
   - {fileID: 136895819}
@@ -3010,7 +3010,7 @@ MonoBehaviour:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    ImpulseDuration: 0.04
+    ImpulseDuration: 0.02
     ImpulseType: 0
     DissipationRate: 0.25
     RawSignal: {fileID: 0}
