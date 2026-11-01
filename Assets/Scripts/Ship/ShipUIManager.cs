@@ -1,96 +1,55 @@
 using UnityEngine;
 using UnityEngine.UIElements;
 
+/// <summary>Compatibility adapter for the existing UI Toolkit HUD in other scenes.
+/// Reads the same gameplay state as the new uGUI HUD; owns no cooldown or XP values.</summary>
 public class ShipUIManager : MonoBehaviour
 {
-    [Header("Gereksinimler")]
-    public Transform shipTransform; // Pusulanın dönmesi için ana gemiyi sürükle
-
-    [Header("Dash Ayarları")]
-    public float dashRegenRate = 20f;
-    private float currentDash = 100f;
-    private bool isDashing = false;
-
-    // Arayüz Elemanları
-    private VisualElement healthFill;
-    private VisualElement dashFill;
-    private VisualElement energyFill;
-    private VisualElement xpFill;
-
-    private VisualElement xpBarContainer;
-    private VisualElement energyBarContainer;
-
-    private VisualElement compass;
-    private Toggle modeToggle;
-
+    public Transform shipTransform;
+    ShipController ship;
+    PlayerHealth health;
+    PlayerEnergy energy;
+    PlayerExperience experience;
+    VisualElement healthFill, dashFill, energyFill, xpFill, xpContainer, energyContainer, needle;
+    Toggle modeToggle;
     void OnEnable()
     {
-        var root = GetComponent<UIDocument>().rootVisualElement;
-
-        // UXML'deki isimlere (name="") göre dolgu elemanlarını bul
-        healthFill = root.Q<VisualElement>("HealthFill");
-        dashFill = root.Q<VisualElement>("DashFill");
-        energyFill = root.Q<VisualElement>("EnergyFill");
-        xpFill = root.Q<VisualElement>("XPFill");
-
-        // Gizleyip göstermek için ana çerçeveleri bul
-        xpBarContainer = root.Q<VisualElement>("XPBarContainer");
-        energyBarContainer = root.Q<VisualElement>("EnergyBarContainer");
-
-        compass = root.Q<VisualElement>("Compass");
-        modeToggle = root.Q<Toggle>("ModeToggle");
-
-        // Toggle Mantığı: Tikliyse XP göster, değilse Enerji göster
-        modeToggle.RegisterValueChangedCallback(evt =>
+        if (!TryGetComponent<UIDocument>(out var document) || document.rootVisualElement==null) return;
+        if (shipTransform)
         {
-            bool showXP = evt.newValue;
-            xpBarContainer.style.display = showXP ? DisplayStyle.Flex : DisplayStyle.None;
-            energyBarContainer.style.display = showXP ? DisplayStyle.None : DisplayStyle.Flex;
-        });
-
-        // Başlangıç değerlerini %100 yap
-        UpdateBar(healthFill, 100f);
-        UpdateBar(dashFill, 100f);
-        UpdateBar(energyFill, 100f);
-        UpdateBar(xpFill, 0f);
+            ship=shipTransform.GetComponent<ShipController>();
+            health=shipTransform.GetComponent<PlayerHealth>();
+            energy=shipTransform.GetComponent<PlayerEnergy>();
+            experience=shipTransform.GetComponent<PlayerExperience>();
+        }
+        var root=document.rootVisualElement;
+        healthFill=root.Q<VisualElement>("HealthFill"); dashFill=root.Q<VisualElement>("DashFill");
+        energyFill=root.Q<VisualElement>("EnergyFill"); xpFill=root.Q<VisualElement>("XPFill");
+        xpContainer=root.Q<VisualElement>("XPBarContainer"); energyContainer=root.Q<VisualElement>("EnergyBarContainer");
+        needle=root.Q<VisualElement>("CompassNeedle"); modeToggle=root.Q<Toggle>("ModeToggle");
+        if(modeToggle!=null) { modeToggle.RegisterValueChangedCallback(OnModeChanged); ApplyMode(modeToggle.value); }
     }
-
+    void OnDisable() { if(modeToggle!=null) modeToggle.UnregisterValueChangedCallback(OnModeChanged); }
+    void OnModeChanged(ChangeEvent<bool> change) { ApplyMode(change.newValue); }
+    void ApplyMode(bool xp)
+    {
+        if(xpContainer!=null) xpContainer.style.display=xp?DisplayStyle.Flex:DisplayStyle.None;
+        if(energyContainer!=null) energyContainer.style.display=xp?DisplayStyle.None:DisplayStyle.Flex;
+    }
     void Update()
     {
-        // 1. Pusula: Geminin Z rotasyonunu pusulaya aktar
-        if (shipTransform != null && compass != null)
+        if(shipTransform && needle!=null) needle.style.rotate=new StyleRotate(new Rotate(new Angle(-shipTransform.eulerAngles.z,AngleUnit.Degree)));
+        if(health) UpdateBar(healthFill,100*health.CurrentHealth/health.MaxHealth);
+        if(energy) UpdateBar(energyFill,100*energy.CurrentEnergy/energy.MaxEnergy);
+        if(experience) UpdateBar(xpFill,100f*experience.CurrentXP/experience.RequiredXP);
+        if(ship)
         {
-            compass.style.rotate = new StyleRotate(new Rotate(new Angle(-shipTransform.eulerAngles.z, AngleUnit.Degree)));
-        }
-
-        // 2. Dash Bar Yenilenmesi
-        if (!isDashing && currentDash < 100f)
-        {
-            currentDash += dashRegenRate * Time.deltaTime;
-            UpdateBar(dashFill, currentDash);
+            float total=0; for(int i=0;i<ship.MaxDashCharges;i++) total+=ship.GetDashProgress(i);
+            UpdateBar(dashFill,100*total/ship.MaxDashCharges);
         }
     }
-
-    // Barların genişliğini (Can, XP, Enerji) dışarıdan değiştirmek için kullanacağımız ana metot
-    public void UpdateBar(VisualElement fillElement, float percentage)
+    public void UpdateBar(VisualElement element,float percentage)
     {
-        if (fillElement != null)
-        {
-            percentage = Mathf.Clamp(percentage, 0, 100);
-            fillElement.style.width = new Length(percentage, LengthUnit.Percent);
-        }
+        if(element!=null) element.style.width=new Length(Mathf.Clamp(percentage,0,100),LengthUnit.Percent);
     }
-
-    public void ConsumeDash(float cost)
-    {
-        if (currentDash >= cost)
-        {
-            currentDash -= cost;
-            UpdateBar(dashFill, currentDash);
-            isDashing = true;
-            Invoke(nameof(StopDashing), 0.5f);
-        }
-    }
-
-    private void StopDashing() => isDashing = false;
 }

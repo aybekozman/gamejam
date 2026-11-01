@@ -1,0 +1,390 @@
+fileFormatVersion: 2
+guid: 2bc6f9943ef0d3348b53ceb4be9ccfa4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5199294417104214225
+    second: Nautical Pixel HUD Interface_0
+  - first:
+      213: -3374300777497390474
+    second: Nautical Pixel HUD Interface_1
+  - first:
+      213: -2717406314586245965
+    second: Nautical Pixel HUD Interface_2
+  - first:
+      213: 1690409343953060781
+    second: Nautical Pixel HUD Interface_3
+  - first:
+      213: -7923423666683668900
+    second: Nautical Pixel HUD Interface_4
+  - first:
+      213: -469736274610837176
+    second: Nautical Pixel HUD Interface_5
+  - first:
+      213: 4103644471951842267
+    second: Nautical Pixel HUD Interface_6
+  - first:
+      213: 8732246423580148356
+    second: Nautical Pixel HUD Interface_7
+  - first:
+      213: 3604786021628960941
+    second: Nautical Pixel HUD Interface_8
+  - first:
+      213: -3546155981502507842
+    second: Nautical Pixel HUD Interface_9
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 9
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Nautical Pixel HUD Interface_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 530
+        width: 6
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f27e4d1564568d7b0800000000000000
+      internalID: -5199294417104214225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nautical Pixel HUD Interface_1
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 63
+        width: 885
+        height: 632
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67291f712531c21d0800000000000000
+      internalID: -3374300777497390474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nautical Pixel HUD Interface_2
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 65
+        width: 1022
+        height: 651
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b4fea4ba55d94ad0800000000000000
+      internalID: -2717406314586245965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nautical Pixel HUD Interface_3
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 295
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da3c257975a857710800000000000000
+      internalID: 1690409343953060781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nautical Pixel HUD Interface_4
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 234
+        width: 168
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c56956eb7285a0290800000000000000
+      internalID: -7923423666683668900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nautical Pixel HUD Interface_5
+      rect:
+        serializedVersion: 2
+        x: 1611
+        y: 262
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 849a4b5d8592b79f0800000000000000
+      internalID: -469736274610837176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nautical Pixel HUD Interface_6
+      rect:
+        serializedVersion: 2
+        x: 2065
+        y: 231
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdb5f2bb7e213f830800000000000000
+      internalID: 4103644471951842267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nautical Pixel HUD Interface_7
+      rect:
+        serializedVersion: 2
+        x: 1884
+        y: 184
+        width: 26
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4828ba85bdb2f2970800000000000000
+      internalID: 8732246423580148356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nautical Pixel HUD Interface_8
+      rect:
+        serializedVersion: 2
+        x: 2063
+        y: 210
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da0ec76a9c5c60230800000000000000
+      internalID: 3604786021628960941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nautical Pixel HUD Interface_9
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 184
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb49a645ce589cec0800000000000000
+      internalID: -3546155981502507842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 1537655665
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Nautical Pixel HUD Interface_0: -5199294417104214225
+      Nautical Pixel HUD Interface_1: -3374300777497390474
+      Nautical Pixel HUD Interface_2: -2717406314586245965
+      Nautical Pixel HUD Interface_3: 1690409343953060781
+      Nautical Pixel HUD Interface_4: -7923423666683668900
+      Nautical Pixel HUD Interface_5: -469736274610837176
+      Nautical Pixel HUD Interface_6: 4103644471951842267
+      Nautical Pixel HUD Interface_7: 8732246423580148356
+      Nautical Pixel HUD Interface_8: 3604786021628960941
+      Nautical Pixel HUD Interface_9: -3546155981502507842
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

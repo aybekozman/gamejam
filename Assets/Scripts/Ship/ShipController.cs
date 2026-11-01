@@ -14,7 +14,8 @@ public class ShipController : MonoBehaviour
     [Header("Dash (Atılım) Ayarları")]
     public float dashSpeed = 24f;
     public float dashDuration = 0.2f;
-    public float dashCooldown = 1f;
+    [Min(0.01f)] public float dashCooldown = 5f;
+    [SerializeField, Min(1)] private int maxDashCharges = 3;
 
     [Header("Kamera Zoom (FOV) Ayarları")]
     public CinemachineCamera vcam;
@@ -29,7 +30,8 @@ public class ShipController : MonoBehaviour
     private Vector2 moveInput;
 
     private float dashTimeCounter;
-    private float dashCooldownCounter;
+    private float[] dashRemaining;
+    private float[] dashDurations;
     private Vector2 dashDirection;
 
     private InputSystem_Actions controls;
@@ -38,6 +40,29 @@ public class ShipController : MonoBehaviour
     private int playerLayer;
     private int enemyLayer;
     private bool isGhostModeActive = false;
+    private bool originalIgnoreCollision;
+    public int MaxDashCharges => dashRemaining == null ? Mathf.Max(1, maxDashCharges) : dashRemaining.Length;
+    public int AvailableDashCharges
+    {
+        get { int count = 0; if (dashRemaining != null) foreach (float remaining in dashRemaining) if (remaining <= 0) count++; return count; }
+    }
+    public float GetDashRemaining(int slot) => dashRemaining != null && slot >= 0 && slot < dashRemaining.Length ? dashRemaining[slot] : 0;
+    public float GetDashProgress(int slot) => dashRemaining != null && slot >= 0 && slot < dashRemaining.Length
+        ? (dashRemaining[slot] <= 0 ? 1 : Mathf.Clamp01(1 - dashRemaining[slot] / dashDurations[slot])) : 0;
+    public void SetDashCapacity(int capacity)
+    {
+        maxDashCharges = Mathf.Clamp(capacity, 1, 16);
+        System.Array.Resize(ref dashRemaining, maxDashCharges);
+        System.Array.Resize(ref dashDurations, maxDashCharges);
+    }
+    public void ResetDashCharges()
+    {
+        SetDashCapacity(maxDashCharges);
+        System.Array.Clear(dashRemaining, 0, dashRemaining.Length);
+        IsDashing = false;
+        dashTimeCounter = 0;
+        SetGhostMode(false);
+    }
 
     void Awake()
     {
@@ -49,24 +74,41 @@ public class ShipController : MonoBehaviour
 
         playerHealth = GetComponent<PlayerHealth>();
         playerLayer = LayerMask.NameToLayer("Player");
+        if (playerLayer < 0) playerLayer = gameObject.layer;
         enemyLayer = LayerMask.NameToLayer("Enemy");
+        if (enemyLayer >= 0) originalIgnoreCollision = Physics2D.GetIgnoreLayerCollision(playerLayer, enemyLayer);
 
         controls = new InputSystem_Actions();
-        controls.Player.Sprint.performed += ctx => Dash();
+        SetDashCapacity(maxDashCharges);
     }
 
-    void OnEnable() => controls.Enable();
+    void OnEnable()
+    {
+        controls.Player.Sprint.performed += OnDashPerformed;
+        controls.Enable();
+    }
     void OnDisable()
     {
+        controls.Player.Sprint.performed -= OnDashPerformed;
         controls.Disable();
-        controls.Player.Sprint.performed -= ctx => Dash();
+        IsDashing = false;
+        dashTimeCounter = 0;
+        SetGhostMode(false);
+    }
+    void OnDestroy() { controls?.Dispose(); }
+    private void OnDashPerformed(InputAction.CallbackContext context) => TryDash(controls.Player.Move.ReadValue<Vector2>());
+    private void SetGhostMode(bool enabled)
+    {
+        if (enabled == isGhostModeActive) return;
+        isGhostModeActive = enabled;
+        if (enemyLayer >= 0) Physics2D.IgnoreLayerCollision(playerLayer, enemyLayer, enabled || originalIgnoreCollision);
     }
 
     void Update()
     {
         moveInput = controls.Player.Move.ReadValue<Vector2>();
 
-        if (dashCooldownCounter > 0) dashCooldownCounter -= Time.deltaTime;
+        for (int i = 0; i < dashRemaining.Length; i++) dashRemaining[i] = Mathf.Max(0, dashRemaining[i] - Time.deltaTime);
 
         if (IsDashing)
         {
@@ -76,11 +118,7 @@ public class ShipController : MonoBehaviour
 
         bool shouldBeGhost = IsDashing || (playerHealth != null && playerHealth.IsInvulnerable);
 
-        if (shouldBeGhost != isGhostModeActive)
-        {
-            isGhostModeActive = shouldBeGhost;
-            Physics2D.IgnoreLayerCollision(playerLayer, enemyLayer, isGhostModeActive);
-        }
+        SetGhostMode(shouldBeGhost);
 
         if (vcam != null)
         {
@@ -139,14 +177,21 @@ public class ShipController : MonoBehaviour
         rb.linearVelocity = forwardVelocity + (rightVelocity * driftFactor);
     }
 
-    private void Dash()
+    public bool TryDash(Vector2 direction)
     {
-        if (dashCooldownCounter <= 0 && moveInput.magnitude > 0)
+        if (!isActiveAndEnabled || IsDashing || Time.timeScale <= 0 || direction.sqrMagnitude < .0001f ||
+            (playerHealth && playerHealth.IsDead)) return false;
+        for (int slot = 0; slot < dashRemaining.Length; slot++)
         {
+            if (dashRemaining[slot] > 0) continue;
             IsDashing = true;
-            dashTimeCounter = dashDuration;
-            dashCooldownCounter = dashCooldown;
-            dashDirection = moveInput;
+            dashTimeCounter = Mathf.Max(.01f, dashDuration);
+            dashDurations[slot] = Mathf.Max(.01f, dashCooldown);
+            dashRemaining[slot] = dashDurations[slot];
+            dashDirection = direction.normalized;
+            SetGhostMode(true);
+            return true;
         }
+        return false;
     }
 }

@@ -4,18 +4,21 @@ public class LootMagnet : MonoBehaviour
 {
     [Header("Mıknatıs Ayarları")]
     public float magnetRadius = 5f; // Ganimetleri çekmeye başlayacağı mesafe
-    public float pullSpeed = 8f;    // Ganimetlerin gemiye uçuş hızı
+    [HideInInspector] public float pullSpeed = 8f; // Legacy serialized value; Loot owns movement.
     public LayerMask lootLayer;     // Inspector'dan "Loot" katmanını seç
+    readonly Collider2D[] results = new Collider2D[128];
+    ContactFilter2D filter;
 
     void Update()
     {
         // Çekim alanındaki tüm ganimetleri radarla bul
-        Collider2D[] loots = Physics2D.OverlapCircleAll(transform.position, magnetRadius, lootLayer);
-
-        foreach (Collider2D loot in loots)
+        filter.SetLayerMask(lootLayer);
+        filter.useTriggers=true;
+        int count = Physics2D.OverlapCircle(transform.position,magnetRadius,filter,results);
+        for (int i=0; i<count; i++)
         {
-            // Ganimeti yavaşça gemiye doğru kaydır
-            loot.transform.position = Vector2.MoveTowards(loot.transform.position, transform.position, pullSpeed * Time.deltaTime);
+            var loot = results[i].GetComponentInParent<Loot>();
+            if (loot) loot.Magnetize(transform);
         }
     }
 
