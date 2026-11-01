@@ -1,0 +1,1 @@
+Corrected 1 generated shore piece scale to match its neighbors and authored floor pixels. Other world transforms untouched.

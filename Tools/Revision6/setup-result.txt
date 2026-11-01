@@ -1,0 +1,3 @@
+PASS 533 existing transforms and 119 collider definitions preserved.
+Pass lane=(-205.34, -23.45) to (-198.34, -23.45); surface=(-198.34, 11.05); mayor=(-196.34, -24.45).
+Mayor uses reef_0; reef_1 and reef_2 reserved for future science team. Player/Interact asset reused; no ship assets modified.

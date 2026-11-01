@@ -1,0 +1,58 @@
+PASS Start near home with free controls
+PASS Dialogue font supports Turkish characters
+PASS Existing Interact/E action reused
+PASS Open/closed fish share canvas and pivot
+PASS Purple top reef fish is the mayor
+PASS Mayor and scientist appearances reserved from ambient spawning
+PASS Dialogue queue drains and releases its input frame
+PASS Player route exists to (-197.74, -24.45)
+PASS Player swims to (-197.74, -24.45) without teleporting
+PASS Dialogue queue drains and releases its input frame
+PASS Early mayor conversation cannot advance the quest
+PASS Dialogue queue drains and releases its input frame
+PASS One-time passing fish reaches death/ascent stage
+PASS Closed eyes and genuine belly-up rotation
+PASS Corpse rises while player stays behind
+PASS Story fish persists and stops underwater at the surface
+PASS Slow player does not lose or auto-complete discovery
+PASS Dialogue queue drains and releases its input frame
+PASS Player route exists to (-198.34, 10.05)
+PASS Player swims to (-198.34, 10.05) without teleporting
+PASS Dialogue queue drains and releases its input frame
+PASS Surface discovery starts three independent inspections
+PASS Each surface body remains visibly separate and inspectable
+PASS Player route exists to (-194.54, 11.29)
+PASS Player swims to (-194.54, 11.29) without teleporting
+PASS Actual E input opens a single inspection
+PASS First advance completes typewriter without skipping sentence
+PASS Dialogue queue drains and releases its input frame
+PASS Repeated target never increments count
+PASS Player route exists to (-206.34, 8.05)
+PASS Player swims to (-206.34, 8.05) without teleporting
+PASS Leaving investigation area preserves progress
+PASS Player route exists to (-203.34, 11.31)
+PASS Player swims to (-203.34, 11.31) without teleporting
+PASS Dialogue queue drains and releases its input frame
+PASS Player route exists to (-200.74, 11.31)
+PASS Player swims to (-200.74, 11.31) without teleporting
+PASS Dialogue queue drains and releases its input frame
+PASS Inspections work in order 3,1,2 and unlock report only after all three
+PASS Player route exists to (-197.74, -24.45)
+PASS Player swims to (-197.74, -24.45) without teleporting
+PASS Report conversation temporarily locks swimming
+PASS Dialogue queue drains and releases its input frame
+PASS Mayor follows only after complete report dialogue
+PASS Player route exists to (-198.34, 10.05)
+PASS Player swims to (-198.34, 10.05) without teleporting
+PASS Player reaching surface alone cannot trigger final conversation
+PASS Mayor reaches discovery through real route before final conversation
+PASS Dialogue queue drains and releases its input frame
+PASS Ending records completion, stops escort and restores control
+PASS Mayor remains parked safely after ending
+PASS Player route exists to (-198.23, 8.50)
+PASS Player swims to (-198.23, 8.50) without teleporting
+PASS Completed event and final dialogue do not restart
+PASS Free swimming continues after story completion
+PASS No scene transition or new day
+PASS No runtime errors throughout story verification
+PASS Developer reset restores a fresh playable story

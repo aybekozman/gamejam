@@ -1,0 +1,11 @@
+{
+  "result": "PASS all original transforms, collider definitions, ship scenes and settings preserved",
+  "existingColliderBlocksUnchanged": 130,
+  "shipAndInputFilesUnchanged": [
+    "Assets/Scenes/ShipScene.unity",
+    "Assets/Scripts/Ship",
+    "Assets/InputSystem_Actions.inputactions",
+    "Packages/manifest.json",
+    "ProjectSettings/ProjectSettings.asset"
+  ]
+}

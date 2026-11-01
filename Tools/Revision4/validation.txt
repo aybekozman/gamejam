@@ -1,0 +1,4 @@
+Kıyı kontrolleri: 12 Play Mode kontrolü geçti. Yeni tabanın profili ile collider eşleşmesi, sol tarafa kademeli sığlaşma, eski sınırın köy yaklaşımından kaldırılması, balığın eğimli zeminde yüzmesi ve kıyıda doğal sınırlanması, iskelenin tabana ulaşan destekleri, ortak parallax ile kaya-taban bağlantısı ve çalışma hatası bulunmaması doğrulandı.
+Koruma: 114 mevcut collider YAML bloğu bire bir aynı. Evler, ön plan yerleşimi, oyuncunun köydeki başlangıcı ve kamera başlangıcı korundu. İstenen düzenleme kapsamında yalnız uzak/orta arka plan kayaları yeni tabana oturtuldu, parallax ebeveynleri ortaklaştırıldı ve sol dış sınır kıyının gerisine taşındı.
+Kaynak PNG’ler değiştirilmedi. Yeni deniz tabanı ve iskele işlenmiş kopyalarla kullanıldı.
+Ekran görüntüleri: village-grounding.png, deep-grounding.png, gradual-slope.png, shore-pier.png.

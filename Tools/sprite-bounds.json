@@ -1,0 +1,2360 @@
+[
+  {
+    "source": "4x4 sprite sayfasında gölge balıkları.png",
+    "group": "shadow",
+    "row": 0,
+    "frame": 0,
+    "search": [
+      0,
+      0,
+      391,
+      258
+    ],
+    "bounds": [
+      118,
+      125,
+      304,
+      191
+    ]
+  },
+  {
+    "source": "4x4 sprite sayfasında gölge balıkları.png",
+    "group": "shadow",
+    "row": 0,
+    "frame": 1,
+    "search": [
+      391,
+      0,
+      770,
+      258
+    ],
+    "bounds": [
+      89,
+      128,
+      281,
+      191
+    ]
+  },
+  {
+    "source": "4x4 sprite sayfasında gölge balıkları.png",
+    "group": "shadow",
+    "row": 0,
+    "frame": 2,
+    "search": [
+      770,
+      0,
+      1154,
+      258
+    ],
+    "bounds": [
+      100,
+      126,
+      286,
+      191
+    ]
+  },
+  {
+    "source": "4x4 sprite sayfasında gölge balıkları.png",
+    "group": "shadow",
+    "row": 0,
+    "frame": 3,
+    "search": [
+      1154,
+      0,
+      1536,
+      258
+    ],
+    "bounds": [
+      100,
+      126,
+      283,
+      191
+    ]
+  },
+  {
+    "source": "4x4 sprite sayfasında gölge balıkları.png",
+    "group": "shadow",
+    "row": 1,
+    "frame": 0,
+    "search": [
+      0,
+      258,
+      398,
+      519
+    ],
+    "bounds": [
+      108,
+      69,
+      303,
+      206
+    ]
+  },
+  {
+    "source": "4x4 sprite sayfasında gölge balıkları.png",
+    "group": "shadow",
+    "row": 1,
+    "frame": 1,
+    "search": [
+      398,
+      258,
+      776,
+      519
+    ],
+    "bounds": [
+      97,
+      68,
+      281,
+      205
+    ]
+  },
+  {
+    "source": "4x4 sprite sayfasında gölge balıkları.png",
+    "group": "shadow",
+    "row": 1,
+    "frame": 2,
+    "search": [
+      776,
+      258,
+      1155,
+      519
+    ],
+    "bounds": [
+      99,
+      68,
+      279,
+      205
+    ]
+  },
+  {
+    "source": "4x4 sprite sayfasında gölge balıkları.png",
+    "group": "shadow",
+    "row": 1,
+    "frame": 3,
+    "search": [
+      1155,
+      258,
+      1536,
+      519
+    ],
+    "bounds": [
+      102,
+      68,
+      285,
+      205
+    ]
+  },
+  {
+    "source": "4x4 sprite sayfasında gölge balıkları.png",
+    "group": "shadow",
+    "row": 2,
+    "frame": 0,
+    "search": [
+      0,
+      519,
+      394,
+      734
+    ],
+    "bounds": [
+      69,
+      59,
+      347,
+      170
+    ]
+  },
+  {
+    "source": "4x4 sprite sayfasında gölge balıkları.png",
+    "group": "shadow",
+    "row": 2,
+    "frame": 1,
+    "search": [
+      394,
+      519,
+      768,
+      734
+    ],
+    "bounds": [
+      48,
+      57,
+      328,
+      170
+    ]
+  },
+  {
+    "source": "4x4 sprite sayfasında gölge balıkları.png",
+    "group": "shadow",
+    "row": 2,
+    "frame": 2,
+    "search": [
+      768,
+      519,
+      1149,
+      734
+    ],
+    "bounds": [
+      47,
+      60,
+      329,
+      166
+    ]
+  },
+  {
+    "source": "4x4 sprite sayfasında gölge balıkları.png",
+    "group": "shadow",
+    "row": 2,
+    "frame": 3,
+    "search": [
+      1149,
+      519,
+      1536,
+      734
+    ],
+    "bounds": [
+      53,
+      57,
+      329,
+      166
+    ]
+  },
+  {
+    "source": "4x4 sprite sayfasında gölge balıkları.png",
+    "group": "shadow",
+    "row": 3,
+    "frame": 0,
+    "search": [
+      0,
+      734,
+      399,
+      1024
+    ],
+    "bounds": [
+      89,
+      50,
+      330,
+      221
+    ]
+  },
+  {
+    "source": "4x4 sprite sayfasında gölge balıkları.png",
+    "group": "shadow",
+    "row": 3,
+    "frame": 1,
+    "search": [
+      399,
+      734,
+      779,
+      1024
+    ],
+    "bounds": [
+      72,
+      49,
+      315,
+      219
+    ]
+  },
+  {
+    "source": "4x4 sprite sayfasında gölge balıkları.png",
+    "group": "shadow",
+    "row": 3,
+    "frame": 2,
+    "search": [
+      779,
+      734,
+      1152,
+      1024
+    ],
+    "bounds": [
+      67,
+      50,
+      305,
+      221
+    ]
+  },
+  {
+    "source": "4x4 sprite sayfasında gölge balıkları.png",
+    "group": "shadow",
+    "row": 3,
+    "frame": 3,
+    "search": [
+      1152,
+      734,
+      1536,
+      1024
+    ],
+    "bounds": [
+      71,
+      48,
+      316,
+      220
+    ]
+  },
+  {
+    "source": "Deniz Yosunları Sallanma Animasyon Spritleri.png",
+    "group": "kelp",
+    "row": 0,
+    "frame": 0,
+    "search": [
+      0,
+      0,
+      419,
+      306
+    ],
+    "bounds": [
+      156,
+      20,
+      329,
+      298
+    ]
+  },
+  {
+    "source": "Deniz Yosunları Sallanma Animasyon Spritleri.png",
+    "group": "kelp",
+    "row": 0,
+    "frame": 1,
+    "search": [
+      419,
+      0,
+      779,
+      306
+    ],
+    "bounds": [
+      92,
+      20,
+      269,
+      298
+    ]
+  },
+  {
+    "source": "Deniz Yosunları Sallanma Animasyon Spritleri.png",
+    "group": "kelp",
+    "row": 0,
+    "frame": 2,
+    "search": [
+      779,
+      0,
+      1131,
+      306
+    ],
+    "bounds": [
+      93,
+      20,
+      274,
+      297
+    ]
+  },
+  {
+    "source": "Deniz Yosunları Sallanma Animasyon Spritleri.png",
+    "group": "kelp",
+    "row": 0,
+    "frame": 3,
+    "search": [
+      1131,
+      0,
+      1536,
+      306
+    ],
+    "bounds": [
+      80,
+      20,
+      257,
+      298
+    ]
+  },
+  {
+    "source": "Deniz Yosunları Sallanma Animasyon Spritleri.png",
+    "group": "kelp",
+    "row": 1,
+    "frame": 0,
+    "search": [
+      0,
+      306,
+      431,
+      562
+    ],
+    "bounds": [
+      152,
+      9,
+      333,
+      247
+    ]
+  },
+  {
+    "source": "Deniz Yosunları Sallanma Animasyon Spritleri.png",
+    "group": "kelp",
+    "row": 1,
+    "frame": 1,
+    "search": [
+      431,
+      306,
+      793,
+      562
+    ],
+    "bounds": [
+      101,
+      5,
+      278,
+      247
+    ]
+  },
+  {
+    "source": "Deniz Yosunları Sallanma Animasyon Spritleri.png",
+    "group": "kelp",
+    "row": 1,
+    "frame": 2,
+    "search": [
+      793,
+      306,
+      1141,
+      562
+    ],
+    "bounds": [
+      87,
+      9,
+      261,
+      247
+    ]
+  },
+  {
+    "source": "Deniz Yosunları Sallanma Animasyon Spritleri.png",
+    "group": "kelp",
+    "row": 1,
+    "frame": 3,
+    "search": [
+      1141,
+      306,
+      1536,
+      562
+    ],
+    "bounds": [
+      88,
+      9,
+      262,
+      247
+    ]
+  },
+  {
+    "source": "Deniz Yosunları Sallanma Animasyon Spritleri.png",
+    "group": "kelp",
+    "row": 2,
+    "frame": 0,
+    "search": [
+      0,
+      562,
+      432,
+      728
+    ],
+    "bounds": [
+      176,
+      10,
+      326,
+      161
+    ]
+  },
+  {
+    "source": "Deniz Yosunları Sallanma Animasyon Spritleri.png",
+    "group": "kelp",
+    "row": 2,
+    "frame": 1,
+    "search": [
+      432,
+      562,
+      792,
+      728
+    ],
+    "bounds": [
+      107,
+      7,
+      261,
+      161
+    ]
+  },
+  {
+    "source": "Deniz Yosunları Sallanma Animasyon Spritleri.png",
+    "group": "kelp",
+    "row": 2,
+    "frame": 2,
+    "search": [
+      792,
+      562,
+      1140,
+      728
+    ],
+    "bounds": [
+      100,
+      14,
+      249,
+      160
+    ]
+  },
+  {
+    "source": "Deniz Yosunları Sallanma Animasyon Spritleri.png",
+    "group": "kelp",
+    "row": 2,
+    "frame": 3,
+    "search": [
+      1140,
+      562,
+      1536,
+      728
+    ],
+    "bounds": [
+      101,
+      14,
+      246,
+      161
+    ]
+  },
+  {
+    "source": "Deniz Yosunları Sallanma Animasyon Spritleri.png",
+    "group": "kelp",
+    "row": 3,
+    "frame": 0,
+    "search": [
+      0,
+      728,
+      437,
+      1024
+    ],
+    "bounds": [
+      182,
+      6,
+      329,
+      286
+    ]
+  },
+  {
+    "source": "Deniz Yosunları Sallanma Animasyon Spritleri.png",
+    "group": "kelp",
+    "row": 3,
+    "frame": 1,
+    "search": [
+      437,
+      728,
+      784,
+      1024
+    ],
+    "bounds": [
+      109,
+      6,
+      250,
+      286
+    ]
+  },
+  {
+    "source": "Deniz Yosunları Sallanma Animasyon Spritleri.png",
+    "group": "kelp",
+    "row": 3,
+    "frame": 2,
+    "search": [
+      784,
+      728,
+      1139,
+      1024
+    ],
+    "bounds": [
+      98,
+      6,
+      257,
+      286
+    ]
+  },
+  {
+    "source": "Deniz Yosunları Sallanma Animasyon Spritleri.png",
+    "group": "kelp",
+    "row": 3,
+    "frame": 3,
+    "search": [
+      1139,
+      728,
+      1536,
+      1024
+    ],
+    "bounds": [
+      99,
+      6,
+      247,
+      286
+    ]
+  },
+  {
+    "source": "Dört deniz canlısı retro piksel sprite seti.png",
+    "group": "animal",
+    "row": 0,
+    "frame": 0,
+    "search": [
+      0,
+      0,
+      362,
+      304
+    ],
+    "bounds": [
+      30,
+      102,
+      337,
+      265
+    ]
+  },
+  {
+    "source": "Dört deniz canlısı retro piksel sprite seti.png",
+    "group": "animal",
+    "row": 0,
+    "frame": 1,
+    "search": [
+      362,
+      0,
+      703,
+      304
+    ],
+    "bounds": [
+      26,
+      82,
+      322,
+      263
+    ]
+  },
+  {
+    "source": "Dört deniz canlısı retro piksel sprite seti.png",
+    "group": "animal",
+    "row": 0,
+    "frame": 2,
+    "search": [
+      703,
+      0,
+      1061,
+      304
+    ],
+    "bounds": [
+      22,
+      102,
+      332,
+      287
+    ]
+  },
+  {
+    "source": "Dört deniz canlısı retro piksel sprite seti.png",
+    "group": "animal",
+    "row": 0,
+    "frame": 3,
+    "search": [
+      1061,
+      0,
+      1402,
+      304
+    ],
+    "bounds": [
+      26,
+      82,
+      322,
+      258
+    ]
+  },
+  {
+    "source": "Dört deniz canlısı retro piksel sprite seti.png",
+    "group": "animal",
+    "row": 1,
+    "frame": 0,
+    "search": [
+      0,
+      304,
+      356,
+      604
+    ],
+    "bounds": [
+      88,
+      25,
+      265,
+      279
+    ]
+  },
+  {
+    "source": "Dört deniz canlısı retro piksel sprite seti.png",
+    "group": "animal",
+    "row": 1,
+    "frame": 1,
+    "search": [
+      356,
+      304,
+      703,
+      604
+    ],
+    "bounds": [
+      92,
+      37,
+      254,
+      279
+    ]
+  },
+  {
+    "source": "Dört deniz canlısı retro piksel sprite seti.png",
+    "group": "animal",
+    "row": 1,
+    "frame": 2,
+    "search": [
+      703,
+      304,
+      1049,
+      604
+    ],
+    "bounds": [
+      94,
+      53,
+      257,
+      279
+    ]
+  },
+  {
+    "source": "Dört deniz canlısı retro piksel sprite seti.png",
+    "group": "animal",
+    "row": 1,
+    "frame": 3,
+    "search": [
+      1049,
+      304,
+      1402,
+      604
+    ],
+    "bounds": [
+      90,
+      25,
+      267,
+      279
+    ]
+  },
+  {
+    "source": "Dört deniz canlısı retro piksel sprite seti.png",
+    "group": "animal",
+    "row": 2,
+    "frame": 0,
+    "search": [
+      0,
+      604,
+      361,
+      788
+    ],
+    "bounds": [
+      15,
+      63,
+      344,
+      164
+    ]
+  },
+  {
+    "source": "Dört deniz canlısı retro piksel sprite seti.png",
+    "group": "animal",
+    "row": 2,
+    "frame": 1,
+    "search": [
+      361,
+      604,
+      702,
+      788
+    ],
+    "bounds": [
+      17,
+      23,
+      323,
+      164
+    ]
+  },
+  {
+    "source": "Dört deniz canlısı retro piksel sprite seti.png",
+    "group": "animal",
+    "row": 2,
+    "frame": 2,
+    "search": [
+      702,
+      604,
+      1054,
+      788
+    ],
+    "bounds": [
+      19,
+      70,
+      334,
+      164
+    ]
+  },
+  {
+    "source": "Dört deniz canlısı retro piksel sprite seti.png",
+    "group": "animal",
+    "row": 2,
+    "frame": 3,
+    "search": [
+      1054,
+      604,
+      1402,
+      788
+    ],
+    "bounds": [
+      19,
+      23,
+      328,
+      164
+    ]
+  },
+  {
+    "source": "Dört deniz canlısı retro piksel sprite seti.png",
+    "group": "animal",
+    "row": 3,
+    "frame": 0,
+    "search": [
+      0,
+      788,
+      354,
+      1122
+    ],
+    "bounds": [
+      102,
+      22,
+      271,
+      293
+    ]
+  },
+  {
+    "source": "Dört deniz canlısı retro piksel sprite seti.png",
+    "group": "animal",
+    "row": 3,
+    "frame": 1,
+    "search": [
+      354,
+      788,
+      712,
+      1122
+    ],
+    "bounds": [
+      85,
+      22,
+      267,
+      293
+    ]
+  },
+  {
+    "source": "Dört deniz canlısı retro piksel sprite seti.png",
+    "group": "animal",
+    "row": 3,
+    "frame": 2,
+    "search": [
+      712,
+      788,
+      1054,
+      1122
+    ],
+    "bounds": [
+      93,
+      22,
+      258,
+      293
+    ]
+  },
+  {
+    "source": "Dört deniz canlısı retro piksel sprite seti.png",
+    "group": "animal",
+    "row": 3,
+    "frame": 3,
+    "search": [
+      1054,
+      788,
+      1402,
+      1122
+    ],
+    "bounds": [
+      86,
+      22,
+      269,
+      293
+    ]
+  },
+  {
+    "source": "Dört tür balık piksel animasyon seti.png",
+    "group": "fish",
+    "row": 0,
+    "frame": 0,
+    "search": [
+      0,
+      0,
+      398,
+      286
+    ],
+    "bounds": [
+      59,
+      60,
+      342,
+      265
+    ]
+  },
+  {
+    "source": "Dört tür balık piksel animasyon seti.png",
+    "group": "fish",
+    "row": 0,
+    "frame": 1,
+    "search": [
+      398,
+      0,
+      772,
+      286
+    ],
+    "bounds": [
+      57,
+      60,
+      324,
+      265
+    ]
+  },
+  {
+    "source": "Dört tür balık piksel animasyon seti.png",
+    "group": "fish",
+    "row": 0,
+    "frame": 2,
+    "search": [
+      772,
+      0,
+      1149,
+      286
+    ],
+    "bounds": [
+      52,
+      60,
+      337,
+      265
+    ]
+  },
+  {
+    "source": "Dört tür balık piksel animasyon seti.png",
+    "group": "fish",
+    "row": 0,
+    "frame": 3,
+    "search": [
+      1149,
+      0,
+      1536,
+      286
+    ],
+    "bounds": [
+      42,
+      60,
+      337,
+      265
+    ]
+  },
+  {
+    "source": "Dört tür balık piksel animasyon seti.png",
+    "group": "fish",
+    "row": 1,
+    "frame": 0,
+    "search": [
+      0,
+      286,
+      404,
+      538
+    ],
+    "bounds": [
+      50,
+      22,
+      370,
+      231
+    ]
+  },
+  {
+    "source": "Dört tür balık piksel animasyon seti.png",
+    "group": "fish",
+    "row": 1,
+    "frame": 1,
+    "search": [
+      404,
+      286,
+      785,
+      538
+    ],
+    "bounds": [
+      36,
+      22,
+      348,
+      231
+    ]
+  },
+  {
+    "source": "Dört tür balık piksel animasyon seti.png",
+    "group": "fish",
+    "row": 1,
+    "frame": 2,
+    "search": [
+      785,
+      286,
+      1161,
+      538
+    ],
+    "bounds": [
+      34,
+      22,
+      351,
+      231
+    ]
+  },
+  {
+    "source": "Dört tür balık piksel animasyon seti.png",
+    "group": "fish",
+    "row": 1,
+    "frame": 3,
+    "search": [
+      1161,
+      286,
+      1536,
+      538
+    ],
+    "bounds": [
+      27,
+      22,
+      346,
+      231
+    ]
+  },
+  {
+    "source": "Dört tür balık piksel animasyon seti.png",
+    "group": "fish",
+    "row": 2,
+    "frame": 0,
+    "search": [
+      0,
+      538,
+      404,
+      771
+    ],
+    "bounds": [
+      49,
+      22,
+      372,
+      210
+    ]
+  },
+  {
+    "source": "Dört tür balık piksel animasyon seti.png",
+    "group": "fish",
+    "row": 2,
+    "frame": 1,
+    "search": [
+      404,
+      538,
+      783,
+      771
+    ],
+    "bounds": [
+      33,
+      21,
+      352,
+      210
+    ]
+  },
+  {
+    "source": "Dört tür balık piksel animasyon seti.png",
+    "group": "fish",
+    "row": 2,
+    "frame": 2,
+    "search": [
+      783,
+      538,
+      1162,
+      771
+    ],
+    "bounds": [
+      29,
+      22,
+      355,
+      210
+    ]
+  },
+  {
+    "source": "Dört tür balık piksel animasyon seti.png",
+    "group": "fish",
+    "row": 2,
+    "frame": 3,
+    "search": [
+      1162,
+      538,
+      1536,
+      771
+    ],
+    "bounds": [
+      25,
+      21,
+      349,
+      209
+    ]
+  },
+  {
+    "source": "Dört tür balık piksel animasyon seti.png",
+    "group": "fish",
+    "row": 3,
+    "frame": 0,
+    "search": [
+      0,
+      771,
+      400,
+      1024
+    ],
+    "bounds": [
+      50,
+      26,
+      369,
+      191
+    ]
+  },
+  {
+    "source": "Dört tür balık piksel animasyon seti.png",
+    "group": "fish",
+    "row": 3,
+    "frame": 1,
+    "search": [
+      400,
+      771,
+      780,
+      1024
+    ],
+    "bounds": [
+      33,
+      26,
+      351,
+      191
+    ]
+  },
+  {
+    "source": "Dört tür balık piksel animasyon seti.png",
+    "group": "fish",
+    "row": 3,
+    "frame": 2,
+    "search": [
+      780,
+      771,
+      1161,
+      1024
+    ],
+    "bounds": [
+      30,
+      26,
+      356,
+      191
+    ]
+  },
+  {
+    "source": "Dört tür balık piksel animasyon seti.png",
+    "group": "fish",
+    "row": 3,
+    "frame": 3,
+    "search": [
+      1161,
+      771,
+      1536,
+      1024
+    ],
+    "bounds": [
+      26,
+      27,
+      350,
+      191
+    ]
+  },
+  {
+    "source": "Piksel deniz tabanı kaya modülleri.png",
+    "group": "ground",
+    "row": 0,
+    "frame": 0,
+    "search": [
+      0,
+      0,
+      604,
+      398
+    ],
+    "bounds": [
+      30,
+      241,
+      581,
+      383
+    ]
+  },
+  {
+    "source": "Piksel deniz tabanı kaya modülleri.png",
+    "group": "ground",
+    "row": 0,
+    "frame": 1,
+    "search": [
+      604,
+      0,
+      1190,
+      398
+    ],
+    "bounds": [
+      25,
+      162,
+      562,
+      383
+    ]
+  },
+  {
+    "source": "Piksel deniz tabanı kaya modülleri.png",
+    "group": "ground",
+    "row": 0,
+    "frame": 2,
+    "search": [
+      1190,
+      0,
+      1774,
+      398
+    ],
+    "bounds": [
+      27,
+      162,
+      554,
+      383
+    ]
+  },
+  {
+    "source": "Piksel deniz tabanı kaya modülleri.png",
+    "group": "ground",
+    "row": 1,
+    "frame": 0,
+    "search": [
+      0,
+      398,
+      750,
+      887
+    ],
+    "bounds": [
+      31,
+      10,
+      736,
+      430
+    ]
+  },
+  {
+    "source": "Piksel deniz tabanı kaya modülleri.png",
+    "group": "ground",
+    "row": 1,
+    "frame": 1,
+    "search": [
+      750,
+      398,
+      1348,
+      887
+    ],
+    "bounds": [
+      13,
+      165,
+      567,
+      441
+    ]
+  },
+  {
+    "source": "Piksel deniz tabanı kaya modülleri.png",
+    "group": "ground",
+    "row": 1,
+    "frame": 2,
+    "search": [
+      1348,
+      398,
+      1774,
+      887
+    ],
+    "bounds": [
+      32,
+      271,
+      395,
+      437
+    ]
+  },
+  {
+    "source": "Piksel sualtı ışık huzmeleri.png",
+    "group": "ray",
+    "row": 0,
+    "frame": 0,
+    "search": [
+      0,
+      0,
+      354,
+      941
+    ],
+    "bounds": [
+      25,
+      0,
+      289,
+      434
+    ]
+  },
+  {
+    "source": "Piksel sualtı ışık huzmeleri.png",
+    "group": "ray",
+    "row": 0,
+    "frame": 1,
+    "search": [
+      354,
+      0,
+      634,
+      941
+    ],
+    "bounds": [
+      48,
+      0,
+      222,
+      420
+    ]
+  },
+  {
+    "source": "Piksel sualtı ışık huzmeleri.png",
+    "group": "ray",
+    "row": 0,
+    "frame": 2,
+    "search": [
+      634,
+      0,
+      989,
+      941
+    ],
+    "bounds": [
+      43,
+      0,
+      297,
+      442
+    ]
+  },
+  {
+    "source": "Piksel sualtı ışık huzmeleri.png",
+    "group": "ray",
+    "row": 0,
+    "frame": 3,
+    "search": [
+      989,
+      0,
+      1319,
+      941
+    ],
+    "bounds": [
+      76,
+      0,
+      289,
+      424
+    ]
+  },
+  {
+    "source": "Piksel sualtı ışık huzmeleri.png",
+    "group": "ray",
+    "row": 0,
+    "frame": 4,
+    "search": [
+      1319,
+      0,
+      1672,
+      941
+    ],
+    "bounds": [
+      65,
+      0,
+      319,
+      387
+    ]
+  },
+  {
+    "source": "Retro piksel köpekbalığı yüzme sprite’ları (1).png",
+    "group": "shark",
+    "row": 0,
+    "frame": 0,
+    "search": [
+      0,
+      0,
+      521,
+      384
+    ],
+    "bounds": [
+      27,
+      133,
+      481,
+      331
+    ]
+  },
+  {
+    "source": "Retro piksel köpekbalığı yüzme sprite’ları (1).png",
+    "group": "shark",
+    "row": 0,
+    "frame": 1,
+    "search": [
+      521,
+      0,
+      987,
+      384
+    ],
+    "bounds": [
+      41,
+      133,
+      447,
+      331
+    ]
+  },
+  {
+    "source": "Retro piksel köpekbalığı yüzme sprite’ları (1).png",
+    "group": "shark",
+    "row": 0,
+    "frame": 2,
+    "search": [
+      987,
+      0,
+      1507,
+      384
+    ],
+    "bounds": [
+      22,
+      133,
+      487,
+      331
+    ]
+  },
+  {
+    "source": "Retro piksel köpekbalığı yüzme sprite’ları (1).png",
+    "group": "shark",
+    "row": 0,
+    "frame": 3,
+    "search": [
+      1507,
+      0,
+      1983,
+      384
+    ],
+    "bounds": [
+      35,
+      133,
+      450,
+      331
+    ]
+  },
+  {
+    "source": "Retro piksel köpekbalığı yüzme sprite’ları (1).png",
+    "group": "shark",
+    "row": 1,
+    "frame": 0,
+    "search": [
+      0,
+      384,
+      546,
+      793
+    ],
+    "bounds": [
+      20,
+      55,
+      531,
+      307
+    ]
+  },
+  {
+    "source": "Retro piksel köpekbalığı yüzme sprite’ları (1).png",
+    "group": "shark",
+    "row": 1,
+    "frame": 1,
+    "search": [
+      546,
+      384,
+      1000,
+      793
+    ],
+    "bounds": [
+      16,
+      55,
+      446,
+      308
+    ]
+  },
+  {
+    "source": "Retro piksel köpekbalığı yüzme sprite’ları (1).png",
+    "group": "shark",
+    "row": 1,
+    "frame": 2,
+    "search": [
+      1000,
+      384,
+      1535,
+      793
+    ],
+    "bounds": [
+      9,
+      55,
+      519,
+      307
+    ]
+  },
+  {
+    "source": "Retro piksel köpekbalığı yüzme sprite’ları (1).png",
+    "group": "shark",
+    "row": 1,
+    "frame": 3,
+    "search": [
+      1535,
+      384,
+      1983,
+      793
+    ],
+    "bounds": [
+      17,
+      55,
+      443,
+      307
+    ]
+  },
+  {
+    "source": "Retro su altı baloncuk sprite’ları.png",
+    "group": "bubble",
+    "row": 0,
+    "frame": 0,
+    "search": [
+      0,
+      0,
+      453,
+      419
+    ],
+    "bounds": [
+      191,
+      183,
+      299,
+      291
+    ]
+  },
+  {
+    "source": "Retro su altı baloncuk sprite’ları.png",
+    "group": "bubble",
+    "row": 0,
+    "frame": 1,
+    "search": [
+      453,
+      0,
+      885,
+      419
+    ],
+    "bounds": [
+      155,
+      183,
+      263,
+      291
+    ]
+  },
+  {
+    "source": "Retro su altı baloncuk sprite’ları.png",
+    "group": "bubble",
+    "row": 0,
+    "frame": 2,
+    "search": [
+      885,
+      0,
+      1334,
+      419
+    ],
+    "bounds": [
+      171,
+      183,
+      265,
+      291
+    ]
+  },
+  {
+    "source": "Retro su altı baloncuk sprite’ları.png",
+    "group": "bubble",
+    "row": 0,
+    "frame": 3,
+    "search": [
+      1334,
+      0,
+      1774,
+      419
+    ],
+    "bounds": [
+      185,
+      203,
+      256,
+      267
+    ]
+  },
+  {
+    "source": "Retro su altı baloncuk sprite’ları.png",
+    "group": "bubble",
+    "row": 1,
+    "frame": 0,
+    "search": [
+      0,
+      419,
+      455,
+      887
+    ],
+    "bounds": [
+      134,
+      129,
+      332,
+      326
+    ]
+  },
+  {
+    "source": "Retro su altı baloncuk sprite’ları.png",
+    "group": "bubble",
+    "row": 1,
+    "frame": 1,
+    "search": [
+      455,
+      419,
+      899,
+      887
+    ],
+    "bounds": [
+      123,
+      129,
+      321,
+      326
+    ]
+  },
+  {
+    "source": "Retro su altı baloncuk sprite’ları.png",
+    "group": "bubble",
+    "row": 1,
+    "frame": 2,
+    "search": [
+      899,
+      419,
+      1341,
+      887
+    ],
+    "bounds": [
+      124,
+      152,
+      280,
+      323
+    ]
+  },
+  {
+    "source": "Retro su altı baloncuk sprite’ları.png",
+    "group": "bubble",
+    "row": 1,
+    "frame": 3,
+    "search": [
+      1341,
+      419,
+      1774,
+      887
+    ],
+    "bounds": [
+      164,
+      179,
+      258,
+      283
+    ]
+  },
+  {
+    "source": "Sekiz kareli turkuaz mercan balığı animasyonu.png",
+    "group": "hero",
+    "row": 0,
+    "frame": 0,
+    "search": [
+      0,
+      0,
+      577,
+      361
+    ],
+    "bounds": [
+      36,
+      49,
+      535,
+      338
+    ]
+  },
+  {
+    "source": "Sekiz kareli turkuaz mercan balığı animasyonu.png",
+    "group": "hero",
+    "row": 0,
+    "frame": 1,
+    "search": [
+      577,
+      0,
+      1095,
+      361
+    ],
+    "bounds": [
+      44,
+      49,
+      495,
+      338
+    ]
+  },
+  {
+    "source": "Sekiz kareli turkuaz mercan balığı animasyonu.png",
+    "group": "hero",
+    "row": 0,
+    "frame": 2,
+    "search": [
+      1095,
+      0,
+      1666,
+      361
+    ],
+    "bounds": [
+      25,
+      49,
+      523,
+      338
+    ]
+  },
+  {
+    "source": "Sekiz kareli turkuaz mercan balığı animasyonu.png",
+    "group": "hero",
+    "row": 0,
+    "frame": 3,
+    "search": [
+      1666,
+      0,
+      2172,
+      361
+    ],
+    "bounds": [
+      49,
+      49,
+      489,
+      338
+    ]
+  },
+  {
+    "source": "Sekiz kareli turkuaz mercan balığı animasyonu.png",
+    "group": "hero",
+    "row": 1,
+    "frame": 0,
+    "search": [
+      0,
+      361,
+      578,
+      724
+    ],
+    "bounds": [
+      36,
+      24,
+      535,
+      315
+    ]
+  },
+  {
+    "source": "Sekiz kareli turkuaz mercan balığı animasyonu.png",
+    "group": "hero",
+    "row": 1,
+    "frame": 1,
+    "search": [
+      578,
+      361,
+      1095,
+      724
+    ],
+    "bounds": [
+      44,
+      24,
+      494,
+      315
+    ]
+  },
+  {
+    "source": "Sekiz kareli turkuaz mercan balığı animasyonu.png",
+    "group": "hero",
+    "row": 1,
+    "frame": 2,
+    "search": [
+      1095,
+      361,
+      1663,
+      724
+    ],
+    "bounds": [
+      26,
+      24,
+      523,
+      315
+    ]
+  },
+  {
+    "source": "Sekiz kareli turkuaz mercan balığı animasyonu.png",
+    "group": "hero",
+    "row": 1,
+    "frame": 3,
+    "search": [
+      1663,
+      361,
+      2172,
+      724
+    ],
+    "bounds": [
+      46,
+      24,
+      492,
+      315
+    ]
+  },
+  {
+    "source": "Su altı balık köyü yapı seti.png",
+    "group": "house",
+    "row": 0,
+    "frame": 0,
+    "search": [
+      0,
+      0,
+      471,
+      513
+    ],
+    "bounds": [
+      31,
+      188,
+      446,
+      486
+    ]
+  },
+  {
+    "source": "Su altı balık köyü yapı seti.png",
+    "group": "house",
+    "row": 0,
+    "frame": 1,
+    "search": [
+      471,
+      0,
+      1051,
+      513
+    ],
+    "bounds": [
+      26,
+      64,
+      555,
+      486
+    ]
+  },
+  {
+    "source": "Su altı balık köyü yapı seti.png",
+    "group": "house",
+    "row": 0,
+    "frame": 2,
+    "search": [
+      1051,
+      0,
+      1536,
+      513
+    ],
+    "bounds": [
+      28,
+      16,
+      456,
+      490
+    ]
+  },
+  {
+    "source": "Su altı balık köyü yapı seti.png",
+    "group": "house",
+    "row": 1,
+    "frame": 0,
+    "search": [
+      0,
+      513,
+      480,
+      1024
+    ],
+    "bounds": [
+      24,
+      66,
+      466,
+      452
+    ]
+  },
+  {
+    "source": "Su altı balık köyü yapı seti.png",
+    "group": "house",
+    "row": 1,
+    "frame": 1,
+    "search": [
+      480,
+      513,
+      1070,
+      1024
+    ],
+    "bounds": [
+      16,
+      19,
+      582,
+      448
+    ]
+  },
+  {
+    "source": "Su altı balık köyü yapı seti.png",
+    "group": "house",
+    "row": 1,
+    "frame": 2,
+    "search": [
+      1070,
+      513,
+      1536,
+      1024
+    ],
+    "bounds": [
+      9,
+      222,
+      450,
+      446
+    ]
+  },
+  {
+    "source": "Üç renkli resif balığı sprite sayfası.png",
+    "group": "reef",
+    "row": 0,
+    "frame": 0,
+    "search": [
+      0,
+      0,
+      411,
+      367
+    ],
+    "bounds": [
+      17,
+      56,
+      374,
+      334
+    ]
+  },
+  {
+    "source": "Üç renkli resif balığı sprite sayfası.png",
+    "group": "reef",
+    "row": 0,
+    "frame": 1,
+    "search": [
+      411,
+      0,
+      772,
+      367
+    ],
+    "bounds": [
+      38,
+      56,
+      347,
+      334
+    ]
+  },
+  {
+    "source": "Üç renkli resif balığı sprite sayfası.png",
+    "group": "reef",
+    "row": 0,
+    "frame": 2,
+    "search": [
+      772,
+      0,
+      1167,
+      367
+    ],
+    "bounds": [
+      15,
+      56,
+      369,
+      334
+    ]
+  },
+  {
+    "source": "Üç renkli resif balığı sprite sayfası.png",
+    "group": "reef",
+    "row": 0,
+    "frame": 3,
+    "search": [
+      1167,
+      0,
+      1536,
+      367
+    ],
+    "bounds": [
+      27,
+      56,
+      358,
+      334
+    ]
+  },
+  {
+    "source": "Üç renkli resif balığı sprite sayfası.png",
+    "group": "reef",
+    "row": 1,
+    "frame": 0,
+    "search": [
+      0,
+      367,
+      414,
+      692
+    ],
+    "bounds": [
+      17,
+      36,
+      381,
+      287
+    ]
+  },
+  {
+    "source": "Üç renkli resif balığı sprite sayfası.png",
+    "group": "reef",
+    "row": 1,
+    "frame": 1,
+    "search": [
+      414,
+      367,
+      776,
+      692
+    ],
+    "bounds": [
+      34,
+      36,
+      351,
+      287
+    ]
+  },
+  {
+    "source": "Üç renkli resif balığı sprite sayfası.png",
+    "group": "reef",
+    "row": 1,
+    "frame": 2,
+    "search": [
+      776,
+      367,
+      1167,
+      692
+    ],
+    "bounds": [
+      11,
+      36,
+      373,
+      290
+    ]
+  },
+  {
+    "source": "Üç renkli resif balığı sprite sayfası.png",
+    "group": "reef",
+    "row": 1,
+    "frame": 3,
+    "search": [
+      1167,
+      367,
+      1536,
+      692
+    ],
+    "bounds": [
+      21,
+      36,
+      365,
+      287
+    ]
+  },
+  {
+    "source": "Üç renkli resif balığı sprite sayfası.png",
+    "group": "reef",
+    "row": 2,
+    "frame": 0,
+    "search": [
+      0,
+      692,
+      414,
+      1024
+    ],
+    "bounds": [
+      17,
+      40,
+      367,
+      288
+    ]
+  },
+  {
+    "source": "Üç renkli resif balığı sprite sayfası.png",
+    "group": "reef",
+    "row": 2,
+    "frame": 1,
+    "search": [
+      414,
+      692,
+      766,
+      1024
+    ],
+    "bounds": [
+      47,
+      40,
+      337,
+      288
+    ]
+  },
+  {
+    "source": "Üç renkli resif balığı sprite sayfası.png",
+    "group": "reef",
+    "row": 2,
+    "frame": 2,
+    "search": [
+      766,
+      692,
+      1160,
+      1024
+    ],
+    "bounds": [
+      17,
+      40,
+      369,
+      288
+    ]
+  },
+  {
+    "source": "Üç renkli resif balığı sprite sayfası.png",
+    "group": "reef",
+    "row": 2,
+    "frame": 3,
+    "search": [
+      1160,
+      692,
+      1536,
+      1024
+    ],
+    "bounds": [
+      28,
+      40,
+      358,
+      288
+    ]
+  },
+  {
+    "source": "Üç sualtı kaya grubu.png",
+    "group": "rock",
+    "row": 0,
+    "frame": 0,
+    "search": [
+      0,
+      0,
+      690,
+      724
+    ],
+    "bounds": [
+      20,
+      193,
+      645,
+      594
+    ]
+  },
+  {
+    "source": "Üç sualtı kaya grubu.png",
+    "group": "rock",
+    "row": 0,
+    "frame": 1,
+    "search": [
+      690,
+      0,
+      1473,
+      724
+    ],
+    "bounds": [
+      46,
+      118,
+      741,
+      594
+    ]
+  },
+  {
+    "source": "Üç sualtı kaya grubu.png",
+    "group": "rock",
+    "row": 0,
+    "frame": 2,
+    "search": [
+      1473,
+      0,
+      2172,
+      724
+    ],
+    "bounds": [
+      40,
+      278,
+      679,
+      594
+    ]
+  },
+  {
+    "source": "Üç Uzak Kaya ve Yosun Silueti.png",
+    "group": "distant",
+    "row": 0,
+    "frame": 0,
+    "search": [
+      0,
+      0,
+      640,
+      724
+    ],
+    "bounds": [
+      27,
+      100,
+      586,
+      631
+    ]
+  },
+  {
+    "source": "Üç Uzak Kaya ve Yosun Silueti.png",
+    "group": "distant",
+    "row": 0,
+    "frame": 1,
+    "search": [
+      640,
+      0,
+      1525,
+      724
+    ],
+    "bounds": [
+      51,
+      209,
+      846,
+      635
+    ]
+  },
+  {
+    "source": "Üç Uzak Kaya ve Yosun Silueti.png",
+    "group": "distant",
+    "row": 0,
+    "frame": 2,
+    "search": [
+      1525,
+      0,
+      2172,
+      724
+    ],
+    "bounds": [
+      46,
+      196,
+      622,
+      633
+    ]
+  },
+  {
+    "source": "İki balinanın retro piksel yüzüşü.png",
+    "group": "whale",
+    "row": 0,
+    "frame": 0,
+    "search": [
+      0,
+      0,
+      504,
+      389
+    ],
+    "bounds": [
+      22,
+      152,
+      493,
+      294
+    ]
+  },
+  {
+    "source": "İki balinanın retro piksel yüzüşü.png",
+    "group": "whale",
+    "row": 0,
+    "frame": 1,
+    "search": [
+      504,
+      0,
+      998,
+      389
+    ],
+    "bounds": [
+      12,
+      124,
+      483,
+      294
+    ]
+  },
+  {
+    "source": "İki balinanın retro piksel yüzüşü.png",
+    "group": "whale",
+    "row": 0,
+    "frame": 2,
+    "search": [
+      998,
+      0,
+      1494,
+      389
+    ],
+    "bounds": [
+      13,
+      151,
+      484,
+      294
+    ]
+  },
+  {
+    "source": "İki balinanın retro piksel yüzüşü.png",
+    "group": "whale",
+    "row": 0,
+    "frame": 3,
+    "search": [
+      1494,
+      0,
+      1983,
+      389
+    ],
+    "bounds": [
+      12,
+      152,
+      481,
+      294
+    ]
+  },
+  {
+    "source": "İki balinanın retro piksel yüzüşü.png",
+    "group": "whale",
+    "row": 1,
+    "frame": 0,
+    "search": [
+      0,
+      389,
+      504,
+      793
+    ],
+    "bounds": [
+      22,
+      121,
+      493,
+      307
+    ]
+  },
+  {
+    "source": "İki balinanın retro piksel yüzüşü.png",
+    "group": "whale",
+    "row": 1,
+    "frame": 1,
+    "search": [
+      504,
+      389,
+      999,
+      793
+    ],
+    "bounds": [
+      13,
+      88,
+      483,
+      317
+    ]
+  },
+  {
+    "source": "İki balinanın retro piksel yüzüşü.png",
+    "group": "whale",
+    "row": 1,
+    "frame": 2,
+    "search": [
+      999,
+      389,
+      1494,
+      793
+    ],
+    "bounds": [
+      13,
+      121,
+      483,
+      301
+    ]
+  },
+  {
+    "source": "İki balinanın retro piksel yüzüşü.png",
+    "group": "whale",
+    "row": 1,
+    "frame": 3,
+    "search": [
+      1494,
+      389,
+      1983,
+      793
+    ],
+    "bounds": [
+      13,
+      121,
+      481,
+      307
+    ]
+  }
+]

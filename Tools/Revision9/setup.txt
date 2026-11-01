@@ -1,0 +1,3 @@
+PASS 541 authored transforms and 121 colliders preserved (requested corpse angle correction excepted).
+Home=(-188.56, -25.73); hall=(-207.15, -22.95); exit=(-162.27, -22.95).
+Existing mayor reused; 2 scientists + 4 citizens; ship skipped without scene loading.

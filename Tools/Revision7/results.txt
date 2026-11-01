@@ -1,0 +1,8 @@
+PASS Authored House preserved with original solid collider
+PASS Corpse ascent increased from 1.1 to 1.8
+PASS Other corpse is belly-up with gentle tilt
+PASS Other corpse is belly-up with gentle tilt
+PASS Other corpse is belly-up with gentle tilt
+PASS Mayor uses player pitch and smoothing
+PASS Mayor visibly pitches upward during physical ascent
+PASS Scene transition remains deferred

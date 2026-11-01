@@ -1,0 +1,5 @@
+No cannon splash/impact recordings present; assign optional Inspector fields.
+No existing AudioMixer found; scene-local assignable Mixer field.
+freesound_community-underwater-loop-amb-6182: duration=239,688s RMS=0,06933 peak=0,72363; edge RMS=0,00443/0,04746
+soundshmyak-bubbles-159281: duration=5,688s RMS=0,12806 peak=0,99905; edge RMS=0,10985/0,17678
+Ambience uses two fixed sources with 0.6s loop crossfade and 1s fade-in. Bubble uses one source, 0.65s window, 1.6s cooldown and fade edges. No subjective listening/build test claimed.

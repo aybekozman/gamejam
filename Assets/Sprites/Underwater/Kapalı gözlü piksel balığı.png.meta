@@ -1,0 +1,286 @@
+fileFormatVersion: 2
+guid: 4e32f848880f04543b875dfb7b788c2a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4015375223526198923
+    second: "Kapal\u0131 g\xF6zl\xFC piksel bal\u0131\u011F\u0131_0"
+  - first:
+      213: -8441662152957289608
+    second: "Kapal\u0131 g\xF6zl\xFC piksel bal\u0131\u011F\u0131_1"
+  - first:
+      213: 6669330891967462862
+    second: "Kapal\u0131 g\xF6zl\xFC piksel bal\u0131\u011F\u0131_2"
+  - first:
+      213: 6876017327606995898
+    second: "Kapal\u0131 g\xF6zl\xFC piksel bal\u0131\u011F\u0131_3"
+  - first:
+      213: -4971751021576961271
+    second: "Kapal\u0131 g\xF6zl\xFC piksel bal\u0131\u011F\u0131_4"
+  - first:
+      213: -5482003697813354270
+    second: "Kapal\u0131 g\xF6zl\xFC piksel bal\u0131\u011F\u0131_5"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Kapal\u0131 g\xF6zl\xFC piksel bal\u0131\u011F\u0131_0"
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 0
+        width: 1599
+        height: 854
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8e0f2ecd7a79b730800000000000000
+      internalID: 4015375223526198923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Kapal\u0131 g\xF6zl\xFC piksel bal\u0131\u011F\u0131_1"
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 393
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87b1f1b6ff039da80800000000000000
+      internalID: -8441662152957289608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Kapal\u0131 g\xF6zl\xFC piksel bal\u0131\u011F\u0131_2"
+      rect:
+        serializedVersion: 2
+        x: 1495
+        y: 389
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecd72415c193e8c50800000000000000
+      internalID: 6669330891967462862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Kapal\u0131 g\xF6zl\xFC piksel bal\u0131\u011F\u0131_3"
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 255
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abb127924558c6f50800000000000000
+      internalID: 6876017327606995898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Kapal\u0131 g\xF6zl\xFC piksel bal\u0131\u011F\u0131_4"
+      rect:
+        serializedVersion: 2
+        x: 1505
+        y: 235
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 903483f89cac00bb0800000000000000
+      internalID: -4971751021576961271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Kapal\u0131 g\xF6zl\xFC piksel bal\u0131\u011F\u0131_5"
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 76
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e805768ea20ce3b0800000000000000
+      internalID: -5482003697813354270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "Kapal\u0131 g\xF6zl\xFC piksel bal\u0131\u011F\u0131_0": 4015375223526198923
+      "Kapal\u0131 g\xF6zl\xFC piksel bal\u0131\u011F\u0131_1": -8441662152957289608
+      "Kapal\u0131 g\xF6zl\xFC piksel bal\u0131\u011F\u0131_2": 6669330891967462862
+      "Kapal\u0131 g\xF6zl\xFC piksel bal\u0131\u011F\u0131_3": 6876017327606995898
+      "Kapal\u0131 g\xF6zl\xFC piksel bal\u0131\u011F\u0131_4": -4971751021576961271
+      "Kapal\u0131 g\xF6zl\xFC piksel bal\u0131\u011F\u0131_5": -5482003697813354270
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

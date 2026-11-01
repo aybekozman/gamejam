@@ -1,0 +1,54 @@
+[
+  {
+    "prefix": "animal_2",
+    "selected": [
+      0,
+      2
+    ],
+    "canvas": [
+      140,
+      49
+    ],
+    "bodyMeasure": 131
+  },
+  {
+    "prefix": "whale_0",
+    "selected": [
+      0,
+      2,
+      3
+    ],
+    "canvas": [
+      166,
+      56
+    ],
+    "bodyMeasure": 157
+  },
+  {
+    "prefix": "whale_1",
+    "selected": [
+      0,
+      2,
+      3
+    ],
+    "canvas": [
+      166,
+      71
+    ],
+    "bodyMeasure": 157
+  },
+  {
+    "prefix": "animal_0",
+    "selected": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "canvas": [
+      124,
+      85
+    ],
+    "bodyMeasure": 73
+  }
+]

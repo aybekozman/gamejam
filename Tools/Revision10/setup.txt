@@ -1,0 +1,4 @@
+PASS 554 existing transforms and 127 colliders preserved.
+Road (-162.27, -22.95), leader (216.00, -20.00), sign grounded at (173.00, -32.66, 0.00).
+Leader width 5,2, ordinary shark width 4; cannon terminal speed 8,1.
+No ship or global settings touched.

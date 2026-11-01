@@ -1,0 +1,15 @@
+PASS Continuous shore profile and solid slope present
+PASS Shallow shore contains no MeshRenderer
+PASS Shore is built from crisp point-filtered SpriteRenderer pieces
+PASS Shore pixels use the same world scale as the existing floor
+PASS Depth decreases monotonically toward the left coast
+PASS Natural waterline meets the rising seabed
+PASS Old west wall removed from the village approach
+PASS Slope collider matches the rendered shoreline profile
+PASS All background rocks share parallax with their supporting seabed
+PASS Fish swims beyond the former wall and follows the gradual rising ground
+PASS Pier deck above water, with underwater support posts
+PASS Pier posts reach the sloping seabed
+PASS Fish stops naturally where shallow water closes at shore
+PASS Background rock feet stay attached during camera movement
+PASS No runtime errors during shore verification

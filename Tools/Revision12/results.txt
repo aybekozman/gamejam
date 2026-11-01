@@ -1,0 +1,16 @@
+PASS Scene-local pixel font assigned
+PASS Pixel font supports all Turkish glyphs
+PASS Shift smoothly reaches 1.5x actual normal speed
+PASS Releasing Shift returns normal speed
+PASS Hit turns player red
+PASS Hit color returns exactly after short feedback
+PASS Dialogue control lock clears reaction
+PASS Shot interval shortened 30 percent
+PASS Separate messenger dialogue added
+PASS Decorative reef fish receives cannon sweep
+PASS Dead ambient fish stays dead and stops at surface
+PASS Pollution creates bounded harmless litter
+PASS Clean preview removes accumulated litter without multiplying
+PASS One decorative surface ship
+PASS Messenger swims to open sea and retires away from player
+PASS No runtime errors in targeted checks

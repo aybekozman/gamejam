@@ -1,0 +1,4 @@
+15 Play Mode kontrolü geçti. Kıyıda MeshRenderer bulunmadığı, SpriteRenderer kullanımı, Point filtre, mevcut zeminle aynı PPU ve dünya piksel ölçeği, eğim/collider eşleşmesi, geçişte yüzme, iskele destekleri, doğal sığ su sınırı ve çalışma hatası bulunmaması doğrulandı.
+528 mevcut transform ve 119 diğer collider tanımı korundu. Yalnız oluşturulmuş kıyı çarpışması, yeni sprite yüzeyine ve mevcut zeminle birleşen yüksekliğe hizalandı. Var olan collider objesinin dikey ofseti yerel koordinat dönüşümünde hesaba katıldı; evlere ve diğer collider’lara dokunulmadı.
+Yeni sprite renklerinin tamamı mevcut ground_0_0 dokusundan doğrudan kopyalandı; renk interpolasyonu veya doku esnetmesi yoktur.
+Görüntüler: shore-fixed.png, floor-join.png.

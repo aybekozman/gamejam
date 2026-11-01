@@ -1,0 +1,8 @@
+results.txt: 19 PASS / 0 FAIL
+full-route-results.txt: 75 PASS / 0 FAIL
+first-chapter-regression.txt: 58 PASS / 0 FAIL
+Discharge entry, debounce, exit/re-entry, visual+damage disable, dialogue protection, can/floor contact, heart respawn and layer counts were exercised in real Play Mode.
+Complete shark journey used real Input System WASD/E at timeScale=1; route swimming 57.3 + 3.1 + 6.9 seconds. All 18 leader dialogue lines and ending passed.
+Ship outlet alignment, soft alpha and heart UI screenshot visually inspected. Pre-existing colliders preserved; only authorized initial mayor transform changed. ShipScene/project settings/input hashes unchanged.
+Audio diagnosis: single listener, volume 1, six bounded 2D sources, zero muted sources. Ambience gain .3, bubble .11. No suitable distant cannon recording found; optional field remains empty. Subjective combined listening was NOT performed.
+No standalone build or new full second-chapter regression in this revision.

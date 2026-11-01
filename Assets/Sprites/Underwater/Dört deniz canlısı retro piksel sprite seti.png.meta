@@ -1,0 +1,2002 @@
+fileFormatVersion: 2
+guid: 92e74447da41c51459930f5d9c26cbfb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3150177414655855947
+    second: "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_0"
+  - first:
+      213: -6086416072236149064
+    second: "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_1"
+  - first:
+      213: 6969651220057460607
+    second: "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_2"
+  - first:
+      213: -6779723538630981398
+    second: "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_3"
+  - first:
+      213: 9084365373250282393
+    second: "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_4"
+  - first:
+      213: -5833394226105537190
+    second: "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_5"
+  - first:
+      213: 6134003177577202343
+    second: "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_6"
+  - first:
+      213: -2735453938218727224
+    second: "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_7"
+  - first:
+      213: 333098722566062261
+    second: "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_8"
+  - first:
+      213: -7733396823549519140
+    second: "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_9"
+  - first:
+      213: 6543518808673086249
+    second: "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_10"
+  - first:
+      213: -6655610562763091538
+    second: "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_11"
+  - first:
+      213: -355538288674226029
+    second: "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_12"
+  - first:
+      213: -6603545517782084831
+    second: "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_13"
+  - first:
+      213: 411993616366636747
+    second: "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_14"
+  - first:
+      213: 8454059311658357646
+    second: "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_15"
+  - first:
+      213: 757782369508529649
+    second: "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_16"
+  - first:
+      213: 2531325106129932291
+    second: "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_17"
+  - first:
+      213: 3483776916925672449
+    second: "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_18"
+  - first:
+      213: -8035258477891124132
+    second: "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_19"
+  - first:
+      213: 1000874328155445121
+    second: "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_20"
+  - first:
+      213: -4953115713937857978
+    second: "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_21"
+  - first:
+      213: 3351440917033267134
+    second: "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_22"
+  - first:
+      213: -97802121610623521
+    second: "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_23"
+  - first:
+      213: 4571471822959612204
+    second: "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_24"
+  - first:
+      213: 786955329380963312
+    second: "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_25"
+  - first:
+      213: 1474257111361766186
+    second: "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_26"
+  - first:
+      213: 5315100768779642801
+    second: "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_27"
+  - first:
+      213: -5287239271919541018
+    second: "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_28"
+  - first:
+      213: -3842084791286703670
+    second: "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_29"
+  - first:
+      213: 6853441576636250861
+    second: "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_30"
+  - first:
+      213: 1465386452365888435
+    second: "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_31"
+  - first:
+      213: -6034897917683240558
+    second: "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_32"
+  - first:
+      213: 1407578181366717084
+    second: "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_33"
+  - first:
+      213: 7328987604015746824
+    second: "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_34"
+  - first:
+      213: -95100496337170077
+    second: "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_35"
+  - first:
+      213: -113470474109002921
+    second: "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_36"
+  - first:
+      213: -589808635665996982
+    second: "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_37"
+  - first:
+      213: 2677498423372941850
+    second: "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_38"
+  - first:
+      213: -6285701235056814562
+    second: "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_39"
+  - first:
+      213: 322462753910151464
+    second: "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_40"
+  - first:
+      213: -7342773061857665619
+    second: "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_41"
+  - first:
+      213: 5152117429736911388
+    second: "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_42"
+  - first:
+      213: -2849259041868101820
+    second: "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_43"
+  - first:
+      213: -3469606888885643724
+    second: "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_44"
+  - first:
+      213: -71937804131732692
+    second: "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_45"
+  - first:
+      213: 2481015321538683923
+    second: "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_46"
+  - first:
+      213: -6752853072995050277
+    second: "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_47"
+  - first:
+      213: 3624922069356851756
+    second: "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_48"
+  - first:
+      213: -5565854295432693360
+    second: "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_49"
+  - first:
+      213: 9035909672577722823
+    second: "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_50"
+  - first:
+      213: -8315707155481281765
+    second: "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_51"
+  - first:
+      213: -8056181684977757403
+    second: "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_52"
+  - first:
+      213: 4674189470106338603
+    second: "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_53"
+  - first:
+      213: 4345928221506898749
+    second: "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_54"
+  - first:
+      213: -8766236860597744457
+    second: "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_55"
+  - first:
+      213: -1127869843804742621
+    second: "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_56"
+  - first:
+      213: 4634555599239425708
+    second: "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_57"
+  - first:
+      213: -4823414223633399656
+    second: "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_58"
+  - first:
+      213: 4593943875562891598
+    second: "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_59"
+  - first:
+      213: 5105660595997953864
+    second: "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_60"
+  - first:
+      213: 6630574808731998964
+    second: "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_61"
+  - first:
+      213: -2601558854406437183
+    second: "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_62"
+  - first:
+      213: -7807456795572040976
+    second: "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_63"
+  - first:
+      213: -2854300676258249214
+    second: "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_64"
+  - first:
+      213: -8208652179431047966
+    second: "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_65"
+  - first:
+      213: -2791232187094717952
+    second: "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_66"
+  - first:
+      213: -5070792586513055888
+    second: "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_67"
+  - first:
+      213: 2165707946784418417
+    second: "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_68"
+  - first:
+      213: 903048487151608675
+    second: "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_69"
+  - first:
+      213: 1946983193727343176
+    second: "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_70"
+  - first:
+      213: -3367736497606532423
+    second: "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_71"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_0"
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 684
+        width: 352
+        height: 416
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b2bafbe4525844d0800000000000000
+      internalID: -3150177414655855947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_1"
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 1067
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b6d22b54d4b88ba0800000000000000
+      internalID: -6086416072236149064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_2"
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 1089
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7f84eb9bdc29b060800000000000000
+      internalID: 6969651220057460607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_3"
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 1089
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae8cb84bc5599e1a0800000000000000
+      internalID: -6779723538630981398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_4"
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 856
+        width: 313
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 993217a0d26221e70800000000000000
+      internalID: 9084365373250282393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_5"
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 1085
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5d2a26abde9b0fa0800000000000000
+      internalID: -5833394226105537190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_6"
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 824
+        width: 330
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a24b92046b502550800000000000000
+      internalID: 6134003177577202343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_7"
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 1035
+        width: 72
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c88701e227b90ad0800000000000000
+      internalID: -2735453938218727224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_8"
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 756
+        width: 373
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b0cfa9f5876f9400800000000000000
+      internalID: 333098722566062261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_9"
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 1059
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cda5231ff847da490800000000000000
+      internalID: -7733396823549519140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_10"
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 1051
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92beb0cffaf3fca50800000000000000
+      internalID: 6543518808673086249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_11"
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 1057
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea11b23c47582a3a0800000000000000
+      internalID: -6655610562763091538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_12"
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 1040
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 390c5876fcfd01bf0800000000000000
+      internalID: -355538288674226029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_13"
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 1043
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 123d972b65e7b54a0800000000000000
+      internalID: -6603545517782084831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_14"
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1018
+        width: 9
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bce0341e202b7b500800000000000000
+      internalID: 411993616366636747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_15"
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 889
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e83da75072ad25570800000000000000
+      internalID: 8454059311658357646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_16"
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 841
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f51c97dc0f248a00800000000000000
+      internalID: 757782369508529649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_17"
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 499
+        width: 281
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30017e1c5c2112320800000000000000
+      internalID: 2531325106129932291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_18"
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 527
+        width: 318
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10c6f0ae5acd85030800000000000000
+      internalID: 3483776916925672449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_19"
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 488
+        width: 277
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c548adaacf60d7090800000000000000
+      internalID: -8035258477891124132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_20"
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 510
+        width: 307
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 187538a06e1d3ed00800000000000000
+      internalID: 1000874328155445121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_21"
+      rect:
+        serializedVersion: 2
+        x: 1337
+        y: 766
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 642245b308ff24bb0800000000000000
+      internalID: -4953115713937857978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_22"
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 742
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebf2a71e1c5b28e20800000000000000
+      internalID: 3351440917033267134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_23"
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 744
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd58e131d7984aef0800000000000000
+      internalID: -97802121610623521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_24"
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 752
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c21173cf661217f30800000000000000
+      internalID: 4571471822959612204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_25"
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 746
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f35addd3b3dbea00800000000000000
+      internalID: 786955329380963312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_26"
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 740
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a23cf46280d957410800000000000000
+      internalID: 1474257111361766186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_27"
+      rect:
+        serializedVersion: 2
+        x: 1362
+        y: 738
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b724841df703c940800000000000000
+      internalID: 5315100768779642801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_28"
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 696
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e4adba25e3ff96b0800000000000000
+      internalID: -5287239271919541018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_29"
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 663
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac9dc621d3c2eaac0800000000000000
+      internalID: -3842084791286703670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_30"
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 626
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deafb488dc05c1f50800000000000000
+      internalID: 6853441576636250861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_31"
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 560
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bb40f7e639165410800000000000000
+      internalID: 1465386452365888435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_32"
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 572
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 291feb0715cbf3ca0800000000000000
+      internalID: -6034897917683240558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_33"
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 576
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9a14f5f5e8b88310800000000000000
+      internalID: 1407578181366717084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_34"
+      rect:
+        serializedVersion: 2
+        x: 1322
+        y: 571
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80f899c256bc5b560800000000000000
+      internalID: 7328987604015746824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_35"
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 546
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3611cd93a922eaef0800000000000000
+      internalID: -95100496337170077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_36"
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 548
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75bdc3a743fdc6ef0800000000000000
+      internalID: -113470474109002921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_37"
+      rect:
+        serializedVersion: 2
+        x: 1337
+        y: 552
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a43aba9bb2490d7f0800000000000000
+      internalID: -589808635665996982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_38"
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 536
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1a00db41a2682520800000000000000
+      internalID: 2677498423372941850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_39"
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 530
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e165430a704b4c8a0800000000000000
+      internalID: -6285701235056814562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_40"
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 520
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 829db1c8a2e997400800000000000000
+      internalID: 322462753910151464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_41"
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 538
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dad9aadcdca391a90800000000000000
+      internalID: -7342773061857665619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_42"
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 502
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c123198518fff7740800000000000000
+      internalID: 5152117429736911388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_43"
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 510
+        width: 42
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 447c1685ff56578d0800000000000000
+      internalID: -2849259041868101820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_44"
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 514
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43619b5daea79dfc0800000000000000
+      internalID: -3469606888885643724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_45"
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 512
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c237ec2c2fc600ff0800000000000000
+      internalID: -71937804131732692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_46"
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 512
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3146d9a3a465e6220800000000000000
+      internalID: 2481015321538683923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_47"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 406
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdc99b388eb0942a0800000000000000
+      internalID: -6752853072995050277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_48"
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 346
+        width: 343
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c223d7a9a6f4e4230800000000000000
+      internalID: 3624922069356851756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_49"
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 36
+        width: 398
+        height: 463
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 099f629e10d12c2b0800000000000000
+      internalID: -5565854295432693360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_50"
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 305
+        width: 333
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c9e28019fff56d70800000000000000
+      internalID: 9035909672577722823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_51"
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 350
+        width: 324
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1b3d5d866ca89c80800000000000000
+      internalID: -8315707155481281765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_52"
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 23
+        width: 295
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52394e4e071b23090800000000000000
+      internalID: -8056181684977757403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_53"
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 25
+        width: 209
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b254f82ee8e0ed040800000000000000
+      internalID: 4674189470106338603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_54"
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 29
+        width: 336
+        height: 287
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3b834611b6df4c30800000000000000
+      internalID: 4345928221506898749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_55"
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 290
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bcc2235502185680800000000000000
+      internalID: -8766236860597744457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_56"
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 289
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32c942f4a500950f0800000000000000
+      internalID: -1127869843804742621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_57"
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 289
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caea67833cf315040800000000000000
+      internalID: 4634555599239425708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_58"
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 0
+        width: 265
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 890c3c3b15acf0db0800000000000000
+      internalID: -4823414223633399656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_59"
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 229
+        width: 82
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e49e1057d97f0cf30800000000000000
+      internalID: 4593943875562891598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_60"
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 258
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84fca28d243fad640800000000000000
+      internalID: 5105660595997953864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_61"
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 261
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fadf1388a8840c50800000000000000
+      internalID: 6630574808731998964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_62"
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 233
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c605dc610865ebd0800000000000000
+      internalID: -2601558854406437183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_63"
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 230
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fa08bcf86756a390800000000000000
+      internalID: -7807456795572040976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_64"
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 230
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 206487d58ac7368d0800000000000000
+      internalID: -2854300676258249214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_65"
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 175
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ecb6488552051e80800000000000000
+      internalID: -8208652179431047966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_66"
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 137
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00a259a4d1d8349d0800000000000000
+      internalID: -2791232187094717952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_67"
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 133
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07f743f320de0a9b0800000000000000
+      internalID: -5070792586513055888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_68"
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 127
+        width: 29
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17a635737e32e0e10800000000000000
+      internalID: 2165707946784418417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_69"
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 67
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36320a380d5488c00800000000000000
+      internalID: 903048487151608675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_70"
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 62
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84a16cd26e2150b10800000000000000
+      internalID: 1946983193727343176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_71"
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 33
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b26b0b9f756341d0800000000000000
+      internalID: -3367736497606532423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_0": -3150177414655855947
+      "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_1": -6086416072236149064
+      "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_10": 6543518808673086249
+      "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_11": -6655610562763091538
+      "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_12": -355538288674226029
+      "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_13": -6603545517782084831
+      "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_14": 411993616366636747
+      "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_15": 8454059311658357646
+      "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_16": 757782369508529649
+      "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_17": 2531325106129932291
+      "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_18": 3483776916925672449
+      "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_19": -8035258477891124132
+      "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_2": 6969651220057460607
+      "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_20": 1000874328155445121
+      "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_21": -4953115713937857978
+      "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_22": 3351440917033267134
+      "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_23": -97802121610623521
+      "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_24": 4571471822959612204
+      "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_25": 786955329380963312
+      "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_26": 1474257111361766186
+      "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_27": 5315100768779642801
+      "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_28": -5287239271919541018
+      "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_29": -3842084791286703670
+      "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_3": -6779723538630981398
+      "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_30": 6853441576636250861
+      "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_31": 1465386452365888435
+      "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_32": -6034897917683240558
+      "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_33": 1407578181366717084
+      "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_34": 7328987604015746824
+      "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_35": -95100496337170077
+      "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_36": -113470474109002921
+      "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_37": -589808635665996982
+      "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_38": 2677498423372941850
+      "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_39": -6285701235056814562
+      "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_4": 9084365373250282393
+      "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_40": 322462753910151464
+      "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_41": -7342773061857665619
+      "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_42": 5152117429736911388
+      "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_43": -2849259041868101820
+      "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_44": -3469606888885643724
+      "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_45": -71937804131732692
+      "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_46": 2481015321538683923
+      "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_47": -6752853072995050277
+      "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_48": 3624922069356851756
+      "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_49": -5565854295432693360
+      "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_5": -5833394226105537190
+      "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_50": 9035909672577722823
+      "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_51": -8315707155481281765
+      "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_52": -8056181684977757403
+      "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_53": 4674189470106338603
+      "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_54": 4345928221506898749
+      "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_55": -8766236860597744457
+      "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_56": -1127869843804742621
+      "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_57": 4634555599239425708
+      "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_58": -4823414223633399656
+      "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_59": 4593943875562891598
+      "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_6": 6134003177577202343
+      "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_60": 5105660595997953864
+      "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_61": 6630574808731998964
+      "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_62": -2601558854406437183
+      "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_63": -7807456795572040976
+      "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_64": -2854300676258249214
+      "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_65": -8208652179431047966
+      "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_66": -2791232187094717952
+      "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_67": -5070792586513055888
+      "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_68": 2165707946784418417
+      "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_69": 903048487151608675
+      "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_7": -2735453938218727224
+      "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_70": 1946983193727343176
+      "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_71": -3367736497606532423
+      "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_8": 333098722566062261
+      "D\xF6rt deniz canl\u0131s\u0131 retro piksel sprite seti_9": -7733396823549519140
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

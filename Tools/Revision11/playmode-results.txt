@@ -1,0 +1,10 @@
+PASS Continue instruction uses visible portrait textbox without consuming dialogue input
+PASS One real E press activates continue textbox
+PASS Travel thought appears in standard nonblocking dialogue panel
+PASS Queued journey text stays readable while controls remain available
+PASS Near-miss sentence is queued rather than overwritten by other travel dialogue
+PASS Denser Inspector settings applied to saved scene
+PASS Normal section produces dense falling stream within new cap (peak=9)
+PASS Travel textbox does not pause hazards or movement
+PASS Leader and sign safe zones remain protected
+PASS No new runtime errors

@@ -1,0 +1,8 @@
+PASS Ascent speed 4.2 (previously 1.8)
+PASS Corpse belly-up with clearly visible diagonal angle
+PASS Corpse belly-up with clearly visible diagonal angle
+PASS Corpse belly-up with clearly visible diagonal angle
+PASS Player home uses authored House
+PASS Completion objective says Eve dön
+PASS Near home shows E entry hint
+PASS Home interaction does nothing and preserves completion

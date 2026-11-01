@@ -1,0 +1,1 @@
+Listener volume=1; sources=6; 2D=True; muted=0; ambience gain=0,3; bubbles=0,11

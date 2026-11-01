@@ -1,0 +1,5 @@
+PASS seam-102.png: no dark uncovered vertical columns (peak fraction 0.050)
+PASS seam-118.png: no dark uncovered vertical columns (peak fraction 0.047)
+PASS seam-134.png: no dark uncovered vertical columns (peak fraction 0.047)
+PASS seam-150.png: no dark uncovered vertical columns (peak fraction 0.000)
+PASS seam-86.png: no dark uncovered vertical columns (peak fraction 0.053)

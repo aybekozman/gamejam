@@ -1,0 +1,15 @@
+PASS Initial chapter retains clean water stage
+PASS Announcement chapter uses mild polluted stage
+PASS Shark journey uses stronger polluted stage
+PASS Existing habitat allows eight sparse roaming fish along battle route
+PASS Journey adds more litter than announcement
+PASS Some light waste floats within the water column
+PASS Trash and corpse budgets remain bounded
+PASS Existing spawner actually populates open battle route with living fish
+PASS All original, extended and shore sky tiles share chapter pollution shader
+PASS All sky tiles use identical progressive pollution amount
+PASS Cannon sweep kills decorative route fish
+PASS Already dead fish cannot consume death budget twice
+PASS Killed fish turns belly-up and stops at actual surface
+PASS Pollution material excludes player and existing discharge effect
+PASS No new runtime errors

@@ -1,0 +1,22 @@
+[
+  {
+    "Algorithm": "SHA256",
+    "Hash": "80039C1781209BC3E422E276BF43D289013E3316E440747616FF27A75ADA6E04",
+    "Path": "C:\\Users\\PC\\Desktop\\D\\gamejam\\Assets\\Scenes\\ShipScene.unity"
+  },
+  {
+    "Algorithm": "SHA256",
+    "Hash": "24D2A2C455648D32EE1150D3EC0D2A449EDB3912B13291AED2EFE1A8CDB6987D",
+    "Path": "C:\\Users\\PC\\Desktop\\D\\gamejam\\Assets\\Scenes\\FishScene.unity"
+  },
+  {
+    "Algorithm": "SHA256",
+    "Hash": "19106BAF17B67E91A8676E064220121D461F9D5C6066886682D08D2184D893B9",
+    "Path": "C:\\Users\\PC\\Desktop\\D\\gamejam\\ProjectSettings\\ProjectSettings.asset"
+  },
+  {
+    "Algorithm": "SHA256",
+    "Hash": "16EC623F07557D34356FB3369E0F44EC7267E06D1E40851C1D0426FCEA4EAC11",
+    "Path": "C:\\Users\\PC\\Desktop\\D\\gamejam\\ProjectSettings\\EditorBuildSettings.asset"
+  }
+]

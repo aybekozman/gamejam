@@ -1,0 +1,4056 @@
+fileFormatVersion: 2
+guid: e7b16fc3f6821cb4981a9ddeb7f58b0a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4718712864893490697
+    second: "D\xF6rt piksel kirli su lekesi-2_0"
+  - first:
+      213: -7288590774208480313
+    second: "D\xF6rt piksel kirli su lekesi-2_1"
+  - first:
+      213: -3850244089690614844
+    second: "D\xF6rt piksel kirli su lekesi-2_2"
+  - first:
+      213: -3663967280801547435
+    second: "D\xF6rt piksel kirli su lekesi-2_3"
+  - first:
+      213: 5014405393937115189
+    second: "D\xF6rt piksel kirli su lekesi-2_4"
+  - first:
+      213: 9140043910653294591
+    second: "D\xF6rt piksel kirli su lekesi-2_5"
+  - first:
+      213: -333221233574992331
+    second: "D\xF6rt piksel kirli su lekesi-2_6"
+  - first:
+      213: -3552167126278314785
+    second: "D\xF6rt piksel kirli su lekesi-2_7"
+  - first:
+      213: 7116524995627341874
+    second: "D\xF6rt piksel kirli su lekesi-2_8"
+  - first:
+      213: 1436518450018029825
+    second: "D\xF6rt piksel kirli su lekesi-2_9"
+  - first:
+      213: 6845656957100675819
+    second: "D\xF6rt piksel kirli su lekesi-2_10"
+  - first:
+      213: -2184790255132916604
+    second: "D\xF6rt piksel kirli su lekesi-2_11"
+  - first:
+      213: 6009928888898121497
+    second: "D\xF6rt piksel kirli su lekesi-2_12"
+  - first:
+      213: 6934630100287009010
+    second: "D\xF6rt piksel kirli su lekesi-2_13"
+  - first:
+      213: -4953280745039973531
+    second: "D\xF6rt piksel kirli su lekesi-2_14"
+  - first:
+      213: -8580058029478392032
+    second: "D\xF6rt piksel kirli su lekesi-2_15"
+  - first:
+      213: -5596396924219387405
+    second: "D\xF6rt piksel kirli su lekesi-2_16"
+  - first:
+      213: -7027113754062210901
+    second: "D\xF6rt piksel kirli su lekesi-2_17"
+  - first:
+      213: 5265026415887932692
+    second: "D\xF6rt piksel kirli su lekesi-2_18"
+  - first:
+      213: 1388403413809914179
+    second: "D\xF6rt piksel kirli su lekesi-2_19"
+  - first:
+      213: 2843035173847249365
+    second: "D\xF6rt piksel kirli su lekesi-2_20"
+  - first:
+      213: -4948496688415143110
+    second: "D\xF6rt piksel kirli su lekesi-2_21"
+  - first:
+      213: 8524455287126690895
+    second: "D\xF6rt piksel kirli su lekesi-2_22"
+  - first:
+      213: -1713967165626772
+    second: "D\xF6rt piksel kirli su lekesi-2_23"
+  - first:
+      213: 2995651037542729342
+    second: "D\xF6rt piksel kirli su lekesi-2_24"
+  - first:
+      213: 3660714217632141726
+    second: "D\xF6rt piksel kirli su lekesi-2_25"
+  - first:
+      213: 4457753228950143775
+    second: "D\xF6rt piksel kirli su lekesi-2_26"
+  - first:
+      213: 8378269859832843900
+    second: "D\xF6rt piksel kirli su lekesi-2_27"
+  - first:
+      213: 7887040432253849974
+    second: "D\xF6rt piksel kirli su lekesi-2_28"
+  - first:
+      213: -5269076974424969763
+    second: "D\xF6rt piksel kirli su lekesi-2_29"
+  - first:
+      213: 5626965387568299003
+    second: "D\xF6rt piksel kirli su lekesi-2_30"
+  - first:
+      213: -4040722258761947658
+    second: "D\xF6rt piksel kirli su lekesi-2_31"
+  - first:
+      213: 6614352987516267164
+    second: "D\xF6rt piksel kirli su lekesi-2_32"
+  - first:
+      213: 205799668172519147
+    second: "D\xF6rt piksel kirli su lekesi-2_33"
+  - first:
+      213: 5541411254100639610
+    second: "D\xF6rt piksel kirli su lekesi-2_34"
+  - first:
+      213: 7249779441716331273
+    second: "D\xF6rt piksel kirli su lekesi-2_35"
+  - first:
+      213: 9165941049406772786
+    second: "D\xF6rt piksel kirli su lekesi-2_36"
+  - first:
+      213: -37383705412890263
+    second: "D\xF6rt piksel kirli su lekesi-2_37"
+  - first:
+      213: -4110898633296795137
+    second: "D\xF6rt piksel kirli su lekesi-2_38"
+  - first:
+      213: 4525558973000393037
+    second: "D\xF6rt piksel kirli su lekesi-2_39"
+  - first:
+      213: -2419091250882324695
+    second: "D\xF6rt piksel kirli su lekesi-2_40"
+  - first:
+      213: 4809112314053123171
+    second: "D\xF6rt piksel kirli su lekesi-2_41"
+  - first:
+      213: 9046410489109312712
+    second: "D\xF6rt piksel kirli su lekesi-2_42"
+  - first:
+      213: -5353026886918714282
+    second: "D\xF6rt piksel kirli su lekesi-2_43"
+  - first:
+      213: -3008054209559432046
+    second: "D\xF6rt piksel kirli su lekesi-2_44"
+  - first:
+      213: 8408858819670232047
+    second: "D\xF6rt piksel kirli su lekesi-2_45"
+  - first:
+      213: 7026989821982188637
+    second: "D\xF6rt piksel kirli su lekesi-2_46"
+  - first:
+      213: 2599661769667028052
+    second: "D\xF6rt piksel kirli su lekesi-2_47"
+  - first:
+      213: -587392987440207245
+    second: "D\xF6rt piksel kirli su lekesi-2_48"
+  - first:
+      213: 7780324106101218491
+    second: "D\xF6rt piksel kirli su lekesi-2_49"
+  - first:
+      213: -3341285413117099579
+    second: "D\xF6rt piksel kirli su lekesi-2_50"
+  - first:
+      213: -5941549636609035577
+    second: "D\xF6rt piksel kirli su lekesi-2_51"
+  - first:
+      213: -7655023335218227777
+    second: "D\xF6rt piksel kirli su lekesi-2_52"
+  - first:
+      213: 6050080469332076900
+    second: "D\xF6rt piksel kirli su lekesi-2_53"
+  - first:
+      213: 1971693068001443640
+    second: "D\xF6rt piksel kirli su lekesi-2_54"
+  - first:
+      213: -1025948887618853034
+    second: "D\xF6rt piksel kirli su lekesi-2_55"
+  - first:
+      213: -5056168186933221071
+    second: "D\xF6rt piksel kirli su lekesi-2_56"
+  - first:
+      213: 3633440962604413280
+    second: "D\xF6rt piksel kirli su lekesi-2_57"
+  - first:
+      213: 441413876771668728
+    second: "D\xF6rt piksel kirli su lekesi-2_58"
+  - first:
+      213: -4784301443225541256
+    second: "D\xF6rt piksel kirli su lekesi-2_59"
+  - first:
+      213: -4617710147039524119
+    second: "D\xF6rt piksel kirli su lekesi-2_60"
+  - first:
+      213: -2206901437923061505
+    second: "D\xF6rt piksel kirli su lekesi-2_61"
+  - first:
+      213: 5191966023308463130
+    second: "D\xF6rt piksel kirli su lekesi-2_62"
+  - first:
+      213: -2395163563456127838
+    second: "D\xF6rt piksel kirli su lekesi-2_63"
+  - first:
+      213: -1887717648227428575
+    second: "D\xF6rt piksel kirli su lekesi-2_64"
+  - first:
+      213: -4114031152717890255
+    second: "D\xF6rt piksel kirli su lekesi-2_65"
+  - first:
+      213: -2228278891952640808
+    second: "D\xF6rt piksel kirli su lekesi-2_66"
+  - first:
+      213: -8579102205755387914
+    second: "D\xF6rt piksel kirli su lekesi-2_67"
+  - first:
+      213: -8563882998706746874
+    second: "D\xF6rt piksel kirli su lekesi-2_68"
+  - first:
+      213: -5169645849531110758
+    second: "D\xF6rt piksel kirli su lekesi-2_69"
+  - first:
+      213: 1361679546044536227
+    second: "D\xF6rt piksel kirli su lekesi-2_70"
+  - first:
+      213: -6908276489021128362
+    second: "D\xF6rt piksel kirli su lekesi-2_71"
+  - first:
+      213: -9102622188650818888
+    second: "D\xF6rt piksel kirli su lekesi-2_72"
+  - first:
+      213: 4524884338056948714
+    second: "D\xF6rt piksel kirli su lekesi-2_73"
+  - first:
+      213: -2654466059985613468
+    second: "D\xF6rt piksel kirli su lekesi-2_74"
+  - first:
+      213: -3706223803722098618
+    second: "D\xF6rt piksel kirli su lekesi-2_75"
+  - first:
+      213: -8486894977686267892
+    second: "D\xF6rt piksel kirli su lekesi-2_76"
+  - first:
+      213: -2495587082716165177
+    second: "D\xF6rt piksel kirli su lekesi-2_77"
+  - first:
+      213: -4427352575856132558
+    second: "D\xF6rt piksel kirli su lekesi-2_78"
+  - first:
+      213: -8904550159334548162
+    second: "D\xF6rt piksel kirli su lekesi-2_79"
+  - first:
+      213: -2094943838014445648
+    second: "D\xF6rt piksel kirli su lekesi-2_80"
+  - first:
+      213: -8976134894615540043
+    second: "D\xF6rt piksel kirli su lekesi-2_81"
+  - first:
+      213: -4232706445044791131
+    second: "D\xF6rt piksel kirli su lekesi-2_82"
+  - first:
+      213: -8417382440888235397
+    second: "D\xF6rt piksel kirli su lekesi-2_83"
+  - first:
+      213: 913470447148443628
+    second: "D\xF6rt piksel kirli su lekesi-2_84"
+  - first:
+      213: -8818044856136478031
+    second: "D\xF6rt piksel kirli su lekesi-2_85"
+  - first:
+      213: 2068310380094310105
+    second: "D\xF6rt piksel kirli su lekesi-2_86"
+  - first:
+      213: 3797564311359539578
+    second: "D\xF6rt piksel kirli su lekesi-2_87"
+  - first:
+      213: -3439264477677357979
+    second: "D\xF6rt piksel kirli su lekesi-2_88"
+  - first:
+      213: -1129116301781655198
+    second: "D\xF6rt piksel kirli su lekesi-2_89"
+  - first:
+      213: 6828739482936274560
+    second: "D\xF6rt piksel kirli su lekesi-2_90"
+  - first:
+      213: 4563771902991949136
+    second: "D\xF6rt piksel kirli su lekesi-2_91"
+  - first:
+      213: 505479092968973728
+    second: "D\xF6rt piksel kirli su lekesi-2_92"
+  - first:
+      213: 8075492685711715965
+    second: "D\xF6rt piksel kirli su lekesi-2_93"
+  - first:
+      213: 6267248566043946576
+    second: "D\xF6rt piksel kirli su lekesi-2_94"
+  - first:
+      213: -5758450485298508197
+    second: "D\xF6rt piksel kirli su lekesi-2_95"
+  - first:
+      213: -1002533077629909645
+    second: "D\xF6rt piksel kirli su lekesi-2_96"
+  - first:
+      213: -80627351780816273
+    second: "D\xF6rt piksel kirli su lekesi-2_97"
+  - first:
+      213: -3214582817907196711
+    second: "D\xF6rt piksel kirli su lekesi-2_98"
+  - first:
+      213: 721150585415081367
+    second: "D\xF6rt piksel kirli su lekesi-2_99"
+  - first:
+      213: 3034813585358482088
+    second: "D\xF6rt piksel kirli su lekesi-2_100"
+  - first:
+      213: -8385495845871393243
+    second: "D\xF6rt piksel kirli su lekesi-2_101"
+  - first:
+      213: -6613925021665275838
+    second: "D\xF6rt piksel kirli su lekesi-2_102"
+  - first:
+      213: 3156705495220334514
+    second: "D\xF6rt piksel kirli su lekesi-2_103"
+  - first:
+      213: -785209866940309198
+    second: "D\xF6rt piksel kirli su lekesi-2_104"
+  - first:
+      213: -5281930797411879983
+    second: "D\xF6rt piksel kirli su lekesi-2_105"
+  - first:
+      213: -2189598395708713037
+    second: "D\xF6rt piksel kirli su lekesi-2_106"
+  - first:
+      213: 743428827993610691
+    second: "D\xF6rt piksel kirli su lekesi-2_107"
+  - first:
+      213: 4630868676369954360
+    second: "D\xF6rt piksel kirli su lekesi-2_108"
+  - first:
+      213: 1998871305565689344
+    second: "D\xF6rt piksel kirli su lekesi-2_109"
+  - first:
+      213: -715183594658422877
+    second: "D\xF6rt piksel kirli su lekesi-2_110"
+  - first:
+      213: -6022156525639789574
+    second: "D\xF6rt piksel kirli su lekesi-2_111"
+  - first:
+      213: 304743267463666713
+    second: "D\xF6rt piksel kirli su lekesi-2_112"
+  - first:
+      213: 5722948460959831525
+    second: "D\xF6rt piksel kirli su lekesi-2_113"
+  - first:
+      213: 3129448437080006081
+    second: "D\xF6rt piksel kirli su lekesi-2_114"
+  - first:
+      213: -7540281616978280117
+    second: "D\xF6rt piksel kirli su lekesi-2_115"
+  - first:
+      213: -8981434981792963929
+    second: "D\xF6rt piksel kirli su lekesi-2_116"
+  - first:
+      213: 6280322697231244671
+    second: "D\xF6rt piksel kirli su lekesi-2_117"
+  - first:
+      213: -7587223572893663765
+    second: "D\xF6rt piksel kirli su lekesi-2_118"
+  - first:
+      213: -9207915615161753669
+    second: "D\xF6rt piksel kirli su lekesi-2_119"
+  - first:
+      213: -3231724881303302993
+    second: "D\xF6rt piksel kirli su lekesi-2_120"
+  - first:
+      213: -7302436678083785438
+    second: "D\xF6rt piksel kirli su lekesi-2_121"
+  - first:
+      213: -2401114484783382625
+    second: "D\xF6rt piksel kirli su lekesi-2_122"
+  - first:
+      213: 1877610465110931437
+    second: "D\xF6rt piksel kirli su lekesi-2_123"
+  - first:
+      213: -2169801592670162717
+    second: "D\xF6rt piksel kirli su lekesi-2_124"
+  - first:
+      213: 1299965841626757210
+    second: "D\xF6rt piksel kirli su lekesi-2_125"
+  - first:
+      213: -7004088391852865250
+    second: "D\xF6rt piksel kirli su lekesi-2_126"
+  - first:
+      213: 7707815588481511012
+    second: "D\xF6rt piksel kirli su lekesi-2_127"
+  - first:
+      213: 7844943676709490369
+    second: "D\xF6rt piksel kirli su lekesi-2_128"
+  - first:
+      213: 7970835032126931187
+    second: "D\xF6rt piksel kirli su lekesi-2_129"
+  - first:
+      213: 4119923926690541843
+    second: "D\xF6rt piksel kirli su lekesi-2_130"
+  - first:
+      213: 7062165032797423391
+    second: "D\xF6rt piksel kirli su lekesi-2_131"
+  - first:
+      213: -913386074720866422
+    second: "D\xF6rt piksel kirli su lekesi-2_132"
+  - first:
+      213: 3074292676491414772
+    second: "D\xF6rt piksel kirli su lekesi-2_133"
+  - first:
+      213: -7005433286170959886
+    second: "D\xF6rt piksel kirli su lekesi-2_134"
+  - first:
+      213: 8227942262101777896
+    second: "D\xF6rt piksel kirli su lekesi-2_135"
+  - first:
+      213: 1879354611348715999
+    second: "D\xF6rt piksel kirli su lekesi-2_136"
+  - first:
+      213: -5580224437644794013
+    second: "D\xF6rt piksel kirli su lekesi-2_137"
+  - first:
+      213: -5424497273891595506
+    second: "D\xF6rt piksel kirli su lekesi-2_138"
+  - first:
+      213: -3431146655729956469
+    second: "D\xF6rt piksel kirli su lekesi-2_139"
+  - first:
+      213: 4651857171733091687
+    second: "D\xF6rt piksel kirli su lekesi-2_140"
+  - first:
+      213: 6914659199896778098
+    second: "D\xF6rt piksel kirli su lekesi-2_141"
+  - first:
+      213: 3638837273877563764
+    second: "D\xF6rt piksel kirli su lekesi-2_142"
+  - first:
+      213: 7270478899150408280
+    second: "D\xF6rt piksel kirli su lekesi-2_143"
+  - first:
+      213: 2748974508688143934
+    second: "D\xF6rt piksel kirli su lekesi-2_144"
+  - first:
+      213: -6545305250138475343
+    second: "D\xF6rt piksel kirli su lekesi-2_145"
+  - first:
+      213: 2737681572276448173
+    second: "D\xF6rt piksel kirli su lekesi-2_146"
+  - first:
+      213: 680675661487719157
+    second: "D\xF6rt piksel kirli su lekesi-2_147"
+  - first:
+      213: 7013110646182349455
+    second: "D\xF6rt piksel kirli su lekesi-2_148"
+  - first:
+      213: -155452255785755895
+    second: "D\xF6rt piksel kirli su lekesi-2_149"
+  - first:
+      213: -1853304908956964284
+    second: "D\xF6rt piksel kirli su lekesi-2_150"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "D\xF6rt piksel kirli su lekesi-2_0"
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 991
+        width: 95
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 906da0d895c3c7140800000000000000
+      internalID: 4718712864893490697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel kirli su lekesi-2_1"
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 999
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cb3d16be49b9da90800000000000000
+      internalID: -7288590774208480313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel kirli su lekesi-2_2"
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 993
+        width: 127
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c3917f566f219ac0800000000000000
+      internalID: -3850244089690614844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel kirli su lekesi-2_3"
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 991
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55b7b2fab29f62dc0800000000000000
+      internalID: -3663967280801547435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel kirli su lekesi-2_4"
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 1007
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 538ac69632fb69540800000000000000
+      internalID: 5014405393937115189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel kirli su lekesi-2_5"
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 881
+        width: 59
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff736fdb285f7de70800000000000000
+      internalID: 9140043910653294591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel kirli su lekesi-2_6"
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 879
+        width: 155
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5362525bd09206bf0800000000000000
+      internalID: -333221233574992331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel kirli su lekesi-2_7"
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 899
+        width: 27
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd46c5f91da24bec0800000000000000
+      internalID: -3552167126278314785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel kirli su lekesi-2_8"
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 885
+        width: 143
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2385e8f47c9f2c260800000000000000
+      internalID: 7116524995627341874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel kirli su lekesi-2_9"
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 901
+        width: 149
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1019e965be98fe310800000000000000
+      internalID: 1436518450018029825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel kirli su lekesi-2_10"
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 464
+        width: 859
+        height: 490
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be2da2e8bb8a00f50800000000000000
+      internalID: 6845656957100675819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel kirli su lekesi-2_11"
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 943
+        width: 61
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4844116a6d01ea1e0800000000000000
+      internalID: -2184790255132916604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel kirli su lekesi-2_12"
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 947
+        width: 235
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91f61248b7e876350800000000000000
+      internalID: 6009928888898121497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel kirli su lekesi-2_13"
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 913
+        width: 35
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f0b650c551cc3060800000000000000
+      internalID: 6934630100287009010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel kirli su lekesi-2_14"
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 949
+        width: 63
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5633c1fe769624bb0800000000000000
+      internalID: -4953280745039973531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel kirli su lekesi-2_15"
+      rect:
+        serializedVersion: 2
+        x: 1436
+        y: 951
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02fc3b86ea28de880800000000000000
+      internalID: -8580058029478392032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel kirli su lekesi-2_16"
+      rect:
+        serializedVersion: 2
+        x: 1454
+        y: 957
+        width: 61
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f190ddf5aa9552b0800000000000000
+      internalID: -5596396924219387405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel kirli su lekesi-2_17"
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 884
+        width: 101
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba83cdc954daa7e90800000000000000
+      internalID: -7027113754062210901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel kirli su lekesi-2_18"
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 907
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41d5c0441a1211940800000000000000
+      internalID: 5265026415887932692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel kirli su lekesi-2_19"
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 919
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 341641d7c89944310800000000000000
+      internalID: 1388403413809914179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel kirli su lekesi-2_20"
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 860
+        width: 53
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d13b157d6d747720800000000000000
+      internalID: 2843035173847249365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel kirli su lekesi-2_21"
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 895
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3b81daea78635bb0800000000000000
+      internalID: -4948496688415143110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel kirli su lekesi-2_22"
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 895
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4c03ec4be2fc4670800000000000000
+      internalID: 8524455287126690895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel kirli su lekesi-2_23"
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 861
+        width: 66
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c66afebe729e9fff0800000000000000
+      internalID: -1713967165626772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel kirli su lekesi-2_24"
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 469
+        width: 637
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e76c3cb3fb0b29920800000000000000
+      internalID: 2995651037542729342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel kirli su lekesi-2_25"
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 871
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e919f268f287dc230800000000000000
+      internalID: 3660714217632141726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel kirli su lekesi-2_26"
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 865
+        width: 31
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f138ceb81fe1ddd30800000000000000
+      internalID: 4457753228950143775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel kirli su lekesi-2_27"
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 863
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7ec2bb2c08954470800000000000000
+      internalID: 8378269859832843900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel kirli su lekesi-2_28"
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 774
+        width: 61
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67152ad5c75647d60800000000000000
+      internalID: 7887040432253849974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel kirli su lekesi-2_29"
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 861
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddda535986a70e6b0800000000000000
+      internalID: -5269076974424969763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel kirli su lekesi-2_30"
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 869
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfb3d61053ff61e40800000000000000
+      internalID: 5626965387568299003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel kirli su lekesi-2_31"
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 861
+        width: 7
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f5ea7aa3887ce7c0800000000000000
+      internalID: -4040722258761947658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel kirli su lekesi-2_32"
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 805
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9a63ff6ff6eacb50800000000000000
+      internalID: 6614352987516267164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel kirli su lekesi-2_33"
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 799
+        width: 49
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be6f05435b52bd200800000000000000
+      internalID: 205799668172519147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel kirli su lekesi-2_34"
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 829
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7f350b0d2c07ec40800000000000000
+      internalID: 5541411254100639610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel kirli su lekesi-2_35"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 649
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9038e63cdf36c9460800000000000000
+      internalID: 7249779441716331273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel kirli su lekesi-2_36"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 687
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 236df0a32d6f33f70800000000000000
+      internalID: 9165941049406772786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel kirli su lekesi-2_37"
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 593
+        width: 90
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9611a7ec7bf2b7ff0800000000000000
+      internalID: -37383705412890263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel kirli su lekesi-2_38"
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 684
+        width: 51
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff9a4b6397723f6c0800000000000000
+      internalID: -4110898633296795137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel kirli su lekesi-2_39"
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 686
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4125c398e30ece30800000000000000
+      internalID: 4525558973000393037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel kirli su lekesi-2_40"
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 653
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92757eff259ad6ed0800000000000000
+      internalID: -2419091250882324695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel kirli su lekesi-2_41"
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 629
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36cd71c7b266db240800000000000000
+      internalID: 4809112314053123171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel kirli su lekesi-2_42"
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 623
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c47abfe86e4b8d70800000000000000
+      internalID: 9046410489109312712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel kirli su lekesi-2_43"
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 568
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65c481c686a36b5b0800000000000000
+      internalID: -5353026886918714282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel kirli su lekesi-2_44"
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 559
+        width: 9
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 294771e32ae3146d0800000000000000
+      internalID: -3008054209559432046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel kirli su lekesi-2_45"
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 579
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: febcad06b8442b470800000000000000
+      internalID: 8408858819670232047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel kirli su lekesi-2_46"
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 545
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d54a8833302e48160800000000000000
+      internalID: 7026989821982188637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel kirli su lekesi-2_47"
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 591
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 454aa2d1b9ad31420800000000000000
+      internalID: 2599661769667028052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel kirli su lekesi-2_48"
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 573
+        width: 17
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37a2218a03929d7f0800000000000000
+      internalID: -587392987440207245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel kirli su lekesi-2_49"
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 567
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbc52957d8349fb60800000000000000
+      internalID: 7780324106101218491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel kirli su lekesi-2_50"
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 559
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c106f1ae9e51a1d0800000000000000
+      internalID: -3341285413117099579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel kirli su lekesi-2_51"
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 543
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c2319ec5106b8da0800000000000000
+      internalID: -5941549636609035577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel kirli su lekesi-2_52"
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 557
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb5ddfca5d4e3c590800000000000000
+      internalID: -7655023335218227777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel kirli su lekesi-2_53"
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 560
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4692115d12436f350800000000000000
+      internalID: 6050080469332076900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel kirli su lekesi-2_54"
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 549
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83f735c166cdc5b10800000000000000
+      internalID: 1971693068001443640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel kirli su lekesi-2_55"
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 543
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65765c32ce813c1f0800000000000000
+      internalID: -1025948887618853034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel kirli su lekesi-2_56"
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 559
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 139e63d92d1e4d9b0800000000000000
+      internalID: -5056168186933221071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel kirli su lekesi-2_57"
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 523
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 061b3600e439c6230800000000000000
+      internalID: 3633440962604413280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel kirli su lekesi-2_58"
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 545
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f247eb0597302600800000000000000
+      internalID: 441413876771668728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel kirli su lekesi-2_59"
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 530
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 875272a8f2fba9db0800000000000000
+      internalID: -4784301443225541256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel kirli su lekesi-2_60"
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 541
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ea0ef146199aefb0800000000000000
+      internalID: -4617710147039524119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel kirli su lekesi-2_61"
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 514
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff01c4ab5d28f51e0800000000000000
+      internalID: -2206901437923061505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel kirli su lekesi-2_62"
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 509
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1cc23907919d0840800000000000000
+      internalID: 5191966023308463130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel kirli su lekesi-2_63"
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 524
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ac1d3ddd6ba2ced0800000000000000
+      internalID: -2395163563456127838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel kirli su lekesi-2_64"
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 513
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1271b2decca7dc5e0800000000000000
+      internalID: -1887717648227428575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel kirli su lekesi-2_65"
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 533
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13dfb53b67608e6c0800000000000000
+      internalID: -4114031152717890255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel kirli su lekesi-2_66"
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 531
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dc69a857209311e0800000000000000
+      internalID: -2228278891952640808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel kirli su lekesi-2_67"
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 545
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ff0e267ff7e0f880800000000000000
+      internalID: -8579102205755387914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel kirli su lekesi-2_68"
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 527
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60ac31c39c9f62980800000000000000
+      internalID: -8563882998706746874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel kirli su lekesi-2_69"
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 513
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9a20246d7ab148b0800000000000000
+      internalID: -5169645849531110758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel kirli su lekesi-2_70"
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 517
+        width: 11
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a556e72558a5e210800000000000000
+      internalID: 1361679546044536227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel kirli su lekesi-2_71"
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 527
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65186b5822fd020a0800000000000000
+      internalID: -6908276489021128362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel kirli su lekesi-2_72"
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 515
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b211e0e85dfca180800000000000000
+      internalID: -9102622188650818888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel kirli su lekesi-2_73"
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 529
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aebec93e45e9bce30800000000000000
+      internalID: 4524884338056948714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel kirli su lekesi-2_74"
+      rect:
+        serializedVersion: 2
+        x: 1252
+        y: 513
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46d0a32be21792bd0800000000000000
+      internalID: -2654466059985613468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel kirli su lekesi-2_75"
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 515
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6481c014619d09cc0800000000000000
+      internalID: -3706223803722098618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel kirli su lekesi-2_76"
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 503
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0896f8bbfd783a80800000000000000
+      internalID: -8486894977686267892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel kirli su lekesi-2_77"
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 498
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cb46ac35c4ed5dd0800000000000000
+      internalID: -2495587082716165177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel kirli su lekesi-2_78"
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 493
+        width: 31
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23e3fa41a42ee82c0800000000000000
+      internalID: -4427352575856132558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel kirli su lekesi-2_79"
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 513
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3d5734feceac6480800000000000000
+      internalID: -8904550159334548162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel kirli su lekesi-2_80"
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 513
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b761c6cda34de2e0800000000000000
+      internalID: -2094943838014445648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel kirli su lekesi-2_81"
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 476
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bec376fedc5e6380800000000000000
+      internalID: -8976134894615540043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel kirli su lekesi-2_82"
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 477
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a849900ae76245c0800000000000000
+      internalID: -4232706445044791131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel kirli su lekesi-2_83"
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 482
+        width: 7
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7a0f3864437f2b80800000000000000
+      internalID: -8417382440888235397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel kirli su lekesi-2_84"
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 475
+        width: 9
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce7a91b288c4dac00800000000000000
+      internalID: 913470447148443628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel kirli su lekesi-2_85"
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 487
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b256806ce200a580800000000000000
+      internalID: -8818044856136478031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel kirli su lekesi-2_86"
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 485
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d646c2155d14bc10800000000000000
+      internalID: 2068310380094310105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel kirli su lekesi-2_87"
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 459
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a79494eee98a3b430800000000000000
+      internalID: 3797564311359539578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel kirli su lekesi-2_88"
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 485
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 564fb67fd274540d0800000000000000
+      internalID: -3439264477677357979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel kirli su lekesi-2_89"
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 481
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 261a332b4b29450f0800000000000000
+      internalID: -1129116301781655198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel kirli su lekesi-2_90"
+      rect:
+        serializedVersion: 2
+        x: 1492
+        y: 473
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08ee918216e84ce50800000000000000
+      internalID: 6828739482936274560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel kirli su lekesi-2_91"
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 0
+        width: 735
+        height: 470
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05d5eb9ad56c55f30800000000000000
+      internalID: 4563771902991949136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel kirli su lekesi-2_92"
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 415
+        width: 52
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a56dc19e82d30700800000000000000
+      internalID: 505479092968973728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel kirli su lekesi-2_93"
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 411
+        width: 50
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7eac16dfc9e11070800000000000000
+      internalID: 8075492685711715965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel kirli su lekesi-2_94"
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 309
+        width: 102
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05e20229d5db9f650800000000000000
+      internalID: 6267248566043946576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel kirli su lekesi-2_95"
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 0
+        width: 776
+        height: 478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5e4b1f0bcfd510b0800000000000000
+      internalID: -5758450485298508197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel kirli su lekesi-2_96"
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 447
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3754a404a794612f0800000000000000
+      internalID: -1002533077629909645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel kirli su lekesi-2_97"
+      rect:
+        serializedVersion: 2
+        x: 1338
+        y: 454
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6a8ce9c9dd81eef0800000000000000
+      internalID: -80627351780816273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel kirli su lekesi-2_98"
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 452
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dc319d65f18363d0800000000000000
+      internalID: -3214582817907196711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel kirli su lekesi-2_99"
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 463
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79d1b39f2aa020a00800000000000000
+      internalID: 721150585415081367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel kirli su lekesi-2_100"
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 463
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aa62d270e2dd1a20800000000000000
+      internalID: 3034813585358482088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel kirli su lekesi-2_101"
+      rect:
+        serializedVersion: 2
+        x: 1510
+        y: 399
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5266259d4fbb0ab80800000000000000
+      internalID: -8385495845871393243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel kirli su lekesi-2_102"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 271
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 240d2902c3e9634a0800000000000000
+      internalID: -6613925021665275838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel kirli su lekesi-2_103"
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 299
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bfa1274ceedecb20800000000000000
+      internalID: 3156705495220334514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel kirli su lekesi-2_104"
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 271
+        width: 29
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23124e649cf5a15f0800000000000000
+      internalID: -785209866940309198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel kirli su lekesi-2_105"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 199
+        width: 49
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d3b114bcefc2b6b0800000000000000
+      internalID: -5281930797411879983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel kirli su lekesi-2_106"
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 189
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b7540f2cdbfc91e0800000000000000
+      internalID: -2189598395708713037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel kirli su lekesi-2_107"
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 193
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c918588490315a00800000000000000
+      internalID: 743428827993610691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel kirli su lekesi-2_108"
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 165
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 836b3889686244040800000000000000
+      internalID: 4630868676369954360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel kirli su lekesi-2_109"
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 7
+        width: 99
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 006d6f7acda6dbb10800000000000000
+      internalID: 1998871305565689344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel kirli su lekesi-2_110"
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 85
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3af92335f482316f0800000000000000
+      internalID: -715183594658422877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel kirli su lekesi-2_111"
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 81
+        width: 23
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af39073fb800d6ca0800000000000000
+      internalID: -6022156525639789574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel kirli su lekesi-2_112"
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 101
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91c1ddc136aaa3400800000000000000
+      internalID: 304743267463666713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel kirli su lekesi-2_113"
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 103
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e51163cd4ffb6f40800000000000000
+      internalID: 5722948460959831525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel kirli su lekesi-2_114"
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 99
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cd1e03e5c80e6b20800000000000000
+      internalID: 3129448437080006081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel kirli su lekesi-2_115"
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 79
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b410a99c1d98b5790800000000000000
+      internalID: -7540281616978280117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel kirli su lekesi-2_116"
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 85
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a2a6f048788b5380800000000000000
+      internalID: -8981434981792963929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel kirli su lekesi-2_117"
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 81
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7d9a43f730382750800000000000000
+      internalID: 6280322697231244671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel kirli su lekesi-2_118"
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 81
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bedf33afb54c4b690800000000000000
+      internalID: -7587223572893663765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel kirli su lekesi-2_119"
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 87
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbfd28c9889e63080800000000000000
+      internalID: -9207915615161753669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel kirli su lekesi-2_120"
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 87
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fac0026c75b9623d0800000000000000
+      internalID: -3231724881303302993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel kirli su lekesi-2_121"
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 77
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22d4800088888aa90800000000000000
+      internalID: -7302436678083785438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel kirli su lekesi-2_122"
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 79
+        width: 9
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9ff07509178daed0800000000000000
+      internalID: -2401114484783382625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel kirli su lekesi-2_123"
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 65
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de73e7f15cc9e0a10800000000000000
+      internalID: 1877610465110931437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel kirli su lekesi-2_124"
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 37
+        width: 21
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e071d392f053e1e0800000000000000
+      internalID: -2169801592670162717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel kirli su lekesi-2_125"
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 77
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a58fd42ab086a0210800000000000000
+      internalID: 1299965841626757210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel kirli su lekesi-2_126"
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 77
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e194c2487ba7cce90800000000000000
+      internalID: -7004088391852865250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel kirli su lekesi-2_127"
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 83
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46ea8a1a079a7fa60800000000000000
+      internalID: 7707815588481511012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel kirli su lekesi-2_128"
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 65
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ce473da5b6dedc60800000000000000
+      internalID: 7844943676709490369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel kirli su lekesi-2_129"
+      rect:
+        serializedVersion: 2
+        x: 1446
+        y: 65
+        width: 15
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f04a2dfa381e9e60800000000000000
+      internalID: 7970835032126931187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel kirli su lekesi-2_130"
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 81
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 311b508abf8ec2930800000000000000
+      internalID: 4119923926690541843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel kirli su lekesi-2_131"
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 71
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f17431d2ea9d10260800000000000000
+      internalID: 7062165032797423391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel kirli su lekesi-2_132"
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 55
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8f697154300353f0800000000000000
+      internalID: -913386074720866422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel kirli su lekesi-2_133"
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 43
+        width: 35
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fc0bd5a6e41aaa20800000000000000
+      internalID: 3074292676491414772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel kirli su lekesi-2_134"
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 63
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ff1518ea83b7ce90800000000000000
+      internalID: -7005433286170959886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel kirli su lekesi-2_135"
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 47
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ed1005d4e58f2270800000000000000
+      internalID: 8227942262101777896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel kirli su lekesi-2_136"
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 60
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd9be60df0fc41a10800000000000000
+      internalID: 1879354611348715999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel kirli su lekesi-2_137"
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 49
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3676a33707f0f82b0800000000000000
+      internalID: -5580224437644794013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel kirli su lekesi-2_138"
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 47
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0bdd98387058b4b0800000000000000
+      internalID: -5424497273891595506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel kirli su lekesi-2_139"
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 15
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8942fcab4e1260d0800000000000000
+      internalID: -3431146655729956469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel kirli su lekesi-2_140"
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 20
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 765110b7377be8040800000000000000
+      internalID: 4651857171733091687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel kirli su lekesi-2_141"
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 38
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 275fbb828edc5ff50800000000000000
+      internalID: 6914659199896778098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel kirli su lekesi-2_142"
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 39
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4794ce0a83fbf7230800000000000000
+      internalID: 3638837273877563764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel kirli su lekesi-2_143"
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 47
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85a45d2c90ee5e460800000000000000
+      internalID: 7270478899150408280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel kirli su lekesi-2_144"
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 33
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e36f5fe30c1562620800000000000000
+      internalID: 2748974508688143934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel kirli su lekesi-2_145"
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 35
+        width: 11
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b43ff2bd876a25a0800000000000000
+      internalID: -6545305250138475343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel kirli su lekesi-2_146"
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 12
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dababa792e23ef520800000000000000
+      internalID: 2737681572276448173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel kirli su lekesi-2_147"
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 17
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f2ca3268ee327900800000000000000
+      internalID: 680675661487719157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel kirli su lekesi-2_148"
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 15
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8a8534c9f2935160800000000000000
+      internalID: 7013110646182349455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel kirli su lekesi-2_149"
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 17
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90b5b5a3ff8b7ddf0800000000000000
+      internalID: -155452255785755895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xF6rt piksel kirli su lekesi-2_150"
+      rect:
+        serializedVersion: 2
+        x: 1214
+        y: 15
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44ae129210db746e0800000000000000
+      internalID: -1853304908956964284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "D\xF6rt piksel kirli su lekesi-2_0": 4718712864893490697
+      "D\xF6rt piksel kirli su lekesi-2_1": -7288590774208480313
+      "D\xF6rt piksel kirli su lekesi-2_10": 6845656957100675819
+      "D\xF6rt piksel kirli su lekesi-2_100": 3034813585358482088
+      "D\xF6rt piksel kirli su lekesi-2_101": -8385495845871393243
+      "D\xF6rt piksel kirli su lekesi-2_102": -6613925021665275838
+      "D\xF6rt piksel kirli su lekesi-2_103": 3156705495220334514
+      "D\xF6rt piksel kirli su lekesi-2_104": -785209866940309198
+      "D\xF6rt piksel kirli su lekesi-2_105": -5281930797411879983
+      "D\xF6rt piksel kirli su lekesi-2_106": -2189598395708713037
+      "D\xF6rt piksel kirli su lekesi-2_107": 743428827993610691
+      "D\xF6rt piksel kirli su lekesi-2_108": 4630868676369954360
+      "D\xF6rt piksel kirli su lekesi-2_109": 1998871305565689344
+      "D\xF6rt piksel kirli su lekesi-2_11": -2184790255132916604
+      "D\xF6rt piksel kirli su lekesi-2_110": -715183594658422877
+      "D\xF6rt piksel kirli su lekesi-2_111": -6022156525639789574
+      "D\xF6rt piksel kirli su lekesi-2_112": 304743267463666713
+      "D\xF6rt piksel kirli su lekesi-2_113": 5722948460959831525
+      "D\xF6rt piksel kirli su lekesi-2_114": 3129448437080006081
+      "D\xF6rt piksel kirli su lekesi-2_115": -7540281616978280117
+      "D\xF6rt piksel kirli su lekesi-2_116": -8981434981792963929
+      "D\xF6rt piksel kirli su lekesi-2_117": 6280322697231244671
+      "D\xF6rt piksel kirli su lekesi-2_118": -7587223572893663765
+      "D\xF6rt piksel kirli su lekesi-2_119": -9207915615161753669
+      "D\xF6rt piksel kirli su lekesi-2_12": 6009928888898121497
+      "D\xF6rt piksel kirli su lekesi-2_120": -3231724881303302993
+      "D\xF6rt piksel kirli su lekesi-2_121": -7302436678083785438
+      "D\xF6rt piksel kirli su lekesi-2_122": -2401114484783382625
+      "D\xF6rt piksel kirli su lekesi-2_123": 1877610465110931437
+      "D\xF6rt piksel kirli su lekesi-2_124": -2169801592670162717
+      "D\xF6rt piksel kirli su lekesi-2_125": 1299965841626757210
+      "D\xF6rt piksel kirli su lekesi-2_126": -7004088391852865250
+      "D\xF6rt piksel kirli su lekesi-2_127": 7707815588481511012
+      "D\xF6rt piksel kirli su lekesi-2_128": 7844943676709490369
+      "D\xF6rt piksel kirli su lekesi-2_129": 7970835032126931187
+      "D\xF6rt piksel kirli su lekesi-2_13": 6934630100287009010
+      "D\xF6rt piksel kirli su lekesi-2_130": 4119923926690541843
+      "D\xF6rt piksel kirli su lekesi-2_131": 7062165032797423391
+      "D\xF6rt piksel kirli su lekesi-2_132": -913386074720866422
+      "D\xF6rt piksel kirli su lekesi-2_133": 3074292676491414772
+      "D\xF6rt piksel kirli su lekesi-2_134": -7005433286170959886
+      "D\xF6rt piksel kirli su lekesi-2_135": 8227942262101777896
+      "D\xF6rt piksel kirli su lekesi-2_136": 1879354611348715999
+      "D\xF6rt piksel kirli su lekesi-2_137": -5580224437644794013
+      "D\xF6rt piksel kirli su lekesi-2_138": -5424497273891595506
+      "D\xF6rt piksel kirli su lekesi-2_139": -3431146655729956469
+      "D\xF6rt piksel kirli su lekesi-2_14": -4953280745039973531
+      "D\xF6rt piksel kirli su lekesi-2_140": 4651857171733091687
+      "D\xF6rt piksel kirli su lekesi-2_141": 6914659199896778098
+      "D\xF6rt piksel kirli su lekesi-2_142": 3638837273877563764
+      "D\xF6rt piksel kirli su lekesi-2_143": 7270478899150408280
+      "D\xF6rt piksel kirli su lekesi-2_144": 2748974508688143934
+      "D\xF6rt piksel kirli su lekesi-2_145": -6545305250138475343
+      "D\xF6rt piksel kirli su lekesi-2_146": 2737681572276448173
+      "D\xF6rt piksel kirli su lekesi-2_147": 680675661487719157
+      "D\xF6rt piksel kirli su lekesi-2_148": 7013110646182349455
+      "D\xF6rt piksel kirli su lekesi-2_149": -155452255785755895
+      "D\xF6rt piksel kirli su lekesi-2_15": -8580058029478392032
+      "D\xF6rt piksel kirli su lekesi-2_150": -1853304908956964284
+      "D\xF6rt piksel kirli su lekesi-2_16": -5596396924219387405
+      "D\xF6rt piksel kirli su lekesi-2_17": -7027113754062210901
+      "D\xF6rt piksel kirli su lekesi-2_18": 5265026415887932692
+      "D\xF6rt piksel kirli su lekesi-2_19": 1388403413809914179
+      "D\xF6rt piksel kirli su lekesi-2_2": -3850244089690614844
+      "D\xF6rt piksel kirli su lekesi-2_20": 2843035173847249365
+      "D\xF6rt piksel kirli su lekesi-2_21": -4948496688415143110
+      "D\xF6rt piksel kirli su lekesi-2_22": 8524455287126690895
+      "D\xF6rt piksel kirli su lekesi-2_23": -1713967165626772
+      "D\xF6rt piksel kirli su lekesi-2_24": 2995651037542729342
+      "D\xF6rt piksel kirli su lekesi-2_25": 3660714217632141726
+      "D\xF6rt piksel kirli su lekesi-2_26": 4457753228950143775
+      "D\xF6rt piksel kirli su lekesi-2_27": 8378269859832843900
+      "D\xF6rt piksel kirli su lekesi-2_28": 7887040432253849974
+      "D\xF6rt piksel kirli su lekesi-2_29": -5269076974424969763
+      "D\xF6rt piksel kirli su lekesi-2_3": -3663967280801547435
+      "D\xF6rt piksel kirli su lekesi-2_30": 5626965387568299003
+      "D\xF6rt piksel kirli su lekesi-2_31": -4040722258761947658
+      "D\xF6rt piksel kirli su lekesi-2_32": 6614352987516267164
+      "D\xF6rt piksel kirli su lekesi-2_33": 205799668172519147
+      "D\xF6rt piksel kirli su lekesi-2_34": 5541411254100639610
+      "D\xF6rt piksel kirli su lekesi-2_35": 7249779441716331273
+      "D\xF6rt piksel kirli su lekesi-2_36": 9165941049406772786
+      "D\xF6rt piksel kirli su lekesi-2_37": -37383705412890263
+      "D\xF6rt piksel kirli su lekesi-2_38": -4110898633296795137
+      "D\xF6rt piksel kirli su lekesi-2_39": 4525558973000393037
+      "D\xF6rt piksel kirli su lekesi-2_4": 5014405393937115189
+      "D\xF6rt piksel kirli su lekesi-2_40": -2419091250882324695
+      "D\xF6rt piksel kirli su lekesi-2_41": 4809112314053123171
+      "D\xF6rt piksel kirli su lekesi-2_42": 9046410489109312712
+      "D\xF6rt piksel kirli su lekesi-2_43": -5353026886918714282
+      "D\xF6rt piksel kirli su lekesi-2_44": -3008054209559432046
+      "D\xF6rt piksel kirli su lekesi-2_45": 8408858819670232047
+      "D\xF6rt piksel kirli su lekesi-2_46": 7026989821982188637
+      "D\xF6rt piksel kirli su lekesi-2_47": 2599661769667028052
+      "D\xF6rt piksel kirli su lekesi-2_48": -587392987440207245
+      "D\xF6rt piksel kirli su lekesi-2_49": 7780324106101218491
+      "D\xF6rt piksel kirli su lekesi-2_5": 9140043910653294591
+      "D\xF6rt piksel kirli su lekesi-2_50": -3341285413117099579
+      "D\xF6rt piksel kirli su lekesi-2_51": -5941549636609035577
+      "D\xF6rt piksel kirli su lekesi-2_52": -7655023335218227777
+      "D\xF6rt piksel kirli su lekesi-2_53": 6050080469332076900
+      "D\xF6rt piksel kirli su lekesi-2_54": 1971693068001443640
+      "D\xF6rt piksel kirli su lekesi-2_55": -1025948887618853034
+      "D\xF6rt piksel kirli su lekesi-2_56": -5056168186933221071
+      "D\xF6rt piksel kirli su lekesi-2_57": 3633440962604413280
+      "D\xF6rt piksel kirli su lekesi-2_58": 441413876771668728
+      "D\xF6rt piksel kirli su lekesi-2_59": -4784301443225541256
+      "D\xF6rt piksel kirli su lekesi-2_6": -333221233574992331
+      "D\xF6rt piksel kirli su lekesi-2_60": -4617710147039524119
+      "D\xF6rt piksel kirli su lekesi-2_61": -2206901437923061505
+      "D\xF6rt piksel kirli su lekesi-2_62": 5191966023308463130
+      "D\xF6rt piksel kirli su lekesi-2_63": -2395163563456127838
+      "D\xF6rt piksel kirli su lekesi-2_64": -1887717648227428575
+      "D\xF6rt piksel kirli su lekesi-2_65": -4114031152717890255
+      "D\xF6rt piksel kirli su lekesi-2_66": -2228278891952640808
+      "D\xF6rt piksel kirli su lekesi-2_67": -8579102205755387914
+      "D\xF6rt piksel kirli su lekesi-2_68": -8563882998706746874
+      "D\xF6rt piksel kirli su lekesi-2_69": -5169645849531110758
+      "D\xF6rt piksel kirli su lekesi-2_7": -3552167126278314785
+      "D\xF6rt piksel kirli su lekesi-2_70": 1361679546044536227
+      "D\xF6rt piksel kirli su lekesi-2_71": -6908276489021128362
+      "D\xF6rt piksel kirli su lekesi-2_72": -9102622188650818888
+      "D\xF6rt piksel kirli su lekesi-2_73": 4524884338056948714
+      "D\xF6rt piksel kirli su lekesi-2_74": -2654466059985613468
+      "D\xF6rt piksel kirli su lekesi-2_75": -3706223803722098618
+      "D\xF6rt piksel kirli su lekesi-2_76": -8486894977686267892
+      "D\xF6rt piksel kirli su lekesi-2_77": -2495587082716165177
+      "D\xF6rt piksel kirli su lekesi-2_78": -4427352575856132558
+      "D\xF6rt piksel kirli su lekesi-2_79": -8904550159334548162
+      "D\xF6rt piksel kirli su lekesi-2_8": 7116524995627341874
+      "D\xF6rt piksel kirli su lekesi-2_80": -2094943838014445648
+      "D\xF6rt piksel kirli su lekesi-2_81": -8976134894615540043
+      "D\xF6rt piksel kirli su lekesi-2_82": -4232706445044791131
+      "D\xF6rt piksel kirli su lekesi-2_83": -8417382440888235397
+      "D\xF6rt piksel kirli su lekesi-2_84": 913470447148443628
+      "D\xF6rt piksel kirli su lekesi-2_85": -8818044856136478031
+      "D\xF6rt piksel kirli su lekesi-2_86": 2068310380094310105
+      "D\xF6rt piksel kirli su lekesi-2_87": 3797564311359539578
+      "D\xF6rt piksel kirli su lekesi-2_88": -3439264477677357979
+      "D\xF6rt piksel kirli su lekesi-2_89": -1129116301781655198
+      "D\xF6rt piksel kirli su lekesi-2_9": 1436518450018029825
+      "D\xF6rt piksel kirli su lekesi-2_90": 6828739482936274560
+      "D\xF6rt piksel kirli su lekesi-2_91": 4563771902991949136
+      "D\xF6rt piksel kirli su lekesi-2_92": 505479092968973728
+      "D\xF6rt piksel kirli su lekesi-2_93": 8075492685711715965
+      "D\xF6rt piksel kirli su lekesi-2_94": 6267248566043946576
+      "D\xF6rt piksel kirli su lekesi-2_95": -5758450485298508197
+      "D\xF6rt piksel kirli su lekesi-2_96": -1002533077629909645
+      "D\xF6rt piksel kirli su lekesi-2_97": -80627351780816273
+      "D\xF6rt piksel kirli su lekesi-2_98": -3214582817907196711
+      "D\xF6rt piksel kirli su lekesi-2_99": 721150585415081367
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

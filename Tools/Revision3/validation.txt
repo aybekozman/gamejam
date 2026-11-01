@@ -1,0 +1,3 @@
+14 Play Mode kontrolü geçti. Evlerin önündeki başlangıç ve collider açıklığı, taşınan kasaba merkezi, sol/orta bölgede köpekbalığı olmaması, sağ uçta en fazla üç köpekbalığı ve seyrek renkli balık, ön planda balina olmaması, arka plan katmanı/şeffaflığı/collider bulunmaması, özgün sürü sprite’larının kullanılması ve çalışma hatası bulunmaması doğrulandı.
+Sahne koruması: 468 mevcut transform değişmedi; 114 collider tanımının YAML blokları bire bir korundu. Yalnız oyuncu ve kameranın başlangıç konumları değiştirildi. Evlerin konum, ölçek ve collider ayarları korundu.
+Görüntüler: village-start.png, right-edge-life.png.

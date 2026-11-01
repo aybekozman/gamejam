@@ -1,0 +1,4 @@
+targeted-results.txt: 13 PASS / 0 FAIL
+full-route-results.txt: 75 PASS / 0 FAIL
+Clean, announcement and journey screenshots visually inspected. Chapter stages, increased debris, suspended trash, real habitat spawning, corpse hit guard, belly-up surface stop and player/discharge material exclusion tested in Play Mode.
+Full shark journey and 18-line leader dialogue tested with normal Input System controls; no new runtime errors. Original world transforms/colliders unchanged; ShipScene/project settings/input hashes unchanged. No standalone build test.

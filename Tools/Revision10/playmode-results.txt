@@ -1,0 +1,75 @@
+PASS Third chapter cannot bypass unfinished second chapter
+PASS Real E at second-chapter endpoint begins same-scene transition
+PASS Previous chapters remain complete without replay or escort
+PASS Safe road start restores control
+PASS Offscreen marker directly tracks leader Transform
+PASS Leader edge marker remains inside UI at narrow, normal and wide aspect ratios
+PASS Cannon speed 1.35x unchanged player speed
+PASS All checkpoints clear of terrain and danger sections
+PASS Warning sign base embeds slightly in real ground without blocking route
+PASS Leader poses share aligned canvas and pivot
+PASS Starting safe checkpoint rejects damage
+PASS One audio controller with fixed source count and quieter bubbles
+PASS Ambience crosses loop boundary with fixed overlapping sources
+PASS Cannonball originates at true water surface, not camera top
+PASS Swept cannon collision causes one hit and retires ball
+PASS Post-hit invulnerability blocks immediate repeat damage
+PASS Damage resumes after 1.3s invulnerability
+PASS Three hits fade-respawn at safe checkpoint with health and hazards reset
+PASS Respawn retains leader goal and earlier chapter completion
+PASS High-speed swept circle stops at solid floor without tunneling
+PASS Leader and sign safe areas refuse cannon spawns
+PASS Normal WASD swimming reaches (155.00, -27.00) in 57,0s
+PASS Normal-input full journey respects configured hazard cap and terrain
+PASS Normal-input dodge run reaches safe region with checkpoint recovery (hits=0)
+PASS Safe checkpoints advance along the route
+PASS Normal WASD swimming reaches (173.00, -27.00) in 3,1s
+PASS Sign approach shows chapter-local nonblocking warning
+PASS Sign and journey thoughts never lock movement
+PASS Normal WASD swimming reaches (213.00, -25.00) in 6,9s
+PASS Visible leader gets overhead goal and talk objective
+PASS Leader safe area blocks damage
+PASS Dialogue stops local hazards and hides mission marker
+PASS Leader dialogue sentence 1 has correct speaker/text/portrait
+PASS Typewriter completes before advancing sentence 1
+PASS Leader dialogue sentence 2 has correct speaker/text/portrait
+PASS Typewriter completes before advancing sentence 2
+PASS Leader dialogue sentence 3 has correct speaker/text/portrait
+PASS Typewriter completes before advancing sentence 3
+PASS Leader dialogue sentence 4 has correct speaker/text/portrait
+PASS Typewriter completes before advancing sentence 4
+PASS Leader dialogue sentence 5 has correct speaker/text/portrait
+PASS Typewriter completes before advancing sentence 5
+PASS Leader dialogue sentence 6 has correct speaker/text/portrait
+PASS Typewriter completes before advancing sentence 6
+PASS Leader dialogue sentence 7 has correct speaker/text/portrait
+PASS Typewriter completes before advancing sentence 7
+PASS Leader dialogue sentence 8 has correct speaker/text/portrait
+PASS Typewriter completes before advancing sentence 8
+PASS Leader dialogue sentence 9 has correct speaker/text/portrait
+PASS Typewriter completes before advancing sentence 9
+PASS Leader dialogue sentence 10 has correct speaker/text/portrait
+PASS Typewriter completes before advancing sentence 10
+PASS Leader dialogue sentence 11 has correct speaker/text/portrait
+PASS Typewriter completes before advancing sentence 11
+PASS Leader dialogue sentence 12 has correct speaker/text/portrait
+PASS Typewriter completes before advancing sentence 12
+PASS Leader dialogue sentence 13 has correct speaker/text/portrait
+PASS Typewriter completes before advancing sentence 13
+PASS Leader dialogue sentence 14 has correct speaker/text/portrait
+PASS Typewriter completes before advancing sentence 14
+PASS Leader dialogue sentence 15 has correct speaker/text/portrait
+PASS Typewriter completes before advancing sentence 15
+PASS Leader dialogue sentence 16 has correct speaker/text/portrait
+PASS Typewriter completes before advancing sentence 16
+PASS Leader dialogue sentence 17 has correct speaker/text/portrait
+PASS Typewriter completes before advancing sentence 17
+PASS Leader dialogue sentence 18 has correct speaker/text/portrait
+PASS Typewriter completes before advancing sentence 18
+PASS Dialogue releases controls for short safe rally
+PASS All three allies physically reach distinct rally positions
+PASS Leader and guards rally; completion fires once and clears hazards
+PASS Completion clears goal marker and records help secured
+PASS Completed dialogue and chapter cannot replay
+PASS Audio sources do not multiply across respawn and chapter changes
+PASS No scene transitions or new runtime errors

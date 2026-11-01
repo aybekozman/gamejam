@@ -1,0 +1,17 @@
+{
+  "result": "PASS existing world preserved, except the single generated shore sprite scale corrected to match neighbors",
+  "existingColliderBlocksUnchanged": 119,
+  "authorizedShoreScaleCorrection": [
+    [
+      "Shore floor sprite • shore_match_10",
+      "m_LocalScale"
+    ]
+  ],
+  "shipAndInputFilesUnchanged": [
+    "Assets/Scenes/ShipScene.unity",
+    "Assets/Scripts/Ship",
+    "Assets/InputSystem_Actions.inputactions",
+    "Packages/manifest.json",
+    "ProjectSettings/ProjectSettings.asset"
+  ]
+}

@@ -1,0 +1,5 @@
+playmode-results.txt: 10 PASS / 0 FAIL
+full-route-results.txt: 67 PASS / 0 FAIL
+Focused test: real E activates the portrait continue panel in one press; journey dialogue queue preserves the cannon warning and never locks movement/pauses hazards. Normal-section active cannon peak: 9 (cap 10).
+Full third-chapter Play Mode route, real WASD/E, unchanged speed 6: denser route completed, all 14 leader dialogue lines and ending verified; no runtime errors.
+All pre-existing transforms and 130 collider definitions preserved; ship files/settings unchanged. No standalone build test.

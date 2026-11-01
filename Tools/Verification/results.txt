@@ -1,0 +1,14 @@
+PASS Swimming emits small world bubbles
+PASS Diagonal speed equals cardinal speed
+PASS Left facing
+PASS Vertical input preserves horizontal facing
+PASS Braking stops drift; no gravity
+PASS Surface body bound
+PASS Camera surface limit
+PASS Reef contour blocks swimming with real physics contact
+INFO Reef contact: True; position=(-17.01, -12.55); ray contour=(-17.00, -13.18)
+PASS World boundary
+PASS Constant camera scale
+PASS Ambient creatures and rooted plants running
+PASS All scene sprites resolved
+PASS No runtime errors during verification

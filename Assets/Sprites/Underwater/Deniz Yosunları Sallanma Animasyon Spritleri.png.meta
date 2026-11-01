@@ -1,0 +1,6526 @@
+fileFormatVersion: 2
+guid: d496deb4e6eabe04aa50ef5f816d0305
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1770020454927951131
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_0"
+  - first:
+      213: 1866388740399819341
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_1"
+  - first:
+      213: -8497974052894120927
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_2"
+  - first:
+      213: 476137028264070429
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_3"
+  - first:
+      213: -6724602987799356089
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_4"
+  - first:
+      213: 3789873229253735772
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_5"
+  - first:
+      213: 1648595282272076516
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_6"
+  - first:
+      213: 6956765029761619533
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_7"
+  - first:
+      213: 6856558491844383213
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_8"
+  - first:
+      213: -5432672095087957663
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_9"
+  - first:
+      213: -4620525944500498847
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_10"
+  - first:
+      213: 2518072458593317116
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_11"
+  - first:
+      213: -6640793729120818548
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_12"
+  - first:
+      213: -7057508286858398844
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_13"
+  - first:
+      213: 8650653795949463843
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_14"
+  - first:
+      213: 7971650488643666731
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_15"
+  - first:
+      213: 8282898957571077685
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_16"
+  - first:
+      213: 269454203678445697
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_17"
+  - first:
+      213: 7571946739708504236
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_18"
+  - first:
+      213: 897193804703301953
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_19"
+  - first:
+      213: 5872463327901660015
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_20"
+  - first:
+      213: 4495010176350125243
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_21"
+  - first:
+      213: -7352676697824738924
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_22"
+  - first:
+      213: 928334184183944813
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_23"
+  - first:
+      213: 2975401654713545820
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_24"
+  - first:
+      213: 7354731789385606559
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_25"
+  - first:
+      213: -2324960482311457326
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_26"
+  - first:
+      213: -8566474774589558334
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_27"
+  - first:
+      213: -3611520089867649527
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_28"
+  - first:
+      213: 8161167020739924780
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_29"
+  - first:
+      213: -4647655336693727794
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_30"
+  - first:
+      213: 4231967396043569928
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_31"
+  - first:
+      213: -3611257114911500957
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_32"
+  - first:
+      213: -4248414739713537250
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_33"
+  - first:
+      213: -7151984437253132641
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_34"
+  - first:
+      213: -2502304053402784334
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_35"
+  - first:
+      213: 3283756951914556627
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_36"
+  - first:
+      213: -7856222103484555053
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_37"
+  - first:
+      213: 3233347059027018625
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_38"
+  - first:
+      213: 5389974533367575649
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_39"
+  - first:
+      213: -7114204557684108652
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_40"
+  - first:
+      213: 4082547597864721775
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_41"
+  - first:
+      213: 192609759954081150
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_42"
+  - first:
+      213: -7259896529806294820
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_43"
+  - first:
+      213: -3975323978907982837
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_44"
+  - first:
+      213: 7472922788945718079
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_45"
+  - first:
+      213: 2036179503098465426
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_46"
+  - first:
+      213: 955097081764908950
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_47"
+  - first:
+      213: 7949873393193251446
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_48"
+  - first:
+      213: -2964287066210601573
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_49"
+  - first:
+      213: -7299043703940164107
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_50"
+  - first:
+      213: 2984772540389663208
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_51"
+  - first:
+      213: -8317581172614328821
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_52"
+  - first:
+      213: -7774759293254971911
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_53"
+  - first:
+      213: -8229575042414054243
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_54"
+  - first:
+      213: 8385214707901072590
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_55"
+  - first:
+      213: -5772953119846921967
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_56"
+  - first:
+      213: 2593927258365711832
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_57"
+  - first:
+      213: 5924163108848134130
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_58"
+  - first:
+      213: -997056424614038249
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_59"
+  - first:
+      213: 8633889695702505697
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_60"
+  - first:
+      213: -4356900682571862257
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_61"
+  - first:
+      213: 1287201678482019569
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_62"
+  - first:
+      213: 1606531678949406931
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_63"
+  - first:
+      213: 5698173873920955342
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_64"
+  - first:
+      213: -8417933937863553474
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_65"
+  - first:
+      213: 7263406576988010790
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_66"
+  - first:
+      213: -7507639281274465667
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_67"
+  - first:
+      213: -7610256739819421719
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_68"
+  - first:
+      213: 3067835619222556593
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_69"
+  - first:
+      213: 9090610634807375299
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_70"
+  - first:
+      213: 3945779950504433095
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_71"
+  - first:
+      213: 7840390181776304003
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_72"
+  - first:
+      213: 4185540984171531354
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_73"
+  - first:
+      213: 3142254729104017330
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_74"
+  - first:
+      213: -4234028496038717718
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_75"
+  - first:
+      213: -5081254696681372385
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_76"
+  - first:
+      213: -4243699456523770926
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_77"
+  - first:
+      213: -1897532406057089392
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_78"
+  - first:
+      213: -9170957196371789819
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_79"
+  - first:
+      213: -1541801812661803612
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_80"
+  - first:
+      213: -3666619131810766351
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_81"
+  - first:
+      213: 4443783610241015204
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_82"
+  - first:
+      213: -7847919618446588698
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_83"
+  - first:
+      213: 8185794633556238237
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_84"
+  - first:
+      213: 7840177642321422724
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_85"
+  - first:
+      213: -6254127786464413291
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_86"
+  - first:
+      213: -6066091106897036998
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_87"
+  - first:
+      213: 792125224151729807
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_88"
+  - first:
+      213: -3034957409153509337
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_89"
+  - first:
+      213: 3508822751454898901
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_90"
+  - first:
+      213: 834698662084461211
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_91"
+  - first:
+      213: 5361254672703186480
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_92"
+  - first:
+      213: 7989339633947382453
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_93"
+  - first:
+      213: 9170766730058346485
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_94"
+  - first:
+      213: -983324613436528185
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_95"
+  - first:
+      213: -2412557045927761077
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_96"
+  - first:
+      213: -6967245208241124077
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_97"
+  - first:
+      213: -1272349406709832280
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_98"
+  - first:
+      213: -570577744823378410
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_99"
+  - first:
+      213: -5421521969540950542
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_100"
+  - first:
+      213: 2796953691455062004
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_101"
+  - first:
+      213: -3420750092142282324
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_102"
+  - first:
+      213: -6518347364332741622
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_103"
+  - first:
+      213: -1655320459012846417
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_104"
+  - first:
+      213: 7157600901000914994
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_105"
+  - first:
+      213: 3877434484874924715
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_106"
+  - first:
+      213: -2538115901553318720
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_107"
+  - first:
+      213: 7182170702949890842
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_108"
+  - first:
+      213: -6348913059759835646
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_109"
+  - first:
+      213: 4298652087670434829
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_110"
+  - first:
+      213: 1246274623569126057
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_111"
+  - first:
+      213: 364599437456248644
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_112"
+  - first:
+      213: -4537529612628898298
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_113"
+  - first:
+      213: 2349797407269704604
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_114"
+  - first:
+      213: 4358697365784766808
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_115"
+  - first:
+      213: -7591086707602286628
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_116"
+  - first:
+      213: 2322185804886769132
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_117"
+  - first:
+      213: -1871563503451561099
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_118"
+  - first:
+      213: 5560250063454562593
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_119"
+  - first:
+      213: -5394030499280469473
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_120"
+  - first:
+      213: -8687502789774177081
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_121"
+  - first:
+      213: 4206967373931454567
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_122"
+  - first:
+      213: -6783363429307665647
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_123"
+  - first:
+      213: 9117327308252088590
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_124"
+  - first:
+      213: 6219330472146436812
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_125"
+  - first:
+      213: -2180926920465384121
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_126"
+  - first:
+      213: -7731548255836592927
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_127"
+  - first:
+      213: -2958327463439237575
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_128"
+  - first:
+      213: 6824869001055318972
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_129"
+  - first:
+      213: 7360933526671545653
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_130"
+  - first:
+      213: 65831862552565965
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_131"
+  - first:
+      213: 6399518196304167359
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_132"
+  - first:
+      213: 8175656860383356266
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_133"
+  - first:
+      213: -7558431597834377897
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_134"
+  - first:
+      213: -5772039570773779552
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_135"
+  - first:
+      213: 4140412393346502965
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_136"
+  - first:
+      213: 9201120983941806856
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_137"
+  - first:
+      213: 4077493474887607939
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_138"
+  - first:
+      213: 4494999572726410657
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_139"
+  - first:
+      213: 1580311623121923513
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_140"
+  - first:
+      213: 1056567263795497876
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_141"
+  - first:
+      213: 3154454840985876330
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_142"
+  - first:
+      213: -803038011812146038
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_143"
+  - first:
+      213: -2648439341263232951
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_144"
+  - first:
+      213: -1104955272917477829
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_145"
+  - first:
+      213: 4150986317199654793
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_146"
+  - first:
+      213: 5217485491049217905
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_147"
+  - first:
+      213: -8090318057404794884
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_148"
+  - first:
+      213: 4815350636032171228
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_149"
+  - first:
+      213: -5796463139133548623
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_150"
+  - first:
+      213: 829349550621400333
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_151"
+  - first:
+      213: 1133150209366222765
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_152"
+  - first:
+      213: -8902622959268320615
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_153"
+  - first:
+      213: 1163385846296518034
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_154"
+  - first:
+      213: -4881026379983339523
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_155"
+  - first:
+      213: 6850461054839618905
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_156"
+  - first:
+      213: 7121818071501205525
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_157"
+  - first:
+      213: 5300117224769407363
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_158"
+  - first:
+      213: 1907894802082067383
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_159"
+  - first:
+      213: -9166782196600286874
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_160"
+  - first:
+      213: -6221547120818846755
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_161"
+  - first:
+      213: -3353491818615866306
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_162"
+  - first:
+      213: -6858948477292424433
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_163"
+  - first:
+      213: 7102045082405543192
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_164"
+  - first:
+      213: -747397408947668750
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_165"
+  - first:
+      213: -4721043504703831645
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_166"
+  - first:
+      213: 1843578755492177227
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_167"
+  - first:
+      213: -5330299529914491144
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_168"
+  - first:
+      213: 8333884531552215815
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_169"
+  - first:
+      213: 441299865274809582
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_170"
+  - first:
+      213: -474206697711837918
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_171"
+  - first:
+      213: 8261722241426207655
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_172"
+  - first:
+      213: 8268798500616868936
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_173"
+  - first:
+      213: 1684811526227213705
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_174"
+  - first:
+      213: -2074518640569808438
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_175"
+  - first:
+      213: -115088293976121993
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_176"
+  - first:
+      213: 7091978266359135634
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_177"
+  - first:
+      213: -4968006195099278344
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_178"
+  - first:
+      213: -7985905378865197341
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_179"
+  - first:
+      213: -6970623139077435213
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_180"
+  - first:
+      213: -4815383491545235315
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_181"
+  - first:
+      213: 5394767355087471431
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_182"
+  - first:
+      213: 260029172763636440
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_183"
+  - first:
+      213: -8113029151349271077
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_184"
+  - first:
+      213: -6253591165546548051
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_185"
+  - first:
+      213: 4581285761047818163
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_186"
+  - first:
+      213: -5570544797974281353
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_187"
+  - first:
+      213: -3667898198389292917
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_188"
+  - first:
+      213: -658494464426339973
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_189"
+  - first:
+      213: -9143542251626757822
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_190"
+  - first:
+      213: -7959121675727435993
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_191"
+  - first:
+      213: 2371728586413638220
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_192"
+  - first:
+      213: -8958615762528925656
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_193"
+  - first:
+      213: 7366781789767563808
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_194"
+  - first:
+      213: -7628965007197644508
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_195"
+  - first:
+      213: 6865872226538597546
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_196"
+  - first:
+      213: 4471539459701433420
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_197"
+  - first:
+      213: 4200362588684507967
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_198"
+  - first:
+      213: 5458916646957103791
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_199"
+  - first:
+      213: -6178161395426288702
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_200"
+  - first:
+      213: -5805758644732342389
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_201"
+  - first:
+      213: 7178516745296225089
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_202"
+  - first:
+      213: -332408219054945239
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_203"
+  - first:
+      213: 483944359802193399
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_204"
+  - first:
+      213: 8110807824053994612
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_205"
+  - first:
+      213: -3292198778034687796
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_206"
+  - first:
+      213: -5792620171562605928
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_207"
+  - first:
+      213: -8942964836395063471
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_208"
+  - first:
+      213: -6899470024234046880
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_209"
+  - first:
+      213: -6911959362066467131
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_210"
+  - first:
+      213: 7745337153441518044
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_211"
+  - first:
+      213: -5020226987447781144
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_212"
+  - first:
+      213: -7178602010336069349
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_213"
+  - first:
+      213: -7084570075070687422
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_214"
+  - first:
+      213: -8650075868224831033
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_215"
+  - first:
+      213: 4483400818359723096
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_216"
+  - first:
+      213: 3955845431829503890
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_217"
+  - first:
+      213: -6271895964224831354
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_218"
+  - first:
+      213: 6437985154930564588
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_219"
+  - first:
+      213: -1575115823102234790
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_220"
+  - first:
+      213: 7104600464933941723
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_221"
+  - first:
+      213: -5587090801378185109
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_222"
+  - first:
+      213: 1368500582399734619
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_223"
+  - first:
+      213: 3420444703433145558
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_224"
+  - first:
+      213: 2989554863960160832
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_225"
+  - first:
+      213: 5686620721563241246
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_226"
+  - first:
+      213: -8996317931338274881
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_227"
+  - first:
+      213: 7334268584303327236
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_228"
+  - first:
+      213: -1242059665883603832
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_229"
+  - first:
+      213: 6306728469885644980
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_230"
+  - first:
+      213: 6899831370839518096
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_231"
+  - first:
+      213: 1419330674983793339
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_232"
+  - first:
+      213: 6492217840685026337
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_233"
+  - first:
+      213: -3971402786199304503
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_234"
+  - first:
+      213: 4298419982200489710
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_235"
+  - first:
+      213: 3111505655475472370
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_236"
+  - first:
+      213: -6030568575170983498
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_237"
+  - first:
+      213: -1826888086659116914
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_238"
+  - first:
+      213: -6588463806614677293
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_239"
+  - first:
+      213: -8301969202885643743
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_240"
+  - first:
+      213: 8245569670199254624
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_241"
+  - first:
+      213: -203423596860242834
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_242"
+  - first:
+      213: 4385421583412545134
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_243"
+  - first:
+      213: 4400459574395078513
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_244"
+  - first:
+      213: 4056292232454823836
+    second: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_245"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_0"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 933
+        width: 85
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b15e72dc930609810800000000000000
+      internalID: 1770020454927951131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_1"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 422
+        height: 1012
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4ae15cbbaeb6e910800000000000000
+      internalID: 1866388740399819341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_2"
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 973
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12462c28f91211a80800000000000000
+      internalID: -8497974052894120927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_3"
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 0
+        width: 393
+        height: 1017
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1d0712ca149b9600800000000000000
+      internalID: 476137028264070429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_4"
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 0
+        width: 357
+        height: 1017
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74d50b806396da2a0800000000000000
+      internalID: -6724602987799356089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_5"
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 961
+        width: 73
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c557e655f95589430800000000000000
+      internalID: 3789873229253735772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_6"
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 1007
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e24632bcacf0e610800000000000000
+      internalID: 1648595282272076516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_7"
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 1007
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d461dc0afe46b8060800000000000000
+      internalID: 6956765029761619533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_8"
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 1011
+        width: 31
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de19218ee93672f50800000000000000
+      internalID: 6856558491844383213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_9"
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 0
+        width: 401
+        height: 1015
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 169ea1753854b94b0800000000000000
+      internalID: -5432672095087957663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_10"
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 939
+        width: 75
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16e4292522890efb0800000000000000
+      internalID: -4620525944500498847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_11"
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 981
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf0362d4f8df1f220800000000000000
+      internalID: 2518072458593317116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_12"
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 951
+        width: 15
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8aac1da94927d3a0800000000000000
+      internalID: -6640793729120818548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_13"
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 964
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 483fd6afa91be0e90800000000000000
+      internalID: -7057508286858398844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_14"
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 938
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 329c3765bcb4d0870800000000000000
+      internalID: 8650653795949463843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_15"
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 929
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b23cc2142edf0ae60800000000000000
+      internalID: 7971650488643666731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_16"
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 965
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5363a7c97b4c2f270800000000000000
+      internalID: 8282898957571077685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_17"
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 961
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1805d7dab2b4db300800000000000000
+      internalID: 269454203678445697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_18"
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 961
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca8a08e1175f41960800000000000000
+      internalID: 7571946739708504236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_19"
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 963
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14185080309737c00800000000000000
+      internalID: 897193804703301953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_20"
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 939
+        width: 39
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f633618784e2f7150800000000000000
+      internalID: 5872463327901660015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_21"
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 877
+        width: 93
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbc7d1790fb716e30800000000000000
+      internalID: 4495010176350125243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_22"
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 989
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4914ddddf7b06f990800000000000000
+      internalID: -7352676697824738924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_23"
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 977
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d66d221a50b12ec00800000000000000
+      internalID: 928334184183944813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_24"
+      rect:
+        serializedVersion: 2
+        x: 1414
+        y: 963
+        width: 43
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c547f456a00ca4920800000000000000
+      internalID: 2975401654713545820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_25"
+      rect:
+        serializedVersion: 2
+        x: 1422
+        y: 781
+        width: 105
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f952a9c6891411660800000000000000
+      internalID: 7354731789385606559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_26"
+      rect:
+        serializedVersion: 2
+        x: 1454
+        y: 973
+        width: 45
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d5310f62c41cbfd0800000000000000
+      internalID: -2324960482311457326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_27"
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 945
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c1be336494cd1980800000000000000
+      internalID: -8566474774589558334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_28"
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 927
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90e7048ec9d41edc0800000000000000
+      internalID: -3611520089867649527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_29"
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 935
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2316d76a2a424170800000000000000
+      internalID: 8161167020739924780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_30"
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 913
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecdfbe97816308fb0800000000000000
+      internalID: -4647655336693727794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_31"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 662
+        width: 107
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80b363ebce7faba30800000000000000
+      internalID: 4231967396043569928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_32"
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 923
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 365191989cc32edc0800000000000000
+      internalID: -3611257114911500957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_33"
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 869
+        width: 49
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1b47d4ad499a05c0800000000000000
+      internalID: -4248414739713537250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_34"
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 921
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9ea7621c0c0fbc90800000000000000
+      internalID: -7151984437253132641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_35"
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 911
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bd28e0a8b7064dd0800000000000000
+      internalID: -2502304053402784334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_36"
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 869
+        width: 37
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dc2697bc8f329d20800000000000000
+      internalID: 3283756951914556627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_37"
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 923
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d02b35fe9719f290800000000000000
+      internalID: -7856222103484555053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_38"
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 914
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1830cd8e4082fdc20800000000000000
+      internalID: 3233347059027018625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_39"
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 925
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 164b6c1e7490dca40800000000000000
+      internalID: 5389974533367575649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_40"
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 893
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49216cfb5a4454d90800000000000000
+      internalID: -7114204557684108652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_41"
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 703
+        width: 105
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6dd955f86f18a830800000000000000
+      internalID: 4082547597864721775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_42"
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 909
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7516526e894ca200800000000000000
+      internalID: 192609759954081150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_43"
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 885
+        width: 17
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd00eca129aaf3b90800000000000000
+      internalID: -7259896529806294820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_44"
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 861
+        width: 11
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b04e81247efc4d8c0800000000000000
+      internalID: -3975323978907982837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_45"
+      rect:
+        serializedVersion: 2
+        x: 1454
+        y: 908
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3be70deea725b760800000000000000
+      internalID: 7472922788945718079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_46"
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 893
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29c8d1d4876f14c10800000000000000
+      internalID: 2036179503098465426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_47"
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 885
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69f0c9c4cbf214d00800000000000000
+      internalID: 955097081764908950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_48"
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 833
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 672fc9a1bbf935e60800000000000000
+      internalID: 7949873393193251446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_49"
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 849
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b957b366e9cbcd6d0800000000000000
+      internalID: -2964287066210601573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_50"
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 789
+        width: 53
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f5589a5c6694ba90800000000000000
+      internalID: -7299043703940164107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_51"
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 827
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e1244dbfca0c6920800000000000000
+      internalID: 2984772540389663208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_52"
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 813
+        width: 39
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0e88dfedf3029c80800000000000000
+      internalID: -8317581172614328821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_53"
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 819
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fdce5f7d918a1490800000000000000
+      internalID: -7774759293254971911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_54"
+      rect:
+        serializedVersion: 2
+        x: 1138
+        y: 831
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d947d70e91daacd80800000000000000
+      internalID: -8229575042414054243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_55"
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 802
+        width: 17
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec403dd99544e5470800000000000000
+      internalID: 8385214707901072590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_56"
+      rect:
+        serializedVersion: 2
+        x: 1468
+        y: 829
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1198a8259b952efa0800000000000000
+      internalID: -5772953119846921967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_57"
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 793
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d55718291b7ff320800000000000000
+      internalID: 2593927258365711832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_58"
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 777
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f7ed5eb5fad63250800000000000000
+      internalID: 5924163108848134130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_59"
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 797
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 715fbd5e67eb922f0800000000000000
+      internalID: -997056424614038249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_60"
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 791
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e8d0461fecb1d770800000000000000
+      internalID: 8633889695702505697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_61"
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 807
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0fa5adb9ed2983c0800000000000000
+      internalID: -4356900682571862257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_62"
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 787
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f415305b1f0dd110800000000000000
+      internalID: 1287201678482019569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_63"
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 769
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d8f03cdc0c8b4610800000000000000
+      internalID: 1606531678949406931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_64"
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 791
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec35877b2faf31f40800000000000000
+      internalID: 5698173873920955342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_65"
+      rect:
+        serializedVersion: 2
+        x: 1482
+        y: 741
+        width: 29
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3e00f20fad7d2b80800000000000000
+      internalID: -8417933937863553474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_66"
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 731
+        width: 37
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6293b907ccdccc460800000000000000
+      internalID: 7263406576988010790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_67"
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 749
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d72ddd1d9d18fc790800000000000000
+      internalID: -7507639281274465667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_68"
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 723
+        width: 43
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ef7a85e0dfe26690800000000000000
+      internalID: -7610256739819421719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_69"
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 759
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bf0d09dd34239a20800000000000000
+      internalID: 3067835619222556593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_70"
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 723
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c5f41f4536582e70800000000000000
+      internalID: 9090610634807375299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_71"
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 757
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c5dca795f932c630800000000000000
+      internalID: 3945779950504433095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_72"
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 751
+        width: 31
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 387ac358459aecc60800000000000000
+      internalID: 7840390181776304003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_73"
+      rect:
+        serializedVersion: 2
+        x: 1454
+        y: 763
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5c02626957061a30800000000000000
+      internalID: 4185540984171531354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_74"
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 703
+        width: 9
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b7490a17088b9b20800000000000000
+      internalID: 3142254729104017330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_75"
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 691
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae61bb40485bd35c0800000000000000
+      internalID: -4234028496038717718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_76"
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 669
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f15850766c1cb79b0800000000000000
+      internalID: -5081254696681372385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_77"
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 656
+        width: 67
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d3e16014d95b15c0800000000000000
+      internalID: -4243699456523770926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_78"
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 683
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 096cc2b845c9aa5e0800000000000000
+      internalID: -1897532406057089392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_79"
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 709
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50872fb05073ab080800000000000000
+      internalID: -9170957196371789819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_80"
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 701
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a56d329b6b6a9ae0800000000000000
+      internalID: -1541801812661803612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_81"
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 635
+        width: 99
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f1a4c1835d8d1dc0800000000000000
+      internalID: -3666619131810766351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_82"
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 645
+        width: 18
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ad5e1b36ad7bad30800000000000000
+      internalID: 4443783610241015204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_83"
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 687
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e40ca4efa6961390800000000000000
+      internalID: -7847919618446588698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_84"
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 641
+        width: 61
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9f1b6959d8c99170800000000000000
+      internalID: 8185794633556238237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_85"
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 659
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4892782d608edcc60800000000000000
+      internalID: 7840177642321422724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_86"
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 657
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59973ebf9efd439a0800000000000000
+      internalID: -6254127786464413291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_87"
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 627
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a39fe3e174ae0dba0800000000000000
+      internalID: -6066091106897036998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_88"
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 675
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f86c03bc1b13efa00800000000000000
+      internalID: 792125224151729807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_89"
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 655
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72817f6f05aa1e5d0800000000000000
+      internalID: -3034957409153509337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_90"
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 671
+        width: 29
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5da2740b3b7d1b030800000000000000
+      internalID: 3508822751454898901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_91"
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 673
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b92c900c202759b00800000000000000
+      internalID: 834698662084461211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_92"
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 637
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03660ec38b0076a40800000000000000
+      internalID: 5361254672703186480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_93"
+      rect:
+        serializedVersion: 2
+        x: 1434
+        y: 655
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b212675116dfde60800000000000000
+      internalID: 7989339633947382453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_94"
+      rect:
+        serializedVersion: 2
+        x: 1468
+        y: 629
+        width: 59
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ff291f80cb154f70800000000000000
+      internalID: 9170766730058346485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_95"
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 633
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c9a73559778a52f0800000000000000
+      internalID: -983324613436528185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_96"
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 525
+        width: 63
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4b2c152620e48ed0800000000000000
+      internalID: -2412557045927761077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_97"
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 639
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31dcebba56f5f4f90800000000000000
+      internalID: -6967245208241124077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_98"
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 644
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a5a1eea4f4b75ee0800000000000000
+      internalID: -1272349406709832280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_99"
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 633
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61e1f0b6096e418f0800000000000000
+      internalID: -570577744823378410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_100"
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 621
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f5198f3e72e2c4b0800000000000000
+      internalID: -5421521969540950542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_101"
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 579
+        width: 45
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ff75604096c0d620800000000000000
+      internalID: 2796953691455062004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_102"
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 633
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca979744aed0780d0800000000000000
+      internalID: -3420750092142282324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_103"
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 643
+        width: 9
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0cd75a9b9d2a85a0800000000000000
+      internalID: -6518347364332741622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_104"
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 613
+        width: 9
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fac4a1310de1709e0800000000000000
+      internalID: -1655320459012846417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_105"
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 615
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 238ec2cc818e45360800000000000000
+      internalID: 7157600901000914994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_106"
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 595
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba2d1d6de1a6fc530800000000000000
+      internalID: 3877434484874924715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_107"
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 619
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c4e429f80dc6ccd0800000000000000
+      internalID: -2538115901553318720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_108"
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 585
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1bbb8993323ca360800000000000000
+      internalID: 7182170702949890842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_109"
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 459
+        width: 65
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2063d2bc53124e7a0800000000000000
+      internalID: -6348913059759835646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_110"
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 597
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0c669a6c41e7ab30800000000000000
+      internalID: 4298652087670434829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_111"
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 603
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a2eb66ca28ab4110800000000000000
+      internalID: 1246274623569126057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_112"
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 605
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44f03e2b1415f0500800000000000000
+      internalID: 364599437456248644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_113"
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 602
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60e4071bbd47701c0800000000000000
+      internalID: -4537529612628898298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_114"
+      rect:
+        serializedVersion: 2
+        x: 1492
+        y: 554
+        width: 25
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c93d17aca482c9020800000000000000
+      internalID: 2349797407269704604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_115"
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 569
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 859280b29243d7c30800000000000000
+      internalID: 4358697365784766808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_116"
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 581
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd71d26dbda07a690800000000000000
+      internalID: -7591086707602286628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_117"
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 585
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cedfab2afaf0a3020800000000000000
+      internalID: 2322185804886769132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_118"
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 567
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5732f2ad8eed606e0800000000000000
+      internalID: -1871563503451561099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_119"
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 565
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1296d8629f9f92d40800000000000000
+      internalID: 5560250063454562593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_120"
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 567
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f12c3c6f6dd8425b0800000000000000
+      internalID: -5394030499280469473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_121"
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 567
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cc8b46bd3acf6780800000000000000
+      internalID: -8687502789774177081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_122"
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 471
+        width: 91
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 760a7d08986226a30800000000000000
+      internalID: 4206967373931454567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_123"
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 543
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 113bdbd96e6acd1a0800000000000000
+      internalID: -6783363429307665647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_124"
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 533
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e09855591e0478e70800000000000000
+      internalID: 9117327308252088590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_125"
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 518
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc20d0dec108f4650800000000000000
+      internalID: 6219330472146436812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_126"
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 490
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74df298558acbb1e0800000000000000
+      internalID: -2180926920465384121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_127"
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 506
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e4a11723d504b490800000000000000
+      internalID: -7731548255836592927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_128"
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 510
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93efb6c88d8e1f6d0800000000000000
+      internalID: -2958327463439237575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_129"
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 517
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb33a7e523ec6be50800000000000000
+      internalID: 6824869001055318972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_130"
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 495
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5355588ea0a472660800000000000000
+      internalID: 7360933526671545653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_131"
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 499
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc8195eeab1e9e000800000000000000
+      internalID: 65831862552565965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_132"
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 495
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb1cb58b4e7afc850800000000000000
+      internalID: 6399518196304167359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_133"
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 407
+        width: 61
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a65a2a81994c57170800000000000000
+      internalID: 8175656860383356266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_134"
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 457
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7556eff028e0b1790800000000000000
+      internalID: -7558431597834377897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_135"
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 459
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0abd78a879895efa0800000000000000
+      internalID: -5772039570773779552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_136"
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 441
+        width: 59
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5311b098223b57930800000000000000
+      internalID: 4140412393346502965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_137"
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 443
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80b7e3709c2f0bf70800000000000000
+      internalID: 9201120983941806856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_138"
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 465
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38626a046ba269830800000000000000
+      internalID: 4077493474887607939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_139"
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 434
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ade3edbb42716e30800000000000000
+      internalID: 4494999572726410657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_140"
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 457
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bd6a926c056ee510800000000000000
+      internalID: 1580311623121923513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_141"
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 422
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49b46d7145ea9ae00800000000000000
+      internalID: 1056567263795497876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_142"
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 428
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6779f007ffd6cb20800000000000000
+      internalID: 3154454840985876330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_143"
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 447
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a841dc4de290bd4f0800000000000000
+      internalID: -803038011812146038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_144"
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 446
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 940e5de737ade3bd0800000000000000
+      internalID: -2648439341263232951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_145"
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 421
+        width: 19
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b361f0998096aa0f0800000000000000
+      internalID: -1104955272917477829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_146"
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 447
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98f313800144b9930800000000000000
+      internalID: 4150986317199654793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_147"
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 445
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17f3eb2296b386840800000000000000
+      internalID: 5217485491049217905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_148"
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 435
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf77574579a69bf80800000000000000
+      internalID: -8090318057404794884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_149"
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 379
+        width: 39
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdc16a104ef83d240800000000000000
+      internalID: 4815350636032171228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_150"
+      rect:
+        serializedVersion: 2
+        x: 1214
+        y: 0
+        width: 185
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b79c466c73de8fa0800000000000000
+      internalID: -5796463139133548623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_151"
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 446
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0d1b6fa501728b00800000000000000
+      internalID: 829349550621400333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_152"
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 441
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da7ee6a9c12c9bf00800000000000000
+      internalID: 1133150209366222765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_153"
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 421
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99a239f2697837480800000000000000
+      internalID: -8902622959268320615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_154"
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 423
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29d9839634d252010800000000000000
+      internalID: 1163385846296518034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_155"
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 417
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dff38c14e5c134cb0800000000000000
+      internalID: -4881026379983339523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_156"
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 399
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95dfc59b80ab11f50800000000000000
+      internalID: 6850461054839618905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_157"
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 413
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51079c29dc7c5d260800000000000000
+      internalID: 7121818071501205525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_158"
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 412
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3894f42e88ccd8940800000000000000
+      internalID: 5300117224769407363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_159"
+      rect:
+        serializedVersion: 2
+        x: 1478
+        y: 397
+        width: 29
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b37aeac6343a7a10800000000000000
+      internalID: 1907894802082067383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_160"
+      rect:
+        serializedVersion: 2
+        x: 1510
+        y: 396
+        width: 9
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 661d34ee82c09c080800000000000000
+      internalID: -9166782196600286874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_161"
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 389
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd30d365bdf98a9a0800000000000000
+      internalID: -6221547120818846755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_162"
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 399
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3cf83265f00671d0800000000000000
+      internalID: -3353491818615866306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_163"
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 403
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f03574e33be10d0a0800000000000000
+      internalID: -6858948477292424433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_164"
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 401
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81d979bcf588f8260800000000000000
+      internalID: 7102045082405543192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_165"
+      rect:
+        serializedVersion: 2
+        x: 1514
+        y: 395
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f870a53406b0a5f0800000000000000
+      internalID: -747397408947668750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_166"
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 369
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a186f412fb7b7eb0800000000000000
+      internalID: -4721043504703831645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_167"
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 389
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4561944c15b59910800000000000000
+      internalID: 1843578755492177227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_168"
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 325
+        width: 39
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fed30591d8f606b0800000000000000
+      internalID: -5330299529914491144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_169"
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 337
+        width: 51
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 703ea4e93d7e7a370800000000000000
+      internalID: 8333884531552215815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_170"
+      rect:
+        serializedVersion: 2
+        x: 1444
+        y: 373
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eecf12da3efcf1600800000000000000
+      internalID: 441299865274809582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_171"
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 375
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22d56c855874b69f0800000000000000
+      internalID: -474206697711837918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_172"
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 375
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a337292b9887a270800000000000000
+      internalID: 8261722241426207655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_173"
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 370
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8441d842d6ca0c270800000000000000
+      internalID: 8268798500616868936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_174"
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 375
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98db1461827a16710800000000000000
+      internalID: 1684811526227213705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_175"
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 331
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac909e4a944d533e0800000000000000
+      internalID: -2074518640569808438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_176"
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 324
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77d5fbf6ecf176ef0800000000000000
+      internalID: -115088293976121993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_177"
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 335
+        width: 11
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29d702988a4cb6260800000000000000
+      internalID: 7091978266359135634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_178"
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 351
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f3ea2befa81e0bb0800000000000000
+      internalID: -4968006195099278344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_179"
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 343
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eecbda7e5d5c2190800000000000000
+      internalID: -7985905378865197341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_180"
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 307
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b0db2cdf2f534f90800000000000000
+      internalID: -6970623139077435213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_181"
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 353
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d808a293a325c2db0800000000000000
+      internalID: -4815383491545235315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_182"
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 357
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 743ccd5a3501eda40800000000000000
+      internalID: 5394767355087471431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_183"
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 351
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d2b0d9a72fcb9300800000000000000
+      internalID: 260029172763636440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_184"
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 331
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd51075b8fab86f80800000000000000
+      internalID: -8113029151349271077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_185"
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 327
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da4b317c7f7c639a0800000000000000
+      internalID: -6253591165546548051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_186"
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 325
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bf6fc1802ff39f30800000000000000
+      internalID: 4581285761047818163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_187"
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 335
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 773c75f250371b2b0800000000000000
+      internalID: -5570544797974281353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_188"
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 269
+        width: 57
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8006bc9502091dc0800000000000000
+      internalID: -3667898198389292917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_189"
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 315
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b719e4106ce8cd6f0800000000000000
+      internalID: -658494464426339973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_190"
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 295
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 241030744cc9b1180800000000000000
+      internalID: -9143542251626757822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_191"
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 289
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 727872251058b8190800000000000000
+      internalID: -7959121675727435993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_192"
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 309
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4203d855921ae020800000000000000
+      internalID: 2371728586413638220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_193"
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 305
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8288f33cd6a9ca380800000000000000
+      internalID: -8958615762528925656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_194"
+      rect:
+        serializedVersion: 2
+        x: 1412
+        y: 298
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02a79e4c1011c3660800000000000000
+      internalID: 7366781789767563808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_195"
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 263
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4295916feb8702690800000000000000
+      internalID: -7628965007197644508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_196"
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 283
+        width: 37
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aacad00c96a784f50800000000000000
+      internalID: 6865872226538597546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_197"
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 285
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4465a682791e0e30800000000000000
+      internalID: 4471539459701433420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_198"
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 277
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3b516a158faa4a30800000000000000
+      internalID: 4200362588684507967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_199"
+      rect:
+        serializedVersion: 2
+        x: 1390
+        y: 287
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faa385094c7f1cb40800000000000000
+      internalID: 5458916646957103791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_200"
+      rect:
+        serializedVersion: 2
+        x: 1496
+        y: 274
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cb9594b1f2c24aa0800000000000000
+      internalID: -6178161395426288702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_201"
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 251
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8f4319d54dcd6fa0800000000000000
+      internalID: -5805758644732342389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_202"
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 255
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 143239942f63f9360800000000000000
+      internalID: 7178516745296225089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_203"
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 245
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92c4fc66c7c036bf0800000000000000
+      internalID: -332408219054945239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_204"
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 269
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f54019c4d057b600800000000000000
+      internalID: 483944359802193399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_205"
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 259
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 474823a3eb06f8070800000000000000
+      internalID: 8110807824053994612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_206"
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 231
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc0744977a2cf42d0800000000000000
+      internalID: -3292198778034687796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_207"
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 231
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 892af3305aa7c9fa0800000000000000
+      internalID: -5792620171562605928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_208"
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 239
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 157ecd7fcd434e380800000000000000
+      internalID: -8942964836395063471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_209"
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 218
+        width: 45
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06ae21361982040a0800000000000000
+      internalID: -6899470024234046880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_210"
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 211
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c6b712d499c310a0800000000000000
+      internalID: -6911959362066467131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_211"
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 215
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd15480ca17fc7b60800000000000000
+      internalID: 7745337153441518044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_212"
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 207
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e878593722945ab0800000000000000
+      internalID: -5020226987447781144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_213"
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 214
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b197306618b706c90800000000000000
+      internalID: -7178602010336069349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_214"
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 223
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2479c096d0d8ead90800000000000000
+      internalID: -7084570075070687422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_215"
+      rect:
+        serializedVersion: 2
+        x: 1422
+        y: 213
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c1c742f3d1c4f780800000000000000
+      internalID: -8650075868224831033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_216"
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 215
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 854e60c4a4d383e30800000000000000
+      internalID: 4483400818359723096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_217"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 193
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29f9c86167cf5e630800000000000000
+      internalID: 3955845431829503890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_218"
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 211
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6804c28b9dfb5f8a0800000000000000
+      internalID: -6271895964224831354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_219"
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 191
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceddfd47361585950800000000000000
+      internalID: 6437985154930564588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_220"
+      rect:
+        serializedVersion: 2
+        x: 1422
+        y: 175
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5fe4e31180142ae0800000000000000
+      internalID: -1575115823102234790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_221"
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 161
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd176772b7c989260800000000000000
+      internalID: 7104600464933941723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_222"
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 167
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b603000948aa672b0800000000000000
+      internalID: -5587090801378185109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_223"
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 164
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b53f9d07704edf210800000000000000
+      internalID: 1368500582399734619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_224"
+      rect:
+        serializedVersion: 2
+        x: 1468
+        y: 157
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dcbff1e55cd77f20800000000000000
+      internalID: 3420444703433145558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_225"
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 134
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04af2e63f480d7920800000000000000
+      internalID: 2989554863960160832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_226"
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 135
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1b0721da6feaee40800000000000000
+      internalID: 5686620721563241246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_227"
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 113
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb7ea188188a62380800000000000000
+      internalID: -8996317931338274881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_228"
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 119
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 408f4b63b6e88c560800000000000000
+      internalID: 7334268584303327236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_229"
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 113
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88cda29805153cee0800000000000000
+      internalID: -1242059665883603832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_230"
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 47
+        width: 39
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b0706ef020068750800000000000000
+      internalID: 6306728469885644980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_231"
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 97
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09b6cfc231021cf50800000000000000
+      internalID: 6899831370839518096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_232"
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 95
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb2793d9ab972b310800000000000000
+      internalID: 1419330674983793339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_233"
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 7
+        width: 97
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12c0c769abdf81a50800000000000000
+      internalID: 6492217840685026337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_234"
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 81
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c60894153eb2e8c0800000000000000
+      internalID: -3971402786199304503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_235"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 65
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee64086233e07ab30800000000000000
+      internalID: 4298419982200489710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_236"
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 55
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f70c3f78e94e2b20800000000000000
+      internalID: 3111505655475472370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_237"
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 35
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b9cc4b05dd1f4ca0800000000000000
+      internalID: -6030568575170983498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_238"
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 63
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e805a46e6f695a6e0800000000000000
+      internalID: -1826888086659116914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_239"
+      rect:
+        serializedVersion: 2
+        x: 1452
+        y: 62
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d8d63733131194a0800000000000000
+      internalID: -6588463806614677293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_240"
+      rect:
+        serializedVersion: 2
+        x: 1486
+        y: 65
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 122b4c5eefa79cc80800000000000000
+      internalID: -8301969202885643743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_241"
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 23
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06e16fa9de52e6270800000000000000
+      internalID: 8245569670199254624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_242"
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 16
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e648632015b4d2df0800000000000000
+      internalID: -203423596860242834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_243"
+      rect:
+        serializedVersion: 2
+        x: 1496
+        y: 13
+        width: 7
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e66c2a5f1b52cdc30800000000000000
+      internalID: 4385421583412545134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_244"
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 0
+        width: 78
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17709441ba2911d30800000000000000
+      internalID: 4400459574395078513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_245"
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 0
+        width: 80
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9f55a45b48da4830800000000000000
+      internalID: 4056292232454823836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_0": 1770020454927951131
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_1": 1866388740399819341
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_10": -4620525944500498847
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_100": -5421521969540950542
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_101": 2796953691455062004
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_102": -3420750092142282324
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_103": -6518347364332741622
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_104": -1655320459012846417
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_105": 7157600901000914994
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_106": 3877434484874924715
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_107": -2538115901553318720
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_108": 7182170702949890842
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_109": -6348913059759835646
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_11": 2518072458593317116
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_110": 4298652087670434829
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_111": 1246274623569126057
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_112": 364599437456248644
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_113": -4537529612628898298
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_114": 2349797407269704604
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_115": 4358697365784766808
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_116": -7591086707602286628
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_117": 2322185804886769132
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_118": -1871563503451561099
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_119": 5560250063454562593
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_12": -6640793729120818548
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_120": -5394030499280469473
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_121": -8687502789774177081
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_122": 4206967373931454567
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_123": -6783363429307665647
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_124": 9117327308252088590
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_125": 6219330472146436812
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_126": -2180926920465384121
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_127": -7731548255836592927
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_128": -2958327463439237575
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_129": 6824869001055318972
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_13": -7057508286858398844
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_130": 7360933526671545653
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_131": 65831862552565965
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_132": 6399518196304167359
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_133": 8175656860383356266
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_134": -7558431597834377897
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_135": -5772039570773779552
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_136": 4140412393346502965
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_137": 9201120983941806856
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_138": 4077493474887607939
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_139": 4494999572726410657
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_14": 8650653795949463843
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_140": 1580311623121923513
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_141": 1056567263795497876
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_142": 3154454840985876330
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_143": -803038011812146038
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_144": -2648439341263232951
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_145": -1104955272917477829
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_146": 4150986317199654793
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_147": 5217485491049217905
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_148": -8090318057404794884
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_149": 4815350636032171228
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_15": 7971650488643666731
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_150": -5796463139133548623
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_151": 829349550621400333
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_152": 1133150209366222765
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_153": -8902622959268320615
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_154": 1163385846296518034
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_155": -4881026379983339523
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_156": 6850461054839618905
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_157": 7121818071501205525
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_158": 5300117224769407363
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_159": 1907894802082067383
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_16": 8282898957571077685
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_160": -9166782196600286874
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_161": -6221547120818846755
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_162": -3353491818615866306
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_163": -6858948477292424433
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_164": 7102045082405543192
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_165": -747397408947668750
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_166": -4721043504703831645
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_167": 1843578755492177227
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_168": -5330299529914491144
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_169": 8333884531552215815
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_17": 269454203678445697
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_170": 441299865274809582
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_171": -474206697711837918
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_172": 8261722241426207655
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_173": 8268798500616868936
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_174": 1684811526227213705
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_175": -2074518640569808438
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_176": -115088293976121993
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_177": 7091978266359135634
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_178": -4968006195099278344
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_179": -7985905378865197341
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_18": 7571946739708504236
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_180": -6970623139077435213
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_181": -4815383491545235315
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_182": 5394767355087471431
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_183": 260029172763636440
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_184": -8113029151349271077
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_185": -6253591165546548051
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_186": 4581285761047818163
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_187": -5570544797974281353
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_188": -3667898198389292917
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_189": -658494464426339973
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_19": 897193804703301953
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_190": -9143542251626757822
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_191": -7959121675727435993
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_192": 2371728586413638220
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_193": -8958615762528925656
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_194": 7366781789767563808
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_195": -7628965007197644508
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_196": 6865872226538597546
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_197": 4471539459701433420
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_198": 4200362588684507967
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_199": 5458916646957103791
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_2": -8497974052894120927
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_20": 5872463327901660015
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_200": -6178161395426288702
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_201": -5805758644732342389
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_202": 7178516745296225089
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_203": -332408219054945239
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_204": 483944359802193399
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_205": 8110807824053994612
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_206": -3292198778034687796
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_207": -5792620171562605928
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_208": -8942964836395063471
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_209": -6899470024234046880
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_21": 4495010176350125243
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_210": -6911959362066467131
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_211": 7745337153441518044
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_212": -5020226987447781144
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_213": -7178602010336069349
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_214": -7084570075070687422
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_215": -8650075868224831033
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_216": 4483400818359723096
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_217": 3955845431829503890
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_218": -6271895964224831354
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_219": 6437985154930564588
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_22": -7352676697824738924
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_220": -1575115823102234790
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_221": 7104600464933941723
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_222": -5587090801378185109
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_223": 1368500582399734619
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_224": 3420444703433145558
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_225": 2989554863960160832
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_226": 5686620721563241246
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_227": -8996317931338274881
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_228": 7334268584303327236
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_229": -1242059665883603832
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_23": 928334184183944813
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_230": 6306728469885644980
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_231": 6899831370839518096
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_232": 1419330674983793339
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_233": 6492217840685026337
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_234": -3971402786199304503
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_235": 4298419982200489710
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_236": 3111505655475472370
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_237": -6030568575170983498
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_238": -1826888086659116914
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_239": -6588463806614677293
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_24": 2975401654713545820
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_240": -8301969202885643743
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_241": 8245569670199254624
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_242": -203423596860242834
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_243": 4385421583412545134
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_244": 4400459574395078513
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_245": 4056292232454823836
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_25": 7354731789385606559
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_26": -2324960482311457326
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_27": -8566474774589558334
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_28": -3611520089867649527
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_29": 8161167020739924780
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_3": 476137028264070429
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_30": -4647655336693727794
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_31": 4231967396043569928
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_32": -3611257114911500957
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_33": -4248414739713537250
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_34": -7151984437253132641
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_35": -2502304053402784334
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_36": 3283756951914556627
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_37": -7856222103484555053
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_38": 3233347059027018625
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_39": 5389974533367575649
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_4": -6724602987799356089
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_40": -7114204557684108652
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_41": 4082547597864721775
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_42": 192609759954081150
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_43": -7259896529806294820
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_44": -3975323978907982837
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_45": 7472922788945718079
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_46": 2036179503098465426
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_47": 955097081764908950
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_48": 7949873393193251446
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_49": -2964287066210601573
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_5": 3789873229253735772
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_50": -7299043703940164107
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_51": 2984772540389663208
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_52": -8317581172614328821
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_53": -7774759293254971911
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_54": -8229575042414054243
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_55": 8385214707901072590
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_56": -5772953119846921967
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_57": 2593927258365711832
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_58": 5924163108848134130
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_59": -997056424614038249
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_6": 1648595282272076516
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_60": 8633889695702505697
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_61": -4356900682571862257
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_62": 1287201678482019569
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_63": 1606531678949406931
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_64": 5698173873920955342
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_65": -8417933937863553474
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_66": 7263406576988010790
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_67": -7507639281274465667
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_68": -7610256739819421719
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_69": 3067835619222556593
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_7": 6956765029761619533
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_70": 9090610634807375299
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_71": 3945779950504433095
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_72": 7840390181776304003
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_73": 4185540984171531354
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_74": 3142254729104017330
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_75": -4234028496038717718
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_76": -5081254696681372385
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_77": -4243699456523770926
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_78": -1897532406057089392
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_79": -9170957196371789819
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_8": 6856558491844383213
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_80": -1541801812661803612
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_81": -3666619131810766351
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_82": 4443783610241015204
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_83": -7847919618446588698
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_84": 8185794633556238237
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_85": 7840177642321422724
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_86": -6254127786464413291
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_87": -6066091106897036998
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_88": 792125224151729807
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_89": -3034957409153509337
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_9": -5432672095087957663
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_90": 3508822751454898901
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_91": 834698662084461211
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_92": 5361254672703186480
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_93": 7989339633947382453
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_94": 9170766730058346485
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_95": -983324613436528185
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_96": -2412557045927761077
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_97": -6967245208241124077
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_98": -1272349406709832280
+      "Deniz Yosunlar\u0131 Sallanma Animasyon Spritleri_99": -570577744823378410
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

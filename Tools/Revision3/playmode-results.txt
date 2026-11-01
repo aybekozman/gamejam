@@ -1,0 +1,14 @@
+PASS Player starts immediately beside the moved village homes
+PASS Player start is clear of all house/terrain colliders
+PASS Habitat center tracks the moved left-side village
+PASS No sharks at the village
+PASS No sharks in middle or left map regardless of village distance
+PASS Whales removed from gameplay population
+PASS Background fish groups and distant whale are active
+PASS Background life is muted, behind gameplay and non-colliding
+PASS Original school silhouette sprites are used
+PASS Only a few sharks spawn, all inside rightmost region
+PASS Sparse colorful fish coexist with right-edge sharks
+PASS No foreground whales after entering the far-right region
+PASS Shark wandering cannot cross out of its right-edge habitat
+PASS No runtime errors during verification

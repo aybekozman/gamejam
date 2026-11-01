@@ -1,0 +1,38 @@
+{
+  "seabed_panorama": {
+    "source": "Derinleşen Piksel Deniz Tabanı.png",
+    "sourceSize": [
+      2172,
+      724
+    ],
+    "visibleBounds": [
+      0,
+      287,
+      2172,
+      724
+    ],
+    "processedSize": [
+      1086,
+      218
+    ]
+  },
+  "shore_pier": {
+    "source": "Renkli Su Altı Ahşap İskelesi.png",
+    "sourceSize": [
+      1536,
+      1024
+    ],
+    "visibleBounds": [
+      9,
+      84,
+      1527,
+      922
+    ],
+    "processedSize": [
+      759,
+      419
+    ],
+    "deckRow": 46,
+    "deckFractionFromBottom": 0.8902147971360381
+  }
+}

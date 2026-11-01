@@ -1,0 +1,18 @@
+{
+  "result": "PASS all existing collider blocks exactly unchanged; only player and camera start positions changed",
+  "colliderCount": 114,
+  "startPositionChanges": [
+    [
+      "74422485",
+      "m_LocalPosition",
+      "{x: -23, y: -6, z: -10}",
+      "{x: -201.33948, y: -27, z: -10}"
+    ],
+    [
+      "494409658",
+      "m_LocalPosition",
+      "{x: -26, y: -7.5, z: 0}",
+      "{x: -201.33948, y: -28.71, z: 0}"
+    ]
+  ]
+}

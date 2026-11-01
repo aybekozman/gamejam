@@ -1,0 +1,43 @@
+{
+  "preservation": "All original transform/rotation/scale and collider enabled states unchanged except the two outer boundary positions",
+  "changedBoundaryPositions": [
+    [
+      "166907966",
+      "m_LocalPosition",
+      "{x: -47, y: -8, z: 0}",
+      "{x: -241, y: -8, z: 0}"
+    ],
+    [
+      "881402060",
+      "m_LocalPosition",
+      "{x: 47, y: -8, z: 0}",
+      "{x: 241, y: -8, z: 0}"
+    ]
+  ],
+  "bodyWidths": {
+    "animal_2": [
+      131,
+      131,
+      131,
+      131
+    ],
+    "whale_0": [
+      157,
+      157,
+      157,
+      157
+    ],
+    "whale_1": [
+      157,
+      157,
+      157,
+      157
+    ],
+    "animal_0": [
+      73,
+      73,
+      73,
+      73
+    ]
+  }
+}
