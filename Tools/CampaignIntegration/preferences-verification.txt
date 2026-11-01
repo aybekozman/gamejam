@@ -1,0 +1,1 @@
+PASS interactive sliders persist across New Game and scene changes; original preferences restored

@@ -48,7 +48,7 @@ public class Turret : MonoBehaviour
     {
         Instantiate(bulletPrefab, firePoint.position, Quaternion.Euler(0, 0, bulletAngle));
 
-        if (audioSource != null && shootSound != null) audioSource.PlayOneShot(shootSound);
+        if (audioSource != null && shootSound != null) audioSource.PlayOneShot(shootSound,IntegratedCampaign.CampaignFlow.EffectsPreference);
 
         if (shipRb != null)
         {

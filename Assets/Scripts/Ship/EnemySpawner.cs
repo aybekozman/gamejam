@@ -24,7 +24,10 @@ public class EnemySpawner : MonoBehaviour
     public GameObject[] allEnemyPrefabs; // Oyundaki tüm düşmanlar (Random açıksa buradan seçer)
     public GameObject[] selectedEnemyPrefabs; // Sadece o bölüm çıkmasını istediklerin (Random kapalıysa buradan)
 
-    private Camera mainCamera;
+    private Camera mainCamera;public int CampaignSpawned{get;private set;}public int CampaignBudget{get;private set;}public float campaignSeaLeft=-30;bool campaignWave;
+    public void BeginCampaignWave(GameObject[] prefabs,int budget){StopAllCoroutines();mainCamera=Camera.main;SetSelectedEnemies(prefabs);CampaignSpawned=0;CampaignBudget=budget;campaignWave=true;StartCoroutine(SpawnRoutine());}
+    public void StopCampaignWave(){campaignWave=false;StopAllCoroutines();}
+
 
     void Start()
     {
@@ -34,6 +37,7 @@ public class EnemySpawner : MonoBehaviour
             playerCollider = playerTransform.GetComponent<Collider2D>();
         }
 
+        if(IntegratedCampaign.CampaignFlow.IsManagedShip)return;
         for (int i = 0; i < initialSpawnCount; i++)
         {
             SpawnEnemy();
@@ -49,7 +53,8 @@ public class EnemySpawner : MonoBehaviour
         {
             yield return new WaitForSeconds(spawnInterval);
 
-            for (int i = 0; i < enemiesPerWave; i++)
+            if(campaignWave&&CampaignSpawned>=CampaignBudget)yield break;
+            for (int i = 0; i < (campaignWave?1:enemiesPerWave); i++)
             {
                 SpawnEnemy();
             }
@@ -75,6 +80,8 @@ public class EnemySpawner : MonoBehaviour
     private void SpawnEnemy()
     {
         if (mainCamera == null) return;
+        if(IntegratedCampaign.CampaignFlow.IsManagedShip&&!campaignWave)return;
+        if(campaignWave&&CampaignSpawned>=CampaignBudget)return;
 
         // Tikin durumuna göre hangi havuzdan düşman seçeceğimize karar veriyoruz
         GameObject[] spawnPool = spawnRandom ? allEnemyPrefabs : selectedEnemyPrefabs;
@@ -93,8 +100,10 @@ public class EnemySpawner : MonoBehaviour
         Vector2 spawnDirection = new Vector2(Mathf.Cos(randomAngle * Mathf.Deg2Rad), Mathf.Sin(randomAngle * Mathf.Deg2Rad));
         Vector2 spawnPosition = cameraPos + (spawnDirection * spawnRadius);
 
+        if(campaignWave)spawnPosition.x=Mathf.Max(campaignSeaLeft,spawnPosition.x);
         GameObject spawnedObj = Instantiate(selectedEnemy, spawnPosition, Quaternion.identity);
 
+        if(campaignWave)CampaignSpawned++;
         // Sahne taraması (FindAnyObjectByType) yapmadan, doğan düşmana gemi referansını doğrudan aktar
         if (playerTransform != null)
         {

@@ -1,0 +1,806 @@
+fileFormatVersion: 2
+guid: 5b61e3eae032fe7438eefa2b85a57250
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8494965126565952559
+    second: "Kurumu\u015F Nehirli K\u0131y\u0131 K\xF6y\xFC_0"
+  - first:
+      213: 9222550785983376127
+    second: "Kurumu\u015F Nehirli K\u0131y\u0131 K\xF6y\xFC_1"
+  - first:
+      213: -958245111656938228
+    second: "Kurumu\u015F Nehirli K\u0131y\u0131 K\xF6y\xFC_2"
+  - first:
+      213: 2844610150504526689
+    second: "Kurumu\u015F Nehirli K\u0131y\u0131 K\xF6y\xFC_3"
+  - first:
+      213: -6354983466885260375
+    second: "Kurumu\u015F Nehirli K\u0131y\u0131 K\xF6y\xFC_4"
+  - first:
+      213: -2240098373586092153
+    second: "Kurumu\u015F Nehirli K\u0131y\u0131 K\xF6y\xFC_5"
+  - first:
+      213: -2692354459518267740
+    second: "Kurumu\u015F Nehirli K\u0131y\u0131 K\xF6y\xFC_6"
+  - first:
+      213: -118390051553751774
+    second: "Kurumu\u015F Nehirli K\u0131y\u0131 K\xF6y\xFC_7"
+  - first:
+      213: -4083399099228795957
+    second: "Kurumu\u015F Nehirli K\u0131y\u0131 K\xF6y\xFC_8"
+  - first:
+      213: -8641535764656052642
+    second: "Kurumu\u015F Nehirli K\u0131y\u0131 K\xF6y\xFC_9"
+  - first:
+      213: 6826592875733341479
+    second: "Kurumu\u015F Nehirli K\u0131y\u0131 K\xF6y\xFC_10"
+  - first:
+      213: 8341835799784536221
+    second: "Kurumu\u015F Nehirli K\u0131y\u0131 K\xF6y\xFC_11"
+  - first:
+      213: 1494532069704015645
+    second: "Kurumu\u015F Nehirli K\u0131y\u0131 K\xF6y\xFC_12"
+  - first:
+      213: 4408455800573082288
+    second: "Kurumu\u015F Nehirli K\u0131y\u0131 K\xF6y\xFC_13"
+  - first:
+      213: 6797285262127593939
+    second: "Kurumu\u015F Nehirli K\u0131y\u0131 K\xF6y\xFC_14"
+  - first:
+      213: -418256686753135903
+    second: "Kurumu\u015F Nehirli K\u0131y\u0131 K\xF6y\xFC_15"
+  - first:
+      213: 579973250754225212
+    second: "Kurumu\u015F Nehirli K\u0131y\u0131 K\xF6y\xFC_16"
+  - first:
+      213: -4624804743194558253
+    second: "Kurumu\u015F Nehirli K\u0131y\u0131 K\xF6y\xFC_17"
+  - first:
+      213: 2373002961944965525
+    second: "Kurumu\u015F Nehirli K\u0131y\u0131 K\xF6y\xFC_18"
+  - first:
+      213: 6291150104007136732
+    second: "Kurumu\u015F Nehirli K\u0131y\u0131 K\xF6y\xFC_19"
+  - first:
+      213: -8531111574348292456
+    second: "Kurumu\u015F Nehirli K\u0131y\u0131 K\xF6y\xFC_20"
+  - first:
+      213: -302653445232412323
+    second: "Kurumu\u015F Nehirli K\u0131y\u0131 K\xF6y\xFC_21"
+  - first:
+      213: 1877418872800713964
+    second: "Kurumu\u015F Nehirli K\u0131y\u0131 K\xF6y\xFC_22"
+  - first:
+      213: -4508554327524477279
+    second: "Kurumu\u015F Nehirli K\u0131y\u0131 K\xF6y\xFC_23"
+  - first:
+      213: -8650789044314582305
+    second: "Kurumu\u015F Nehirli K\u0131y\u0131 K\xF6y\xFC_24"
+  - first:
+      213: -214555868267897523
+    second: "Kurumu\u015F Nehirli K\u0131y\u0131 K\xF6y\xFC_25"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Kurumu\u015F Nehirli K\u0131y\u0131 K\xF6y\xFC_0"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1585
+        height: 992
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d384b3c932db1a80800000000000000
+      internalID: -8494965126565952559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Kurumu\u015F Nehirli K\u0131y\u0131 K\xF6y\xFC_1"
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 21
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffae981a3151dff70800000000000000
+      internalID: 9222550785983376127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Kurumu\u015F Nehirli K\u0131y\u0131 K\xF6y\xFC_2"
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 31
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c050fefd521a3b2f0800000000000000
+      internalID: -958245111656938228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Kurumu\u015F Nehirli K\u0131y\u0131 K\xF6y\xFC_3"
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 55
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 163fa494cd51a7720800000000000000
+      internalID: 2844610150504526689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Kurumu\u015F Nehirli K\u0131y\u0131 K\xF6y\xFC_4"
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 53
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9abd2def4309ec7a0800000000000000
+      internalID: -6354983466885260375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Kurumu\u015F Nehirli K\u0131y\u0131 K\xF6y\xFC_5"
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 49
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78f7874d56299e0e0800000000000000
+      internalID: -2240098373586092153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Kurumu\u015F Nehirli K\u0131y\u0131 K\xF6y\xFC_6"
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 49
+        width: 7
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ae89fe32e5d2aad0800000000000000
+      internalID: -2692354459518267740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Kurumu\u015F Nehirli K\u0131y\u0131 K\xF6y\xFC_7"
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 45
+        width: 35
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22dc23810e46b5ef0800000000000000
+      internalID: -118390051553751774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Kurumu\u015F Nehirli K\u0131y\u0131 K\xF6y\xFC_8"
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 31
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcb415e672ad457c0800000000000000
+      internalID: -4083399099228795957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Kurumu\u015F Nehirli K\u0131y\u0131 K\xF6y\xFC_9"
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 11
+        width: 70
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e56a7d1c109131880800000000000000
+      internalID: -8641535764656052642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Kurumu\u015F Nehirli K\u0131y\u0131 K\xF6y\xFC_10"
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 9
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7255c483d0eecbe50800000000000000
+      internalID: 6826592875733341479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Kurumu\u015F Nehirli K\u0131y\u0131 K\xF6y\xFC_11"
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 11
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d983bc4867724c370800000000000000
+      internalID: 8341835799784536221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Kurumu\u015F Nehirli K\u0131y\u0131 K\xF6y\xFC_12"
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 47
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1f1320cff4adb410800000000000000
+      internalID: 1494532069704015645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Kurumu\u015F Nehirli K\u0131y\u0131 K\xF6y\xFC_13"
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 17
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ba3b21913bfd2d30800000000000000
+      internalID: 4408455800573082288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Kurumu\u015F Nehirli K\u0131y\u0131 K\xF6y\xFC_14"
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 23
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d9fc1eaeeec45e50800000000000000
+      internalID: 6797285262127593939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Kurumu\u015F Nehirli K\u0131y\u0131 K\xF6y\xFC_15"
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 19
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e2c52962cd023af0800000000000000
+      internalID: -418256686753135903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Kurumu\u015F Nehirli K\u0131y\u0131 K\xF6y\xFC_16"
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 47
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c342f66499a7c0800800000000000000
+      internalID: 579973250754225212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Kurumu\u015F Nehirli K\u0131y\u0131 K\xF6y\xFC_17"
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 25
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d0c85ed69461dfb0800000000000000
+      internalID: -4624804743194558253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Kurumu\u015F Nehirli K\u0131y\u0131 K\xF6y\xFC_18"
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 39
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 591fda50f999ee020800000000000000
+      internalID: 2373002961944965525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Kurumu\u015F Nehirli K\u0131y\u0131 K\xF6y\xFC_19"
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 13
+        width: 33
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd5d10a00b7ae4750800000000000000
+      internalID: 6291150104007136732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Kurumu\u015F Nehirli K\u0131y\u0131 K\xF6y\xFC_20"
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 27
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89e1fbf09376b9980800000000000000
+      internalID: -8531111574348292456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Kurumu\u015F Nehirli K\u0131y\u0131 K\xF6y\xFC_21"
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 25
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d59bfda8b42cccbf0800000000000000
+      internalID: -302653445232412323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Kurumu\u015F Nehirli K\u0131y\u0131 K\xF6y\xFC_22"
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 15
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cec96ef848eed0a10800000000000000
+      internalID: 1877418872800713964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Kurumu\u015F Nehirli K\u0131y\u0131 K\xF6y\xFC_23"
+      rect:
+        serializedVersion: 2
+        x: 1259
+        y: 15
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a67a59f9b56e61c0800000000000000
+      internalID: -4508554327524477279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Kurumu\u015F Nehirli K\u0131y\u0131 K\xF6y\xFC_24"
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 42
+        width: 35
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd2d9c2b23932f780800000000000000
+      internalID: -8650789044314582305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Kurumu\u015F Nehirli K\u0131y\u0131 K\xF6y\xFC_25"
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 21
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4d9a67139eb50df0800000000000000
+      internalID: -214555868267897523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "Kurumu\u015F Nehirli K\u0131y\u0131 K\xF6y\xFC_0": -8494965126565952559
+      "Kurumu\u015F Nehirli K\u0131y\u0131 K\xF6y\xFC_1": 9222550785983376127
+      "Kurumu\u015F Nehirli K\u0131y\u0131 K\xF6y\xFC_10": 6826592875733341479
+      "Kurumu\u015F Nehirli K\u0131y\u0131 K\xF6y\xFC_11": 8341835799784536221
+      "Kurumu\u015F Nehirli K\u0131y\u0131 K\xF6y\xFC_12": 1494532069704015645
+      "Kurumu\u015F Nehirli K\u0131y\u0131 K\xF6y\xFC_13": 4408455800573082288
+      "Kurumu\u015F Nehirli K\u0131y\u0131 K\xF6y\xFC_14": 6797285262127593939
+      "Kurumu\u015F Nehirli K\u0131y\u0131 K\xF6y\xFC_15": -418256686753135903
+      "Kurumu\u015F Nehirli K\u0131y\u0131 K\xF6y\xFC_16": 579973250754225212
+      "Kurumu\u015F Nehirli K\u0131y\u0131 K\xF6y\xFC_17": -4624804743194558253
+      "Kurumu\u015F Nehirli K\u0131y\u0131 K\xF6y\xFC_18": 2373002961944965525
+      "Kurumu\u015F Nehirli K\u0131y\u0131 K\xF6y\xFC_19": 6291150104007136732
+      "Kurumu\u015F Nehirli K\u0131y\u0131 K\xF6y\xFC_2": -958245111656938228
+      "Kurumu\u015F Nehirli K\u0131y\u0131 K\xF6y\xFC_20": -8531111574348292456
+      "Kurumu\u015F Nehirli K\u0131y\u0131 K\xF6y\xFC_21": -302653445232412323
+      "Kurumu\u015F Nehirli K\u0131y\u0131 K\xF6y\xFC_22": 1877418872800713964
+      "Kurumu\u015F Nehirli K\u0131y\u0131 K\xF6y\xFC_23": -4508554327524477279
+      "Kurumu\u015F Nehirli K\u0131y\u0131 K\xF6y\xFC_24": -8650789044314582305
+      "Kurumu\u015F Nehirli K\u0131y\u0131 K\xF6y\xFC_25": -214555868267897523
+      "Kurumu\u015F Nehirli K\u0131y\u0131 K\xF6y\xFC_3": 2844610150504526689
+      "Kurumu\u015F Nehirli K\u0131y\u0131 K\xF6y\xFC_4": -6354983466885260375
+      "Kurumu\u015F Nehirli K\u0131y\u0131 K\xF6y\xFC_5": -2240098373586092153
+      "Kurumu\u015F Nehirli K\u0131y\u0131 K\xF6y\xFC_6": -2692354459518267740
+      "Kurumu\u015F Nehirli K\u0131y\u0131 K\xF6y\xFC_7": -118390051553751774
+      "Kurumu\u015F Nehirli K\u0131y\u0131 K\xF6y\xFC_8": -4083399099228795957
+      "Kurumu\u015F Nehirli K\u0131y\u0131 K\xF6y\xFC_9": -8641535764656052642
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -656,7 +656,7 @@ SpriteRenderer:
   m_GlobalIlluminationMeshLod: 0
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: -30
+  m_SortingOrder: -34
   m_MaskInteraction: 0
   m_Sprite: {fileID: 21300000, guid: 6705b49850051c44ca963931f00856fe, type: 3}
   m_Color: {r: 0.3, g: 0.65, b: 0.75, a: 0.5}
@@ -25844,7 +25844,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Abyss.Story.CannonHazards
   chapter: {fileID: 419674225}
-  audio: {fileID: 419674224}
+  audioSource: {fileID: 419674224}
   ballSprite: {fileID: 21300000, guid: f71aeb4a47a8c7848849582ee52836bf, type: 3}
   splashFrames:
   - {fileID: 21300000, guid: 8867cd272c318904f9e47f9e9f33e487, type: 3}

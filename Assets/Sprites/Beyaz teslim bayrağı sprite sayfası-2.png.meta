@@ -1,0 +1,260 @@
+fileFormatVersion: 2
+guid: cc19a6820a9e73b4d9e841cd53e9ed16
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1130529302912633794
+    second: "Beyaz teslim bayra\u011F\u0131 sprite sayfas\u0131-2_0"
+  - first:
+      213: -980439859047087365
+    second: "Beyaz teslim bayra\u011F\u0131 sprite sayfas\u0131-2_1"
+  - first:
+      213: 3355580807712603301
+    second: "Beyaz teslim bayra\u011F\u0131 sprite sayfas\u0131-2_2"
+  - first:
+      213: 7866603922406704476
+    second: "Beyaz teslim bayra\u011F\u0131 sprite sayfas\u0131-2_3"
+  - first:
+      213: -1541895833005184168
+    second: "Beyaz teslim bayra\u011F\u0131 sprite sayfas\u0131-2_4"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Beyaz teslim bayra\u011F\u0131 sprite sayfas\u0131-2_0"
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 39
+        width: 497
+        height: 671
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cb0744496270bf00800000000000000
+      internalID: 1130529302912633794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Beyaz teslim bayra\u011F\u0131 sprite sayfas\u0131-2_1"
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 547
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf24ddd8427c462f0800000000000000
+      internalID: -980439859047087365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Beyaz teslim bayra\u011F\u0131 sprite sayfas\u0131-2_2"
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 37
+        width: 483
+        height: 713
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5acf3da47fa619e20800000000000000
+      internalID: 3355580807712603301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Beyaz teslim bayra\u011F\u0131 sprite sayfas\u0131-2_3"
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 35
+        width: 447
+        height: 668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c550fbf969acb2d60800000000000000
+      internalID: 7866603922406704476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Beyaz teslim bayra\u011F\u0131 sprite sayfas\u0131-2_4"
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 93
+        width: 435
+        height: 615
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85b2211c8e51a9ae0800000000000000
+      internalID: -1541895833005184168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "Beyaz teslim bayra\u011F\u0131 sprite sayfas\u0131-2_0": 1130529302912633794
+      "Beyaz teslim bayra\u011F\u0131 sprite sayfas\u0131-2_1": -980439859047087365
+      "Beyaz teslim bayra\u011F\u0131 sprite sayfas\u0131-2_2": 3355580807712603301
+      "Beyaz teslim bayra\u011F\u0131 sprite sayfas\u0131-2_3": 7866603922406704476
+      "Beyaz teslim bayra\u011F\u0131 sprite sayfas\u0131-2_4": -1541895833005184168
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

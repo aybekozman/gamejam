@@ -134,6 +134,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d9d5255160e83fa4ea2f50eb1856409e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Enemy
+  stats: {fileID: 11400000, guid: 87270081e009de245858c198e815217c, type: 2}
+  lootPrefab: {fileID: 3742351204053944340, guid: e274f903f0e9a614eac3c0044b66a4b5, type: 3}
   maxHealth: 50
   moveSpeed: 3
   knockbackForce: 20

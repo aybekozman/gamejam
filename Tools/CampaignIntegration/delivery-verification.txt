@@ -1,0 +1,18 @@
+PASS native D movement unlocks after dialogue
+PASS HUD bound to native ship stats
+PASS HUD energy tracks actual ship energy
+PASS HUD pointer selects native energy rewards
+PASS native loot restores selected energy only
+PASS Space selects native XP rewards
+PASS native loot and HUD share upgrade XP
+PASS HUD health reacts to damage
+PASS native cruising fills tank inside collection area
+PASS E interaction starts delivery at harbor
+PASS same delivery cannot reward twice
+PASS delivery reward opens existing upgrade cards
+PASS delivery triggers day 2 underwater
+PASS owned upgrades survive scene changes
+PASS actual ship death retries same expedition with upgrades
+PASS retry resets tank
+PASS retry restores health
+PASS one flow after death and menu

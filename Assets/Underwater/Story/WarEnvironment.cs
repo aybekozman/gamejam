@@ -2,7 +2,7 @@ using System.Collections.Generic;
 using UnityEngine;
 namespace Abyss.Story {
 public class WarEnvironment:MonoBehaviour {
- public int Stage=>previewStage>=0?previewStage:(story.thirdChapter.Started?2:story.secondChapter.Started?1:0);
+ public int Stage=>IntegratedCampaign.CampaignFlow.Instance&&IntegratedCampaign.CampaignFlow.Instance.SessionStarted?IntegratedCampaign.CampaignFlow.Instance.Pollution:previewStage>=0?previewStage:(story.thirdChapter.Started?2:story.secondChapter.Started?1:0);
  public float canFrequencyMultiplier=3.5f;public int announcementWaste=10,journeyWaste=52;public float wasteInterval=1.3f;float nextCan;readonly List<GameObject> localDecor=new();
  public UnderwaterDayStory story;public Sprite[] waste,skeletons;public Sprite vessel;public Font pixelFont;
  [Range(-1,3)]public int previewStage=-1;public float transitionSpeed=.25f;public int maximumWaste=64,maximumCorpses=8;

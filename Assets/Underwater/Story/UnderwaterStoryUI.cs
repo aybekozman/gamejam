@@ -68,7 +68,7 @@ namespace Abyss.Story
         void Present()
         {
             if(!Active){panelRoot.SetActive(false);Blocking=false;if(pilot)pilot.ControlsLocked=false;var action=completed;completed=null;action?.Invoke();return;}
-            var line=lines.Peek();bool left=line.mayor;panel.sprite=left?leftPanel:rightPanel;portrait.sprite=line.portrait?line.portrait:(left?mayorPortrait:playerPortrait);
+            var line=lines.Peek();bool left=line.mayor;panel.sprite=left?leftPanel:rightPanel;portrait.sprite=line.portrait?line.portrait:(left?mayorPortrait:playerPortrait);portrait.enabled=portrait.sprite!=null;
             portraitRect.anchoredPosition=new Vector2(left?170:925,142);speakerRect.anchoredPosition=new Vector2(left?300:800,280);bodyRect.anchoredPosition=new Vector2(left?340:62,148);
             speaker.text=!string.IsNullOrEmpty(line.speakerName)?line.speakerName:(left?"Başkan":"Oyuncu");advance.text=InteractionKey+"  •  metni tamamla / devam et";body.text="";shown=0;autoDelay=travelDialogue?2.6f:1.6f;openedFrame=Time.frameCount;panelRoot.SetActive(true);
         }
@@ -78,7 +78,7 @@ namespace Abyss.Story
             if(!TextReady){shown=CurrentText.Length;body.text=CurrentText;return;}lines.Dequeue();Present();
         }
         public void Clear(){travelDialogue=false;continuePrompt=false;lines.Clear();completed=null;Blocking=false;if(pilot)pilot.ControlsLocked=false;if(panelRoot)panelRoot.SetActive(false);}
-        void Update(){if(Time.unscaledTime>thoughtUntil||Blocking)thought.text="";if(!Active)return;shown=Mathf.Min(CurrentText.Length,shown+lettersPerSecond*Time.deltaTime);body.text=CurrentText.Substring(0,Mathf.FloorToInt(shown));if(automatic&&TextReady&&(autoDelay-=Time.deltaTime)<=0){lines.Dequeue();Present();}}
+        void Update(){if(Time.unscaledTime>thoughtUntil||Blocking)thought.text="";if(!Active)return;shown=Mathf.Min(CurrentText.Length,shown+lettersPerSecond*Time.unscaledDeltaTime);body.text=CurrentText.Substring(0,Mathf.FloorToInt(shown));if(automatic&&TextReady&&(autoDelay-=Time.unscaledDeltaTime)<=0){lines.Dequeue();Present();}}
         public void SetObjective(string value){Objective=value;objective.text=value;objectiveRoot.SetActive(!string.IsNullOrEmpty(value));}
         public void SetHint(string value){hint.text=Active?"":value;}
         public void SetTarget(Vector3? world,string label)

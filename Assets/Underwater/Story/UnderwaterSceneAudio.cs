@@ -20,15 +20,15 @@ namespace Abyss.Story
         void Update()
         {
             var chapter=GetComponent<UnderwaterThirdChapter>();if(distantCannon&&chapter&&chapter.hazards.Running&&!ui.Blocking&&Time.time>nextDistant&&!distant.isPlaying){nextDistant=Time.time+Random.Range(distantInterval.x,distantInterval.y);distant.clip=distantCannon;distant.volume=.13f;distant.Play();}if(chapter&&!chapter.hazards.Running)distant.Stop();
-            distant.volume=(ui&&ui.Blocking) ? .04f : .13f;
-            age+=Time.unscaledDeltaTime;float gain=ambienceVolume*Mathf.Clamp01(age)*((ui&&ui.Blocking) ? .65f : 1);
+            distant.volume=((ui&&ui.Blocking) ? .04f : .13f)*IntegratedCampaign.CampaignFlow.EffectsPreference;
+            age+=Time.unscaledDeltaTime;float gain=ambienceVolume*IntegratedCampaign.CampaignFlow.AmbiencePreference*Mathf.Clamp01(age)*((ui&&ui.Blocking) ? .65f : 1);
             if(ambience&&ambience.length>2)
             {
                 if(blend<0&&beds[current].time>=ambience.length-loopBlend){blend=0;beds[1-current].time=0;beds[1-current].Play();}
                 if(blend>=0){blend+=Time.unscaledDeltaTime;float t=Mathf.Clamp01(blend/loopBlend);beds[current].volume=gain*(1-t);beds[1-current].volume=gain*t;if(t>=1){beds[current].Stop();current=1-current;blend=-1;}}
                 else beds[current].volume=Mathf.MoveTowards(beds[current].volume,gain,Time.unscaledDeltaTime*.15f);
             }
-            if(bubbleAge>=0){bubbleAge+=Time.unscaledDeltaTime;bubbles.volume=bubbleVolume*Mathf.Min(Mathf.Clamp01(bubbleAge/.05f),Mathf.Clamp01((bubbleDuration-bubbleAge)/.12f));if(bubbleAge>=bubbleDuration){bubbles.Stop();bubbleAge=-1;}}
+            if(bubbleAge>=0){bubbleAge+=Time.unscaledDeltaTime;bubbles.volume=bubbleVolume*IntegratedCampaign.CampaignFlow.EffectsPreference*Mathf.Min(Mathf.Clamp01(bubbleAge/.05f),Mathf.Clamp01((bubbleDuration-bubbleAge)/.12f));if(bubbleAge>=bubbleDuration){bubbles.Stop();bubbleAge=-1;}}
         }
         void PlayBubble()
         {
@@ -38,7 +38,7 @@ namespace Abyss.Story
         public void PlayImpact(bool waterEntry)
         {
             var clip=waterEntry?splash:impact;if(!clip||Time.unscaledTime<nextEffect)return;
-            foreach(var source in fx)if(!source.isPlaying){source.clip=clip;source.volume=effectVolume;source.Play();nextEffect=Time.unscaledTime+.15f;return;}
+            foreach(var source in fx)if(!source.isPlaying){source.clip=clip;source.volume=effectVolume*IntegratedCampaign.CampaignFlow.EffectsPreference;source.Play();nextEffect=Time.unscaledTime+.15f;return;}
         }
     }
 }

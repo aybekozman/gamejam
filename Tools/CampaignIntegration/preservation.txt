@@ -1,0 +1,4 @@
+Original serialized objects missing: []
+Original ship scene transform pose changes: [('705489131', 'm_LocalScale')]
+The only original transform scale change is Ocean (705489131), configured for continuous camera coverage. All original gameplay object poses remain unchanged.
+UnderwaterWorld SHA256 equals the pre-task backup.

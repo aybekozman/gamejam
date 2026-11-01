@@ -1,0 +1,54 @@
+PASS one flow 1
+PASS New game starts underwater
+PASS clean progress day 1
+PASS first departure enters peaceful voyage
+PASS ship director bound
+PASS single flow listener input
+PASS all native enemy pools bound
+PASS flag initially hidden
+PASS no enemies at dock
+PASS opening dialogue present
+PASS controls unpause
+PASS retry retains expedition
+PASS real expedition delivery advances to Announcement
+PASS day 2 independent of battle wave
+PASS second chapter restored
+PASS announcement leads to small fish battle
+PASS ship director bound
+PASS single flow listener input
+PASS all native enemy pools bound
+PASS flag initially hidden
+PASS no enemies at dock
+PASS opening dialogue present
+PASS controls unpause
+PASS retry retains expedition
+PASS finite native enemy wave completes without endless spawning
+PASS real expedition delivery advances to SharkJourney
+PASS third chapter restored
+PASS shark battle
+PASS ship director bound
+PASS single flow listener input
+PASS all native enemy pools bound
+PASS flag initially hidden
+PASS no enemies at dock
+PASS opening dialogue present
+PASS controls unpause
+PASS retry retains expedition
+PASS finite native enemy wave completes without endless spawning
+PASS real expedition delivery advances to WhaleBattle
+PASS whale battle pollution
+PASS ship director bound
+PASS single flow listener input
+PASS all native enemy pools bound
+PASS flag initially hidden
+PASS no enemies at dock
+PASS opening dialogue present
+PASS controls unpause
+PASS retry retains expedition
+PASS finite native enemy wave completes without endless spawning
+PASS complete final dialogue reaches ending choices
+PASS final flag visible
+PASS return menu
+PASS restart resets progress
+PASS no runtime errors during adapter flow
+AUTOMATED ADAPTER FLOW COMPLETE. Story events invoked; not a full human gameplay test.

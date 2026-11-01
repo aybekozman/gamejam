@@ -5,6 +5,7 @@ using TMPro;
 public sealed class ShipHUDController : MonoBehaviour
 {
     public ShipController ship;
+    public ShipUIManager upgradeProgress;
     public PlayerHealth health;
     public PlayerEnergy energy;
     public PlayerExperience experience;
@@ -37,7 +38,7 @@ public sealed class ShipHUDController : MonoBehaviour
         if (experience) SetExperience(experience.CurrentXP,experience.RequiredXP,experience.PlayerLevel);
         if (hudFont) foreach (var text in GetComponentsInChildren<TMP_Text>(true))
             if(text.font!=hudFont) { text.font=hudFont; text.fontSharedMaterial=hudFont.material; }
-        RefreshMotion();
+        RefreshNativeProgress();RefreshMotion();
     }
     void SetHealth(float current,float maximum)
     {
@@ -58,6 +59,7 @@ public sealed class ShipHUDController : MonoBehaviour
     }
     void LateUpdate()
     {
+        RefreshNativeProgress();
         RefreshMotion();
         if (safeArea && (Screen.width!=previousWidth || Screen.height!=previousHeight || Screen.safeArea!=previousSafeArea))
         {
@@ -66,6 +68,14 @@ public sealed class ShipHUDController : MonoBehaviour
             safeArea.anchorMax = (previousSafeArea.position+previousSafeArea.size)/new Vector2(Screen.width,Screen.height);
             safeArea.offsetMin=safeArea.offsetMax=Vector2.zero;
         }
+    }
+    void RefreshNativeProgress()
+    {
+        if(!upgradeProgress || !ship)return;
+        SetEnergy(ship.currentEnergy,ship.maxEnergy);
+        xpFill.fillAmount=upgradeProgress.nextLevelXP>0?Mathf.Clamp01(upgradeProgress.currentXP/upgradeProgress.nextLevelXP):0;
+        xpText.SetText("{0:0} / {1:0}",upgradeProgress.currentXP,upgradeProgress.nextLevelXP);
+        levelText.SetText("{0}",upgradeProgress.currentLevel);
     }
     void RefreshMotion()
     {

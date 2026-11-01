@@ -408,6 +408,7 @@ public class ShipUIManager : MonoBehaviour
         UpgradeData chosenUpgrade = currentOfferedUpgrades[cardIndex];
         if (chosenUpgrade != null)
         {
+            if(IntegratedCampaign.CampaignFlow.IsManagedShip)IntegratedCampaign.CampaignFlow.Instance.RecordUpgrade(chosenUpgrade);
             ApplyUpgrade(chosenUpgrade);
         }
 
@@ -425,6 +426,8 @@ public class ShipUIManager : MonoBehaviour
     }
 
     // --- 20 ÖZELLİĞİN GEMİYE UYGULANMASI ---
+    public void ApplyCampaignUpgrade(UpgradeData upgrade){ApplyUpgrade(upgrade);}
+    public void RestoreCampaignProgress(int level,float xp){currentLevel=level;currentXP=xp;CalculateNextLevelXP();UpdateXPBarUI();}
     private void ApplyUpgrade(UpgradeData upgrade)
     {
         CacheShipComponentsFromTransform();

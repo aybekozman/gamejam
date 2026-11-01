@@ -14,6 +14,7 @@ public class PlayerHealth : MonoBehaviour, IDamageable
 
     public float CurrentHealth => currentHealth;
     public float MaxHealth => Mathf.Max(1f, maxHealth);
+    public bool CampaignProtected;
     public bool IsDead => currentHealth <= 0f;
     public event System.Action<float, float> HealthChanged;
 
@@ -103,7 +104,7 @@ public class PlayerHealth : MonoBehaviour, IDamageable
 
     public void TakeDamage(float damageAmount)
     {
-        if (IsInvulnerable || IsDead || damageAmount <= 0f) return;
+        if (CampaignProtected || IsInvulnerable || IsDead || damageAmount <= 0f) return;
 
         // Hasar direnci (damageResistPercent) oranında gelen hasarı düşür
         float resistMultiplier = 1f - (Mathf.Clamp(damageResistPercent, 0f, 80f) / 100f);
@@ -117,6 +118,7 @@ public class PlayerHealth : MonoBehaviour, IDamageable
 
         if (currentHealth <= 0f)
         {
+            if(IntegratedCampaign.CampaignFlow.IsManagedShip){IntegratedCampaign.CampaignFlow.Instance.RetryShip();return;}
             Debug.Log("Oyun Bitti! Gemi Parçalandı.");
             Time.timeScale = 0f;
             if (TryGetComponent(out ShipController shipController)) shipController.enabled = false;

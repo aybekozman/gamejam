@@ -45,8 +45,8 @@ namespace Abyss.Story
             if(eventFish.gameObject.activeInHierarchy)Physics2D.IgnoreCollision(eventFish.GetComponent<Collider2D>(),mayor.GetComponent<Collider2D>());
             ResetStory();
 #if UNITY_EDITOR
-            if(thirdChapter&&thirdChapter.startHereInEditor)thirdChapter.BeginThirdChapter();
-            else if(secondChapter&&secondChapter.startHereInEditor)secondChapter.BeginSecondChapter();
+            if(!(IntegratedCampaign.CampaignFlow.Instance&&IntegratedCampaign.CampaignFlow.Instance.SessionStarted)&&thirdChapter&&thirdChapter.startHereInEditor)thirdChapter.BeginThirdChapter();
+            else if(!(IntegratedCampaign.CampaignFlow.Instance&&IntegratedCampaign.CampaignFlow.Instance.SessionStarted)&&secondChapter&&secondChapter.startHereInEditor)secondChapter.BeginSecondChapter();
 #endif
         }
         void OnDestroy(){if(player)player.ControlsLocked=false;if(runtimeInput){runtimeInput.Disable();Destroy(runtimeInput);}}
