@@ -1,0 +1,552 @@
+fileFormatVersion: 2
+guid: 35adee4eefd70784a8a3f4d9fc1bc199
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2943198275087934403
+    second: Seffaf_alt_kareli_piksel_balina_0
+  - first:
+      213: 2934549518933907930
+    second: Seffaf_alt_kareli_piksel_balina_1
+  - first:
+      213: 1312372555255338480
+    second: Seffaf_alt_kareli_piksel_balina_2
+  - first:
+      213: -7697563244637679869
+    second: Seffaf_alt_kareli_piksel_balina_3
+  - first:
+      213: 6053433259555176389
+    second: Seffaf_alt_kareli_piksel_balina_4
+  - first:
+      213: -1805567595252342753
+    second: Seffaf_alt_kareli_piksel_balina_5
+  - first:
+      213: 4812881737267393025
+    second: Seffaf_alt_kareli_piksel_balina_6
+  - first:
+      213: 7486280373118135176
+    second: Seffaf_alt_kareli_piksel_balina_7
+  - first:
+      213: -8371292345235400795
+    second: Seffaf_alt_kareli_piksel_balina_8
+  - first:
+      213: 369674207805870754
+    second: Seffaf_alt_kareli_piksel_balina_9
+  - first:
+      213: -3383004916915740922
+    second: Seffaf_alt_kareli_piksel_balina_10
+  - first:
+      213: -3994152994415281142
+    second: Seffaf_alt_kareli_piksel_balina_11
+  - first:
+      213: -6170989970716016504
+    second: Seffaf_alt_kareli_piksel_balina_12
+  - first:
+      213: 2278640647957265456
+    second: Seffaf_alt_kareli_piksel_balina_13
+  - first:
+      213: -6787909487072340171
+    second: Seffaf_alt_kareli_piksel_balina_14
+  - first:
+      213: 2669686983743434509
+    second: Seffaf_alt_kareli_piksel_balina_15
+  - first:
+      213: -3890027048676770069
+    second: Seffaf_alt_kareli_piksel_balina_16
+  - first:
+      213: -7738160682433798489
+    second: Seffaf_alt_kareli_piksel_balina_17
+  - first:
+      213: 456888018385412906
+    second: Seffaf_alt_kareli_piksel_balina_18
+  - first:
+      213: -328785177199915176
+    second: Seffaf_alt_kareli_piksel_balina_19
+  - first:
+      213: -7299141277714071369
+    second: Seffaf_alt_kareli_piksel_balina_20
+  - first:
+      213: 4270091878719084765
+    second: Seffaf_alt_kareli_piksel_balina_21
+  - first:
+      213: -4779572165077308393
+    second: Seffaf_alt_kareli_piksel_balina_22
+  - first:
+      213: 5262777369131939448
+    second: Seffaf_alt_kareli_piksel_balina_23
+  - first:
+      213: 5504499129035848990
+    second: Seffaf_alt_kareli_piksel_balina_24
+  - first:
+      213: 4569552389326209194
+    second: Seffaf_alt_kareli_piksel_balina_25
+  - first:
+      213: -3119817636164058274
+    second: Seffaf_alt_kareli_piksel_balina_26
+  - first:
+      213: 994497541066713586
+    second: Seffaf_alt_kareli_piksel_balina_27
+  - first:
+      213: -9078881855526924807
+    second: Seffaf_alt_kareli_piksel_balina_28
+  - first:
+      213: 2754559571043215005
+    second: Seffaf_alt_kareli_piksel_balina_29
+  - first:
+      213: -3445172289620595958
+    second: Seffaf_alt_kareli_piksel_balina_30
+  - first:
+      213: 5174001347444134057
+    second: Seffaf_alt_kareli_piksel_balina_31
+  - first:
+      213: -4867292102586101201
+    second: Seffaf_alt_kareli_piksel_balina_32
+  - first:
+      213: 6048476603378779072
+    second: Seffaf_alt_kareli_piksel_balina_33
+  - first:
+      213: -2688562210044596964
+    second: Seffaf_alt_kareli_piksel_balina_34
+  - first:
+      213: -610336138171317081
+    second: Seffaf_alt_kareli_piksel_balina_35
+  - first:
+      213: -45845290073828545
+    second: Seffaf_alt_kareli_piksel_balina_36
+  - first:
+      213: -6577925952005280151
+    second: Seffaf_alt_kareli_piksel_balina_37
+  - first:
+      213: 2988969395449356819
+    second: Seffaf_alt_kareli_piksel_balina_38
+  - first:
+      213: -8656193438038119682
+    second: Seffaf_alt_kareli_piksel_balina_39
+  - first:
+      213: 2163946096169395414
+    second: Seffaf_alt_kareli_piksel_balina_40
+  - first:
+      213: 6928539090169002715
+    second: Seffaf_alt_kareli_piksel_balina_41
+  - first:
+      213: 691700589216443905
+    second: Seffaf_alt_kareli_piksel_balina_42
+  - first:
+      213: -7480184012194559782
+    second: Seffaf_alt_kareli_piksel_balina_43
+  - first:
+      213: 4165778855614795058
+    second: Seffaf_alt_kareli_piksel_balina_44
+  - first:
+      213: -4670240263598120879
+    second: Seffaf_alt_kareli_piksel_balina_45
+  - first:
+      213: 64459316522871619
+    second: Seffaf_alt_kareli_piksel_balina_46
+  - first:
+      213: 2618004444541248988
+    second: Seffaf_alt_kareli_piksel_balina_47
+  - first:
+      213: -9133561550762636426
+    second: Seffaf_alt_kareli_piksel_balina_48
+  - first:
+      213: -5389859258774870606
+    second: Seffaf_alt_kareli_piksel_balina_49
+  - first:
+      213: -4909166037629560917
+    second: Seffaf_alt_kareli_piksel_balina_50
+  - first:
+      213: 5990001559246558198
+    second: Seffaf_alt_kareli_piksel_balina_51
+  - first:
+      213: 1778489438320325129
+    second: Seffaf_alt_kareli_piksel_balina_52
+  - first:
+      213: -3775017092288498476
+    second: Seffaf_alt_kareli_piksel_balina_53
+  - first:
+      213: -6941540317634031254
+    second: Seffaf_alt_kareli_piksel_balina_54
+  - first:
+      213: -1133229335691050299
+    second: Seffaf_alt_kareli_piksel_balina_55
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 192
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Seffaf_alt_kareli_piksel_balina_0
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 557
+        width: 482
+        height: 452
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3c57d533c8a727d0800000000000000
+      internalID: -2943198275087934403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seffaf_alt_kareli_piksel_balina_2
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 553
+        width: 489
+        height: 458
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f557f0c2eb763210800000000000000
+      internalID: 1312372555255338480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seffaf_alt_kareli_piksel_balina_4
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 536
+        width: 506
+        height: 473
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cf32532a7d120450800000000000000
+      internalID: 6053433259555176389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seffaf_alt_kareli_piksel_balina_5
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 927
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f102703a6d551f6e0800000000000000
+      internalID: -1805567595252342753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seffaf_alt_kareli_piksel_balina_6
+      rect:
+        serializedVersion: 2
+        x: 1510
+        y: 927
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 102b9c7b07acac240800000000000000
+      internalID: 4812881737267393025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seffaf_alt_kareli_piksel_balina_7
+      rect:
+        serializedVersion: 2
+        x: 1496
+        y: 879
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88b6fa8d55c94e760800000000000000
+      internalID: 7486280373118135176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seffaf_alt_kareli_piksel_balina_10
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 853
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60f56d5b3f62d01d0800000000000000
+      internalID: -3383004916915740922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seffaf_alt_kareli_piksel_balina_15
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 0
+        width: 483
+        height: 544
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0fe287ca22ac0520800000000000000
+      internalID: 2669686983743434509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seffaf_alt_kareli_piksel_balina_17
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 0
+        width: 531
+        height: 534
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ae93ac9bd78c9490800000000000000
+      internalID: -7738160682433798489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: cd00d74983abf344982f5234639f5a26
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Seffaf_alt_kareli_piksel_balina_0: -2943198275087934403
+      Seffaf_alt_kareli_piksel_balina_1: 2934549518933907930
+      Seffaf_alt_kareli_piksel_balina_10: -3383004916915740922
+      Seffaf_alt_kareli_piksel_balina_11: -3994152994415281142
+      Seffaf_alt_kareli_piksel_balina_12: -6170989970716016504
+      Seffaf_alt_kareli_piksel_balina_13: 2278640647957265456
+      Seffaf_alt_kareli_piksel_balina_14: -6787909487072340171
+      Seffaf_alt_kareli_piksel_balina_15: 2669686983743434509
+      Seffaf_alt_kareli_piksel_balina_16: -3890027048676770069
+      Seffaf_alt_kareli_piksel_balina_17: -7738160682433798489
+      Seffaf_alt_kareli_piksel_balina_18: 456888018385412906
+      Seffaf_alt_kareli_piksel_balina_19: -328785177199915176
+      Seffaf_alt_kareli_piksel_balina_2: 1312372555255338480
+      Seffaf_alt_kareli_piksel_balina_20: -7299141277714071369
+      Seffaf_alt_kareli_piksel_balina_21: 4270091878719084765
+      Seffaf_alt_kareli_piksel_balina_22: -4779572165077308393
+      Seffaf_alt_kareli_piksel_balina_23: 5262777369131939448
+      Seffaf_alt_kareli_piksel_balina_24: 5504499129035848990
+      Seffaf_alt_kareli_piksel_balina_25: 4569552389326209194
+      Seffaf_alt_kareli_piksel_balina_26: -3119817636164058274
+      Seffaf_alt_kareli_piksel_balina_27: 994497541066713586
+      Seffaf_alt_kareli_piksel_balina_28: -9078881855526924807
+      Seffaf_alt_kareli_piksel_balina_29: 2754559571043215005
+      Seffaf_alt_kareli_piksel_balina_3: -7697563244637679869
+      Seffaf_alt_kareli_piksel_balina_30: -3445172289620595958
+      Seffaf_alt_kareli_piksel_balina_31: 5174001347444134057
+      Seffaf_alt_kareli_piksel_balina_32: -4867292102586101201
+      Seffaf_alt_kareli_piksel_balina_33: 6048476603378779072
+      Seffaf_alt_kareli_piksel_balina_34: -2688562210044596964
+      Seffaf_alt_kareli_piksel_balina_35: -610336138171317081
+      Seffaf_alt_kareli_piksel_balina_36: -45845290073828545
+      Seffaf_alt_kareli_piksel_balina_37: -6577925952005280151
+      Seffaf_alt_kareli_piksel_balina_38: 2988969395449356819
+      Seffaf_alt_kareli_piksel_balina_39: -8656193438038119682
+      Seffaf_alt_kareli_piksel_balina_4: 6053433259555176389
+      Seffaf_alt_kareli_piksel_balina_40: 2163946096169395414
+      Seffaf_alt_kareli_piksel_balina_41: 6928539090169002715
+      Seffaf_alt_kareli_piksel_balina_42: 691700589216443905
+      Seffaf_alt_kareli_piksel_balina_43: -7480184012194559782
+      Seffaf_alt_kareli_piksel_balina_44: 4165778855614795058
+      Seffaf_alt_kareli_piksel_balina_45: -4670240263598120879
+      Seffaf_alt_kareli_piksel_balina_46: 64459316522871619
+      Seffaf_alt_kareli_piksel_balina_47: 2618004444541248988
+      Seffaf_alt_kareli_piksel_balina_48: -9133561550762636426
+      Seffaf_alt_kareli_piksel_balina_49: -5389859258774870606
+      Seffaf_alt_kareli_piksel_balina_5: -1805567595252342753
+      Seffaf_alt_kareli_piksel_balina_50: -4909166037629560917
+      Seffaf_alt_kareli_piksel_balina_51: 5990001559246558198
+      Seffaf_alt_kareli_piksel_balina_52: 1778489438320325129
+      Seffaf_alt_kareli_piksel_balina_53: -3775017092288498476
+      Seffaf_alt_kareli_piksel_balina_54: -6941540317634031254
+      Seffaf_alt_kareli_piksel_balina_55: -1133229335691050299
+      Seffaf_alt_kareli_piksel_balina_6: 4812881737267393025
+      Seffaf_alt_kareli_piksel_balina_7: 7486280373118135176
+      Seffaf_alt_kareli_piksel_balina_8: -8371292345235400795
+      Seffaf_alt_kareli_piksel_balina_9: 369674207805870754
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

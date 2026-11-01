@@ -1,0 +1,635 @@
+fileFormatVersion: 2
+guid: a805eec6a933a3d4d9a97da3e61b57ca
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6780001011156904532
+    second: Kanon_namlu_parlamas_piksel_animasyonu-3_0
+  - first:
+      213: -445434935765643446
+    second: Kanon_namlu_parlamas_piksel_animasyonu-3_1
+  - first:
+      213: 3486404705859265426
+    second: Kanon_namlu_parlamas_piksel_animasyonu-3_2
+  - first:
+      213: 5002135362400705728
+    second: Kanon_namlu_parlamas_piksel_animasyonu-3_3
+  - first:
+      213: -1604994644868705412
+    second: Kanon_namlu_parlamas_piksel_animasyonu-3_4
+  - first:
+      213: -9142758507768442864
+    second: Kanon_namlu_parlamas_piksel_animasyonu-3_5
+  - first:
+      213: -590143136447374763
+    second: Kanon_namlu_parlamas_piksel_animasyonu-3_6
+  - first:
+      213: 8386226853423646679
+    second: Kanon_namlu_parlamas_piksel_animasyonu-3_7
+  - first:
+      213: 4740906413609635387
+    second: Kanon_namlu_parlamas_piksel_animasyonu-3_8
+  - first:
+      213: 2089346744898455033
+    second: Kanon_namlu_parlamas_piksel_animasyonu-3_9
+  - first:
+      213: -8490479422475316563
+    second: Kanon_namlu_parlamas_piksel_animasyonu-3_10
+  - first:
+      213: -8539292538783793835
+    second: Kanon_namlu_parlamas_piksel_animasyonu-3_11
+  - first:
+      213: -1181000571540277118
+    second: Kanon_namlu_parlamas_piksel_animasyonu-3_12
+  - first:
+      213: 4040787454134686880
+    second: Kanon_namlu_parlamas_piksel_animasyonu-3_13
+  - first:
+      213: -3435549312445021903
+    second: Kanon_namlu_parlamas_piksel_animasyonu-3_14
+  - first:
+      213: 46795139211496822
+    second: Kanon_namlu_parlamas_piksel_animasyonu-3_15
+  - first:
+      213: 6246658235465530910
+    second: Kanon_namlu_parlamas_piksel_animasyonu-3_16
+  - first:
+      213: -5802504431674585025
+    second: Kanon_namlu_parlamas_piksel_animasyonu-3_17
+  - first:
+      213: 8905714111232072516
+    second: Kanon_namlu_parlamas_piksel_animasyonu-3_18
+  - first:
+      213: 3321324436534566644
+    second: Kanon_namlu_parlamas_piksel_animasyonu-3_19
+  - first:
+      213: 8134916994349659626
+    second: Kanon_namlu_parlamas_piksel_animasyonu-3_20
+  - first:
+      213: -387466612918092778
+    second: Kanon_namlu_parlamas_piksel_animasyonu-3_21
+  - first:
+      213: -5042969163392720507
+    second: Kanon_namlu_parlamas_piksel_animasyonu-3_22
+  - first:
+      213: -7290083534947940074
+    second: Kanon_namlu_parlamas_piksel_animasyonu-3_23
+  - first:
+      213: -507179705416428280
+    second: Kanon_namlu_parlamas_piksel_animasyonu-3_24
+  - first:
+      213: -3875066640754929177
+    second: Kanon_namlu_parlamas_piksel_animasyonu-3_25
+  - first:
+      213: -200837282116957079
+    second: Kanon_namlu_parlamas_piksel_animasyonu-3_26
+  - first:
+      213: -6998573959808297727
+    second: Kanon_namlu_parlamas_piksel_animasyonu-3_27
+  - first:
+      213: -3242654870154446303
+    second: Kanon_namlu_parlamas_piksel_animasyonu-3_28
+  - first:
+      213: 451937258970608611
+    second: Kanon_namlu_parlamas_piksel_animasyonu-3_29
+  - first:
+      213: 486576040213916145
+    second: Kanon_namlu_parlamas_piksel_animasyonu-3_30
+  - first:
+      213: -7241858157039866776
+    second: Kanon_namlu_parlamas_piksel_animasyonu-3_31
+  - first:
+      213: 7828244800907166983
+    second: Kanon_namlu_parlamas_piksel_animasyonu-3_32
+  - first:
+      213: 3645705684181704680
+    second: Kanon_namlu_parlamas_piksel_animasyonu-3_33
+  - first:
+      213: 6440029177864180630
+    second: Kanon_namlu_parlamas_piksel_animasyonu-3_34
+  - first:
+      213: -2908004755812837856
+    second: Kanon_namlu_parlamas_piksel_animasyonu-3_35
+  - first:
+      213: 771225851604563079
+    second: Kanon_namlu_parlamas_piksel_animasyonu-3_36
+  - first:
+      213: 2279725211373363828
+    second: Kanon_namlu_parlamas_piksel_animasyonu-3_37
+  - first:
+      213: -4173491531827745318
+    second: Kanon_namlu_parlamas_piksel_animasyonu-3_38
+  - first:
+      213: 2666569409516781339
+    second: Kanon_namlu_parlamas_piksel_animasyonu-3_39
+  - first:
+      213: -5826171771624169051
+    second: Kanon_namlu_parlamas_piksel_animasyonu-3_40
+  - first:
+      213: -4372152221442932908
+    second: Kanon_namlu_parlamas_piksel_animasyonu-3_41
+  - first:
+      213: 956404952497862805
+    second: Kanon_namlu_parlamas_piksel_animasyonu-3_42
+  - first:
+      213: -4491513417164805358
+    second: Kanon_namlu_parlamas_piksel_animasyonu-3_43
+  - first:
+      213: -6665832653231554060
+    second: Kanon_namlu_parlamas_piksel_animasyonu-3_44
+  - first:
+      213: 6512089781453230478
+    second: Kanon_namlu_parlamas_piksel_animasyonu-3_45
+  - first:
+      213: 7585424614484304206
+    second: Kanon_namlu_parlamas_piksel_animasyonu-3_46
+  - first:
+      213: -8394523714523334467
+    second: Kanon_namlu_parlamas_piksel_animasyonu-3_47
+  - first:
+      213: -5726601527609165637
+    second: Kanon_namlu_parlamas_piksel_animasyonu-3_48
+  - first:
+      213: -4155273755267812384
+    second: Kanon_namlu_parlamas_piksel_animasyonu-3_49
+  - first:
+      213: 251792894094856351
+    second: Kanon_namlu_parlamas_piksel_animasyonu-3_50
+  - first:
+      213: 4841766360072949209
+    second: Kanon_namlu_parlamas_piksel_animasyonu-3_51
+  - first:
+      213: 5500319656236363068
+    second: Kanon_namlu_parlamas_piksel_animasyonu-3_52
+  - first:
+      213: -6684126215376303577
+    second: Kanon_namlu_parlamas_piksel_animasyonu-3_53
+  - first:
+      213: 2405286566969018655
+    second: Kanon_namlu_parlamas_piksel_animasyonu-3_54
+  - first:
+      213: -3667542011244074729
+    second: Kanon_namlu_parlamas_piksel_animasyonu-3_55
+  - first:
+      213: -861253605512160599
+    second: Kanon_namlu_parlamas_piksel_animasyonu-3_56
+  - first:
+      213: -7545365177720589422
+    second: Kanon_namlu_parlamas_piksel_animasyonu-3_57
+  - first:
+      213: 3696213526365166751
+    second: Kanon_namlu_parlamas_piksel_animasyonu-3_58
+  - first:
+      213: 2251429903972304802
+    second: Kanon_namlu_parlamas_piksel_animasyonu-3_59
+  - first:
+      213: -351403786534495162
+    second: Kanon_namlu_parlamas_piksel_animasyonu-3_60
+  - first:
+      213: -7163819167655913370
+    second: Kanon_namlu_parlamas_piksel_animasyonu-3_61
+  - first:
+      213: -8006911256509547486
+    second: Kanon_namlu_parlamas_piksel_animasyonu-3_62
+  - first:
+      213: -1200519686569529452
+    second: Kanon_namlu_parlamas_piksel_animasyonu-3_63
+  - first:
+      213: -5727544772349177999
+    second: Kanon_namlu_parlamas_piksel_animasyonu-3_64
+  - first:
+      213: 1526603609377399493
+    second: Kanon_namlu_parlamas_piksel_animasyonu-3_65
+  - first:
+      213: 521648112566603668
+    second: Kanon_namlu_parlamas_piksel_animasyonu-3_66
+  - first:
+      213: -4798892408016587783
+    second: Kanon_namlu_parlamas_piksel_animasyonu-3_67
+  - first:
+      213: 1019553343687129675
+    second: Kanon_namlu_parlamas_piksel_animasyonu-3_68
+  - first:
+      213: -2588248650622867597
+    second: Kanon_namlu_parlamas_piksel_animasyonu-3_69
+  - first:
+      213: -5592660715129913384
+    second: Kanon_namlu_parlamas_piksel_animasyonu-3_70
+  - first:
+      213: -3784029105241787421
+    second: Kanon_namlu_parlamas_piksel_animasyonu-3_71
+  - first:
+      213: 7980091003078680317
+    second: Kanon_namlu_parlamas_piksel_animasyonu-3_72
+  - first:
+      213: 8932859476743493120
+    second: Kanon_namlu_parlamas_piksel_animasyonu-3_73
+  - first:
+      213: 1200459327254538935
+    second: Kanon_namlu_parlamas_piksel_animasyonu-3_74
+  - first:
+      213: -6801377603888973790
+    second: Kanon_namlu_parlamas_piksel_animasyonu-3_75
+  - first:
+      213: -1411576405895392037
+    second: Kanon_namlu_parlamas_piksel_animasyonu-3_76
+  - first:
+      213: 4214364285581329032
+    second: Kanon_namlu_parlamas_piksel_animasyonu-3_77
+  - first:
+      213: -2574217326973373181
+    second: Kanon_namlu_parlamas_piksel_animasyonu-3_78
+  - first:
+      213: -7900972981962620817
+    second: Kanon_namlu_parlamas_piksel_animasyonu-3_79
+  - first:
+      213: 6234364439016827624
+    second: Kanon_namlu_parlamas_piksel_animasyonu-3_80
+  - first:
+      213: 8135658564730457249
+    second: Kanon_namlu_parlamas_piksel_animasyonu-3_81
+  - first:
+      213: -7592230434689947523
+    second: Kanon_namlu_parlamas_piksel_animasyonu-3_82
+  - first:
+      213: -3629373228203020555
+    second: Kanon_namlu_parlamas_piksel_animasyonu-3_83
+  - first:
+      213: -7167137951514882382
+    second: Kanon_namlu_parlamas_piksel_animasyonu-3_84
+  - first:
+      213: 8201632024255415875
+    second: Kanon_namlu_parlamas_piksel_animasyonu-3_85
+  - first:
+      213: 4435790644562223653
+    second: Kanon_namlu_parlamas_piksel_animasyonu-3_86
+  - first:
+      213: -8279887388022593095
+    second: Kanon_namlu_parlamas_piksel_animasyonu-3_87
+  - first:
+      213: -2373474835663885308
+    second: Kanon_namlu_parlamas_piksel_animasyonu-3_88
+  - first:
+      213: 4698418004699427748
+    second: Kanon_namlu_parlamas_piksel_animasyonu-3_89
+  - first:
+      213: 2410733650149658483
+    second: Kanon_namlu_parlamas_piksel_animasyonu-3_90
+  - first:
+      213: -6186937691588878454
+    second: Kanon_namlu_parlamas_piksel_animasyonu-3_91
+  - first:
+      213: 8783737057099248904
+    second: Kanon_namlu_parlamas_piksel_animasyonu-3_92
+  - first:
+      213: -8613070469571743104
+    second: Kanon_namlu_parlamas_piksel_animasyonu-3_93
+  - first:
+      213: 6930433832181736456
+    second: Kanon_namlu_parlamas_piksel_animasyonu-3_94
+  - first:
+      213: 6266411105239707355
+    second: Kanon_namlu_parlamas_piksel_animasyonu-3_95
+  - first:
+      213: 859163912040821696
+    second: Kanon_namlu_parlamas_piksel_animasyonu-3_96
+  - first:
+      213: -8803331799180876719
+    second: Kanon_namlu_parlamas_piksel_animasyonu-3_97
+  - first:
+      213: -4694170292219121462
+    second: Kanon_namlu_parlamas_piksel_animasyonu-3_98
+  - first:
+      213: 1252155774851109351
+    second: Kanon_namlu_parlamas_piksel_animasyonu-3_99
+  - first:
+      213: 1893672004712528777
+    second: Kanon_namlu_parlamas_piksel_animasyonu-3_100
+  - first:
+      213: 4444388485631518545
+    second: Kanon_namlu_parlamas_piksel_animasyonu-3_101
+  - first:
+      213: -4838901432692607714
+    second: Kanon_namlu_parlamas_piksel_animasyonu-3_102
+  - first:
+      213: -401068209900872253
+    second: Kanon_namlu_parlamas_piksel_animasyonu-3_103
+  - first:
+      213: 4673563588217700311
+    second: Kanon_namlu_parlamas_piksel_animasyonu-3_104
+  - first:
+      213: 9203459057205738876
+    second: Kanon_namlu_parlamas_piksel_animasyonu-3_105
+  - first:
+      213: -7123749875753221308
+    second: Kanon_namlu_parlamas_piksel_animasyonu-3_106
+  - first:
+      213: -2720509820597084324
+    second: Kanon_namlu_parlamas_piksel_animasyonu-3_107
+  - first:
+      213: 3718567804746532522
+    second: Kanon_namlu_parlamas_piksel_animasyonu-3_108
+  - first:
+      213: -1318460053657793336
+    second: Kanon_namlu_parlamas_piksel_animasyonu-3_109
+  - first:
+      213: 6529412279376617408
+    second: Kanon_namlu_parlamas_piksel_animasyonu-3_110
+  - first:
+      213: 1551679328354096099
+    second: Kanon_namlu_parlamas_piksel_animasyonu-3_111
+  - first:
+      213: 8510479729999150764
+    second: Kanon_namlu_parlamas_piksel_animasyonu-3_112
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Kanon_namlu_parlamas_piksel_animasyonu-3_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca51439900998e1a0800000000000000
+      internalID: -6780001011156904532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kanon_namlu_parlamas_piksel_animasyonu-3_1
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4fc323394f71d9f0800000000000000
+      internalID: -445434935765643446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kanon_namlu_parlamas_piksel_animasyonu-3_2
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 293edf3bb92326030800000000000000
+      internalID: 3486404705859265426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kanon_namlu_parlamas_piksel_animasyonu-3_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cc50521c972b6540800000000000000
+      internalID: 5002135362400705728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kanon_namlu_parlamas_piksel_animasyonu-3_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c735236cfd9e9b9e0800000000000000
+      internalID: -1604994644868705412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kanon_namlu_parlamas_piksel_animasyonu-3_5
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 010184dd3956e1180800000000000000
+      internalID: -9142758507768442864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: d1ac94aee6e6b224b9872cc4ba3acbba
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":3.0,"y":2.0},"gridSpriteSize":{"x":512.0,"y":512.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Kanon_namlu_parlamas_piksel_animasyonu-3_0: -6780001011156904532
+      Kanon_namlu_parlamas_piksel_animasyonu-3_1: -445434935765643446
+      Kanon_namlu_parlamas_piksel_animasyonu-3_2: 3486404705859265426
+      Kanon_namlu_parlamas_piksel_animasyonu-3_3: 5002135362400705728
+      Kanon_namlu_parlamas_piksel_animasyonu-3_4: -1604994644868705412
+      Kanon_namlu_parlamas_piksel_animasyonu-3_5: -9142758507768442864
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
