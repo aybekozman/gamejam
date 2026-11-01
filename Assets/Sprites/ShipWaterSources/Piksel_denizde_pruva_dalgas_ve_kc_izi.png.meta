@@ -1,0 +1,5356 @@
+fileFormatVersion: 2
+guid: 38079e45a342f1d45b053f9e7087f81c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8884508776667939635
+    second: Piksel_denizde_pruva_dalgas_ve_kc_izi_0
+  - first:
+      213: 1087241588934059916
+    second: Piksel_denizde_pruva_dalgas_ve_kc_izi_1
+  - first:
+      213: 9033635560550214709
+    second: Piksel_denizde_pruva_dalgas_ve_kc_izi_2
+  - first:
+      213: -5551644055766121038
+    second: Piksel_denizde_pruva_dalgas_ve_kc_izi_3
+  - first:
+      213: 1411042285755534135
+    second: Piksel_denizde_pruva_dalgas_ve_kc_izi_4
+  - first:
+      213: -8287329802114325920
+    second: Piksel_denizde_pruva_dalgas_ve_kc_izi_5
+  - first:
+      213: 6125310507463070115
+    second: Piksel_denizde_pruva_dalgas_ve_kc_izi_6
+  - first:
+      213: -3095267825641151817
+    second: Piksel_denizde_pruva_dalgas_ve_kc_izi_7
+  - first:
+      213: 4288348437063118302
+    second: Piksel_denizde_pruva_dalgas_ve_kc_izi_8
+  - first:
+      213: 310355789371207338
+    second: Piksel_denizde_pruva_dalgas_ve_kc_izi_9
+  - first:
+      213: -7405463032158569386
+    second: Piksel_denizde_pruva_dalgas_ve_kc_izi_10
+  - first:
+      213: -1580143839888490048
+    second: Piksel_denizde_pruva_dalgas_ve_kc_izi_11
+  - first:
+      213: 4775090855156848412
+    second: Piksel_denizde_pruva_dalgas_ve_kc_izi_12
+  - first:
+      213: 4425218671568647855
+    second: Piksel_denizde_pruva_dalgas_ve_kc_izi_13
+  - first:
+      213: 4057067696404068903
+    second: Piksel_denizde_pruva_dalgas_ve_kc_izi_14
+  - first:
+      213: 2223094225115694925
+    second: Piksel_denizde_pruva_dalgas_ve_kc_izi_15
+  - first:
+      213: -4368861680655028989
+    second: Piksel_denizde_pruva_dalgas_ve_kc_izi_16
+  - first:
+      213: 7791659537992132041
+    second: Piksel_denizde_pruva_dalgas_ve_kc_izi_17
+  - first:
+      213: 3636671624027461984
+    second: Piksel_denizde_pruva_dalgas_ve_kc_izi_18
+  - first:
+      213: 2973355004992795196
+    second: Piksel_denizde_pruva_dalgas_ve_kc_izi_19
+  - first:
+      213: -994787788167165667
+    second: Piksel_denizde_pruva_dalgas_ve_kc_izi_20
+  - first:
+      213: -6846420533768257623
+    second: Piksel_denizde_pruva_dalgas_ve_kc_izi_21
+  - first:
+      213: -1827538130088444409
+    second: Piksel_denizde_pruva_dalgas_ve_kc_izi_22
+  - first:
+      213: -5705298358276075957
+    second: Piksel_denizde_pruva_dalgas_ve_kc_izi_23
+  - first:
+      213: -4018333381346783286
+    second: Piksel_denizde_pruva_dalgas_ve_kc_izi_24
+  - first:
+      213: -9063179706019477937
+    second: Piksel_denizde_pruva_dalgas_ve_kc_izi_25
+  - first:
+      213: 359197638358932615
+    second: Piksel_denizde_pruva_dalgas_ve_kc_izi_26
+  - first:
+      213: -2268477440853647691
+    second: Piksel_denizde_pruva_dalgas_ve_kc_izi_27
+  - first:
+      213: -5850969336396794894
+    second: Piksel_denizde_pruva_dalgas_ve_kc_izi_28
+  - first:
+      213: 1169743369144506748
+    second: Piksel_denizde_pruva_dalgas_ve_kc_izi_29
+  - first:
+      213: -557710169061973684
+    second: Piksel_denizde_pruva_dalgas_ve_kc_izi_30
+  - first:
+      213: 1720327199226352380
+    second: Piksel_denizde_pruva_dalgas_ve_kc_izi_31
+  - first:
+      213: 2855081600264051596
+    second: Piksel_denizde_pruva_dalgas_ve_kc_izi_32
+  - first:
+      213: 8053257245175340092
+    second: Piksel_denizde_pruva_dalgas_ve_kc_izi_33
+  - first:
+      213: 5975213136355374569
+    second: Piksel_denizde_pruva_dalgas_ve_kc_izi_34
+  - first:
+      213: 8804781672160718734
+    second: Piksel_denizde_pruva_dalgas_ve_kc_izi_35
+  - first:
+      213: 6851573934434315307
+    second: Piksel_denizde_pruva_dalgas_ve_kc_izi_36
+  - first:
+      213: 8722060531287521322
+    second: Piksel_denizde_pruva_dalgas_ve_kc_izi_37
+  - first:
+      213: -62500233321884693
+    second: Piksel_denizde_pruva_dalgas_ve_kc_izi_38
+  - first:
+      213: -7906818248861311167
+    second: Piksel_denizde_pruva_dalgas_ve_kc_izi_39
+  - first:
+      213: 8202464823957069046
+    second: Piksel_denizde_pruva_dalgas_ve_kc_izi_40
+  - first:
+      213: 2484570234391325158
+    second: Piksel_denizde_pruva_dalgas_ve_kc_izi_41
+  - first:
+      213: 47282403820009346
+    second: Piksel_denizde_pruva_dalgas_ve_kc_izi_42
+  - first:
+      213: -7001348661787482341
+    second: Piksel_denizde_pruva_dalgas_ve_kc_izi_43
+  - first:
+      213: -5589075775895996172
+    second: Piksel_denizde_pruva_dalgas_ve_kc_izi_44
+  - first:
+      213: -2042156797282425025
+    second: Piksel_denizde_pruva_dalgas_ve_kc_izi_45
+  - first:
+      213: 8188116910856035400
+    second: Piksel_denizde_pruva_dalgas_ve_kc_izi_46
+  - first:
+      213: 6287598762793983592
+    second: Piksel_denizde_pruva_dalgas_ve_kc_izi_47
+  - first:
+      213: 2061876475234086010
+    second: Piksel_denizde_pruva_dalgas_ve_kc_izi_48
+  - first:
+      213: 345433560233869019
+    second: Piksel_denizde_pruva_dalgas_ve_kc_izi_49
+  - first:
+      213: -5677143349319148911
+    second: Piksel_denizde_pruva_dalgas_ve_kc_izi_50
+  - first:
+      213: 987136694734367607
+    second: Piksel_denizde_pruva_dalgas_ve_kc_izi_51
+  - first:
+      213: -6694143785455890888
+    second: Piksel_denizde_pruva_dalgas_ve_kc_izi_52
+  - first:
+      213: -8996886196077404665
+    second: Piksel_denizde_pruva_dalgas_ve_kc_izi_53
+  - first:
+      213: 1286238128133302551
+    second: Piksel_denizde_pruva_dalgas_ve_kc_izi_54
+  - first:
+      213: 222773871843127011
+    second: Piksel_denizde_pruva_dalgas_ve_kc_izi_55
+  - first:
+      213: -2763845854938222208
+    second: Piksel_denizde_pruva_dalgas_ve_kc_izi_56
+  - first:
+      213: 2926590115559445291
+    second: Piksel_denizde_pruva_dalgas_ve_kc_izi_57
+  - first:
+      213: -4506740563901209488
+    second: Piksel_denizde_pruva_dalgas_ve_kc_izi_58
+  - first:
+      213: -8151656526478951354
+    second: Piksel_denizde_pruva_dalgas_ve_kc_izi_59
+  - first:
+      213: -771982006743803815
+    second: Piksel_denizde_pruva_dalgas_ve_kc_izi_60
+  - first:
+      213: -7230692597393722537
+    second: Piksel_denizde_pruva_dalgas_ve_kc_izi_61
+  - first:
+      213: -5350778260237762718
+    second: Piksel_denizde_pruva_dalgas_ve_kc_izi_62
+  - first:
+      213: 4656826976692317758
+    second: Piksel_denizde_pruva_dalgas_ve_kc_izi_63
+  - first:
+      213: -6882049696077519000
+    second: Piksel_denizde_pruva_dalgas_ve_kc_izi_64
+  - first:
+      213: 2888772336998295324
+    second: Piksel_denizde_pruva_dalgas_ve_kc_izi_65
+  - first:
+      213: -3115597698225784055
+    second: Piksel_denizde_pruva_dalgas_ve_kc_izi_66
+  - first:
+      213: 7826212140037594596
+    second: Piksel_denizde_pruva_dalgas_ve_kc_izi_67
+  - first:
+      213: -2228108531593261740
+    second: Piksel_denizde_pruva_dalgas_ve_kc_izi_68
+  - first:
+      213: -8200450194248905220
+    second: Piksel_denizde_pruva_dalgas_ve_kc_izi_69
+  - first:
+      213: 1899219552022665722
+    second: Piksel_denizde_pruva_dalgas_ve_kc_izi_70
+  - first:
+      213: -4296948707137155213
+    second: Piksel_denizde_pruva_dalgas_ve_kc_izi_71
+  - first:
+      213: -2328329674246530396
+    second: Piksel_denizde_pruva_dalgas_ve_kc_izi_72
+  - first:
+      213: 3459346005755968996
+    second: Piksel_denizde_pruva_dalgas_ve_kc_izi_73
+  - first:
+      213: -8008660828402911084
+    second: Piksel_denizde_pruva_dalgas_ve_kc_izi_74
+  - first:
+      213: -827994396905322289
+    second: Piksel_denizde_pruva_dalgas_ve_kc_izi_75
+  - first:
+      213: -8490839257462150182
+    second: Piksel_denizde_pruva_dalgas_ve_kc_izi_76
+  - first:
+      213: 4076628803260877593
+    second: Piksel_denizde_pruva_dalgas_ve_kc_izi_77
+  - first:
+      213: 1157785522586021886
+    second: Piksel_denizde_pruva_dalgas_ve_kc_izi_78
+  - first:
+      213: -787418335480342824
+    second: Piksel_denizde_pruva_dalgas_ve_kc_izi_79
+  - first:
+      213: -2344210455595079440
+    second: Piksel_denizde_pruva_dalgas_ve_kc_izi_80
+  - first:
+      213: -4992291038029461283
+    second: Piksel_denizde_pruva_dalgas_ve_kc_izi_81
+  - first:
+      213: -3091910016466552060
+    second: Piksel_denizde_pruva_dalgas_ve_kc_izi_82
+  - first:
+      213: -6139411253396898362
+    second: Piksel_denizde_pruva_dalgas_ve_kc_izi_83
+  - first:
+      213: -2241842354013990996
+    second: Piksel_denizde_pruva_dalgas_ve_kc_izi_84
+  - first:
+      213: 4415898919626207779
+    second: Piksel_denizde_pruva_dalgas_ve_kc_izi_85
+  - first:
+      213: -4423690611123202074
+    second: Piksel_denizde_pruva_dalgas_ve_kc_izi_86
+  - first:
+      213: 2158803526305972131
+    second: Piksel_denizde_pruva_dalgas_ve_kc_izi_87
+  - first:
+      213: 5687596166169083399
+    second: Piksel_denizde_pruva_dalgas_ve_kc_izi_88
+  - first:
+      213: -3643194126034590343
+    second: Piksel_denizde_pruva_dalgas_ve_kc_izi_89
+  - first:
+      213: -2532965980018966149
+    second: Piksel_denizde_pruva_dalgas_ve_kc_izi_90
+  - first:
+      213: -2520577643170537650
+    second: Piksel_denizde_pruva_dalgas_ve_kc_izi_91
+  - first:
+      213: 5360133542606545758
+    second: Piksel_denizde_pruva_dalgas_ve_kc_izi_92
+  - first:
+      213: 4262220460972772941
+    second: Piksel_denizde_pruva_dalgas_ve_kc_izi_93
+  - first:
+      213: 2954280034811642018
+    second: Piksel_denizde_pruva_dalgas_ve_kc_izi_94
+  - first:
+      213: 6870199049363847139
+    second: Piksel_denizde_pruva_dalgas_ve_kc_izi_95
+  - first:
+      213: -6269117972073988487
+    second: Piksel_denizde_pruva_dalgas_ve_kc_izi_96
+  - first:
+      213: 5537257243620448482
+    second: Piksel_denizde_pruva_dalgas_ve_kc_izi_97
+  - first:
+      213: 4490696792253559096
+    second: Piksel_denizde_pruva_dalgas_ve_kc_izi_98
+  - first:
+      213: 1643347298334261621
+    second: Piksel_denizde_pruva_dalgas_ve_kc_izi_99
+  - first:
+      213: -4436899378152773665
+    second: Piksel_denizde_pruva_dalgas_ve_kc_izi_100
+  - first:
+      213: -1594921528543286961
+    second: Piksel_denizde_pruva_dalgas_ve_kc_izi_101
+  - first:
+      213: 8427522817838638182
+    second: Piksel_denizde_pruva_dalgas_ve_kc_izi_102
+  - first:
+      213: -6047776134830532593
+    second: Piksel_denizde_pruva_dalgas_ve_kc_izi_103
+  - first:
+      213: -6798903036995334686
+    second: Piksel_denizde_pruva_dalgas_ve_kc_izi_104
+  - first:
+      213: 3214018757642543276
+    second: Piksel_denizde_pruva_dalgas_ve_kc_izi_105
+  - first:
+      213: 3627710731261450327
+    second: Piksel_denizde_pruva_dalgas_ve_kc_izi_106
+  - first:
+      213: -6203112389809994132
+    second: Piksel_denizde_pruva_dalgas_ve_kc_izi_107
+  - first:
+      213: 7939147671805861929
+    second: Piksel_denizde_pruva_dalgas_ve_kc_izi_108
+  - first:
+      213: 1877431836692952454
+    second: Piksel_denizde_pruva_dalgas_ve_kc_izi_109
+  - first:
+      213: -2346876408276013093
+    second: Piksel_denizde_pruva_dalgas_ve_kc_izi_110
+  - first:
+      213: -6643518789904046761
+    second: Piksel_denizde_pruva_dalgas_ve_kc_izi_111
+  - first:
+      213: -1939304431984073824
+    second: Piksel_denizde_pruva_dalgas_ve_kc_izi_112
+  - first:
+      213: -6085248823846295815
+    second: Piksel_denizde_pruva_dalgas_ve_kc_izi_113
+  - first:
+      213: 7298791789738005523
+    second: Piksel_denizde_pruva_dalgas_ve_kc_izi_114
+  - first:
+      213: -6665915531771618905
+    second: Piksel_denizde_pruva_dalgas_ve_kc_izi_115
+  - first:
+      213: 2834755069949640709
+    second: Piksel_denizde_pruva_dalgas_ve_kc_izi_116
+  - first:
+      213: -9104455700623405628
+    second: Piksel_denizde_pruva_dalgas_ve_kc_izi_117
+  - first:
+      213: -8436313094554753492
+    second: Piksel_denizde_pruva_dalgas_ve_kc_izi_118
+  - first:
+      213: -984352706217830508
+    second: Piksel_denizde_pruva_dalgas_ve_kc_izi_119
+  - first:
+      213: -1328013349946271030
+    second: Piksel_denizde_pruva_dalgas_ve_kc_izi_120
+  - first:
+      213: -4454552604044953629
+    second: Piksel_denizde_pruva_dalgas_ve_kc_izi_121
+  - first:
+      213: -2748331340715623863
+    second: Piksel_denizde_pruva_dalgas_ve_kc_izi_122
+  - first:
+      213: -1329882522174460573
+    second: Piksel_denizde_pruva_dalgas_ve_kc_izi_123
+  - first:
+      213: 35006594654769447
+    second: Piksel_denizde_pruva_dalgas_ve_kc_izi_124
+  - first:
+      213: -1687701538955261928
+    second: Piksel_denizde_pruva_dalgas_ve_kc_izi_125
+  - first:
+      213: 4088422299913493765
+    second: Piksel_denizde_pruva_dalgas_ve_kc_izi_126
+  - first:
+      213: 2095834537227765331
+    second: Piksel_denizde_pruva_dalgas_ve_kc_izi_127
+  - first:
+      213: 6681291168452040029
+    second: Piksel_denizde_pruva_dalgas_ve_kc_izi_128
+  - first:
+      213: 5351343850680402101
+    second: Piksel_denizde_pruva_dalgas_ve_kc_izi_129
+  - first:
+      213: 4518743442453053666
+    second: Piksel_denizde_pruva_dalgas_ve_kc_izi_130
+  - first:
+      213: 4416879893176832584
+    second: Piksel_denizde_pruva_dalgas_ve_kc_izi_131
+  - first:
+      213: 1388757901157416491
+    second: Piksel_denizde_pruva_dalgas_ve_kc_izi_132
+  - first:
+      213: 4802590352136049867
+    second: Piksel_denizde_pruva_dalgas_ve_kc_izi_133
+  - first:
+      213: 9218985600925310105
+    second: Piksel_denizde_pruva_dalgas_ve_kc_izi_134
+  - first:
+      213: 2277726930956491481
+    second: Piksel_denizde_pruva_dalgas_ve_kc_izi_135
+  - first:
+      213: 6050443290621155663
+    second: Piksel_denizde_pruva_dalgas_ve_kc_izi_136
+  - first:
+      213: 746619558700899232
+    second: Piksel_denizde_pruva_dalgas_ve_kc_izi_137
+  - first:
+      213: -6779452058447982928
+    second: Piksel_denizde_pruva_dalgas_ve_kc_izi_138
+  - first:
+      213: 7806054944669787198
+    second: Piksel_denizde_pruva_dalgas_ve_kc_izi_139
+  - first:
+      213: 7779871349378172626
+    second: Piksel_denizde_pruva_dalgas_ve_kc_izi_140
+  - first:
+      213: 2809340766858940869
+    second: Piksel_denizde_pruva_dalgas_ve_kc_izi_141
+  - first:
+      213: -3279937146369432311
+    second: Piksel_denizde_pruva_dalgas_ve_kc_izi_142
+  - first:
+      213: 1366232585496826306
+    second: Piksel_denizde_pruva_dalgas_ve_kc_izi_143
+  - first:
+      213: 2563087324907208623
+    second: Piksel_denizde_pruva_dalgas_ve_kc_izi_144
+  - first:
+      213: -1627513177542019379
+    second: Piksel_denizde_pruva_dalgas_ve_kc_izi_145
+  - first:
+      213: -7476525404725439269
+    second: Piksel_denizde_pruva_dalgas_ve_kc_izi_146
+  - first:
+      213: 8434883343162689546
+    second: Piksel_denizde_pruva_dalgas_ve_kc_izi_147
+  - first:
+      213: -5097205916271338360
+    second: Piksel_denizde_pruva_dalgas_ve_kc_izi_148
+  - first:
+      213: -8677019586206435963
+    second: Piksel_denizde_pruva_dalgas_ve_kc_izi_149
+  - first:
+      213: 3372896175040681556
+    second: Piksel_denizde_pruva_dalgas_ve_kc_izi_150
+  - first:
+      213: -5342560817293352028
+    second: Piksel_denizde_pruva_dalgas_ve_kc_izi_151
+  - first:
+      213: -3152525875057022560
+    second: Piksel_denizde_pruva_dalgas_ve_kc_izi_152
+  - first:
+      213: 4648913836581707806
+    second: Piksel_denizde_pruva_dalgas_ve_kc_izi_153
+  - first:
+      213: -2727031232960936064
+    second: Piksel_denizde_pruva_dalgas_ve_kc_izi_154
+  - first:
+      213: -5759503040278325723
+    second: Piksel_denizde_pruva_dalgas_ve_kc_izi_155
+  - first:
+      213: 4293386060580681338
+    second: Piksel_denizde_pruva_dalgas_ve_kc_izi_156
+  - first:
+      213: -1228232735515975789
+    second: Piksel_denizde_pruva_dalgas_ve_kc_izi_157
+  - first:
+      213: 1372592179295003257
+    second: Piksel_denizde_pruva_dalgas_ve_kc_izi_158
+  - first:
+      213: -7318493367208253530
+    second: Piksel_denizde_pruva_dalgas_ve_kc_izi_159
+  - first:
+      213: -6742015307569385769
+    second: Piksel_denizde_pruva_dalgas_ve_kc_izi_160
+  - first:
+      213: 8181212836418814990
+    second: Piksel_denizde_pruva_dalgas_ve_kc_izi_161
+  - first:
+      213: -964522212232009409
+    second: Piksel_denizde_pruva_dalgas_ve_kc_izi_162
+  - first:
+      213: -1275016755966824878
+    second: Piksel_denizde_pruva_dalgas_ve_kc_izi_163
+  - first:
+      213: -2453588089514776956
+    second: Piksel_denizde_pruva_dalgas_ve_kc_izi_164
+  - first:
+      213: -2178167769821144621
+    second: Piksel_denizde_pruva_dalgas_ve_kc_izi_165
+  - first:
+      213: 5896205520071367401
+    second: Piksel_denizde_pruva_dalgas_ve_kc_izi_166
+  - first:
+      213: -2273822007817734905
+    second: Piksel_denizde_pruva_dalgas_ve_kc_izi_167
+  - first:
+      213: 6172347508006670658
+    second: Piksel_denizde_pruva_dalgas_ve_kc_izi_168
+  - first:
+      213: -6871987969542346951
+    second: Piksel_denizde_pruva_dalgas_ve_kc_izi_169
+  - first:
+      213: 7503773918503872338
+    second: Piksel_denizde_pruva_dalgas_ve_kc_izi_170
+  - first:
+      213: -6181769937124053786
+    second: Piksel_denizde_pruva_dalgas_ve_kc_izi_171
+  - first:
+      213: 6411799514616968852
+    second: Piksel_denizde_pruva_dalgas_ve_kc_izi_172
+  - first:
+      213: 3815430508902140193
+    second: Piksel_denizde_pruva_dalgas_ve_kc_izi_173
+  - first:
+      213: -3260982233155150292
+    second: Piksel_denizde_pruva_dalgas_ve_kc_izi_174
+  - first:
+      213: -2871169419105059860
+    second: Piksel_denizde_pruva_dalgas_ve_kc_izi_175
+  - first:
+      213: 1172628090272721696
+    second: Piksel_denizde_pruva_dalgas_ve_kc_izi_176
+  - first:
+      213: 5223712200738073992
+    second: Piksel_denizde_pruva_dalgas_ve_kc_izi_177
+  - first:
+      213: 2594734853969192544
+    second: Piksel_denizde_pruva_dalgas_ve_kc_izi_178
+  - first:
+      213: -1032066326300166157
+    second: Piksel_denizde_pruva_dalgas_ve_kc_izi_179
+  - first:
+      213: 8496935745572514278
+    second: Piksel_denizde_pruva_dalgas_ve_kc_izi_180
+  - first:
+      213: 8257993935400446549
+    second: Piksel_denizde_pruva_dalgas_ve_kc_izi_181
+  - first:
+      213: 4909659063881333010
+    second: Piksel_denizde_pruva_dalgas_ve_kc_izi_182
+  - first:
+      213: -4706261012637322014
+    second: Piksel_denizde_pruva_dalgas_ve_kc_izi_183
+  - first:
+      213: -8002292753760372010
+    second: Piksel_denizde_pruva_dalgas_ve_kc_izi_184
+  - first:
+      213: 9009126482993587691
+    second: Piksel_denizde_pruva_dalgas_ve_kc_izi_185
+  - first:
+      213: -1111750175617045180
+    second: Piksel_denizde_pruva_dalgas_ve_kc_izi_186
+  - first:
+      213: 1407200872351461357
+    second: Piksel_denizde_pruva_dalgas_ve_kc_izi_187
+  - first:
+      213: 102877454561703201
+    second: Piksel_denizde_pruva_dalgas_ve_kc_izi_188
+  - first:
+      213: 2545128562643905790
+    second: Piksel_denizde_pruva_dalgas_ve_kc_izi_189
+  - first:
+      213: 5454239574150454348
+    second: Piksel_denizde_pruva_dalgas_ve_kc_izi_190
+  - first:
+      213: -31467603013292624
+    second: Piksel_denizde_pruva_dalgas_ve_kc_izi_191
+  - first:
+      213: -6551030694387079325
+    second: Piksel_denizde_pruva_dalgas_ve_kc_izi_192
+  - first:
+      213: -8304544200053286948
+    second: Piksel_denizde_pruva_dalgas_ve_kc_izi_193
+  - first:
+      213: 7494173960507818420
+    second: Piksel_denizde_pruva_dalgas_ve_kc_izi_194
+  - first:
+      213: 8254597912470038997
+    second: Piksel_denizde_pruva_dalgas_ve_kc_izi_195
+  - first:
+      213: -6333040470162888456
+    second: Piksel_denizde_pruva_dalgas_ve_kc_izi_196
+  - first:
+      213: -7224435487599376501
+    second: Piksel_denizde_pruva_dalgas_ve_kc_izi_197
+  - first:
+      213: 2698919776931628180
+    second: Piksel_denizde_pruva_dalgas_ve_kc_izi_198
+  - first:
+      213: -7105997899679278032
+    second: Piksel_denizde_pruva_dalgas_ve_kc_izi_199
+  - first:
+      213: -6575888171814470884
+    second: Piksel_denizde_pruva_dalgas_ve_kc_izi_200
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Piksel_denizde_pruva_dalgas_ve_kc_izi_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 813
+        width: 74
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dccfddaf652e3b480800000000000000
+      internalID: -8884508776667939635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_denizde_pruva_dalgas_ve_kc_izi_1
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 805
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c872275f678a61f00800000000000000
+      internalID: 1087241588934059916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_denizde_pruva_dalgas_ve_kc_izi_2
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 813
+        width: 78
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53caee81eabed5d70800000000000000
+      internalID: 9033635560550214709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_denizde_pruva_dalgas_ve_kc_izi_3
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 808
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b5c6a8252994f2b0800000000000000
+      internalID: -5551644055766121038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_denizde_pruva_dalgas_ve_kc_izi_4
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 813
+        width: 83
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73b838d9b77059310800000000000000
+      internalID: 1411042285755534135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_denizde_pruva_dalgas_ve_kc_izi_5
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 825
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 062a770047d7dfc80800000000000000
+      internalID: -8287329802114325920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_denizde_pruva_dalgas_ve_kc_izi_6
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 370
+        width: 499
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a1dd480479710550800000000000000
+      internalID: 6125310507463070115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_denizde_pruva_dalgas_ve_kc_izi_7
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 829
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b2a6ffdf466b05d0800000000000000
+      internalID: -3095267825641151817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_denizde_pruva_dalgas_ve_kc_izi_8
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 831
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eddaf30de26438b30800000000000000
+      internalID: 4288348437063118302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_denizde_pruva_dalgas_ve_kc_izi_9
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 821
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaee47332fa9e4400800000000000000
+      internalID: 310355789371207338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_denizde_pruva_dalgas_ve_kc_izi_10
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 846
+        width: 34
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65cb6eaab928a3990800000000000000
+      internalID: -7405463032158569386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_denizde_pruva_dalgas_ve_kc_izi_11
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 855
+        width: 63
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c1cc61bc83321ae0800000000000000
+      internalID: -1580143839888490048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_denizde_pruva_dalgas_ve_kc_izi_12
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 848
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1717df45d7844240800000000000000
+      internalID: 4775090855156848412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_denizde_pruva_dalgas_ve_kc_izi_13
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 860
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa6764c9fe8896d30800000000000000
+      internalID: 4425218671568647855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_denizde_pruva_dalgas_ve_kc_izi_14
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 838
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72a70e913999d4830800000000000000
+      internalID: 4057067696404068903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_denizde_pruva_dalgas_ve_kc_izi_15
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 868
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d474e365b640ade10800000000000000
+      internalID: 2223094225115694925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_denizde_pruva_dalgas_ve_kc_izi_16
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 809
+        width: 58
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30dadbbd27fae53c0800000000000000
+      internalID: -4368861680655028989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_denizde_pruva_dalgas_ve_kc_izi_17
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 477
+        width: 431
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c52ecc5119812c60800000000000000
+      internalID: 7791659537992132041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_denizde_pruva_dalgas_ve_kc_izi_18
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 799
+        width: 7
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06956eaf29d087230800000000000000
+      internalID: 3636671624027461984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_denizde_pruva_dalgas_ve_kc_izi_19
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 807
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c32b9bf9f9a734920800000000000000
+      internalID: 2973355004992795196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_denizde_pruva_dalgas_ve_kc_izi_20
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 791
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d19466bf6cdc132f0800000000000000
+      internalID: -994787788167165667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_denizde_pruva_dalgas_ve_kc_izi_21
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 809
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9af7dc56cc0acf0a0800000000000000
+      internalID: -6846420533768257623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_denizde_pruva_dalgas_ve_kc_izi_22
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 829
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70eb89ed0c743a6e0800000000000000
+      internalID: -1827538130088444409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_denizde_pruva_dalgas_ve_kc_izi_23
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 809
+        width: 142
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4ec5510f55b2d0b0800000000000000
+      internalID: -5705298358276075957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_denizde_pruva_dalgas_ve_kc_izi_24
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 829
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acf0bb764130c38c0800000000000000
+      internalID: -4018333381346783286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_denizde_pruva_dalgas_ve_kc_izi_25
+      rect:
+        serializedVersion: 2
+        x: 1209
+        y: 811
+        width: 96
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f460e2f731e193280800000000000000
+      internalID: -9063179706019477937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_denizde_pruva_dalgas_ve_kc_izi_26
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 824
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78c1b8659502cf400800000000000000
+      internalID: 359197638358932615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_denizde_pruva_dalgas_ve_kc_izi_27
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 843
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5be5ee459cfb480e0800000000000000
+      internalID: -2268477440853647691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_denizde_pruva_dalgas_ve_kc_izi_28
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 779
+        width: 52
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f3bd58636e2dcea0800000000000000
+      internalID: -5850969336396794894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_denizde_pruva_dalgas_ve_kc_izi_29
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 434
+        width: 425
+        height: 433
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c791a3c8563cb3010800000000000000
+      internalID: 1169743369144506748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_denizde_pruva_dalgas_ve_kc_izi_30
+      rect:
+        serializedVersion: 2
+        x: 1363
+        y: 807
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c41207d5e8d9248f0800000000000000
+      internalID: -557710169061973684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_denizde_pruva_dalgas_ve_kc_izi_31
+      rect:
+        serializedVersion: 2
+        x: 1369
+        y: 797
+        width: 13
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf254571974dfd710800000000000000
+      internalID: 1720327199226352380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_denizde_pruva_dalgas_ve_kc_izi_32
+      rect:
+        serializedVersion: 2
+        x: 1401
+        y: 820
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8b1e7ca6994f9720800000000000000
+      internalID: 2855081600264051596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_denizde_pruva_dalgas_ve_kc_izi_33
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 815
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3c5487ebcae2cf60800000000000000
+      internalID: 8053257245175340092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_denizde_pruva_dalgas_ve_kc_izi_34
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 819
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e5b5b180b83ce250800000000000000
+      internalID: 5975213136355374569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_denizde_pruva_dalgas_ve_kc_izi_35
+      rect:
+        serializedVersion: 2
+        x: 1465
+        y: 811
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8f6206f74ed03a70800000000000000
+      internalID: 8804781672160718734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_denizde_pruva_dalgas_ve_kc_izi_36
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 850
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2c6842313ea51f50800000000000000
+      internalID: 6851573934434315307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_denizde_pruva_dalgas_ve_kc_izi_37
+      rect:
+        serializedVersion: 2
+        x: 1636
+        y: 854
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a28f8dc77dbfa0970800000000000000
+      internalID: 8722060531287521322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_denizde_pruva_dalgas_ve_kc_izi_38
+      rect:
+        serializedVersion: 2
+        x: 1736
+        y: 837
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be358727e54f12ff0800000000000000
+      internalID: -62500233321884693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_denizde_pruva_dalgas_ve_kc_izi_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 321
+        width: 430
+        height: 485
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14f9b0dd1b6554290800000000000000
+      internalID: -7906818248861311167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_denizde_pruva_dalgas_ve_kc_izi_40
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 789
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fc19928c4205d170800000000000000
+      internalID: 8202464823957069046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_denizde_pruva_dalgas_ve_kc_izi_41
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 791
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e96760e677fa7220800000000000000
+      internalID: 2484570234391325158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_denizde_pruva_dalgas_ve_kc_izi_42
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 797
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28771d3881bf7a000800000000000000
+      internalID: 47282403820009346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_denizde_pruva_dalgas_ve_kc_izi_43
+      rect:
+        serializedVersion: 2
+        x: 1451
+        y: 799
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b172081ac7636de90800000000000000
+      internalID: -7001348661787482341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_denizde_pruva_dalgas_ve_kc_izi_44
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 776
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f87afaa13d9f62b0800000000000000
+      internalID: -5589075775895996172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_denizde_pruva_dalgas_ve_kc_izi_45
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 781
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f37e452763dc8a3e0800000000000000
+      internalID: -2042156797282425025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_denizde_pruva_dalgas_ve_kc_izi_46
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 777
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84c51faa2f802a170800000000000000
+      internalID: 8188116910856035400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_denizde_pruva_dalgas_ve_kc_izi_47
+      rect:
+        serializedVersion: 2
+        x: 1333
+        y: 776
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86e558af2c9024750800000000000000
+      internalID: 6287598762793983592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_denizde_pruva_dalgas_ve_kc_izi_48
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 767
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7cef0ddab14d9c10800000000000000
+      internalID: 2061876475234086010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_denizde_pruva_dalgas_ve_kc_izi_49
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 759
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdefc3b2ef93bc400800000000000000
+      internalID: 345433560233869019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_denizde_pruva_dalgas_ve_kc_izi_50
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 743
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19a5cdcd33cb631b0800000000000000
+      internalID: -5677143349319148911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_denizde_pruva_dalgas_ve_kc_izi_51
+      rect:
+        serializedVersion: 2
+        x: 1322
+        y: 737
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77b2562089303bd00800000000000000
+      internalID: 987136694734367607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_denizde_pruva_dalgas_ve_kc_izi_52
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 630
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83e4388b1bf9913a0800000000000000
+      internalID: -6694143785455890888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_denizde_pruva_dalgas_ve_kc_izi_53
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 642
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70ed0361ca3a42380800000000000000
+      internalID: -8996886196077404665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_denizde_pruva_dalgas_ve_kc_izi_54
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 390
+        width: 114
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 719e2f343c2a9d110800000000000000
+      internalID: 1286238128133302551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_denizde_pruva_dalgas_ve_kc_izi_55
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 569
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eea278f7a3771300800000000000000
+      internalID: 222773871843127011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_denizde_pruva_dalgas_ve_kc_izi_56
+      rect:
+        serializedVersion: 2
+        x: 1330
+        y: 577
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 081b872a6d8d4a9d0800000000000000
+      internalID: -2763845854938222208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_denizde_pruva_dalgas_ve_kc_izi_57
+      rect:
+        serializedVersion: 2
+        x: 1756
+        y: 570
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b23171154365d9820800000000000000
+      internalID: 2926590115559445291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_denizde_pruva_dalgas_ve_kc_izi_58
+      rect:
+        serializedVersion: 2
+        x: 1766
+        y: 568
+        width: 8
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07423d9b557d471c0800000000000000
+      internalID: -4506740563901209488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_denizde_pruva_dalgas_ve_kc_izi_59
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 503
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64c3a38149f7fde80800000000000000
+      internalID: -8151656526478951354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_denizde_pruva_dalgas_ve_kc_izi_60
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 451
+        width: 98
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 958da0b747e5945f0800000000000000
+      internalID: -771982006743803815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_denizde_pruva_dalgas_ve_kc_izi_61
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 360
+        width: 319
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 753fc4c746b67ab90800000000000000
+      internalID: -7230692597393722537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_denizde_pruva_dalgas_ve_kc_izi_62
+      rect:
+        serializedVersion: 2
+        x: 1508
+        y: 488
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26f35ae95873eb5b0800000000000000
+      internalID: -5350778260237762718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_denizde_pruva_dalgas_ve_kc_izi_63
+      rect:
+        serializedVersion: 2
+        x: 1554
+        y: 481
+        width: 25
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3ea33e567f50a040800000000000000
+      internalID: 4656826976692317758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_denizde_pruva_dalgas_ve_kc_izi_64
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 472
+        width: 54
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 867e6ba934c0e70a0800000000000000
+      internalID: -6882049696077519000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_denizde_pruva_dalgas_ve_kc_izi_65
+      rect:
+        serializedVersion: 2
+        x: 1647
+        y: 486
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1722c7922bf61820800000000000000
+      internalID: 2888772336998295324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_denizde_pruva_dalgas_ve_kc_izi_66
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 448
+        width: 47
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90b3a3e866c23c4d0800000000000000
+      internalID: -3115597698225784055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_denizde_pruva_dalgas_ve_kc_izi_67
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 479
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ed5acfe97a4c9c60800000000000000
+      internalID: 7826212140037594596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_denizde_pruva_dalgas_ve_kc_izi_68
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 448
+        width: 74
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45dcd55781b2411e0800000000000000
+      internalID: -2228108531593261740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_denizde_pruva_dalgas_ve_kc_izi_69
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 485
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfdc2850ff5223e80800000000000000
+      internalID: -8200450194248905220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_denizde_pruva_dalgas_ve_kc_izi_70
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 487
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af999ccbe126b5a10800000000000000
+      internalID: 1899219552022665722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_denizde_pruva_dalgas_ve_kc_izi_71
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 490
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37f0405caeb2e54c0800000000000000
+      internalID: -4296948707137155213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_denizde_pruva_dalgas_ve_kc_izi_72
+      rect:
+        serializedVersion: 2
+        x: 1482
+        y: 477
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aad88e4f7c10bfd0800000000000000
+      internalID: -2328329674246530396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_denizde_pruva_dalgas_ve_kc_izi_73
+      rect:
+        serializedVersion: 2
+        x: 1578
+        y: 487
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ed30442dd0120030800000000000000
+      internalID: 3459346005755968996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_denizde_pruva_dalgas_ve_kc_izi_74
+      rect:
+        serializedVersion: 2
+        x: 1627
+        y: 483
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 498757488658bd090800000000000000
+      internalID: -8008660828402911084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_denizde_pruva_dalgas_ve_kc_izi_75
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 450
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc8c170ab7f5284f0800000000000000
+      internalID: -827994396905322289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_denizde_pruva_dalgas_ve_kc_izi_76
+      rect:
+        serializedVersion: 2
+        x: 1435
+        y: 465
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adbe6068eaa7a2a80800000000000000
+      internalID: -8490839257462150182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_denizde_pruva_dalgas_ve_kc_izi_77
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 463
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91b8d733c48139830800000000000000
+      internalID: 4076628803260877593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_denizde_pruva_dalgas_ve_kc_izi_78
+      rect:
+        serializedVersion: 2
+        x: 1465
+        y: 471
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eff64df6cc7411010800000000000000
+      internalID: 1157785522586021886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_denizde_pruva_dalgas_ve_kc_izi_79
+      rect:
+        serializedVersion: 2
+        x: 1544
+        y: 362
+        width: 169
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d6901022378215f0800000000000000
+      internalID: -787418335480342824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_denizde_pruva_dalgas_ve_kc_izi_80
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 438
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f8af73c201b77fd0800000000000000
+      internalID: -2344210455595079440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_denizde_pruva_dalgas_ve_kc_izi_81
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 424
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd843ee40c1d7bab0800000000000000
+      internalID: -4992291038029461283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_denizde_pruva_dalgas_ve_kc_izi_82
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 438
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40bf90fb8345715d0800000000000000
+      internalID: -3091910016466552060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_denizde_pruva_dalgas_ve_kc_izi_83
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 426
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cdfd373efd6ccaa0800000000000000
+      internalID: -6139411253396898362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_denizde_pruva_dalgas_ve_kc_izi_84
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 402
+        width: 50
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caf029eb14063e0e0800000000000000
+      internalID: -2241842354013990996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_denizde_pruva_dalgas_ve_kc_izi_85
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 426
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 322f954cbac684d30800000000000000
+      internalID: 4415898919626207779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_denizde_pruva_dalgas_ve_kc_izi_86
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 424
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e755cfa3d4eb92c0800000000000000
+      internalID: -4423690611123202074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_denizde_pruva_dalgas_ve_kc_izi_87
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 435
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aff35d8e5c95fd10800000000000000
+      internalID: 2158803526305972131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_denizde_pruva_dalgas_ve_kc_izi_88
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 436
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70eb16634966eee40800000000000000
+      internalID: 5687596166169083399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_denizde_pruva_dalgas_ve_kc_izi_89
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 424
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9752bedae36c07dc0800000000000000
+      internalID: -3643194126034590343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_denizde_pruva_dalgas_ve_kc_izi_90
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 448
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7102d48cd819dcd0800000000000000
+      internalID: -2532965980018966149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_denizde_pruva_dalgas_ve_kc_izi_91
+      rect:
+        serializedVersion: 2
+        x: 1193
+        y: 279
+        width: 195
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4f5706fcfb150dd0800000000000000
+      internalID: -2520577643170537650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_denizde_pruva_dalgas_ve_kc_izi_92
+      rect:
+        serializedVersion: 2
+        x: 1373
+        y: 366
+        width: 74
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5328bbce05036a40800000000000000
+      internalID: 5360133542606545758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_denizde_pruva_dalgas_ve_kc_izi_93
+      rect:
+        serializedVersion: 2
+        x: 1441
+        y: 432
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4e0fa25de2762b30800000000000000
+      internalID: 4262220460972772941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_denizde_pruva_dalgas_ve_kc_izi_94
+      rect:
+        serializedVersion: 2
+        x: 1457
+        y: 380
+        width: 78
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a00af90a06bff820800000000000000
+      internalID: 2954280034811642018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_denizde_pruva_dalgas_ve_kc_izi_95
+      rect:
+        serializedVersion: 2
+        x: 1508
+        y: 436
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e7fe81b2a9d75f50800000000000000
+      internalID: 6870199049363847139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_denizde_pruva_dalgas_ve_kc_izi_96
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 398
+        width: 71
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97e338b6b6e9ff8a0800000000000000
+      internalID: -6269117972073988487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_denizde_pruva_dalgas_ve_kc_izi_97
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 412
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e894fb102a48dc40800000000000000
+      internalID: 5537257243620448482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_denizde_pruva_dalgas_ve_kc_izi_98
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 412
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 831724890f8225e30800000000000000
+      internalID: 4490696792253559096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_denizde_pruva_dalgas_ve_kc_izi_99
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 363
+        width: 81
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 571cfc739a75ec610800000000000000
+      internalID: 1643347298334261621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_denizde_pruva_dalgas_ve_kc_izi_100
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 416
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd76d05f587fc62c0800000000000000
+      internalID: -4436899378152773665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_denizde_pruva_dalgas_ve_kc_izi_101
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 336
+        width: 94
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f49ed8ee153bdd9e0800000000000000
+      internalID: -1594921528543286961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_denizde_pruva_dalgas_ve_kc_izi_102
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 440
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66465c51a5394f470800000000000000
+      internalID: 8427522817838638182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_denizde_pruva_dalgas_ve_kc_izi_103
+      rect:
+        serializedVersion: 2
+        x: 1709
+        y: 436
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f08575ad5abf11ca0800000000000000
+      internalID: -6047776134830532593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_denizde_pruva_dalgas_ve_kc_izi_104
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 386
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ed8191c5b175a1a0800000000000000
+      internalID: -6798903036995334686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_denizde_pruva_dalgas_ve_kc_izi_105
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 420
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca0e9be080d7a9c20800000000000000
+      internalID: 3214018757642543276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_denizde_pruva_dalgas_ve_kc_izi_106
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 418
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75816bc80b7385230800000000000000
+      internalID: 3627710731261450327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_denizde_pruva_dalgas_ve_kc_izi_107
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 408
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c660d8f952e1ae9a0800000000000000
+      internalID: -6203112389809994132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_denizde_pruva_dalgas_ve_kc_izi_108
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 400
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 920ab5d7eb48d2e60800000000000000
+      internalID: 7939147671805861929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_denizde_pruva_dalgas_ve_kc_izi_109
+      rect:
+        serializedVersion: 2
+        x: 1453
+        y: 418
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 685b714fe4afd0a10800000000000000
+      internalID: 1877431836692952454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_denizde_pruva_dalgas_ve_kc_izi_110
+      rect:
+        serializedVersion: 2
+        x: 1717
+        y: 404
+        width: 40
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdfa6f847583e6fd0800000000000000
+      internalID: -2346876408276013093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_denizde_pruva_dalgas_ve_kc_izi_111
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 392
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 755e2250cda7dc3a0800000000000000
+      internalID: -6643518789904046761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_denizde_pruva_dalgas_ve_kc_izi_112
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 402
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a3af3cd4e43615e0800000000000000
+      internalID: -1939304431984073824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_denizde_pruva_dalgas_ve_kc_izi_113
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 392
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f627cc8f6adc8ba0800000000000000
+      internalID: -6085248823846295815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_denizde_pruva_dalgas_ve_kc_izi_114
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 404
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3141fdc46748a4560800000000000000
+      internalID: 7298791789738005523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_denizde_pruva_dalgas_ve_kc_izi_115
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 386
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a95ef13429ed73a0800000000000000
+      internalID: -6665915531771618905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_denizde_pruva_dalgas_ve_kc_izi_116
+      rect:
+        serializedVersion: 2
+        x: 1191
+        y: 408
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 500069987b2175720800000000000000
+      internalID: 2834755069949640709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_denizde_pruva_dalgas_ve_kc_izi_117
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 384
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cdcf0b17c976a180800000000000000
+      internalID: -9104455700623405628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_denizde_pruva_dalgas_ve_kc_izi_118
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 376
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c26661120f13cea80800000000000000
+      internalID: -8436313094554753492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_denizde_pruva_dalgas_ve_kc_izi_119
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 388
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4971134dd60e652f0800000000000000
+      internalID: -984352706217830508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_denizde_pruva_dalgas_ve_kc_izi_120
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 344
+        width: 38
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acad973f4e2f19de0800000000000000
+      internalID: -1328013349946271030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_denizde_pruva_dalgas_ve_kc_izi_121
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 388
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e7fb9202004e22c0800000000000000
+      internalID: -4454552604044953629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_denizde_pruva_dalgas_ve_kc_izi_122
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 394
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94a7297f437fbd9d0800000000000000
+      internalID: -2748331340715623863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_denizde_pruva_dalgas_ve_kc_izi_123
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 392
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36d6ac064ee4b8de0800000000000000
+      internalID: -1329882522174460573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_denizde_pruva_dalgas_ve_kc_izi_124
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 390
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7219137ff4e5c7000800000000000000
+      internalID: 35006594654769447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_denizde_pruva_dalgas_ve_kc_izi_125
+      rect:
+        serializedVersion: 2
+        x: 1453
+        y: 370
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81801b364641498e0800000000000000
+      internalID: -1687701538955261928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_denizde_pruva_dalgas_ve_kc_izi_126
+      rect:
+        serializedVersion: 2
+        x: 1613
+        y: 387
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50d112e9b6efcb830800000000000000
+      internalID: 4088422299913493765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_denizde_pruva_dalgas_ve_kc_izi_127
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 338
+        width: 69
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 356c47b4866e51d10800000000000000
+      internalID: 2095834537227765331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_denizde_pruva_dalgas_ve_kc_izi_128
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 354
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d55d9803be6b8bc50800000000000000
+      internalID: 6681291168452040029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_denizde_pruva_dalgas_ve_kc_izi_129
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 370
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b0c6ca21eac34a40800000000000000
+      internalID: 5351343850680402101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_denizde_pruva_dalgas_ve_kc_izi_130
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 370
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e04a86383dc5be30800000000000000
+      internalID: 4518743442453053666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_denizde_pruva_dalgas_ve_kc_izi_131
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 356
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 842de587cd8eb4d30800000000000000
+      internalID: 4416879893176832584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_denizde_pruva_dalgas_ve_kc_izi_132
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 342
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2e318104fbd54310800000000000000
+      internalID: 1388757901157416491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_denizde_pruva_dalgas_ve_kc_izi_133
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 370
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc499c4ea7a36a240800000000000000
+      internalID: 4802590352136049867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_denizde_pruva_dalgas_ve_kc_izi_134
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 368
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99c189c4f8a60ff70800000000000000
+      internalID: 9218985600925310105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_denizde_pruva_dalgas_ve_kc_izi_135
+      rect:
+        serializedVersion: 2
+        x: 1393
+        y: 336
+        width: 29
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9da9007639c1c9f10800000000000000
+      internalID: 2277726930956491481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_denizde_pruva_dalgas_ve_kc_izi_136
+      rect:
+        serializedVersion: 2
+        x: 1758
+        y: 374
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f499e1fbd1e77f350800000000000000
+      internalID: 6050443290621155663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_denizde_pruva_dalgas_ve_kc_izi_137
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 371
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0abd9ba68868c5a00800000000000000
+      internalID: 746619558700899232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_denizde_pruva_dalgas_ve_kc_izi_138
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 459
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0beca6c954c8ae1a0800000000000000
+      internalID: -6779452058447982928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_denizde_pruva_dalgas_ve_kc_izi_139
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 0
+        width: 449
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e34693a2d9da45c60800000000000000
+      internalID: 7806054944669787198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_denizde_pruva_dalgas_ve_kc_izi_140
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 324
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d6cce1d5c7a7fb60800000000000000
+      internalID: 7779871349378172626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_denizde_pruva_dalgas_ve_kc_izi_141
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 352
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c196adfa88ccf620800000000000000
+      internalID: 2809340766858940869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_denizde_pruva_dalgas_ve_kc_izi_142
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 340
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 905aa011b825b72d0800000000000000
+      internalID: -3279937146369432311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_denizde_pruva_dalgas_ve_kc_izi_143
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 0
+        width: 491
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c11a134c45d5f210800000000000000
+      internalID: 1366232585496826306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_denizde_pruva_dalgas_ve_kc_izi_144
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 287
+        width: 45
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faf7669975ae19320800000000000000
+      internalID: 2563087324907208623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_denizde_pruva_dalgas_ve_kc_izi_145
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 0
+        width: 484
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc637515369e969e0800000000000000
+      internalID: -1627513177542019379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_denizde_pruva_dalgas_ve_kc_izi_146
+      rect:
+        serializedVersion: 2
+        x: 1419
+        y: 351
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd41829b1cb0e3890800000000000000
+      internalID: -7476525404725439269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_denizde_pruva_dalgas_ve_kc_izi_147
+      rect:
+        serializedVersion: 2
+        x: 1429
+        y: 349
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a08421fe5b9be0570800000000000000
+      internalID: 8434883343162689546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_denizde_pruva_dalgas_ve_kc_izi_148
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 319
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88c90ada9361349b0800000000000000
+      internalID: -5097205916271338360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_denizde_pruva_dalgas_ve_kc_izi_149
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 321
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 585fe0fb8a8059780800000000000000
+      internalID: -8677019586206435963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_denizde_pruva_dalgas_ve_kc_izi_150
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 271
+        width: 28
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 456d299633feece20800000000000000
+      internalID: 3372896175040681556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_denizde_pruva_dalgas_ve_kc_izi_151
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 323
+        width: 7
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a32f462e396bd5b0800000000000000
+      internalID: -5342560817293352028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_denizde_pruva_dalgas_ve_kc_izi_152
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 321
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a9afff5b6aff34d0800000000000000
+      internalID: -3152525875057022560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_denizde_pruva_dalgas_ve_kc_izi_153
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 311
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e10e9dcd082448040800000000000000
+      internalID: 4648913836581707806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_denizde_pruva_dalgas_ve_kc_izi_154
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 228
+        width: 46
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 087c7f3ca83a72ad0800000000000000
+      internalID: -2727031232960936064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_denizde_pruva_dalgas_ve_kc_izi_155
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 291
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5269d6100822210b0800000000000000
+      internalID: -5759503040278325723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_denizde_pruva_dalgas_ve_kc_izi_156
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 267
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a767680ffdb259b30800000000000000
+      internalID: 4293386060580681338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_denizde_pruva_dalgas_ve_kc_izi_157
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 277
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39f5012a5d074fee0800000000000000
+      internalID: -1228232735515975789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_denizde_pruva_dalgas_ve_kc_izi_158
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 257
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 972ab54905d6c0310800000000000000
+      internalID: 1372592179295003257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_denizde_pruva_dalgas_ve_kc_izi_159
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 260
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a7ef7cbe0d7f6a90800000000000000
+      internalID: -7318493367208253530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_denizde_pruva_dalgas_ve_kc_izi_160
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 247
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dea41a6ccc8f62a0800000000000000
+      internalID: -6742015307569385769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_denizde_pruva_dalgas_ve_kc_izi_161
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 225
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e040c929ab1898170800000000000000
+      internalID: 8181212836418814990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_denizde_pruva_dalgas_ve_kc_izi_162
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 192
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f39efe188245d92f0800000000000000
+      internalID: -964522212232009409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_denizde_pruva_dalgas_ve_kc_izi_163
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 186
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25e2de9040b3e4ee0800000000000000
+      internalID: -1275016755966824878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_denizde_pruva_dalgas_ve_kc_izi_164
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 184
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 486a75bd1aa13fdd0800000000000000
+      internalID: -2453588089514776956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_denizde_pruva_dalgas_ve_kc_izi_165
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 134
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d91b9a24f795c1e0800000000000000
+      internalID: -2178167769821144621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_denizde_pruva_dalgas_ve_kc_izi_166
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 96
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ea1d8a5ea783d150800000000000000
+      internalID: 5896205520071367401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_denizde_pruva_dalgas_ve_kc_izi_167
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 106
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 705fe8d5ee2c170e0800000000000000
+      internalID: -2273822007817734905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_denizde_pruva_dalgas_ve_kc_izi_168
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 80
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24151052b5598a550800000000000000
+      internalID: 6172347508006670658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_denizde_pruva_dalgas_ve_kc_izi_169
+      rect:
+        serializedVersion: 2
+        x: 1258
+        y: 72
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 937abaed95bc1a0a0800000000000000
+      internalID: -6871987969542346951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_denizde_pruva_dalgas_ve_kc_izi_170
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 38
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 257a3474f92c22860800000000000000
+      internalID: 7503773918503872338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_denizde_pruva_dalgas_ve_kc_izi_171
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 57
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ec288e9ef0f53aa0800000000000000
+      internalID: -6181769937124053786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_denizde_pruva_dalgas_ve_kc_izi_172
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 53
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49634c7ffa94bf850800000000000000
+      internalID: 6411799514616968852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_denizde_pruva_dalgas_ve_kc_izi_173
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 47
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 129cc4435d123f430800000000000000
+      internalID: 3815430508902140193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_denizde_pruva_dalgas_ve_kc_izi_174
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 59
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2e5de5bfe9aeb2d0800000000000000
+      internalID: -3260982233155150292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_denizde_pruva_dalgas_ve_kc_izi_175
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 52
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceb374c10ae8728d0800000000000000
+      internalID: -2871169419105059860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_denizde_pruva_dalgas_ve_kc_izi_176
+      rect:
+        serializedVersion: 2
+        x: 1699
+        y: 55
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02ba9560903064010800000000000000
+      internalID: 1172628090272721696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_denizde_pruva_dalgas_ve_kc_izi_177
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 37
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88dedd5f19a5e7840800000000000000
+      internalID: 5223712200738073992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_denizde_pruva_dalgas_ve_kc_izi_178
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 49
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 066a8292a99520420800000000000000
+      internalID: 2594734853969192544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_denizde_pruva_dalgas_ve_kc_izi_179
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 33
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f77c34f42d5da1f0800000000000000
+      internalID: -1032066326300166157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_denizde_pruva_dalgas_ve_kc_izi_180
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 27
+        width: 33
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e92b2aba0e2be570800000000000000
+      internalID: 8496935745572514278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_denizde_pruva_dalgas_ve_kc_izi_181
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 15
+        width: 51
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55aafd44bb94a9270800000000000000
+      internalID: 8257993935400446549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_denizde_pruva_dalgas_ve_kc_izi_182
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 32
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2197ce6f7ec922440800000000000000
+      internalID: 4909659063881333010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_denizde_pruva_dalgas_ve_kc_izi_183
+      rect:
+        serializedVersion: 2
+        x: 1611
+        y: 38
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e47b793b8000beb0800000000000000
+      internalID: -4706261012637322014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_denizde_pruva_dalgas_ve_kc_izi_184
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 29
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6da3e6f632522f090800000000000000
+      internalID: -8002292753760372010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_denizde_pruva_dalgas_ve_kc_izi_185
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 33
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be5a56bcdc8d60d70800000000000000
+      internalID: 9009126482993587691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_denizde_pruva_dalgas_ve_kc_izi_186
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 33
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44d2e570b154290f0800000000000000
+      internalID: -1111750175617045180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_denizde_pruva_dalgas_ve_kc_izi_187
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 37
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: defe02cdcb1678310800000000000000
+      internalID: 1407200872351461357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_denizde_pruva_dalgas_ve_kc_izi_188
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 33
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 125fb86ff7e7d6100800000000000000
+      internalID: 102877454561703201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_denizde_pruva_dalgas_ve_kc_izi_189
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 31
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efc271c61fc125320800000000000000
+      internalID: 2545128562643905790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_denizde_pruva_dalgas_ve_kc_izi_190
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 39
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4c9d11bef951bb40800000000000000
+      internalID: 5454239574150454348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_denizde_pruva_dalgas_ve_kc_izi_191
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 15
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bda57cb164309ff0800000000000000
+      internalID: -31467603013292624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_denizde_pruva_dalgas_ve_kc_izi_192
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 17
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 367a064da401615a0800000000000000
+      internalID: -6551030694387079325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_denizde_pruva_dalgas_ve_kc_izi_193
+      rect:
+        serializedVersion: 2
+        x: 1318
+        y: 37
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd71b46ac0550cc80800000000000000
+      internalID: -8304544200053286948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_denizde_pruva_dalgas_ve_kc_izi_194
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 21
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b10d01e287a00860800000000000000
+      internalID: 7494173960507818420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_denizde_pruva_dalgas_ve_kc_izi_195
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 16
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d9257011193e8270800000000000000
+      internalID: 8254597912470038997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_denizde_pruva_dalgas_ve_kc_izi_196
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 24
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f8a4cb0f358c18a0800000000000000
+      internalID: -6333040470162888456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_denizde_pruva_dalgas_ve_kc_izi_197
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 15
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b87c9e26336adbb90800000000000000
+      internalID: -7224435487599376501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_denizde_pruva_dalgas_ve_kc_izi_198
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 21
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4944945dc3d747520800000000000000
+      internalID: 2698919776931628180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_denizde_pruva_dalgas_ve_kc_izi_199
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 21
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03cd1f63f8c626d90800000000000000
+      internalID: -7105997899679278032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piksel_denizde_pruva_dalgas_ve_kc_izi_200
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 0
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1b3e4c5c80cdb4a0800000000000000
+      internalID: -6575888171814470884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Piksel_denizde_pruva_dalgas_ve_kc_izi_0: -8884508776667939635
+      Piksel_denizde_pruva_dalgas_ve_kc_izi_1: 1087241588934059916
+      Piksel_denizde_pruva_dalgas_ve_kc_izi_10: -7405463032158569386
+      Piksel_denizde_pruva_dalgas_ve_kc_izi_100: -4436899378152773665
+      Piksel_denizde_pruva_dalgas_ve_kc_izi_101: -1594921528543286961
+      Piksel_denizde_pruva_dalgas_ve_kc_izi_102: 8427522817838638182
+      Piksel_denizde_pruva_dalgas_ve_kc_izi_103: -6047776134830532593
+      Piksel_denizde_pruva_dalgas_ve_kc_izi_104: -6798903036995334686
+      Piksel_denizde_pruva_dalgas_ve_kc_izi_105: 3214018757642543276
+      Piksel_denizde_pruva_dalgas_ve_kc_izi_106: 3627710731261450327
+      Piksel_denizde_pruva_dalgas_ve_kc_izi_107: -6203112389809994132
+      Piksel_denizde_pruva_dalgas_ve_kc_izi_108: 7939147671805861929
+      Piksel_denizde_pruva_dalgas_ve_kc_izi_109: 1877431836692952454
+      Piksel_denizde_pruva_dalgas_ve_kc_izi_11: -1580143839888490048
+      Piksel_denizde_pruva_dalgas_ve_kc_izi_110: -2346876408276013093
+      Piksel_denizde_pruva_dalgas_ve_kc_izi_111: -6643518789904046761
+      Piksel_denizde_pruva_dalgas_ve_kc_izi_112: -1939304431984073824
+      Piksel_denizde_pruva_dalgas_ve_kc_izi_113: -6085248823846295815
+      Piksel_denizde_pruva_dalgas_ve_kc_izi_114: 7298791789738005523
+      Piksel_denizde_pruva_dalgas_ve_kc_izi_115: -6665915531771618905
+      Piksel_denizde_pruva_dalgas_ve_kc_izi_116: 2834755069949640709
+      Piksel_denizde_pruva_dalgas_ve_kc_izi_117: -9104455700623405628
+      Piksel_denizde_pruva_dalgas_ve_kc_izi_118: -8436313094554753492
+      Piksel_denizde_pruva_dalgas_ve_kc_izi_119: -984352706217830508
+      Piksel_denizde_pruva_dalgas_ve_kc_izi_12: 4775090855156848412
+      Piksel_denizde_pruva_dalgas_ve_kc_izi_120: -1328013349946271030
+      Piksel_denizde_pruva_dalgas_ve_kc_izi_121: -4454552604044953629
+      Piksel_denizde_pruva_dalgas_ve_kc_izi_122: -2748331340715623863
+      Piksel_denizde_pruva_dalgas_ve_kc_izi_123: -1329882522174460573
+      Piksel_denizde_pruva_dalgas_ve_kc_izi_124: 35006594654769447
+      Piksel_denizde_pruva_dalgas_ve_kc_izi_125: -1687701538955261928
+      Piksel_denizde_pruva_dalgas_ve_kc_izi_126: 4088422299913493765
+      Piksel_denizde_pruva_dalgas_ve_kc_izi_127: 2095834537227765331
+      Piksel_denizde_pruva_dalgas_ve_kc_izi_128: 6681291168452040029
+      Piksel_denizde_pruva_dalgas_ve_kc_izi_129: 5351343850680402101
+      Piksel_denizde_pruva_dalgas_ve_kc_izi_13: 4425218671568647855
+      Piksel_denizde_pruva_dalgas_ve_kc_izi_130: 4518743442453053666
+      Piksel_denizde_pruva_dalgas_ve_kc_izi_131: 4416879893176832584
+      Piksel_denizde_pruva_dalgas_ve_kc_izi_132: 1388757901157416491
+      Piksel_denizde_pruva_dalgas_ve_kc_izi_133: 4802590352136049867
+      Piksel_denizde_pruva_dalgas_ve_kc_izi_134: 9218985600925310105
+      Piksel_denizde_pruva_dalgas_ve_kc_izi_135: 2277726930956491481
+      Piksel_denizde_pruva_dalgas_ve_kc_izi_136: 6050443290621155663
+      Piksel_denizde_pruva_dalgas_ve_kc_izi_137: 746619558700899232
+      Piksel_denizde_pruva_dalgas_ve_kc_izi_138: -6779452058447982928
+      Piksel_denizde_pruva_dalgas_ve_kc_izi_139: 7806054944669787198
+      Piksel_denizde_pruva_dalgas_ve_kc_izi_14: 4057067696404068903
+      Piksel_denizde_pruva_dalgas_ve_kc_izi_140: 7779871349378172626
+      Piksel_denizde_pruva_dalgas_ve_kc_izi_141: 2809340766858940869
+      Piksel_denizde_pruva_dalgas_ve_kc_izi_142: -3279937146369432311
+      Piksel_denizde_pruva_dalgas_ve_kc_izi_143: 1366232585496826306
+      Piksel_denizde_pruva_dalgas_ve_kc_izi_144: 2563087324907208623
+      Piksel_denizde_pruva_dalgas_ve_kc_izi_145: -1627513177542019379
+      Piksel_denizde_pruva_dalgas_ve_kc_izi_146: -7476525404725439269
+      Piksel_denizde_pruva_dalgas_ve_kc_izi_147: 8434883343162689546
+      Piksel_denizde_pruva_dalgas_ve_kc_izi_148: -5097205916271338360
+      Piksel_denizde_pruva_dalgas_ve_kc_izi_149: -8677019586206435963
+      Piksel_denizde_pruva_dalgas_ve_kc_izi_15: 2223094225115694925
+      Piksel_denizde_pruva_dalgas_ve_kc_izi_150: 3372896175040681556
+      Piksel_denizde_pruva_dalgas_ve_kc_izi_151: -5342560817293352028
+      Piksel_denizde_pruva_dalgas_ve_kc_izi_152: -3152525875057022560
+      Piksel_denizde_pruva_dalgas_ve_kc_izi_153: 4648913836581707806
+      Piksel_denizde_pruva_dalgas_ve_kc_izi_154: -2727031232960936064
+      Piksel_denizde_pruva_dalgas_ve_kc_izi_155: -5759503040278325723
+      Piksel_denizde_pruva_dalgas_ve_kc_izi_156: 4293386060580681338
+      Piksel_denizde_pruva_dalgas_ve_kc_izi_157: -1228232735515975789
+      Piksel_denizde_pruva_dalgas_ve_kc_izi_158: 1372592179295003257
+      Piksel_denizde_pruva_dalgas_ve_kc_izi_159: -7318493367208253530
+      Piksel_denizde_pruva_dalgas_ve_kc_izi_16: -4368861680655028989
+      Piksel_denizde_pruva_dalgas_ve_kc_izi_160: -6742015307569385769
+      Piksel_denizde_pruva_dalgas_ve_kc_izi_161: 8181212836418814990
+      Piksel_denizde_pruva_dalgas_ve_kc_izi_162: -964522212232009409
+      Piksel_denizde_pruva_dalgas_ve_kc_izi_163: -1275016755966824878
+      Piksel_denizde_pruva_dalgas_ve_kc_izi_164: -2453588089514776956
+      Piksel_denizde_pruva_dalgas_ve_kc_izi_165: -2178167769821144621
+      Piksel_denizde_pruva_dalgas_ve_kc_izi_166: 5896205520071367401
+      Piksel_denizde_pruva_dalgas_ve_kc_izi_167: -2273822007817734905
+      Piksel_denizde_pruva_dalgas_ve_kc_izi_168: 6172347508006670658
+      Piksel_denizde_pruva_dalgas_ve_kc_izi_169: -6871987969542346951
+      Piksel_denizde_pruva_dalgas_ve_kc_izi_17: 7791659537992132041
+      Piksel_denizde_pruva_dalgas_ve_kc_izi_170: 7503773918503872338
+      Piksel_denizde_pruva_dalgas_ve_kc_izi_171: -6181769937124053786
+      Piksel_denizde_pruva_dalgas_ve_kc_izi_172: 6411799514616968852
+      Piksel_denizde_pruva_dalgas_ve_kc_izi_173: 3815430508902140193
+      Piksel_denizde_pruva_dalgas_ve_kc_izi_174: -3260982233155150292
+      Piksel_denizde_pruva_dalgas_ve_kc_izi_175: -2871169419105059860
+      Piksel_denizde_pruva_dalgas_ve_kc_izi_176: 1172628090272721696
+      Piksel_denizde_pruva_dalgas_ve_kc_izi_177: 5223712200738073992
+      Piksel_denizde_pruva_dalgas_ve_kc_izi_178: 2594734853969192544
+      Piksel_denizde_pruva_dalgas_ve_kc_izi_179: -1032066326300166157
+      Piksel_denizde_pruva_dalgas_ve_kc_izi_18: 3636671624027461984
+      Piksel_denizde_pruva_dalgas_ve_kc_izi_180: 8496935745572514278
+      Piksel_denizde_pruva_dalgas_ve_kc_izi_181: 8257993935400446549
+      Piksel_denizde_pruva_dalgas_ve_kc_izi_182: 4909659063881333010
+      Piksel_denizde_pruva_dalgas_ve_kc_izi_183: -4706261012637322014
+      Piksel_denizde_pruva_dalgas_ve_kc_izi_184: -8002292753760372010
+      Piksel_denizde_pruva_dalgas_ve_kc_izi_185: 9009126482993587691
+      Piksel_denizde_pruva_dalgas_ve_kc_izi_186: -1111750175617045180
+      Piksel_denizde_pruva_dalgas_ve_kc_izi_187: 1407200872351461357
+      Piksel_denizde_pruva_dalgas_ve_kc_izi_188: 102877454561703201
+      Piksel_denizde_pruva_dalgas_ve_kc_izi_189: 2545128562643905790
+      Piksel_denizde_pruva_dalgas_ve_kc_izi_19: 2973355004992795196
+      Piksel_denizde_pruva_dalgas_ve_kc_izi_190: 5454239574150454348
+      Piksel_denizde_pruva_dalgas_ve_kc_izi_191: -31467603013292624
+      Piksel_denizde_pruva_dalgas_ve_kc_izi_192: -6551030694387079325
+      Piksel_denizde_pruva_dalgas_ve_kc_izi_193: -8304544200053286948
+      Piksel_denizde_pruva_dalgas_ve_kc_izi_194: 7494173960507818420
+      Piksel_denizde_pruva_dalgas_ve_kc_izi_195: 8254597912470038997
+      Piksel_denizde_pruva_dalgas_ve_kc_izi_196: -6333040470162888456
+      Piksel_denizde_pruva_dalgas_ve_kc_izi_197: -7224435487599376501
+      Piksel_denizde_pruva_dalgas_ve_kc_izi_198: 2698919776931628180
+      Piksel_denizde_pruva_dalgas_ve_kc_izi_199: -7105997899679278032
+      Piksel_denizde_pruva_dalgas_ve_kc_izi_2: 9033635560550214709
+      Piksel_denizde_pruva_dalgas_ve_kc_izi_20: -994787788167165667
+      Piksel_denizde_pruva_dalgas_ve_kc_izi_200: -6575888171814470884
+      Piksel_denizde_pruva_dalgas_ve_kc_izi_21: -6846420533768257623
+      Piksel_denizde_pruva_dalgas_ve_kc_izi_22: -1827538130088444409
+      Piksel_denizde_pruva_dalgas_ve_kc_izi_23: -5705298358276075957
+      Piksel_denizde_pruva_dalgas_ve_kc_izi_24: -4018333381346783286
+      Piksel_denizde_pruva_dalgas_ve_kc_izi_25: -9063179706019477937
+      Piksel_denizde_pruva_dalgas_ve_kc_izi_26: 359197638358932615
+      Piksel_denizde_pruva_dalgas_ve_kc_izi_27: -2268477440853647691
+      Piksel_denizde_pruva_dalgas_ve_kc_izi_28: -5850969336396794894
+      Piksel_denizde_pruva_dalgas_ve_kc_izi_29: 1169743369144506748
+      Piksel_denizde_pruva_dalgas_ve_kc_izi_3: -5551644055766121038
+      Piksel_denizde_pruva_dalgas_ve_kc_izi_30: -557710169061973684
+      Piksel_denizde_pruva_dalgas_ve_kc_izi_31: 1720327199226352380
+      Piksel_denizde_pruva_dalgas_ve_kc_izi_32: 2855081600264051596
+      Piksel_denizde_pruva_dalgas_ve_kc_izi_33: 8053257245175340092
+      Piksel_denizde_pruva_dalgas_ve_kc_izi_34: 5975213136355374569
+      Piksel_denizde_pruva_dalgas_ve_kc_izi_35: 8804781672160718734
+      Piksel_denizde_pruva_dalgas_ve_kc_izi_36: 6851573934434315307
+      Piksel_denizde_pruva_dalgas_ve_kc_izi_37: 8722060531287521322
+      Piksel_denizde_pruva_dalgas_ve_kc_izi_38: -62500233321884693
+      Piksel_denizde_pruva_dalgas_ve_kc_izi_39: -7906818248861311167
+      Piksel_denizde_pruva_dalgas_ve_kc_izi_4: 1411042285755534135
+      Piksel_denizde_pruva_dalgas_ve_kc_izi_40: 8202464823957069046
+      Piksel_denizde_pruva_dalgas_ve_kc_izi_41: 2484570234391325158
+      Piksel_denizde_pruva_dalgas_ve_kc_izi_42: 47282403820009346
+      Piksel_denizde_pruva_dalgas_ve_kc_izi_43: -7001348661787482341
+      Piksel_denizde_pruva_dalgas_ve_kc_izi_44: -5589075775895996172
+      Piksel_denizde_pruva_dalgas_ve_kc_izi_45: -2042156797282425025
+      Piksel_denizde_pruva_dalgas_ve_kc_izi_46: 8188116910856035400
+      Piksel_denizde_pruva_dalgas_ve_kc_izi_47: 6287598762793983592
+      Piksel_denizde_pruva_dalgas_ve_kc_izi_48: 2061876475234086010
+      Piksel_denizde_pruva_dalgas_ve_kc_izi_49: 345433560233869019
+      Piksel_denizde_pruva_dalgas_ve_kc_izi_5: -8287329802114325920
+      Piksel_denizde_pruva_dalgas_ve_kc_izi_50: -5677143349319148911
+      Piksel_denizde_pruva_dalgas_ve_kc_izi_51: 987136694734367607
+      Piksel_denizde_pruva_dalgas_ve_kc_izi_52: -6694143785455890888
+      Piksel_denizde_pruva_dalgas_ve_kc_izi_53: -8996886196077404665
+      Piksel_denizde_pruva_dalgas_ve_kc_izi_54: 1286238128133302551
+      Piksel_denizde_pruva_dalgas_ve_kc_izi_55: 222773871843127011
+      Piksel_denizde_pruva_dalgas_ve_kc_izi_56: -2763845854938222208
+      Piksel_denizde_pruva_dalgas_ve_kc_izi_57: 2926590115559445291
+      Piksel_denizde_pruva_dalgas_ve_kc_izi_58: -4506740563901209488
+      Piksel_denizde_pruva_dalgas_ve_kc_izi_59: -8151656526478951354
+      Piksel_denizde_pruva_dalgas_ve_kc_izi_6: 6125310507463070115
+      Piksel_denizde_pruva_dalgas_ve_kc_izi_60: -771982006743803815
+      Piksel_denizde_pruva_dalgas_ve_kc_izi_61: -7230692597393722537
+      Piksel_denizde_pruva_dalgas_ve_kc_izi_62: -5350778260237762718
+      Piksel_denizde_pruva_dalgas_ve_kc_izi_63: 4656826976692317758
+      Piksel_denizde_pruva_dalgas_ve_kc_izi_64: -6882049696077519000
+      Piksel_denizde_pruva_dalgas_ve_kc_izi_65: 2888772336998295324
+      Piksel_denizde_pruva_dalgas_ve_kc_izi_66: -3115597698225784055
+      Piksel_denizde_pruva_dalgas_ve_kc_izi_67: 7826212140037594596
+      Piksel_denizde_pruva_dalgas_ve_kc_izi_68: -2228108531593261740
+      Piksel_denizde_pruva_dalgas_ve_kc_izi_69: -8200450194248905220
+      Piksel_denizde_pruva_dalgas_ve_kc_izi_7: -3095267825641151817
+      Piksel_denizde_pruva_dalgas_ve_kc_izi_70: 1899219552022665722
+      Piksel_denizde_pruva_dalgas_ve_kc_izi_71: -4296948707137155213
+      Piksel_denizde_pruva_dalgas_ve_kc_izi_72: -2328329674246530396
+      Piksel_denizde_pruva_dalgas_ve_kc_izi_73: 3459346005755968996
+      Piksel_denizde_pruva_dalgas_ve_kc_izi_74: -8008660828402911084
+      Piksel_denizde_pruva_dalgas_ve_kc_izi_75: -827994396905322289
+      Piksel_denizde_pruva_dalgas_ve_kc_izi_76: -8490839257462150182
+      Piksel_denizde_pruva_dalgas_ve_kc_izi_77: 4076628803260877593
+      Piksel_denizde_pruva_dalgas_ve_kc_izi_78: 1157785522586021886
+      Piksel_denizde_pruva_dalgas_ve_kc_izi_79: -787418335480342824
+      Piksel_denizde_pruva_dalgas_ve_kc_izi_8: 4288348437063118302
+      Piksel_denizde_pruva_dalgas_ve_kc_izi_80: -2344210455595079440
+      Piksel_denizde_pruva_dalgas_ve_kc_izi_81: -4992291038029461283
+      Piksel_denizde_pruva_dalgas_ve_kc_izi_82: -3091910016466552060
+      Piksel_denizde_pruva_dalgas_ve_kc_izi_83: -6139411253396898362
+      Piksel_denizde_pruva_dalgas_ve_kc_izi_84: -2241842354013990996
+      Piksel_denizde_pruva_dalgas_ve_kc_izi_85: 4415898919626207779
+      Piksel_denizde_pruva_dalgas_ve_kc_izi_86: -4423690611123202074
+      Piksel_denizde_pruva_dalgas_ve_kc_izi_87: 2158803526305972131
+      Piksel_denizde_pruva_dalgas_ve_kc_izi_88: 5687596166169083399
+      Piksel_denizde_pruva_dalgas_ve_kc_izi_89: -3643194126034590343
+      Piksel_denizde_pruva_dalgas_ve_kc_izi_9: 310355789371207338
+      Piksel_denizde_pruva_dalgas_ve_kc_izi_90: -2532965980018966149
+      Piksel_denizde_pruva_dalgas_ve_kc_izi_91: -2520577643170537650
+      Piksel_denizde_pruva_dalgas_ve_kc_izi_92: 5360133542606545758
+      Piksel_denizde_pruva_dalgas_ve_kc_izi_93: 4262220460972772941
+      Piksel_denizde_pruva_dalgas_ve_kc_izi_94: 2954280034811642018
+      Piksel_denizde_pruva_dalgas_ve_kc_izi_95: 6870199049363847139
+      Piksel_denizde_pruva_dalgas_ve_kc_izi_96: -6269117972073988487
+      Piksel_denizde_pruva_dalgas_ve_kc_izi_97: 5537257243620448482
+      Piksel_denizde_pruva_dalgas_ve_kc_izi_98: 4490696792253559096
+      Piksel_denizde_pruva_dalgas_ve_kc_izi_99: 1643347298334261621
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
