@@ -1014,7 +1014,7 @@ MonoBehaviour:
   upgradePool: []
   maxDashCharges: 3
   currentDash: 3
-  dashRegenRate: 20
+  dashRegenRate: 0.2
   dashCostMultiplier: 1
 --- !u!4 &630805028
 Transform:
@@ -2802,6 +2802,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: ShipHUDCanvas
       objectReference: {fileID: 0}
+    - target: {fileID: 8712626225379570555, guid: 3e4c06280db2291478c7d8031bdc3368, type: 3}
+      propertyPath: m_fontColor32.rgba
+      value: 4291621631
+      objectReference: {fileID: 0}
+    - target: {fileID: 8712626225379570555, guid: 3e4c06280db2291478c7d8031bdc3368, type: 3}
+      propertyPath: m_TextStyleHashCode
+      value: -1183493901
+      objectReference: {fileID: 0}
     - target: {fileID: 8838913663063008065, guid: 3e4c06280db2291478c7d8031bdc3368, type: 3}
       propertyPath: m_fontColor32.rgba
       value: 4291096831
@@ -3691,7 +3699,7 @@ MonoBehaviour:
   shipController: {fileID: 1757584476}
   shipLevel: 3
   fireRate: 0.5
-  attackRange: 10
+  attackRange: 20
   enemyLayer:
     serializedVersion: 2
     m_Bits: 64
