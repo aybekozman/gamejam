@@ -76,7 +76,7 @@ public sealed class StorySceneJourney : MonoBehaviour
                 if(pool!=null){var selected=pool.Where(p=>p&&AllowedEnemy(p.name,Stage)).ToArray();if(selected.Length>0)producer.SetSelectedEnemies(selected);}}
         }
         if(scene.path==ShipPath){var vessel=FindIn<ShipController>(scene);if(vessel){VoyageHarbor.Place(vessel.transform);}}
-        var support=new GameObject("Voyage scene support");SceneManager.MoveGameObjectToScene(support,scene);support.AddComponent<VoyagePauseMenu>();support.AddComponent<VoyageTutorial>();if(scene.path==UnderwaterPath)support.AddComponent<VoyageFishScale>();
+        var support=new GameObject("Voyage scene support");SceneManager.MoveGameObjectToScene(support,scene);support.AddComponent<VoyagePauseMenu>();support.AddComponent<VoyageTutorial>();if(VoyageTouchInput.Enabled){support.AddComponent<VoyageMobileControls>();support.AddComponent<VoyageHiddenGesture>();}if(scene.path==UnderwaterPath)support.AddComponent<VoyageFishScale>();
         var entry = new GameObject("Scene journey entry");
         SceneManager.MoveGameObjectToScene(entry, scene);
         entry.AddComponent<StorySceneEntry>();
@@ -120,7 +120,6 @@ public sealed class StorySceneJourney : MonoBehaviour
         if (JourneyStarted && Stage == JourneyStage.FirstShip && purification && purification.NormalizedProgress >= 1) FirstShipPurified();
     }
     public static bool AllowedEnemy(string name,JourneyStage stage){bool shark=name.Contains("Shark")||name.Contains("Köpek");bool large=name.Contains("Whale")||name.Contains("Orca");return stage==JourneyStage.WhaleBattle||(!large&&(stage==JourneyStage.SharkBattle||!shark));}
-    void Update(){if(Keyboard.current!=null&&Keyboard.current.pKey.wasPressedThisFrame)SkipCurrentPart();}
     public void SkipCurrentPart(){
         var scene=SceneManager.GetActiveScene();if(IsTransitioning||(scene.path!=UnderwaterPath&&scene.path!=ShipPath))return;
         if(Stage==JourneyStage.Finale){Time.timeScale=1;SceneManager.LoadScene("MainMenu");return;}

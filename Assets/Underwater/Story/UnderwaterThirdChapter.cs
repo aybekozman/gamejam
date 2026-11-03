@@ -48,7 +48,7 @@ namespace Abyss.Story
             var playerBody=story.player.GetComponent<Rigidbody2D>();playerBody.position=roadStart;playerBody.linearVelocity=Vector2.zero;
             var all=new[]{leader,guards[0],guards[1]};for(int i=0;i<all.Length;i++){Physics2D.IgnoreCollision(all[i].GetComponent<Collider2D>(),story.player.GetComponent<Collider2D>());for(int j=0;j<i;j++)Physics2D.IgnoreCollision(all[i].GetComponent<Collider2D>(),all[j].GetComponent<Collider2D>());}
             yield return story.ui.Fade(false);stage=ThirdChapterStage.Travel;story.player.ControlsLocked=false;hazards.Begin();
-            story.ui.SetObjective("Köpekbalığı liderine ulaş.");story.ui.QueueTravelDialogue("Yukarıda çatışma başlamış…");story.ui.QueueTravelDialogue("Hızlı yüzmek için Shift’e basılı tut.");StartCoroutine(SecondThought());
+            story.ui.SetObjective("Güllelerden kaçarak köpekbalığı liderine ulaş.");story.ui.QueueTravelDialogue("Yukarıda çatışma başlamış…");story.ui.QueueTravelDialogue("Güllelerden kaçarak köpekbalığı liderine ulaşmalıyım.");StartCoroutine(SecondThought());
         }
         IEnumerator SecondThought(){yield return new WaitForSeconds(2.8f);if(stage==ThirdChapterStage.Travel)story.ui.QueueTravelDialogue("Köpekbalıklarına ulaşmalıyım.");}
         public void Tick()
@@ -98,7 +98,7 @@ namespace Abyss.Story
         {
             story.ui.Clear();story.ui.ClearThought();story.player.ControlsLocked=true;yield return story.ui.Fade(true);
             var body=story.player.GetComponent<Rigidbody2D>();body.position=checkpoints[CheckpointIndex];body.linearVelocity=Vector2.zero;Health=3;immuneUntil=Time.time+invulnerability;
-            yield return story.ui.Fade(false);stage=ThirdChapterStage.Travel;story.player.ControlsLocked=false;hazards.Begin();story.ui.SetObjective("Köpekbalığı liderine ulaş.");
+            yield return story.ui.Fade(false);stage=ThirdChapterStage.Travel;story.player.ControlsLocked=false;hazards.Begin();story.ui.SetObjective("Güllelerden kaçarak köpekbalığı liderine ulaş.");
         }
         public void ResetChapter()
         {

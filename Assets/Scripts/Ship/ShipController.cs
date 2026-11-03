@@ -124,7 +124,7 @@ public class ShipController : MonoBehaviour
 
     void Update()
     {
-        moveInput = controls.Player.Move.ReadValue<Vector2>();
+        moveInput = VoyageTouchInput.StickActive?VoyageTouchInput.Move:controls.Player.Move.ReadValue<Vector2>();
 
         // 1. Sadece oyuncu hareket tuşlarına basıyorsa enerjiyi azalt
         if (moveInput.sqrMagnitude > 0.01f && currentEnergy > 0f)

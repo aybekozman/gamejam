@@ -1,0 +1,5 @@
+Succeeded
+C:/Users/PC/Desktop/D/gamejam/Builds/Android/RemnantsOfTheSea.apk
+Bytes: 1402673476
+Errors: 0
+Time: 00:05:42.6820807

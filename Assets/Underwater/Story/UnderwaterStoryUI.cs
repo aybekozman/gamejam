@@ -30,14 +30,14 @@ namespace Abyss.Story
         {
             font=Resources.GetBuiltinResource<Font>("LegacyRuntime.ttf");
             var root=new GameObject("Underwater story HUD",typeof(RectTransform),typeof(Canvas),typeof(CanvasScaler));root.transform.SetParent(transform,false);var canvas=root.GetComponent<Canvas>();canvas.renderMode=RenderMode.ScreenSpaceCamera;canvas.worldCamera=Camera.main;canvas.planeDistance=1;canvas.sortingOrder=1000;canvas.pixelPerfect=true;
-            var scaler=root.GetComponent<CanvasScaler>();scaler.uiScaleMode=CanvasScaler.ScaleMode.ScaleWithScreenSize;scaler.referenceResolution=new Vector2(1920,1080);scaler.matchWidthOrHeight=.5f;canvasRect=root.GetComponent<RectTransform>();
+            var scaler=root.GetComponent<CanvasScaler>();scaler.uiScaleMode=CanvasScaler.ScaleMode.ScaleWithScreenSize;scaler.referenceResolution=new Vector2(1920,1080);scaler.matchWidthOrHeight=.5f;canvasRect=root.GetComponent<RectTransform>();if(VoyageTouchInput.Enabled){scaler.matchWidthOrHeight=1;canvasRect=VoyageSafeArea.Create(canvasRect);InteractionKey="Dokun";}
             var objectiveBox=Rect("Objective",canvasRect,new Vector2(20,-20),new Vector2(600,94),new Vector2(0,1),new Vector2(0,1));objectiveRoot=objectiveBox.gameObject;var shade=objectiveBox.gameObject.AddComponent<Image>();shade.color=new Color(.015f,.08f,.12f,.85f);objective=Text("Objective text",objectiveBox,new Vector2(18,-10),new Vector2(564,76),25,TextAnchor.UpperLeft,new Color(.9f,.96f,.87f));
             var hintRect=Rect("Interaction hint",canvasRect,new Vector2(0,150),new Vector2(900,52),new Vector2(.5f,0),new Vector2(.5f,.5f));hint=hintRect.gameObject.AddComponent<Text>();Configure(hint,26,TextAnchor.MiddleCenter,Color.white);hint.gameObject.AddComponent<Outline>().effectColor=Color.black;
             var pr=Rect("Portrait dialogue",canvasRect,new Vector2(0,24),new Vector2(1100,320),new Vector2(.5f,0),new Vector2(.5f,0));panelRoot=pr.gameObject;panel=panelRoot.AddComponent<Image>();panel.type=Image.Type.Simple;
             portraitRect=Rect("Speaker portrait",pr,Vector2.zero,new Vector2(155,155),Vector2.zero,new Vector2(.5f,.5f));portrait=portraitRect.gameObject.AddComponent<Image>();portrait.preserveAspect=true;
             speakerRect=Rect("Speaker name",pr,Vector2.zero,new Vector2(310,42),Vector2.zero,new Vector2(.5f,.5f));speaker=speakerRect.gameObject.AddComponent<Text>();Configure(speaker,27,TextAnchor.MiddleCenter,new Color(1,.92f,.65f));
             bodyRect=Rect("Single sentence",pr,Vector2.zero,new Vector2(700,175),Vector2.zero,new Vector2(0,.5f));body=bodyRect.gameObject.AddComponent<Text>();Configure(body,30,TextAnchor.MiddleLeft,Color.white);
-            advance=Text("Advance",pr,new Vector2(550,20),new Vector2(900,30),20,TextAnchor.MiddleCenter,new Color(.7f,.9f,.94f));advance.rectTransform.pivot=new Vector2(.5f,.5f);advance.rectTransform.anchorMin=advance.rectTransform.anchorMax=Vector2.zero;advance.rectTransform.anchoredPosition=new Vector2(550,62);advance.text="E  •  metni tamamla / devam et";
+            advance=Text("Advance",pr,new Vector2(550,20),new Vector2(900,30),20,TextAnchor.MiddleCenter,new Color(.7f,.9f,.94f));advance.rectTransform.pivot=new Vector2(.5f,.5f);advance.rectTransform.anchorMin=advance.rectTransform.anchorMax=Vector2.zero;advance.rectTransform.anchoredPosition=new Vector2(550,62);advance.text=VoyageTouchInput.Enabled?"Dokun • metni tamamla / devam et":"E  •  metni tamamla / devam et";
             markerRect=Rect("Current story target",canvasRect,Vector2.zero,new Vector2(360,66),new Vector2(.5f,.5f),new Vector2(.5f,.5f));marker=markerRect.gameObject.AddComponent<Text>();Configure(marker,23,TextAnchor.MiddleCenter,new Color(1,.9f,.45f));marker.gameObject.AddComponent<Outline>().effectColor=new Color(.02f,.08f,.12f,1);panelRoot.SetActive(false);
             thought=Text("Short thought",canvasRect,new Vector2(24,-155),new Vector2(1000,65),25,TextAnchor.MiddleLeft,Color.white);thought.gameObject.AddComponent<Outline>().effectColor=Color.black;health=Text("Chapter health",canvasRect,new Vector2(24,-113),new Vector2(300,40),23,TextAnchor.MiddleLeft,new Color(.7f,.95f,1));danger=Text("Falling danger warning",canvasRect,new Vector2(0,-24),new Vector2(550,45),24,TextAnchor.MiddleCenter,new Color(1,.83f,.4f));danger.rectTransform.anchorMin=danger.rectTransform.anchorMax=new Vector2(.5f,1);danger.rectTransform.pivot=new Vector2(.5f,1);
             var cover=Rect("Chapter fade",canvasRect,Vector2.zero,Vector2.zero,Vector2.zero,Vector2.zero);cover.anchorMax=Vector2.one;cover.offsetMin=cover.offsetMax=Vector2.zero;fade=cover.gameObject.AddComponent<Image>();fade.color=new Color(0,0,0,0);fade.raycastTarget=false;fadeLabel=Text("Time passes",cover,new Vector2(0,0),new Vector2(900,100),38,TextAnchor.MiddleCenter,Color.white);fadeLabel.rectTransform.anchorMin=fadeLabel.rectTransform.anchorMax=new Vector2(.5f,.5f);fadeLabel.rectTransform.pivot=new Vector2(.5f,.5f);fadeLabel.text="";
@@ -49,13 +49,13 @@ namespace Abyss.Story
         public void Bind(FishPilot player){pilot=player;}
         public void Show(IEnumerable<Line> dialogue,bool block,Action onComplete=null,bool auto=false)
         {
-            Clear();foreach(var line in dialogue)lines.Enqueue(line);Blocking=block;automatic=auto;completed=onComplete;if(pilot)pilot.ControlsLocked=block;Present();
+            Clear();foreach(var line in dialogue)lines.Enqueue(line);Blocking=block;automatic=auto&&!VoyageTouchInput.Enabled;completed=onComplete;if(pilot)pilot.ControlsLocked=block;Present();
         }
         public void QueueTravelDialogue(string text)
         {
             if(Blocking)return;
             var line=new Line(false,text);
-            if(Active){if(automatic)lines.Enqueue(line);return;}
+            if(Active){lines.Enqueue(line);return;}
             Show(new[]{line},false,null,true);travelDialogue=true;autoDelay=2.6f;
         }
         public void SetContinuePrompt(bool visible,string key="E")
@@ -86,7 +86,7 @@ namespace Abyss.Story
         {
             ActorTarget=null;marker.gameObject.SetActive(world.HasValue&&!Blocking);if(!world.HasValue)return;
             var p=Camera.main.WorldToViewportPoint(world.Value);float width=Mathf.Max(1,canvasRect.rect.width),height=Mathf.Max(1,canvasRect.rect.height);
-            float px=Mathf.Min(.49f,185/width),bottom=Mathf.Min(.32f,180/height),top=Mathf.Min(.2f,90/height);
+            float px=Mathf.Min(.49f,185/width),bottom=VoyageTouchInput.Enabled?Mathf.Min(.42f,400/height):Mathf.Min(.32f,180/height),top=Mathf.Min(.2f,90/height);
             bool outside=p.z<0||p.x<px||p.x>1-px||p.y<bottom||p.y>1-top;
             var delta=new Vector2((p.x-.5f)*Camera.main.aspect,p.y-.5f);string arrow=Mathf.Abs(delta.x)>Mathf.Abs(delta.y)?(delta.x>0?"→":"←"):(delta.y>0?"↑":"↓");
             p.x=Mathf.Clamp(p.x,px,1-px);p.y=Mathf.Clamp(p.y,bottom,1-top);markerRect.anchoredPosition=new Vector2((p.x-.5f)*width,(p.y-.5f)*height);marker.text=(outside?arrow+" ":"◇ ")+label;

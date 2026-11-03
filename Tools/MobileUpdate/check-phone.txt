@@ -1,0 +1,25 @@
+Mobile touch integration checks - real InputSystem TouchState events
+PASS Mobile orientation is landscape on both sides
+PASS Underwater scene displays supplied joystick and fish boost only
+PASS Dragging touch joystick drives real fish movement
+PASS Two fingers steer and hold fish boost simultaneously
+PASS Releasing boost does not release the joystick
+PASS Releasing joystick clears held movement
+PASS Touch conversation button completes typewriter text
+PASS Touch conversation button advances dialogue and returns control
+PASS On-screen pause works without Escape
+PASS Touch resume restores gameplay
+PASS Old P shortcut no longer advances a chapter
+PASS Four taps and a short fifth press do not skip
+PASS Hidden touch gesture loads FirstShip
+PASS Ship scene switches to supplied ship boost button
+PASS Touch ship boost consumes a charge and remains steerable
+PASS Touching energy half selects energy directly
+PASS Touching XP half selects XP directly
+PASS UI taps do not count toward the hidden skip sequence
+PASS Level selection blocks mobile movement and releases controls
+PASS Upgrade card can be selected with an actual touch event
+PASS Joystick stays within simulated display cutout and bottom inset
+PASS Boost stays inside the opposite safe edge
+PASS Hidden touch gesture loads SecondUnderwater
+PASS No runtime errors in mobile touch verification

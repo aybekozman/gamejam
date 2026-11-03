@@ -23,11 +23,11 @@ public class FishPilot : MonoBehaviour {
  Rigidbody2D body; float clock,nextBlink=4,blinkTime,bubbleClock; bool left;
  void Awake(){body=GetComponent<Rigidbody2D>();restColor=visual.color;}
  void Update(){
-  sprintBlend=Mathf.Lerp(sprintBlend,!ControlsLocked&&(testSprint??sprint.IsPressed())?sprintMultiplier:1,1-Mathf.Exp(-sprintResponse*Time.deltaTime));
+  sprintBlend=Mathf.Lerp(sprintBlend,!ControlsLocked&&(testSprint??(VoyageTouchInput.FishBoostHeld||sprint.IsPressed()))?sprintMultiplier:1,1-Mathf.Exp(-sprintResponse*Time.deltaTime));
   if(ControlsLocked)ClearHitReaction();else if(impactLeft>0){impactLeft-=Time.deltaTime;visual.color=impactLeft>0?Color.red:restColor;}
   var k=Keyboard.current; Vector2 v=Vector2.zero;
   if(k!=null){v.x=(k.dKey.isPressed||k.rightArrowKey.isPressed?1:0)-(k.aKey.isPressed||k.leftArrowKey.isPressed?1:0);v.y=(k.wKey.isPressed||k.upArrowKey.isPressed?1:0)-(k.sKey.isPressed||k.downArrowKey.isPressed?1:0);}
-  InputVector=ControlsLocked?Vector2.zero:Vector2.ClampMagnitude(testInput??v,1); if(Mathf.Abs(InputVector.x)>.01f)left=InputVector.x<0;
+  InputVector=ControlsLocked?Vector2.zero:Vector2.ClampMagnitude(testInput??(VoyageTouchInput.StickActive?VoyageTouchInput.Move:v),1); if(Mathf.Abs(InputVector.x)>.01f)left=InputVector.x<0;
   visual.flipX=left; float pitch=InputVector.sqrMagnitude>.01f?Mathf.Clamp(Mathf.Atan2(InputVector.y,Mathf.Abs(InputVector.x))*Mathf.Rad2Deg,-tilt,tilt):0;
   float angle=Mathf.LerpAngle(visual.transform.localEulerAngles.z,pitch*(left?-1:1),1-Mathf.Exp(-pitchResponse*Time.deltaTime));visual.transform.localRotation=Quaternion.Euler(0,0,angle);
   clock+=Time.deltaTime*Mathf.Lerp(animationRate*.45f,animationRate,InputVector.magnitude);
@@ -43,7 +43,7 @@ public class FishPilot : MonoBehaviour {
   if(body.position.y<=surfaceY-bodyHalfHeight&&air.y<0){airborne=false;nextLeap=Time.time+1.2f;body.position=new Vector2(body.position.x,surfaceY-bodyHalfHeight);air.y=-1;Splash(true);}
   air.x=Mathf.Clamp(air.x,(swimMin.x-body.position.x)/Time.fixedDeltaTime,(swimMax.x-body.position.x)/Time.fixedDeltaTime);body.linearVelocity=air;return;
  }
- if(!ControlsLocked&&Time.time>=nextLeap&&(testSprint??sprint.IsPressed())&&InputVector.y>.45f&&body.position.y>=surfaceY-bodyHalfHeight-.3f&&body.linearVelocity.y>speed*.45f){airborne=true;body.linearVelocity=new Vector2(InputVector.x*CurrentSpeed*.8f,7.8f);Splash(false);return;}
+ if(!ControlsLocked&&Time.time>=nextLeap&&(testSprint??(VoyageTouchInput.FishBoostHeld||sprint.IsPressed()))&&InputVector.y>.45f&&body.position.y>=surfaceY-bodyHalfHeight-.3f&&body.linearVelocity.y>speed*.45f){airborne=true;body.linearVelocity=new Vector2(InputVector.x*CurrentSpeed*.8f,7.8f);Splash(false);return;}
 
  impact=Vector2.MoveTowards(impact,Vector2.zero,20*Time.fixedDeltaTime);
  var position=body.position;position.x=Mathf.Clamp(position.x,swimMin.x,swimMax.x);position.y=Mathf.Clamp(position.y,swimMin.y,surfaceY-bodyHalfHeight);if(position!=body.position)body.position=position;
