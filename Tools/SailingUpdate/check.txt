@@ -1,0 +1,35 @@
+Sailing, audio, loot, shortcut and cinematic checks
+Runtime-only controlled inputs and actor positions.
+PASS Underwater ambience gain is increased
+PASS Player fish grows proportionally with the underwater cast
+PASS Surface boost produces the higher short jump; peak=13,11792
+PASS Exit blup is quiet and landing blup is louder
+PASS Landing emits the larger splash
+PASS Undisclosed P shortcut advances to FirstShip
+PASS First visit consumes energy and uses shorter purification travel
+PASS Ossuary 7 plays in the non-combat ship visit
+PASS First visit displays the requested swimming/purification hint
+PASS First visit remains attack-free
+PASS Random sea pickups are energy-only
+PASS Energy pickup is a large visible lightning icon even in XP mode
+PASS Sea lightning refuels the ship in XP mode without granting XP
+PASS Native dash starts
+PASS Direction can change while boosting
+PASS Supplied animated waste flows from a fixed pipe pivot
+PASS Undisclosed P shortcut advances to SecondUnderwater
+PASS Undisclosed P shortcut advances to ShipBattle
+PASS Combat waits safely in the harbour
+PASS Leaving the harbour starts the larger attacking group
+PASS Ongoing attack density is increased
+PASS Attacking fish are proportionally 15% larger
+PASS Undisclosed P shortcut advances to ThirdUnderwater
+PASS Undisclosed P shortcut advances to SharkBattle
+PASS Sailing out north of the pier also starts combat
+PASS Undisclosed P shortcut advances to Finale
+PASS Finale freezes play before text and begins the flag close-up
+PASS Large white flag animates while gameplay is frozen
+PASS Camera approaches the ship before final dialogue begins
+PASS Departure narration has an opaque overlay above ship, guns and flag
+PASS No runtime errors in latest sailing checks
+PASS Undisclosed P shortcut advances to Finale
+PASS P can also skip the finale directly to the menu

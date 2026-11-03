@@ -68,7 +68,7 @@ namespace Abyss
             renderer.sortingOrder = whale ? -48 : -42;
             renderer.color = new Color(.55f, .8f, .9f, 0);
             renderer.flipX = !right;
-            go.transform.localScale = Vector3.one * width / renderer.sprite.bounds.size.x;
+            go.transform.localScale = Vector3.one * width * 1.15f / renderer.sprite.bounds.size.x;
             var swimmer = go.AddComponent<DistantSwimmer>();
             swimmer.Initialize(view, whale || school ? frames : null, renderer.color, whale ? whaleOpacity : fishOpacity,
                 (right ? 1 : -1) * (whale ? Random.Range(.45f, .7f) : Random.Range(.8f, 1.5f)), parallax, surfaceY, width);

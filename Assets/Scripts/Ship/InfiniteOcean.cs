@@ -13,6 +13,7 @@ public class InfiniteOcean : MonoBehaviour
     public Texture2D oceanTexture;
     public Vector2 repeatSize = new Vector2(40, 30);
     public Color tint = Color.white;
+    [Range(0,1)] public float pollution;
     public Vector2 currentDirection = new Vector2(1, .25f);
     [Min(0)] public float currentSpeed = .12f;
     [Range(0, 1)] public float waveStrength;
@@ -71,6 +72,7 @@ public class InfiniteOcean : MonoBehaviour
             properties.SetVector("_Flow", new Vector4(flow.x, flow.y, waveStrength, waveSpeed));
             properties.SetFloat("_OceanTime", elapsed);
             properties.SetColor("_Tint", tint);
+            properties.SetFloat("_Pollution",pollution);
             SetCrestProperties(false);
             surface.SetPropertyBlock(properties);
             return;
@@ -97,6 +99,7 @@ public class InfiniteOcean : MonoBehaviour
             properties.SetVector("_Flow", new Vector4(0,0,0,waveSpeed));
             properties.SetFloat("_OceanTime",elapsed);
             properties.SetColor("_Tint",tint);
+            properties.SetFloat("_Pollution",pollution);
             SetCrestProperties(true);
             surface.SetPropertyBlock(properties);
         }

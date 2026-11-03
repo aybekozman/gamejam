@@ -1,0 +1,33 @@
+Latest campaign, loot and fonts - Play Mode integration
+Runtime-only accelerated purifier and actor placement for scene boundaries.
+PASS Menu score plays in menu
+PASS New Game begins with original underwater discovery
+PASS No menu music leaks into first underwater chapter
+PASS Completed discovery and home entry reach first ship visit
+PASS First ship visit has no initial attack
+PASS Peaceful visit stays attack-free with energy consumption and sea energy pickups
+PASS First 100% purification starts the announcement chapter
+PASS Announcement chapter has no music score
+PASS Existing president attack decision finishes before first combat
+PASS Leaving toward sharks starts the small-fish ship attack
+PASS First combat produces only small fish
+PASS Actual fish kill drops the HUD-style XP star
+PASS Changing reward selection shows a lightning pickup
+PASS Lightning pickup grants only existing energy value; energy=55, xp=0
+PASS Actual star pickup levels up and updates the visible top-left badge
+PASS HUD numbers use a baked pixel font with valid digits
+PASS All selection labels, descriptions and numbers share the pixel font
+PASS Second 100% purification returns to the cannon-dodging shark journey
+PASS TopSUalti plays specifically during the shark journey
+PASS Shark agreement returns to the final combined ship battle
+PASS Final visit retains prior level and resets purification
+PASS Final battle begins with small fish and sharks only
+PASS Whales remain absent below 20% purification
+PASS 20% purification opens the whale-attack textbox
+PASS Whales join the same battle without a scene reload or water reset
+PASS Native producer admits whales and spawns the first reinforcement
+PASS Final combined battle keeps the sea heavily polluted
+PASS Whale arrival announcement fires once
+PASS Combined battle ends with white flag, departure and final text
+PASS Final text returns automatically to the main menu
+PASS No runtime errors in current verification

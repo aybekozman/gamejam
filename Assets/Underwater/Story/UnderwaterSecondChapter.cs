@@ -77,13 +77,13 @@ namespace Abyss.Story
         {
             if(stage==SecondChapterStage.AttendAnnouncement)
             {
-                story.ui.SetTarget(meetingPoint,"Duyuru alanı");
+                story.ui.SetActorTarget(story.mayor.transform,story.mayor.visual,"Duyuruyu dinle");
                 story.ui.SetHint(Vector2.Distance(story.player.transform.position,meetingPoint)<meetingRadius?story.InteractionKey+" • Duyuruya katıl":"");
             }
             else if(stage==SecondChapterStage.LeaveForSharks)
             {
-                story.ui.SetHint("");story.ui.SetTarget(departurePoint,"Köpekbalıkları yönü");
-                if(Vector2.Distance(story.player.transform.position,departurePoint)<departureRadius)Finish();
+                story.ui.SetHint("");story.ui.SetTarget(new Vector2(departurePoint.x,story.player.transform.position.y),"Köpekbalıkları yönü");
+                if(story.player.transform.position.x>=departurePoint.x-departureRadius)Finish();
             }
             else {story.ui.SetHint("");story.ui.SetTarget(null,"");}
         }

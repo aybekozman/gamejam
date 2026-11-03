@@ -156,7 +156,7 @@ namespace Abyss
                 renderer.sprite = definition.frames[0];
                 renderer.sortingOrder = definition.family == HabitatFamily.Whale ? 6 : 8;
                 renderer.color = new Color(1, 1, 1, 0);
-                go.transform.localScale = Vector3.one * definition.width / renderer.sprite.bounds.size.x;
+                go.transform.localScale = Vector3.one * definition.width * 1.15f / renderer.sprite.bounds.size.x;
                 var roaming = go.AddComponent<RoamingCreature>();
                 roaming.Initialize(this, definition, point);
                 population.Add(roaming);

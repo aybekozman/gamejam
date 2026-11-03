@@ -15,7 +15,7 @@ public sealed class ShipWaterPurification : MonoBehaviour
     Rigidbody2D body;
     bool completionRaised;
 
-    void Awake() { body = GetComponent<Rigidbody2D>(); }
+    void Awake() { body = GetComponent<Rigidbody2D>(); normalizedProgress=0; completionRaised=false; }
     void Start() { Refresh(); }
     void FixedUpdate()
     {

@@ -323,20 +323,26 @@ public class ShipUIManager : MonoBehaviour
         VisualElement overlay = root.Q<VisualElement>("LevelUpOverlay") ?? root;
         overlay.style.display = DisplayStyle.Flex;
 
+        var header=root.Q<VisualElement>(className:"level-up-header");
+        if(header!=null){var art=Resources.Load<Sprite>("Voyage/level_header");if(art)header.style.backgroundImage=new StyleBackground(art);}
         int maxTier = GetMaxAllowedTierForCurrentLevel();
 
         Label levelUpTitle = root.Q<Label>("LevelUpTitle") ?? root.Q<Label>(className: "level-up-title");
         if (levelUpTitle != null)
         {
             levelUpTitle.text = $"SEVİYE {currentLevel}!";
+            levelUpTitle.style.unityFontDefinition=FontDefinition.FromFont(Resources.Load<Font>("Voyage/PixelifySans"));levelUpTitle.style.fontSize=26;levelUpTitle.style.height=32;levelUpTitle.style.marginTop=0;levelUpTitle.style.marginBottom=0;levelUpTitle.style.paddingTop=0;levelUpTitle.style.paddingBottom=0;
         }
 
         Label levelUpSubtitle = root.Q<Label>("LevelUpSubtitle") ?? root.Q<Label>(className: "level-up-subtitle");
         if (levelUpSubtitle != null)
         {
             levelUpSubtitle.text = $"Gemin için bir geliştirme seç (Açık Tier: I - {GetRomanNumeral(maxTier)})";
+            levelUpSubtitle.style.unityFontDefinition=FontDefinition.FromFont(Resources.Load<Font>("Voyage/PixelifySans"));levelUpSubtitle.style.fontSize=14;levelUpSubtitle.style.height=20;levelUpSubtitle.style.marginTop=0;levelUpSubtitle.style.marginBottom=0;levelUpSubtitle.style.paddingTop=0;levelUpSubtitle.style.paddingBottom=0;
         }
 
+        var pixel=Resources.Load<Font>("Voyage/PixelifySans");
+        root.Query<Label>().ForEach(label=>{label.style.unityFontDefinition=FontDefinition.FromFont(pixel);label.style.unityFontStyleAndWeight=FontStyle.Normal;});
         UnbindAllCardEvents();
         List<UpgradeData> selectedUpgrades = GetSmartRandomUpgrades(3);
         isLevelUpScreenOpen = true;
@@ -363,6 +369,8 @@ public class ShipUIManager : MonoBehaviour
                 cardElement.RemoveFromClassList("tier-2");
                 cardElement.RemoveFromClassList("tier-3");
                 cardElement.AddToClassList($"tier-{data.tier}");
+                var art=Resources.Load<Sprite>("Voyage/card_"+Mathf.Clamp(data.tier-1,0,2));
+                if(art){cardElement.style.backgroundImage=new StyleBackground(art);cardElement.style.backgroundColor=Color.clear;cardElement.style.borderTopWidth=0;cardElement.style.borderBottomWidth=0;cardElement.style.borderLeftWidth=0;cardElement.style.borderRightWidth=0;}
 
                 VisualElement tierBadge = root.Q<VisualElement>($"TierBadge_{oneBased}")
                                        ?? root.Q<VisualElement>($"CardTierBadge_{oneBased}")
@@ -485,6 +493,8 @@ public class ShipUIManager : MonoBehaviour
         VisualElement bottomCenter = root.Q<VisualElement>(className: "bottom-center-panel");
         if (bottomCenter != null) bottomCenter.style.display = DisplayStyle.None;
     }
+
+    public void DismissForStory()=>HideLevelUpScreen();
 
     private void HideLevelUpScreen()
     {

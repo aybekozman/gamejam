@@ -11,6 +11,7 @@ public class FishPilot : MonoBehaviour {
  public SpriteRenderer visual; public Sprite[] swim,blink; public Sprite bubble;
  public Vector2 InputVector {get; private set;} public Vector2? testInput;
  public event System.Action BubbleGroupSpawned;
+ public bool? testSprint;public bool Airborne=>airborne;public int SplashCount{get;private set;}bool airborne;float nextLeap;
  public bool ControlsLocked {get;set;}
  public InputActionAsset movementActions;InputActionAsset actionCopy;
  public float sprintMultiplier=1.5f,sprintResponse=8; public float CurrentSpeed=>speed*sprintBlend;
@@ -22,7 +23,7 @@ public class FishPilot : MonoBehaviour {
  Rigidbody2D body; float clock,nextBlink=4,blinkTime,bubbleClock; bool left;
  void Awake(){body=GetComponent<Rigidbody2D>();restColor=visual.color;}
  void Update(){
-  sprintBlend=Mathf.Lerp(sprintBlend,!ControlsLocked&&sprint.IsPressed()?sprintMultiplier:1,1-Mathf.Exp(-sprintResponse*Time.deltaTime));
+  sprintBlend=Mathf.Lerp(sprintBlend,!ControlsLocked&&(testSprint??sprint.IsPressed())?sprintMultiplier:1,1-Mathf.Exp(-sprintResponse*Time.deltaTime));
   if(ControlsLocked)ClearHitReaction();else if(impactLeft>0){impactLeft-=Time.deltaTime;visual.color=impactLeft>0?Color.red:restColor;}
   var k=Keyboard.current; Vector2 v=Vector2.zero;
   if(k!=null){v.x=(k.dKey.isPressed||k.rightArrowKey.isPressed?1:0)-(k.aKey.isPressed||k.leftArrowKey.isPressed?1:0);v.y=(k.wKey.isPressed||k.upArrowKey.isPressed?1:0)-(k.sKey.isPressed||k.downArrowKey.isPressed?1:0);}
@@ -34,7 +35,16 @@ public class FishPilot : MonoBehaviour {
   visual.sprite=blinkTime>0?blink[1]:swim[(int)clock%swim.Length];
   bubbleClock-=Time.deltaTime;if(InputVector.sqrMagnitude>.1f&&bubbleClock<=0){bubbleClock=bubbleInterval*Random.Range(.8f,1.5f);BubbleGroupSpawned?.Invoke();for(int i=0;i<Random.Range(1,4);i++)Bubble.Spawn(bubble,transform.position+new Vector3(left?.5f:-.5f,-.02f,0),surfaceY,i*.08f,bubbleLifetime,bubbleSize,bubbleRiseSpeed,bubbleDrift);}
  }
+ void Splash(bool landing){SplashCount++;SurfaceSplash.Emit(new Vector2(body.position.x,surfaceY),landing?42:16);var sound=FindFirstObjectByType<Abyss.Story.UnderwaterSceneAudio>();if(sound)sound.PlayWaterSplash(landing);}
  void FixedUpdate(){
+ if(airborne){
+  if(ControlsLocked){airborne=false;body.position=new Vector2(body.position.x,surfaceY-bodyHalfHeight);body.linearVelocity=Vector2.zero;return;}
+  var air=body.linearVelocity;air.x=Mathf.MoveTowards(air.x,InputVector.x*speed*.75f,8*Time.fixedDeltaTime);air.y-=18*Time.fixedDeltaTime;
+  if(body.position.y<=surfaceY-bodyHalfHeight&&air.y<0){airborne=false;nextLeap=Time.time+1.2f;body.position=new Vector2(body.position.x,surfaceY-bodyHalfHeight);air.y=-1;Splash(true);}
+  air.x=Mathf.Clamp(air.x,(swimMin.x-body.position.x)/Time.fixedDeltaTime,(swimMax.x-body.position.x)/Time.fixedDeltaTime);body.linearVelocity=air;return;
+ }
+ if(!ControlsLocked&&Time.time>=nextLeap&&(testSprint??sprint.IsPressed())&&InputVector.y>.45f&&body.position.y>=surfaceY-bodyHalfHeight-.3f&&body.linearVelocity.y>speed*.45f){airborne=true;body.linearVelocity=new Vector2(InputVector.x*CurrentSpeed*.8f,7.8f);Splash(false);return;}
+
  impact=Vector2.MoveTowards(impact,Vector2.zero,20*Time.fixedDeltaTime);
  var position=body.position;position.x=Mathf.Clamp(position.x,swimMin.x,swimMax.x);position.y=Mathf.Clamp(position.y,swimMin.y,surfaceY-bodyHalfHeight);if(position!=body.position)body.position=position;
  var velocity=Vector2.MoveTowards(body.linearVelocity,InputVector*CurrentSpeed+impact,(InputVector.sqrMagnitude>.01f?acceleration:braking)*Time.fixedDeltaTime);

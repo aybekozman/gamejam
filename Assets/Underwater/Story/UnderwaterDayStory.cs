@@ -39,6 +39,7 @@ namespace Abyss.Story
         static UnderwaterStoryUI.Line M(string text)=>new(true,text);
         void Start()
         {
+            interactDistance=Mathf.Max(interactDistance,4.5f);if(secondChapter)secondChapter.meetingRadius=Mathf.Max(secondChapter.meetingRadius,6);if(thirdChapter)thirdChapter.talkRadius=Mathf.Max(thirdChapter.talkRadius,7);
             homeStart=player.transform.position;mayorStart=mayor.transform.position;bodyStart=bodies.Select(b=>b.position).ToArray();ui.Bind(player);
             runtimeInput=Instantiate(inputActions);interact=runtimeInput.FindAction("Player/Interact",true);interact.started+=_=>interactQueued=true;interact.Enable();
             foreach(var swimmer in new[]{eventFish,mayor}){if(swimmer.gameObject.activeInHierarchy)Physics2D.IgnoreCollision(swimmer.GetComponent<Collider2D>(),player.GetComponent<Collider2D>());}
@@ -61,6 +62,7 @@ namespace Abyss.Story
         }
         void Update()
         {
+            if(VoyagePauseMenu.IsOpen){interactQueued=false;return;}
             if(stage==UnderwaterDayStage.Beginning&&Vector2.Distance(player.transform.position,homeStart)>triggerDistance){stage=UnderwaterDayStage.FishDeath;UpdateObjective();StartCoroutine(Death());}
             if(floated)
             {
@@ -141,7 +143,7 @@ namespace Abyss.Story
         void UpdateHints()
         {
             Vector3? target=null;string label="",hint="";
-            if(stage==UnderwaterDayStage.FishDeath||stage==UnderwaterDayStage.FollowToSurface){target=eventFish.transform.position;label="Balığı takip et";}
+            if(stage==UnderwaterDayStage.FishDeath||stage==UnderwaterDayStage.FollowToSurface){target=new Vector3(eventFish.visual.bounds.center.x,eventFish.visual.bounds.max.y+1.2f,0);label="Balığı takip et";}
             if(stage==UnderwaterDayStage.InspectBodies){int id=Enumerable.Range(0,3).Where(i=>!inspected[i]).OrderBy(i=>Vector2.Distance(player.transform.position,bodies[i].position)).First();var renderer=bodies[id].GetComponent<SpriteRenderer>();target=new Vector3(renderer.bounds.center.x,renderer.bounds.max.y+.65f,0);label="İncele";if(Vector2.Distance(player.transform.position,bodies[id].position)<interactDistance){label=InteractionKey+" • İncele";hint="";}}
             if(stage==UnderwaterDayStage.ReportToMayor){target=new Vector3(mayor.visual.bounds.center.x,mayor.visual.bounds.max.y+.65f,0);label="Başkan";}
             if(stage==UnderwaterDayStage.EscortMayor){target=escort.Separation>14?mayor.transform.position:(Vector3)discoveryCenter;label=escort.Separation>14?"Başkanı bekle":"Keşif alanı";}

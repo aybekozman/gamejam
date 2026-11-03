@@ -297,3 +297,32 @@
 .upgrade-card:hover .card-select-text {
     color: #4A2B18;
 }
+/* User's nautical card atlas; selection, rewards and upgrades stay native. */
+.upgrade-card .card-title { color: #f8dca5; }
+.upgrade-card .card-tier-badge,
+.upgrade-card .card-icon-frame,
+.upgrade-card .card-desc-box,
+.upgrade-card .card-select-btn {
+    background-color: rgba(0, 0, 0, 0);
+    border-width: 0;
+}
+.level-up-header {
+    width: 640px;
+    height: 112px;
+    background-color: rgba(0,0,0,0);
+    border-width: 0;
+    padding: 18px 48px;
+    justify-content: center;
+}
+.level-up-title {
+    -unity-font: resource("Voyage/PixelifySans");
+    font-size: 28px;
+    color: #f8dca5;
+}
+.level-up-subtitle {
+    -unity-font: resource("Voyage/PixelifySans");
+    font-size: 16px;
+    color: #b8d3cf;
+}
+/* Pixelify has a smaller x-height than the former default card font. */
+.card-desc { font-size: 16px; }

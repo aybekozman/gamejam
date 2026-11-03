@@ -1,0 +1,43 @@
+Current requested polish - Play Mode checks
+Runtime-only controlled inputs and chapter-boundary setup; no combat tuning changed by tests.
+PASS Unity splash disabled; studio is Andronova Games
+PASS Intro has no skip button
+PASS Intro video prepared
+PASS Intro holds its final logo frame
+PASS Logo still visible one second after video ends
+PASS Menu appears after logo hold
+PASS Settings has master and music controls
+PASS Audio controls affect listener and music preference
+PASS Ship textbox returns control
+PASS First attack uses only small fish
+PASS Spawned fish move 15% faster without editing shared stats
+PASS Ship starts in western harbour
+PASS Mainland remains solid far north of town, not an island
+PASS Enemy placement avoids land and docks
+PASS New visit water starts at zero
+PASS Small-fish visit has matching stage-one pollution
+PASS Surface litter exists
+PASS Cannons render above hull
+PASS Surface music actually plays
+PASS Escape opens menu and freezes ship controls
+PASS Resume restores exact gameplay state
+PASS Movement, boost and loot instructions disappear after real first-use inputs; remaining=none
+PASS Pause over card selection preserves the card pause
+PASS Energy depletion restarts this visit without advancing story
+PASS Retry initializes full energy and empty water before gameplay resumes
+PASS Ship textbox returns control
+PASS Zero health restarts the same section
+PASS Health is full at retry entry
+PASS Ship textbox returns control
+PASS Ship textbox returns control
+PASS Second attack mixes small fish and sharks
+PASS Second attack is dirtier
+PASS Ship textbox returns control
+PASS Last attack includes whales with earlier fish
+PASS Final attack is dirtiest
+PASS Actual ship physics blocks entry onto the continuous mainland
+PASS Conversation reaches are enlarged consistently
+PASS Underwater music actually plays
+PASS Boost toward surface launches a short jump with exit and landing splashes
+PASS Shark departure accepts the vertical boundary far below the label
+PASS No runtime errors during polish verification

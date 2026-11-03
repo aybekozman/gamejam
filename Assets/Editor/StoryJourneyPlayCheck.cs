@@ -78,11 +78,12 @@ public static class StoryJourneyPlayCheck
             var scene=SceneManager.GetActiveScene();
             var story=scene.path==StorySceneJourney.UnderwaterPath?StorySceneJourney.FindIn<UnderwaterDayStory>(scene):null;
             if(story&&story.ui&&story.ui.Active)story.ui.Advance();
+            var shipDialogue=UnityEngine.Object.FindFirstObjectByType<ShipVisitDialogue>();if(shipDialogue&&shipDialogue.UI&&shipDialogue.UI.Active)shipDialogue.UI.Advance();
             if(phase==0&&story&&Time.frameCount>3)
             {
                 Check(flow.Stage==JourneyStage.FirstUnderwater&&story.Stage==UnderwaterDayStage.Beginning,"New game starts in authored first underwater chapter");
                 Check(!story.secondChapter.skipShipForDevelopment&&!story.secondChapter.Started&&!story.thirdChapter.Started,"Normal route disables development chapter skips");
-                Check(EditorBuildSettings.scenes.First(s=>s.enabled).path==StorySceneJourney.UnderwaterPath&&EditorBuildSettings.scenes.Any(s=>s.enabled&&s.path==StorySceneJourney.ShipPath),"Both actual scene paths are enabled; underwater is first");
+                Check(EditorBuildSettings.scenes.First(s=>s.enabled).path=="Assets/Scenes/MainMenu.unity"&&EditorBuildSettings.scenes.Any(s=>s.enabled&&s.path==StorySceneJourney.UnderwaterPath)&&EditorBuildSettings.scenes.Any(s=>s.enabled&&s.path==StorySceneJourney.ShipPath),"Menu is first; both actual gameplay scene paths are enabled");
                 Move(story,(Vector2)story.player.transform.position+Vector2.right*(story.triggerDistance+1));Next(1);
             }
             else if(phase==1&&story)
@@ -111,16 +112,16 @@ public static class StoryJourneyPlayCheck
                 story.secondChapter.firstChapterDepartureRequested.Invoke();
                 Check(flow.Stage==JourneyStage.FirstShip&&flow.IsTransitioning&&flow.TransitionCount==1,"Real home continue loads first ship exactly once, even with duplicate event");Next(6);
             }
-            else if(phase==6&&scene.path==StorySceneJourney.ShipPath&&!flow.IsTransitioning)
+            else if(phase==6&&scene.path==StorySceneJourney.ShipPath&&!flow.IsTransitioning&&shipDialogue&&shipDialogue.ReadyForGameplay)
             {
                 ship=StorySceneJourney.FindIn<ShipController>(scene);ui=StorySceneJourney.FindIn<ShipUIManager>(scene);water=ship.GetComponent<ShipWaterPurification>();body=ship.GetComponent<Rigidbody2D>();
-                Check(water&&water.fill&&water.percentage&&water.NormalizedProgress==0&&water.forwardDistanceForFull==1000,"Purifier starts at zero and binds real 0â€“1 progress to HUD");
+                Check(water&&water.fill&&water.percentage&&water.NormalizedProgress==0&&water.forwardDistanceForFull==1000,"Purifier starts at zero and binds real 0–1 progress to HUD");
                 var view=StorySceneJourney.FindIn<OrbRewardToggleView>(scene);
                 Check(view.lootMode==ui&&view.accent.sprite==view.xpFill,"Selector binds to actual loot manager and initial XP sprite");
-                originalEnemies=UnityEngine.Object.FindObjectsByType<Enemy>(FindObjectsSortMode.None).Length;
+                expectedSpeed=ship.maxSpeed;originalEnemies=UnityEngine.Object.FindObjectsByType<Enemy>(FindObjectsSortMode.None).Length;
                 foreach(var weapons in UnityEngine.Object.FindObjectsByType<ShipWeapons>(FindObjectsSortMode.None))weapons.enabled=false;
                 typeof(PlayerHealth).GetProperty("IsInvulnerable").SetValue(ship.GetComponent<PlayerHealth>(),true);
-                keyboard=InputSystem.AddDevice<Keyboard>("JourneyCheckKeyboard");InputSystem.QueueStateEvent(keyboard,new KeyboardState(UnityEngine.InputSystem.Key.Space));Next(7);
+                EditorWindow.GetWindow(typeof(EditorWindow).Assembly.GetType("UnityEditor.GameView")).Focus();keyboard=InputSystem.AddDevice<Keyboard>("JourneyCheckKeyboard");InputSystem.QueueStateEvent(keyboard,new KeyboardState(UnityEngine.InputSystem.Key.Space));Next(7);
             }
             else if(phase==7&&elapsed>.3)
             {
@@ -147,7 +148,7 @@ public static class StoryJourneyPlayCheck
             else if(phase==13&&elapsed>.3)
             {
                 Check(water.NormalizedProgress>progress&&Mathf.Abs(water.fill.fillAmount-water.NormalizedProgress)<.00001f&&water.percentage.text=="%"+Mathf.FloorToInt(water.NormalizedProgress*100),"Forward physics motion increases real progress and both HUD values");
-                expectedSpeed=ship.maxSpeed+2;ship.maxSpeed=expectedSpeed;ship.maxEnergy=135;ship.currentEnergy=70;
+                ship.maxSpeed+=2;ship.maxEnergy=135;ship.currentEnergy=70;
                 ui.currentLevel=7;ui.currentXP=3.25f;ui.nextLevelXP=85;ui.xpGainMultiplier=1.8f;ui.dashRegenRate=.8f;
                 var weapons=ship.GetComponent<ShipWeapons>();weapons.fireRate=.37f;weapons.attackRange=17;
                 weapons.allTurrets[0].recoilForce=1.25f;
@@ -171,16 +172,16 @@ public static class StoryJourneyPlayCheck
                 Move(story,story.secondChapter.departurePoint);story.secondChapter.Tick();story.secondChapter.secondChapterCompleted.Invoke();
                 Check(flow.Stage==JourneyStage.ShipBattle&&flow.TransitionCount==3,"Authored second chapter departure loads battle ship once");Next(17);
             }
-            else if(phase==17&&scene.path==StorySceneJourney.ShipPath&&!flow.IsTransitioning)
+            else if(phase==17&&scene.path==StorySceneJourney.ShipPath&&!flow.IsTransitioning&&shipDialogue&&shipDialogue.ReadyForGameplay)
             {
                 ship=StorySceneJourney.FindIn<ShipController>(scene);ui=StorySceneJourney.FindIn<ShipUIManager>(scene);water=ship.GetComponent<ShipWaterPurification>();
-                Check(ui.currentLevel==7&&ui.currentXP==3.25f&&ui.nextLevelXP==85&&ui.xpGainMultiplier==1.8f,"Real level, XP and XP upgrade multiplier survive scene round trip");
-                Check(ship.maxSpeed==expectedSpeed&&ship.maxEnergy==135&&ui.dashRegenRate==.8f,"Applied movement, energy and dash upgrades survive");
+                Check(ui.currentLevel==7&&ui.currentXP==3.25f&&ui.nextLevelXP==85&&ui.xpGainMultiplier==1,"Level and XP survive; XP multiplier starts fresh");
+                Check(ship.maxSpeed==expectedSpeed&&ship.currentEnergy==ship.maxEnergy,"Only XP persists; movement is authored fresh and energy is full");
                 var weapons=ship.GetComponent<ShipWeapons>();var health=ship.GetComponent<PlayerHealth>();
-                Check(weapons.fireRate==.37f&&weapons.attackRange==17&&weapons.allTurrets[0].recoilForce==1.25f&&health.maxHealth==150&&health.damageResistPercent==12,"Applied weapon, recoil, health and resistance upgrades survive");
-                Check(Bullet.bonusDamage==8&&Bullet.bonusSpeed==5&&Bullet.bonusKnockback==2,"Static projectile upgrades restored after destination Awake reset");
-                Check(water.NormalizedProgress==1&&water.percentage.text=="%100","Water remains full on second ship visit");
-                Check(!ui.isLootingXP&&StorySceneJourney.FindIn<OrbRewardToggleView>(scene).lootMode==ui,"Loot mode survives and remains connected");
+                Check(health.CurrentHealth==health.MaxHealth&&health.maxHealth!=150&&weapons.fireRate!=.37f,"Ship health and weapon tuning start fresh");
+                Check(Bullet.bonusDamage==0&&Bullet.bonusSpeed==0&&Bullet.bonusKnockback==0,"Projectile bonuses reset with the new visit");
+                Check(water.NormalizedProgress==0&&water.percentage.text=="%0","Second ship visit purifies again from zero");
+                Check(ui.isLootingXP&&StorySceneJourney.FindIn<OrbRewardToggleView>(scene).lootMode==ui,"Fresh default loot mode remains connected");
                 Check(StorySceneJourney.FindIn<EnemySpawner>(scene).enabled&&weapons.enabled&&ship.enabled,"Second ship uses normal controller, weapons and infinite spawner");Next(18);
             }
             else if(phase==18&&elapsed>2)

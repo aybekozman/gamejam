@@ -10,10 +10,11 @@ namespace Abyss.Story
         public AudioMixerGroup mixer;
         [Range(0,1)]public float ambienceVolume=.1f,bubbleVolume=.025f,effectVolume=.12f;
         public float bubbleInterval=1.6f,bubbleStartTime,bubbleDuration=.65f,loopBlend=.6f;
+        AudioClip waterBlup;public float LastSplashGain{get;private set;}
         AudioSource[] beds,fx;AudioSource bubbles;int current;float age,nextBubble,bubbleAge=-1,blend=-1,nextEffect;
         public int BubblePlays{get;private set;}public int SourceCount=>GetComponents<AudioSource>().Length;
         AudioSource Source(){var source=gameObject.AddComponent<AudioSource>();source.playOnAwake=false;source.spatialBlend=0;source.outputAudioMixerGroup=mixer;source.volume=0;return source;}
-        void Awake(){beds=new[]{Source(),Source()};fx=new[]{Source(),Source()};bubbles=Source();var distantObject=new GameObject("Distant cannon audio");distantObject.transform.SetParent(transform,false);distant=distantObject.AddComponent<AudioSource>();distant.playOnAwake=false;distant.spatialBlend=0;distant.outputAudioMixerGroup=mixer;distantObject.AddComponent<AudioLowPassFilter>().cutoffFrequency=1400;}
+        void Awake(){waterBlup=Resources.Load<AudioClip>("VoyageAudio/blup");ambienceVolume=Mathf.Min(1,ambienceVolume*1.8f);bubbleVolume*=1.35f;beds=new[]{Source(),Source()};fx=new[]{Source(),Source()};bubbles=Source();var distantObject=new GameObject("Distant cannon audio");distantObject.transform.SetParent(transform,false);distant=distantObject.AddComponent<AudioSource>();distant.playOnAwake=false;distant.spatialBlend=0;distant.outputAudioMixerGroup=mixer;distantObject.AddComponent<AudioLowPassFilter>().cutoffFrequency=1400;}
         void OnEnable(){if(player)player.BubbleGroupSpawned+=PlayBubble;}
         void OnDisable(){if(player)player.BubbleGroupSpawned-=PlayBubble;foreach(var source in GetComponentsInChildren<AudioSource>())source.Stop();}
         void Start(){if(ambience){beds[0].clip=ambience;beds[1].clip=ambience;beds[0].Play();}}
@@ -35,6 +36,7 @@ namespace Abyss.Story
             if(!bubble||Time.unscaledTime<nextBubble||ui&&ui.Blocking)return;
             nextBubble=Time.unscaledTime+bubbleInterval;bubbles.clip=bubble;bubbles.pitch=Random.Range(.97f,1.03f);bubbles.time=Mathf.Clamp(bubbleStartTime,0,Mathf.Max(0,bubble.length-bubbleDuration));bubbles.Play();bubbleAge=0;BubblePlays++;
         }
+        public void PlayWaterSplash(bool landing){if(!waterBlup)return;LastSplashGain=landing?.42f:.12f;foreach(var source in fx)if(!source.isPlaying){source.clip=waterBlup;source.volume=LastSplashGain;source.pitch=landing?.92f:1.08f;source.Play();return;}}
         public void PlayImpact(bool waterEntry)
         {
             var clip=waterEntry?splash:impact;if(!clip||Time.unscaledTime<nextEffect)return;

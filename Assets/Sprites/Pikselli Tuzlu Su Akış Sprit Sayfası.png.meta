@@ -1,0 +1,2002 @@
+fileFormatVersion: 2
+guid: 78eaf558249cfe64da049cb687a75658
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5830523548972003253
+    second: "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_0"
+  - first:
+      213: 3380602055780335948
+    second: "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_1"
+  - first:
+      213: -861011555492483040
+    second: "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_2"
+  - first:
+      213: -4224555558119015003
+    second: "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_3"
+  - first:
+      213: -4292974846739548004
+    second: "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_4"
+  - first:
+      213: -6424719237520452293
+    second: "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_5"
+  - first:
+      213: 5045357514566501969
+    second: "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_6"
+  - first:
+      213: 7688176788226210889
+    second: "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_7"
+  - first:
+      213: -4963630711632693994
+    second: "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_8"
+  - first:
+      213: -9156240738158151277
+    second: "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_9"
+  - first:
+      213: 6427790526005551474
+    second: "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_10"
+  - first:
+      213: 2303106660247926917
+    second: "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_11"
+  - first:
+      213: 2593504182380186022
+    second: "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_12"
+  - first:
+      213: 3472595969250433381
+    second: "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_13"
+  - first:
+      213: 1904784085909168208
+    second: "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_14"
+  - first:
+      213: 7850420636704995057
+    second: "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_15"
+  - first:
+      213: 2157751931381031420
+    second: "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_16"
+  - first:
+      213: -7515980218979794816
+    second: "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_17"
+  - first:
+      213: 1958646361792821142
+    second: "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_18"
+  - first:
+      213: -3860697747855608363
+    second: "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_19"
+  - first:
+      213: 1915692499745066113
+    second: "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_20"
+  - first:
+      213: -5096842083436070980
+    second: "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_21"
+  - first:
+      213: -1224422987580943963
+    second: "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_22"
+  - first:
+      213: -2870254218617020032
+    second: "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_23"
+  - first:
+      213: 1820434323825813523
+    second: "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_24"
+  - first:
+      213: -6480553494198170131
+    second: "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_25"
+  - first:
+      213: -7825911597944839534
+    second: "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_26"
+  - first:
+      213: -7134611728160967776
+    second: "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_27"
+  - first:
+      213: 1431268936873645474
+    second: "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_28"
+  - first:
+      213: -6792840285424846191
+    second: "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_29"
+  - first:
+      213: 7866168239092861609
+    second: "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_30"
+  - first:
+      213: 3653897656002704430
+    second: "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_31"
+  - first:
+      213: -3989857611625554717
+    second: "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_32"
+  - first:
+      213: 2250208781075279302
+    second: "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_33"
+  - first:
+      213: -4211611513074851957
+    second: "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_34"
+  - first:
+      213: -3858002761231885342
+    second: "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_35"
+  - first:
+      213: -8812927090428630725
+    second: "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_36"
+  - first:
+      213: -8480084527949483592
+    second: "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_37"
+  - first:
+      213: -5764995804965933570
+    second: "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_38"
+  - first:
+      213: 1313935846709307118
+    second: "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_39"
+  - first:
+      213: 2626995932253427725
+    second: "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_40"
+  - first:
+      213: -2028760113651470925
+    second: "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_41"
+  - first:
+      213: -8778748263350852144
+    second: "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_42"
+  - first:
+      213: -7796433563423854466
+    second: "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_43"
+  - first:
+      213: 690050660586964444
+    second: "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_44"
+  - first:
+      213: -8825202724401932056
+    second: "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_45"
+  - first:
+      213: 8002816395729186755
+    second: "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_46"
+  - first:
+      213: -2234387012523510975
+    second: "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_47"
+  - first:
+      213: 8181580078338550671
+    second: "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_48"
+  - first:
+      213: -2981689919888932469
+    second: "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_49"
+  - first:
+      213: -8843359589341947273
+    second: "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_50"
+  - first:
+      213: 3383993915356786811
+    second: "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_51"
+  - first:
+      213: -5336733942571157716
+    second: "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_52"
+  - first:
+      213: 8770848683422967552
+    second: "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_53"
+  - first:
+      213: -3072016862502208190
+    second: "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_54"
+  - first:
+      213: -2687615921009307036
+    second: "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_55"
+  - first:
+      213: -1032567166167000445
+    second: "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_56"
+  - first:
+      213: 8128092847731002534
+    second: "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_57"
+  - first:
+      213: -547645563030603828
+    second: "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_58"
+  - first:
+      213: -892371627389073893
+    second: "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_59"
+  - first:
+      213: -330733861728280503
+    second: "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_60"
+  - first:
+      213: 6269224984062093976
+    second: "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_61"
+  - first:
+      213: -5338013931966658494
+    second: "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_62"
+  - first:
+      213: -8615993913061707577
+    second: "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_63"
+  - first:
+      213: 7075404540989627808
+    second: "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_64"
+  - first:
+      213: -7509381170980735438
+    second: "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_65"
+  - first:
+      213: 2509852112807682266
+    second: "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_66"
+  - first:
+      213: 1258994377080601204
+    second: "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_67"
+  - first:
+      213: -5981220639190303417
+    second: "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_68"
+  - first:
+      213: 5718327302014631569
+    second: "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_69"
+  - first:
+      213: 5709939222199252404
+    second: "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_70"
+  - first:
+      213: -2831846499865682072
+    second: "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_71"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_0"
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 846
+        width: 46
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bfa60fb64e2ae050800000000000000
+      internalID: 5830523548972003253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_1"
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 856
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c410eb598af4aee20800000000000000
+      internalID: 3380602055780335948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_2"
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 832
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0203d575d821d04f0800000000000000
+      internalID: -861011555492483040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_3"
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 844
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5adf9604a1d5f55c0800000000000000
+      internalID: -4224555558119015003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_4"
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 856
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c98f66e3f1a4c64c0800000000000000
+      internalID: -4292974846739548004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_5"
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 408
+        width: 314
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3599f1a4efc6d6a0800000000000000
+      internalID: -6424719237520452293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_6"
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 0
+        width: 1345
+        height: 887
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15685949de5b40640800000000000000
+      internalID: 5045357514566501969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_7"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 249
+        width: 132
+        height: 596
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94c70a02e04e1ba60800000000000000
+      internalID: 7688176788226210889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_8"
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 829
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 615f9ec8a24ad1bb0800000000000000
+      internalID: -4963630711632693994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_9"
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 799
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3997f1c7f8f7ee080800000000000000
+      internalID: -9156240738158151277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_10"
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 531
+        width: 171
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 271ae217d69143950800000000000000
+      internalID: 6427790526005551474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_11"
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 779
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 588f9eb1e4746ff10800000000000000
+      internalID: 2303106660247926917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_12"
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 780
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a9c24a105afdf320800000000000000
+      internalID: 2593504182380186022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_13"
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 743
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56910aba2a3213030800000000000000
+      internalID: 3472595969250433381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_14"
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 737
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 050ee6eb8072f6a10800000000000000
+      internalID: 1904784085909168208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_15"
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 722
+        width: 18
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f6723cc9fb42fc60800000000000000
+      internalID: 7850420636704995057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_16"
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 717
+        width: 13
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf1216703ffd1fd10800000000000000
+      internalID: 2157751931381031420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_17"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 642
+        width: 6
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 080c8dcefcfd1b790800000000000000
+      internalID: -7515980218979794816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_18"
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 680
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 697b54b1d728e2b10800000000000000
+      internalID: 1958646361792821142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_19"
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 668
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d57ae96adb0c6ac0800000000000000
+      internalID: -3860697747855608363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_20"
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 658
+        width: 31
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18c4f22cd28e59a10800000000000000
+      internalID: 1915692499745066113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_21"
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 612
+        width: 114
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb7f78c11216449b0800000000000000
+      internalID: -5096842083436070980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_22"
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 610
+        width: 29
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a15a62b7c9f10fe0800000000000000
+      internalID: -1224422987580943963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_23"
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 640
+        width: 7
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0812444defeca28d0800000000000000
+      internalID: -2870254218617020032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_24"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 554
+        width: 5
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 318e0985f5b734910800000000000000
+      internalID: 1820434323825813523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_25"
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 547
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dedc666bee27016a0800000000000000
+      internalID: -6480553494198170131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_26"
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 578
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29263e87dd6c46390800000000000000
+      internalID: -7825911597944839534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_27"
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 571
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a331ac1f64ccfc90800000000000000
+      internalID: -7134611728160967776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_28"
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 578
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a59760d383ecd310800000000000000
+      internalID: 1431268936873645474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_29"
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 563
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19af94b10cbfab1a0800000000000000
+      internalID: -6792840285424846191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_30"
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 543
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aa0792365e3a2d60800000000000000
+      internalID: 7866168239092861609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_31"
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 457
+        width: 27
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e247ca71f8045b230800000000000000
+      internalID: 3653897656002704430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_32"
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 497
+        width: 33
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ec9ba234ad21a8c0800000000000000
+      internalID: -3989857611625554717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_33"
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 475
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cde47ad6f85a3f10800000000000000
+      internalID: 2250208781075279302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_34"
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 477
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8f5a3794a95d85c0800000000000000
+      internalID: -4211611513074851957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_35"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 418
+        width: 19
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eb1c42edee957ac0800000000000000
+      internalID: -3858002761231885342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_36"
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 0
+        width: 390
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b39a59f018132b580800000000000000
+      internalID: -8812927090428630725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_37"
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 448
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b1f84e1d00b05a80800000000000000
+      internalID: -8480084527949483592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_38"
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 408
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efd63611cde9effa0800000000000000
+      internalID: -5764995804965933570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_39"
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 418
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee6a2c8e0b90c3210800000000000000
+      internalID: 1313935846709307118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_40"
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 422
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d089c58c1e6f47420800000000000000
+      internalID: 2626995932253427725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_41"
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 392
+        width: 13
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bda25bec6568d3e0800000000000000
+      internalID: -2028760113651470925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_42"
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 393
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d5256e57fe9b2680800000000000000
+      internalID: -8778748263350852144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_43"
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 402
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7030393bf08dc390800000000000000
+      internalID: -7796433563423854466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_44"
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 366
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd54f457b6d839900800000000000000
+      internalID: 690050660586964444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_45"
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 359
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e8963d41e4968580800000000000000
+      internalID: -8825202724401932056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_46"
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 326
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cf2c167c17bf0f60800000000000000
+      internalID: 8002816395729186755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_47"
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 354
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1433ac3b9dcddf0e0800000000000000
+      internalID: -2234387012523510975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_48"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 304
+        width: 7
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8b28cebbbfca8170800000000000000
+      internalID: 8181580078338550671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_49"
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 303
+        width: 7
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8148a6c0d8ee96d0800000000000000
+      internalID: -2981689919888932469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_50"
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 310
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77a9a30ce43164580800000000000000
+      internalID: -8843359589341947273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_51"
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 305
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b70bcee698c56fe20800000000000000
+      internalID: 3383993915356786811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_52"
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 306
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c27b64421cc10f5b0800000000000000
+      internalID: -5336733942571157716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_53"
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 319
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 007e02a586058b970800000000000000
+      internalID: 8770848683422967552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_54"
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 307
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24dbb8690f00e55d0800000000000000
+      internalID: -3072016862502208190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_55"
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 291
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4625e873f8ba3bad0800000000000000
+      internalID: -2687615921009307036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_56"
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 270
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38a52e512a59ba1f0800000000000000
+      internalID: -1032567166167000445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_57"
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 104
+        width: 127
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ac466a6169ccc070800000000000000
+      internalID: 8128092847731002534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_58"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 263
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc7fdb0134f5668f0800000000000000
+      internalID: -547645563030603828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_59"
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 241
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1646dd9bb8ad93f0800000000000000
+      internalID: -892371627389073893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_60"
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 241
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9402e781e4ff86bf0800000000000000
+      internalID: -330733861728280503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_61"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 151
+        width: 10
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89a660048e2c00750800000000000000
+      internalID: 6269224984062093976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_62"
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 94
+        width: 72
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2488a036c909be5b0800000000000000
+      internalID: -5338013931966658494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_63"
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 148
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c077018f27dd6880800000000000000
+      internalID: -8615993913061707577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_64"
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 112
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ad5fd361f2e03260800000000000000
+      internalID: 7075404540989627808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_65"
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 15
+        width: 78
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 236bfa48c9159c790800000000000000
+      internalID: -7509381170980735438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_66"
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 65
+        width: 9
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad06aa6e239c4d220800000000000000
+      internalID: 2509852112807682266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_67"
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 0
+        width: 94
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47a7a1c27b8d87110800000000000000
+      internalID: 1258994377080601204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_68"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 41
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74db3ddb48f6efca0800000000000000
+      internalID: -5981220639190303417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_69"
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 13
+        width: 53
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19efff952649b5f40800000000000000
+      internalID: 5718327302014631569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_70"
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 9
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b5b1445877cd3f40800000000000000
+      internalID: 5709939222199252404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_71"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 19
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86f9215bc9243b8d0800000000000000
+      internalID: -2831846499865682072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_0": 5830523548972003253
+      "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_1": 3380602055780335948
+      "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_10": 6427790526005551474
+      "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_11": 2303106660247926917
+      "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_12": 2593504182380186022
+      "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_13": 3472595969250433381
+      "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_14": 1904784085909168208
+      "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_15": 7850420636704995057
+      "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_16": 2157751931381031420
+      "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_17": -7515980218979794816
+      "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_18": 1958646361792821142
+      "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_19": -3860697747855608363
+      "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_2": -861011555492483040
+      "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_20": 1915692499745066113
+      "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_21": -5096842083436070980
+      "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_22": -1224422987580943963
+      "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_23": -2870254218617020032
+      "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_24": 1820434323825813523
+      "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_25": -6480553494198170131
+      "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_26": -7825911597944839534
+      "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_27": -7134611728160967776
+      "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_28": 1431268936873645474
+      "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_29": -6792840285424846191
+      "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_3": -4224555558119015003
+      "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_30": 7866168239092861609
+      "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_31": 3653897656002704430
+      "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_32": -3989857611625554717
+      "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_33": 2250208781075279302
+      "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_34": -4211611513074851957
+      "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_35": -3858002761231885342
+      "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_36": -8812927090428630725
+      "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_37": -8480084527949483592
+      "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_38": -5764995804965933570
+      "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_39": 1313935846709307118
+      "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_4": -4292974846739548004
+      "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_40": 2626995932253427725
+      "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_41": -2028760113651470925
+      "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_42": -8778748263350852144
+      "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_43": -7796433563423854466
+      "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_44": 690050660586964444
+      "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_45": -8825202724401932056
+      "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_46": 8002816395729186755
+      "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_47": -2234387012523510975
+      "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_48": 8181580078338550671
+      "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_49": -2981689919888932469
+      "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_5": -6424719237520452293
+      "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_50": -8843359589341947273
+      "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_51": 3383993915356786811
+      "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_52": -5336733942571157716
+      "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_53": 8770848683422967552
+      "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_54": -3072016862502208190
+      "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_55": -2687615921009307036
+      "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_56": -1032567166167000445
+      "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_57": 8128092847731002534
+      "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_58": -547645563030603828
+      "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_59": -892371627389073893
+      "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_6": 5045357514566501969
+      "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_60": -330733861728280503
+      "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_61": 6269224984062093976
+      "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_62": -5338013931966658494
+      "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_63": -8615993913061707577
+      "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_64": 7075404540989627808
+      "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_65": -7509381170980735438
+      "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_66": 2509852112807682266
+      "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_67": 1258994377080601204
+      "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_68": -5981220639190303417
+      "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_69": 5718327302014631569
+      "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_7": 7688176788226210889
+      "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_70": 5709939222199252404
+      "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_71": -2831846499865682072
+      "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_8": -4963630711632693994
+      "Pikselli Tuzlu Su Ak\u0131\u015F Sprit Sayfas\u0131_9": -9156240738158151277
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

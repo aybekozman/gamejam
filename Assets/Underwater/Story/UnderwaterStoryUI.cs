@@ -10,6 +10,7 @@ namespace Abyss.Story
         [Serializable] public struct Line { public bool mayor;public string text,speakerName;public Sprite portrait;public Line(bool mayor,string text){this.mayor=mayor;this.text=text;speakerName=null;portrait=null;} public Line(string speakerName,Sprite portrait,string text,bool left=true){mayor=left;this.text=text;this.speakerName=speakerName;this.portrait=portrait;} }
         public Sprite leftPanel,rightPanel,playerPortrait,mayorPortrait;
         public float lettersPerSecond=36;
+        public bool unscaledText;
         public bool Active=>lines.Count>0;
         public bool Blocking{get;private set;}
         public string CurrentText=>Active?lines.Peek().text:"";
@@ -78,7 +79,7 @@ namespace Abyss.Story
             if(!TextReady){shown=CurrentText.Length;body.text=CurrentText;return;}lines.Dequeue();Present();
         }
         public void Clear(){travelDialogue=false;continuePrompt=false;lines.Clear();completed=null;Blocking=false;if(pilot)pilot.ControlsLocked=false;if(panelRoot)panelRoot.SetActive(false);}
-        void Update(){if(Time.unscaledTime>thoughtUntil||Blocking)thought.text="";if(!Active)return;shown=Mathf.Min(CurrentText.Length,shown+lettersPerSecond*Time.deltaTime);body.text=CurrentText.Substring(0,Mathf.FloorToInt(shown));if(automatic&&TextReady&&(autoDelay-=Time.deltaTime)<=0){lines.Dequeue();Present();}}
+        void Update(){if(Time.unscaledTime>thoughtUntil||Blocking)thought.text="";if(!Active)return;shown=Mathf.Min(CurrentText.Length,shown+lettersPerSecond*(unscaledText?Time.unscaledDeltaTime:Time.deltaTime));body.text=CurrentText.Substring(0,Mathf.FloorToInt(shown));if(automatic&&TextReady&&(autoDelay-=(unscaledText?Time.unscaledDeltaTime:Time.deltaTime))<=0){lines.Dequeue();Present();}}
         public void SetObjective(string value){Objective=value;objective.text=value;objectiveRoot.SetActive(!string.IsNullOrEmpty(value));}
         public void SetHint(string value){hint.text=Active?"":value;}
         public void SetTarget(Vector3? world,string label)
@@ -93,7 +94,7 @@ namespace Abyss.Story
         }
         public void SetActorTarget(Transform actor,SpriteRenderer visual,string label)
         {
-            var head=new Vector3(visual.bounds.center.x,visual.bounds.max.y+.65f,0);var viewport=Camera.main.WorldToViewportPoint(head);bool outside=viewport.x<.06f||viewport.x>.94f||viewport.y<.14f||viewport.y>.92f;
+            var head=new Vector3(visual.bounds.center.x,visual.bounds.max.y+1.2f,0);var viewport=Camera.main.WorldToViewportPoint(head);bool outside=viewport.x<.06f||viewport.x>.94f||viewport.y<.14f||viewport.y>.92f;
             SetTarget(outside?actor.position:head,label);ActorTarget=actor;ActorTargetOffscreen=outside;
         }
         public void ShowThought(string text,float duration=2.8f){if(Blocking)return;thought.text=text;thoughtUntil=Time.unscaledTime+duration;}

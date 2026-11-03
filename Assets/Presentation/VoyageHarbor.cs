@@ -1,0 +1,19 @@
+using UnityEngine;
+// A continuous western mainland. The harbour opens east into the existing free sea.
+public sealed class VoyageHarbor:MonoBehaviour {
+ public const float CoastX=-40f;static VoyageHarbor current;Transform[] edge;float segment;float lastY=float.NaN;
+ public static void Place(Transform ship){var go=new GameObject("Western coast and harbour");var coast=go.AddComponent<VoyageHarbor>();current=coast;coast.Build();var rb=ship.GetComponent<Rigidbody2D>();var spawn=new Vector2(CoastX+13,0);var delta=(Vector3)spawn-ship.position;delta.z=0;if(rb){rb.position=spawn;rb.linearVelocity=Vector2.zero;rb.angularVelocity=0;}ship.position=new Vector3(spawn.x,spawn.y,ship.position.z);Unity.Cinemachine.CinemachineCore.OnTargetObjectWarped(ship,delta);if(Camera.main)Camera.main.transform.position+=delta;Physics2D.SyncTransforms();}
+ void Build(){
+  var land=Part("Continuous mainland","coast_sand",transform,1);land.transform.position=new Vector3(CoastX-1002,0,0);land.transform.localScale=new Vector3(2000/land.sprite.bounds.size.x,20000/land.sprite.bounds.size.y,1);var material=new Material(Shader.Find("Ship/Calm Pixel Ocean"));var texture=land.sprite.texture;material.SetTexture("_OceanTex",texture);material.SetVector("_OceanPixelSize",new Vector4(1f/texture.width,1f/texture.height,texture.width,texture.height));material.SetVector("_RepeatSize",new Vector4(1.2f,1.2f,0,0));material.SetVector("_Flow",Vector4.zero);material.SetColor("_Tint",Color.white);land.sharedMaterial=material;var wall=new GameObject("Mainland boundary");wall.transform.SetParent(transform);wall.transform.position=new Vector3(CoastX-999,0,0);wall.AddComponent<BoxCollider2D>().size=new Vector2(2000,20000);
+  edge=new Transform[7];segment=18;for(int i=0;i<edge.Length;i++){var strip=Part("Continuous shoreline "+i,"coast_edge",transform,2);strip.transform.rotation=Quaternion.Euler(0,0,90);Fit(strip,segment);edge[i]=strip.transform;}
+  var town=Part("Dry river coastal town","town",transform,3);town.transform.position=new Vector3(CoastX-7,0,0);town.transform.rotation=Quaternion.Euler(0,0,90);Fit(town,30);town.gameObject.AddComponent<PolygonCollider2D>();
+  var port=Part("Harbour - open to the east","harbor",transform,4);port.transform.position=new Vector3(CoastX+8,0,0);port.transform.rotation=Quaternion.Euler(0,0,90);Fit(port,26);var size=port.sprite.bounds.size;Box(port.gameObject,new Vector2(0,size.y*.34f),new Vector2(size.x,size.y*.29f));Box(port.gameObject,new Vector2(-size.x*.43f,-size.y*.12f),new Vector2(size.x*.14f,size.y*.72f));Box(port.gameObject,new Vector2(size.x*.43f,-size.y*.12f),new Vector2(size.x*.14f,size.y*.72f));
+ }
+ static void Box(GameObject go,Vector2 at,Vector2 size){var box=go.AddComponent<BoxCollider2D>();box.offset=at;box.size=size;}
+ public static Vector2 NearestWater(Vector2 at){if(!current)return at;at.x=Mathf.Max(CoastX+3,at.x);for(int i=0;i<30&&Blocked(at);i++)at.x+=2;return at;}
+ static bool Blocked(Vector2 at){foreach(var hit in Physics2D.OverlapCircleAll(at,1.1f))if(hit.transform.IsChildOf(current.transform))return true;return false;}
+ void LateUpdate(){if(!Camera.main)return;float y=Mathf.Floor(Camera.main.transform.position.y/segment)*segment;if(y==lastY)return;lastY=y;for(int i=0;i<edge.Length;i++)edge[i].position=new Vector3(CoastX-1.2f,y+(i-3)*segment,0);}
+ void OnDestroy(){if(current==this)current=null;}
+ static SpriteRenderer Part(string name,string asset,Transform parent,int order){var go=new GameObject(name);go.transform.SetParent(parent);var r=go.AddComponent<SpriteRenderer>();r.sprite=Resources.Load<Sprite>("Voyage/"+asset);r.sortingOrder=order;r.sharedMaterial=new Material(Shader.Find("Universal Render Pipeline/2D/Sprite-Unlit-Default"));return r;}
+ static void Fit(SpriteRenderer r,float width){if(r.sprite)r.transform.localScale=Vector3.one*(width/r.sprite.bounds.size.x);}
+}

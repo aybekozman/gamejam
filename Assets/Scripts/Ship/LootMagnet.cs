@@ -45,7 +45,8 @@ public class LootMagnet : MonoBehaviour
 
                 if (uiManager != null)
                 {
-                    if (uiManager.isLootingXP)
+                    if(lootItem!=null&&lootItem.energyOnly&&shipController)shipController.AddEnergy(energyToGain);
+                    else if (uiManager.isLootingXP)
                     {
                         uiManager.AddXP(xpToGain);
                     }

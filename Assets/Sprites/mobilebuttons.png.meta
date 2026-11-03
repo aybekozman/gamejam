@@ -1,0 +1,2704 @@
+fileFormatVersion: 2
+guid: f1a91a33b4fef4a49a24e362ee5cc50d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4281396799010812709
+    second: mobilebuttons_0
+  - first:
+      213: 8702625389788111780
+    second: mobilebuttons_1
+  - first:
+      213: -282946501437055085
+    second: mobilebuttons_2
+  - first:
+      213: 4734231894157168553
+    second: mobilebuttons_3
+  - first:
+      213: -1571880365519257212
+    second: mobilebuttons_4
+  - first:
+      213: 5289270833503044217
+    second: mobilebuttons_5
+  - first:
+      213: 1710678606928023283
+    second: mobilebuttons_6
+  - first:
+      213: -8319495911954379581
+    second: mobilebuttons_7
+  - first:
+      213: -1102441533700031133
+    second: mobilebuttons_8
+  - first:
+      213: -5779020202284270818
+    second: mobilebuttons_9
+  - first:
+      213: -8272370462688494705
+    second: mobilebuttons_10
+  - first:
+      213: -4536153636337175589
+    second: mobilebuttons_11
+  - first:
+      213: 7102094219112817890
+    second: mobilebuttons_12
+  - first:
+      213: -6053937710358731485
+    second: mobilebuttons_13
+  - first:
+      213: -2766739585867499745
+    second: mobilebuttons_14
+  - first:
+      213: 4014063274453152139
+    second: mobilebuttons_15
+  - first:
+      213: -987057687240747026
+    second: mobilebuttons_16
+  - first:
+      213: -4140844531112783280
+    second: mobilebuttons_17
+  - first:
+      213: -3938508731101495919
+    second: mobilebuttons_18
+  - first:
+      213: -174751778201790823
+    second: mobilebuttons_19
+  - first:
+      213: 5756496677159991615
+    second: mobilebuttons_20
+  - first:
+      213: -7348807574988956719
+    second: mobilebuttons_21
+  - first:
+      213: 2237041436253958498
+    second: mobilebuttons_22
+  - first:
+      213: -9175953157190019891
+    second: mobilebuttons_23
+  - first:
+      213: 4480089025082969274
+    second: mobilebuttons_24
+  - first:
+      213: 458783665737410442
+    second: mobilebuttons_25
+  - first:
+      213: -1242238327652400673
+    second: mobilebuttons_26
+  - first:
+      213: 4927266031730616353
+    second: mobilebuttons_27
+  - first:
+      213: -5751998029489741475
+    second: mobilebuttons_28
+  - first:
+      213: -6190539305530742762
+    second: mobilebuttons_29
+  - first:
+      213: 1509529417027207496
+    second: mobilebuttons_30
+  - first:
+      213: 1219109121732514495
+    second: mobilebuttons_31
+  - first:
+      213: 5793442822917303654
+    second: mobilebuttons_32
+  - first:
+      213: 8145115867545619394
+    second: mobilebuttons_33
+  - first:
+      213: 8877857388264519902
+    second: mobilebuttons_34
+  - first:
+      213: -4940092094378249066
+    second: mobilebuttons_35
+  - first:
+      213: 6481383333609529155
+    second: mobilebuttons_36
+  - first:
+      213: 5950492775895535559
+    second: mobilebuttons_37
+  - first:
+      213: -5486705814787356926
+    second: mobilebuttons_38
+  - first:
+      213: -3344519174157964518
+    second: mobilebuttons_39
+  - first:
+      213: 6976794290513776164
+    second: mobilebuttons_40
+  - first:
+      213: 2046319996669695108
+    second: mobilebuttons_41
+  - first:
+      213: -4607413705704394134
+    second: mobilebuttons_42
+  - first:
+      213: -3724055743303402842
+    second: mobilebuttons_43
+  - first:
+      213: -8765591540057848825
+    second: mobilebuttons_44
+  - first:
+      213: 4089940067628617744
+    second: mobilebuttons_45
+  - first:
+      213: -2571323643465592396
+    second: mobilebuttons_46
+  - first:
+      213: -2883226581532377282
+    second: mobilebuttons_47
+  - first:
+      213: -8212730842230945998
+    second: mobilebuttons_48
+  - first:
+      213: 7675230764307753639
+    second: mobilebuttons_49
+  - first:
+      213: 8373506966656409640
+    second: mobilebuttons_50
+  - first:
+      213: -857464565582399260
+    second: mobilebuttons_51
+  - first:
+      213: -8791092050706793792
+    second: mobilebuttons_52
+  - first:
+      213: -5389983900695024182
+    second: mobilebuttons_53
+  - first:
+      213: -5764041578977914011
+    second: mobilebuttons_54
+  - first:
+      213: -1476214283513597277
+    second: mobilebuttons_55
+  - first:
+      213: 7784458471060898758
+    second: mobilebuttons_56
+  - first:
+      213: -5630871974158120818
+    second: mobilebuttons_57
+  - first:
+      213: -2266889855979247044
+    second: mobilebuttons_58
+  - first:
+      213: 5912630663500769816
+    second: mobilebuttons_59
+  - first:
+      213: -497184770085576113
+    second: mobilebuttons_60
+  - first:
+      213: -4492496616853132990
+    second: mobilebuttons_61
+  - first:
+      213: 387350519552278742
+    second: mobilebuttons_62
+  - first:
+      213: 5945452404963462157
+    second: mobilebuttons_63
+  - first:
+      213: -2049408586780499714
+    second: mobilebuttons_64
+  - first:
+      213: -7394873185810859589
+    second: mobilebuttons_65
+  - first:
+      213: 975176008280196788
+    second: mobilebuttons_66
+  - first:
+      213: -8507229046936960184
+    second: mobilebuttons_67
+  - first:
+      213: 5788166062906383541
+    second: mobilebuttons_68
+  - first:
+      213: 5638175912112023602
+    second: mobilebuttons_69
+  - first:
+      213: 769121413339038408
+    second: mobilebuttons_70
+  - first:
+      213: -9199204760734258813
+    second: mobilebuttons_71
+  - first:
+      213: 7102114298179614198
+    second: mobilebuttons_72
+  - first:
+      213: -6073872000812961893
+    second: mobilebuttons_73
+  - first:
+      213: 5422851124925230560
+    second: mobilebuttons_74
+  - first:
+      213: 5799448988544983477
+    second: mobilebuttons_75
+  - first:
+      213: 765994412712479599
+    second: mobilebuttons_76
+  - first:
+      213: -4438713404072070365
+    second: mobilebuttons_77
+  - first:
+      213: 7271523259281820280
+    second: mobilebuttons_78
+  - first:
+      213: 34870290691078051
+    second: mobilebuttons_79
+  - first:
+      213: -3694548054214216305
+    second: mobilebuttons_80
+  - first:
+      213: -3650497737078057678
+    second: mobilebuttons_81
+  - first:
+      213: 5814376714371829169
+    second: mobilebuttons_82
+  - first:
+      213: -572792943369158779
+    second: mobilebuttons_83
+  - first:
+      213: -7405726582757382448
+    second: mobilebuttons_84
+  - first:
+      213: 2011541625244577414
+    second: mobilebuttons_85
+  - first:
+      213: 8173808337205406892
+    second: mobilebuttons_86
+  - first:
+      213: 2484628442961262806
+    second: mobilebuttons_87
+  - first:
+      213: -5476668663321224238
+    second: mobilebuttons_88
+  - first:
+      213: 4998967046486856740
+    second: mobilebuttons_89
+  - first:
+      213: 1292099324840959074
+    second: mobilebuttons_90
+  - first:
+      213: -7147261255925427687
+    second: mobilebuttons_91
+  - first:
+      213: -1423009381508899627
+    second: mobilebuttons_92
+  - first:
+      213: -3445871901546424937
+    second: mobilebuttons_93
+  - first:
+      213: -4794297352632027742
+    second: mobilebuttons_94
+  - first:
+      213: -8196007260578185915
+    second: mobilebuttons_95
+  - first:
+      213: 7118631315502697732
+    second: mobilebuttons_96
+  - first:
+      213: 9158353386360249845
+    second: mobilebuttons_97
+  - first:
+      213: -6936336572382937474
+    second: mobilebuttons_98
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mobilebuttons_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 465
+        width: 549
+        height: 547
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdc477c8b4c6594c0800000000000000
+      internalID: -4281396799010812709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobilebuttons_1
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 901
+        width: 113
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a3ad9bfeafe5c870800000000000000
+      internalID: 8702625389788111780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobilebuttons_2
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 1011
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39f9763f7a5c21cf0800000000000000
+      internalID: -282946501437055085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobilebuttons_3
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 961
+        width: 64
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9af009f13de53b140800000000000000
+      internalID: 4734231894157168553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobilebuttons_4
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 991
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48140dfb22f8f2ae0800000000000000
+      internalID: -1571880365519257212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobilebuttons_5
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 839
+        width: 157
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97288cf9cc3476940800000000000000
+      internalID: 5289270833503044217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobilebuttons_6
+      rect:
+        serializedVersion: 2
+        x: 1342
+        y: 861
+        width: 179
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fe0ec2212d8db710800000000000000
+      internalID: 1710678606928023283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobilebuttons_7
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 943
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cc05a1fb863b8c80800000000000000
+      internalID: -8319495911954379581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobilebuttons_8
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 925
+        width: 25
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36d3c2e144753b0f0800000000000000
+      internalID: -1102441533700031133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobilebuttons_9
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 917
+        width: 59
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1b3a0d9ebbcccfa0800000000000000
+      internalID: -5779020202284270818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobilebuttons_10
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 940
+        width: 23
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8bb401a4e2a23d80800000000000000
+      internalID: -8272370462688494705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobilebuttons_11
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 949
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd3b6832d485c01c0800000000000000
+      internalID: -4536153636337175589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobilebuttons_12
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 975
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e423935015bf8260800000000000000
+      internalID: 7102094219112817890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobilebuttons_13
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 964
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 325e9b14ab71cfba0800000000000000
+      internalID: -6053937710358731485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobilebuttons_14
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 961
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f173b5661019a99d0800000000000000
+      internalID: -2766739585867499745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobilebuttons_15
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 893
+        width: 89
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b81b8bbd741d4b730800000000000000
+      internalID: 4014063274453152139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobilebuttons_16
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 919
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee7523b53444d42f0800000000000000
+      internalID: -987057687240747026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobilebuttons_17
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 789
+        width: 143
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05257ec86d3c886c0800000000000000
+      internalID: -4140844531112783280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobilebuttons_18
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 463
+        width: 555
+        height: 491
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19dbbe91d2b9759c0800000000000000
+      internalID: -3938508731101495919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobilebuttons_19
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 911
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9961a600f28239df0800000000000000
+      internalID: -174751778201790823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobilebuttons_20
+      rect:
+        serializedVersion: 2
+        x: 1498
+        y: 915
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3976d88a3f23ef40800000000000000
+      internalID: 5756496677159991615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobilebuttons_21
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 897
+        width: 9
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1db551a327ac30a90800000000000000
+      internalID: -7348807574988956719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobilebuttons_22
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 847
+        width: 57
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2613fbb75519b0f10800000000000000
+      internalID: 2237041436253958498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobilebuttons_23
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 877
+        width: 21
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc49016483778a080800000000000000
+      internalID: -9175953157190019891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobilebuttons_24
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 875
+        width: 43
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abc42365b397c2e30800000000000000
+      internalID: 4480089025082969274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobilebuttons_25
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 901
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a87a701305ded5600800000000000000
+      internalID: 458783665737410442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobilebuttons_26
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 886
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd147e992dea2cee0800000000000000
+      internalID: -1242238327652400673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobilebuttons_27
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 879
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 128e62f995a216440800000000000000
+      internalID: 4927266031730616353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobilebuttons_28
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 878
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d51648f744ccc20b0800000000000000
+      internalID: -5751998029489741475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobilebuttons_29
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 879
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6182fbdec49c61aa0800000000000000
+      internalID: -6190539305530742762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobilebuttons_30
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 485
+        width: 357
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 841c8e7c10de2f410800000000000000
+      internalID: 1509529417027207496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobilebuttons_31
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 823
+        width: 21
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb21e4f79452be010800000000000000
+      internalID: 1219109121732514495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobilebuttons_32
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 635
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66da58e6d81766050800000000000000
+      internalID: 5793442822917303654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobilebuttons_33
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 662
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cb44731ab3490170800000000000000
+      internalID: 8145115867545619394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobilebuttons_34
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 657
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed8751af14c743b70800000000000000
+      internalID: 8877857388264519902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobilebuttons_35
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 581
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6947ed4f964417bb0800000000000000
+      internalID: -4940092094378249066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobilebuttons_36
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 619
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34fdee45dcf72f950800000000000000
+      internalID: 6481383333609529155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobilebuttons_37
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 599
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cf08c117a5649250800000000000000
+      internalID: 5950492775895535559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobilebuttons_38
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 611
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 207878a912e4bd3b0800000000000000
+      internalID: -5486705814787356926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobilebuttons_39
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 575
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1be4d7f781e591d0800000000000000
+      internalID: -3344519174157964518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobilebuttons_40
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 549
+        width: 59
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42e0c0d417d82d060800000000000000
+      internalID: 6976794290513776164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobilebuttons_41
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 647
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4849642f13df56c10800000000000000
+      internalID: 2046319996669695108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobilebuttons_42
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 615
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a62393255ad2f00c0800000000000000
+      internalID: -4607413705704394134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobilebuttons_43
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 583
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aab5a8480f715cc0800000000000000
+      internalID: -3724055743303402842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobilebuttons_44
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 632
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 704cea8bfec5a5680800000000000000
+      internalID: -8765591540057848825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobilebuttons_45
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 615
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01014a372d262c830800000000000000
+      internalID: 4089940067628617744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobilebuttons_46
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 506
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b19bac05c2d05cd0800000000000000
+      internalID: -2571323643465592396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobilebuttons_47
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 523
+        width: 39
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3f7cc833b8bcf7d0800000000000000
+      internalID: -2883226581532377282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobilebuttons_48
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 405
+        width: 137
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2370ee8dfc4860e80800000000000000
+      internalID: -8212730842230945998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobilebuttons_49
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 530
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aaa6bb07b5e38a60800000000000000
+      internalID: 7675230764307753639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobilebuttons_50
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 511
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82060dfa83ca43470800000000000000
+      internalID: 8373506966656409640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobilebuttons_51
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 519
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e8f9f8458ca914f0800000000000000
+      internalID: -857464565582399260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobilebuttons_52
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 510
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ca7cd96b54cff580800000000000000
+      internalID: -8791092050706793792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobilebuttons_53
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 503
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acdaffd133ee235b0800000000000000
+      internalID: -5389983900695024182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobilebuttons_54
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 487
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 563907e19b20200b0800000000000000
+      internalID: -5764041578977914011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobilebuttons_55
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 477
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a270d23eee638be0800000000000000
+      internalID: -1476214283513597277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobilebuttons_56
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 475
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c38d505cb3f70c60800000000000000
+      internalID: 7784458471060898758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobilebuttons_57
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 477
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e884a9ce5cf1bd1b0800000000000000
+      internalID: -5630871974158120818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobilebuttons_58
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 435
+        width: 55
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3aab6dbfa36a80e0800000000000000
+      internalID: -2266889855979247044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobilebuttons_59
+      rect:
+        serializedVersion: 2
+        x: 1406
+        y: 443
+        width: 51
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81aab021342ed0250800000000000000
+      internalID: 5912630663500769816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobilebuttons_60
+      rect:
+        serializedVersion: 2
+        x: 1449
+        y: 461
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f42a057f515a919f0800000000000000
+      internalID: -497184770085576113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobilebuttons_61
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 22
+        width: 509
+        height: 456
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24923d5112277a1c0800000000000000
+      internalID: -4492496616853132990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobilebuttons_62
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 471
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d00a79ce35206500800000000000000
+      internalID: 387350519552278742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobilebuttons_63
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 0
+        width: 492
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0cc6d2467d728250800000000000000
+      internalID: 5945452404963462157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobilebuttons_64
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 411
+        width: 82
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef02051afb90f83e0800000000000000
+      internalID: -2049408586780499714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobilebuttons_65
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 17
+        width: 511
+        height: 464
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb9bea86402206990800000000000000
+      internalID: -7394873185810859589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobilebuttons_66
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 469
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b6460fa965888d00800000000000000
+      internalID: 975176008280196788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobilebuttons_67
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 474
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 843007a414040f980800000000000000
+      internalID: -8507229046936960184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobilebuttons_68
+      rect:
+        serializedVersion: 2
+        x: 1486
+        y: 445
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bc91800e52b35050800000000000000
+      internalID: 5788166062906383541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobilebuttons_69
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 437
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 238e996ae13de3e40800000000000000
+      internalID: 5638175912112023602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobilebuttons_70
+      rect:
+        serializedVersion: 2
+        x: 1486
+        y: 399
+        width: 33
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c24837b9d77caa00800000000000000
+      internalID: 769121413339038408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobilebuttons_71
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 415
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3892a54720cd55080800000000000000
+      internalID: -9199204760734258813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobilebuttons_72
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 397
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f5f7395357cf8260800000000000000
+      internalID: 7102114298179614198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobilebuttons_73
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 407
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9f2a54989545bba0800000000000000
+      internalID: -6073872000812961893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobilebuttons_74
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 417
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0edeefadd56d14b40800000000000000
+      internalID: 5422851124925230560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobilebuttons_75
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 77
+        width: 22
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b1e837d028cb7050800000000000000
+      internalID: 5799448988544983477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobilebuttons_76
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 130
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6b49a52cdb51aa00800000000000000
+      internalID: 765994412712479599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobilebuttons_77
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 115
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 323f4822da58662c0800000000000000
+      internalID: -4438713404072070365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobilebuttons_78
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 83
+        width: 15
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87acb7dc0e3a9e460800000000000000
+      internalID: 7271523259281820280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobilebuttons_79
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 83
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a73bd93852eb7000800000000000000
+      internalID: 34870290691078051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobilebuttons_80
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 89
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8573f68e145abcc0800000000000000
+      internalID: -3694548054214216305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobilebuttons_81
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 93
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 235581836a3d65dc0800000000000000
+      internalID: -3650497737078057678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobilebuttons_82
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 64
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bd8f6ad0d0d0b050800000000000000
+      internalID: 5814376714371829169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobilebuttons_83
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 53
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58f71a05ad70d08f0800000000000000
+      internalID: -572792943369158779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobilebuttons_84
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 51
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d6241309e2993990800000000000000
+      internalID: -7405726582757382448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobilebuttons_85
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 39
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68e6d97537e6aeb10800000000000000
+      internalID: 2011541625244577414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobilebuttons_86
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 65
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cac214140633f6170800000000000000
+      internalID: 8173808337205406892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobilebuttons_87
+      rect:
+        serializedVersion: 2
+        x: 1414
+        y: 55
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d8b98d976c2b7220800000000000000
+      internalID: 2484628442961262806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobilebuttons_88
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 69
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2db993a0ed6fef3b0800000000000000
+      internalID: -5476668663321224238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobilebuttons_89
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 55
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4249bb90b06ef5540800000000000000
+      internalID: 4998967046486856740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobilebuttons_90
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 45
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26cdaa77d757ee110800000000000000
+      internalID: 1292099324840959074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobilebuttons_91
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 38
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91217ab61c3dfcc90800000000000000
+      internalID: -7147261255925427687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobilebuttons_92
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 17
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dc1d17c184704ce0800000000000000
+      internalID: -1423009381508899627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobilebuttons_93
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 31
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79553d633cdcd20d0800000000000000
+      internalID: -3445871901546424937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobilebuttons_94
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 31
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a5b5c485fb377db0800000000000000
+      internalID: -4794297352632027742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobilebuttons_95
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 31
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54df6b022dee14e80800000000000000
+      internalID: -8196007260578185915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobilebuttons_96
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 24
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40d828f17757ac260800000000000000
+      internalID: 7118631315502697732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobilebuttons_97
+      rect:
+        serializedVersion: 2
+        x: 1366
+        y: 39
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fd9f71c1e1091f70800000000000000
+      internalID: 9158353386360249845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobilebuttons_98
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 17
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7e709043ae2dbf90800000000000000
+      internalID: -6936336572382937474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      mobilebuttons_0: -4281396799010812709
+      mobilebuttons_1: 8702625389788111780
+      mobilebuttons_10: -8272370462688494705
+      mobilebuttons_11: -4536153636337175589
+      mobilebuttons_12: 7102094219112817890
+      mobilebuttons_13: -6053937710358731485
+      mobilebuttons_14: -2766739585867499745
+      mobilebuttons_15: 4014063274453152139
+      mobilebuttons_16: -987057687240747026
+      mobilebuttons_17: -4140844531112783280
+      mobilebuttons_18: -3938508731101495919
+      mobilebuttons_19: -174751778201790823
+      mobilebuttons_2: -282946501437055085
+      mobilebuttons_20: 5756496677159991615
+      mobilebuttons_21: -7348807574988956719
+      mobilebuttons_22: 2237041436253958498
+      mobilebuttons_23: -9175953157190019891
+      mobilebuttons_24: 4480089025082969274
+      mobilebuttons_25: 458783665737410442
+      mobilebuttons_26: -1242238327652400673
+      mobilebuttons_27: 4927266031730616353
+      mobilebuttons_28: -5751998029489741475
+      mobilebuttons_29: -6190539305530742762
+      mobilebuttons_3: 4734231894157168553
+      mobilebuttons_30: 1509529417027207496
+      mobilebuttons_31: 1219109121732514495
+      mobilebuttons_32: 5793442822917303654
+      mobilebuttons_33: 8145115867545619394
+      mobilebuttons_34: 8877857388264519902
+      mobilebuttons_35: -4940092094378249066
+      mobilebuttons_36: 6481383333609529155
+      mobilebuttons_37: 5950492775895535559
+      mobilebuttons_38: -5486705814787356926
+      mobilebuttons_39: -3344519174157964518
+      mobilebuttons_4: -1571880365519257212
+      mobilebuttons_40: 6976794290513776164
+      mobilebuttons_41: 2046319996669695108
+      mobilebuttons_42: -4607413705704394134
+      mobilebuttons_43: -3724055743303402842
+      mobilebuttons_44: -8765591540057848825
+      mobilebuttons_45: 4089940067628617744
+      mobilebuttons_46: -2571323643465592396
+      mobilebuttons_47: -2883226581532377282
+      mobilebuttons_48: -8212730842230945998
+      mobilebuttons_49: 7675230764307753639
+      mobilebuttons_5: 5289270833503044217
+      mobilebuttons_50: 8373506966656409640
+      mobilebuttons_51: -857464565582399260
+      mobilebuttons_52: -8791092050706793792
+      mobilebuttons_53: -5389983900695024182
+      mobilebuttons_54: -5764041578977914011
+      mobilebuttons_55: -1476214283513597277
+      mobilebuttons_56: 7784458471060898758
+      mobilebuttons_57: -5630871974158120818
+      mobilebuttons_58: -2266889855979247044
+      mobilebuttons_59: 5912630663500769816
+      mobilebuttons_6: 1710678606928023283
+      mobilebuttons_60: -497184770085576113
+      mobilebuttons_61: -4492496616853132990
+      mobilebuttons_62: 387350519552278742
+      mobilebuttons_63: 5945452404963462157
+      mobilebuttons_64: -2049408586780499714
+      mobilebuttons_65: -7394873185810859589
+      mobilebuttons_66: 975176008280196788
+      mobilebuttons_67: -8507229046936960184
+      mobilebuttons_68: 5788166062906383541
+      mobilebuttons_69: 5638175912112023602
+      mobilebuttons_7: -8319495911954379581
+      mobilebuttons_70: 769121413339038408
+      mobilebuttons_71: -9199204760734258813
+      mobilebuttons_72: 7102114298179614198
+      mobilebuttons_73: -6073872000812961893
+      mobilebuttons_74: 5422851124925230560
+      mobilebuttons_75: 5799448988544983477
+      mobilebuttons_76: 765994412712479599
+      mobilebuttons_77: -4438713404072070365
+      mobilebuttons_78: 7271523259281820280
+      mobilebuttons_79: 34870290691078051
+      mobilebuttons_8: -1102441533700031133
+      mobilebuttons_80: -3694548054214216305
+      mobilebuttons_81: -3650497737078057678
+      mobilebuttons_82: 5814376714371829169
+      mobilebuttons_83: -572792943369158779
+      mobilebuttons_84: -7405726582757382448
+      mobilebuttons_85: 2011541625244577414
+      mobilebuttons_86: 8173808337205406892
+      mobilebuttons_87: 2484628442961262806
+      mobilebuttons_88: -5476668663321224238
+      mobilebuttons_89: 4998967046486856740
+      mobilebuttons_9: -5779020202284270818
+      mobilebuttons_90: 1292099324840959074
+      mobilebuttons_91: -7147261255925427687
+      mobilebuttons_92: -1423009381508899627
+      mobilebuttons_93: -3445871901546424937
+      mobilebuttons_94: -4794297352632027742
+      mobilebuttons_95: -8196007260578185915
+      mobilebuttons_96: 7118631315502697732
+      mobilebuttons_97: 9158353386360249845
+      mobilebuttons_98: -6936336572382937474
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -11,7 +11,7 @@ public class Bullet : MonoBehaviour
     public static float bonusSpeed = 0f;
     public static float bonusKnockback = 0f;
 
-    void Start() => Destroy(gameObject, lifetime);
+    void Start(){if(TryGetComponent<SpriteRenderer>(out var visual))visual.sortingOrder=1150;Destroy(gameObject,lifetime);}
 
     void Update() => transform.Translate(Vector2.up * (speed + bonusSpeed) * Time.deltaTime);
 

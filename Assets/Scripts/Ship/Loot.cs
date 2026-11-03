@@ -12,6 +12,7 @@ public class Loot : MonoBehaviour
     public float acceleration = 15f; // Gemiye doğru uçarken giderek hızlanması için
 
     [Header("Ödül Değerleri (Aktif Moda Göre)")]
+    public bool energyOnly;
     public int expValue = 1;         // XP modundayken vereceği tecrübe puanı
     public float energyValue = 15f;  // Enerji modundayken dolduracağı yakıt miktarı
 
@@ -19,6 +20,8 @@ public class Loot : MonoBehaviour
     private bool collected = false;
     private Transform target;
     private float currentSpeed;
+
+    void Start(){if(!uiManager)uiManager=FindFirstObjectByType<ShipUIManager>();if(!shipController)shipController=FindFirstObjectByType<ShipController>();if(!GetComponent<ShipLootVisual>())gameObject.AddComponent<ShipLootVisual>();}
 
     public void Magnetize(Transform playerTransform)
     {
@@ -59,7 +62,8 @@ public class Loot : MonoBehaviour
     {
         if (collected) return;
 
-        if (uiManager != null)
+        if(energyOnly&&shipController)shipController.AddEnergy(energyValue);
+        else if (uiManager != null)
         {
             if (uiManager.isLootingXP)
             {

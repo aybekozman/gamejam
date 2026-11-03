@@ -1,0 +1,8 @@
+using UnityEngine;
+public sealed class VoyageSurfaceEnvironment:MonoBehaviour {
+ Transform[] waste;Vector3[] anchors;Camera view;float clock;
+ public float Pollution{get;private set;}
+ void Start(){var stage=StorySceneJourney.Instance.Stage;Pollution=stage==JourneyStage.WhaleBattle?.92f:stage==JourneyStage.SharkBattle?.92f:stage==JourneyStage.ShipBattle?.4f:0;foreach(var sea in FindObjectsByType<InfiniteOcean>(FindObjectsSortMode.None))sea.pollution=Pollution;view=Camera.main;int count=stage==JourneyStage.WhaleBattle?40:stage==JourneyStage.SharkBattle?40:stage==JourneyStage.ShipBattle?16:0;waste=new Transform[count];anchors=new Vector3[count];var rng=new System.Random(724+(int)stage);for(int i=0;i<count;i++){var go=new GameObject("Floating surface waste");var r=go.AddComponent<SpriteRenderer>();r.sprite=Resources.Load<Sprite>("Abyss/waste_"+i%6);r.sortingOrder=7;r.color=new Color(.77f,.82f,.7f,.8f);if(r.sprite)go.transform.localScale=Vector3.one*(.4f+(float)rng.NextDouble()*.45f)/r.sprite.bounds.size.x;go.transform.rotation=Quaternion.Euler(0,0,(float)rng.NextDouble()*360);waste[i]=go.transform;anchors[i]=VoyageHarbor.NearestWater((Vector2)view.transform.position+new Vector2((float)rng.NextDouble()*64-32,(float)rng.NextDouble()*40-20));go.transform.position=anchors[i];}}
+ void Update(){if(!view||waste==null)return;clock+=Time.deltaTime;for(int i=0;i<waste.Length;i++){if(Vector2.Distance(anchors[i],view.transform.position)>52)anchors[i]=VoyageHarbor.NearestWater((Vector2)view.transform.position+new Vector2(i%2==0?28:-28,(i%7-3)*5));anchors[i]+=Vector3.right*(Time.deltaTime*.08f);waste[i].position=anchors[i]+Vector3.up*(Mathf.Sin(clock*.65f+i)*.13f);}}
+ void OnDestroy(){if(waste!=null)foreach(var t in waste)if(t)Destroy(t.gameObject);}
+}

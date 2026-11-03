@@ -10,6 +10,7 @@ public class Enemy : MonoBehaviour
     [Header("Veri Odaklı Statlar (ScriptableObject)")]
     public EnemyStatsData stats;
     private float currentHealth;
+    [Min(.1f)] public float movementSpeedMultiplier = 1f;
 
     [Header("Süre ve Efekt Ayarları")]
     public float knockbackDuration = 0.3f;
@@ -58,7 +59,7 @@ public class Enemy : MonoBehaviour
         }
 
         Vector2 direction = (player.position - transform.position).normalized;
-        rb.linearVelocity = direction * stats.moveSpeed;
+        rb.linearVelocity = direction * stats.moveSpeed * movementSpeedMultiplier;
 
         float angle = Mathf.Atan2(direction.y, direction.x) * Mathf.Rad2Deg + rotationOffset;
         transform.rotation = Quaternion.Euler(0, 0, angle);

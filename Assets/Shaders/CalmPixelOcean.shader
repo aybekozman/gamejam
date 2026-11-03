@@ -5,6 +5,7 @@ Shader "Ship/Calm Pixel Ocean"
         [PerRendererData] _MainTex("Sprite", 2D) = "white" {}
         _OceanTex("Ocean (standalone, repeat)", 2D) = "white" {}
         _Tint("Tint", Color) = (1,1,1,1)
+        _Pollution("Pollution", Range(0,1)) = 0
         _RepeatSize("World repeat size", Vector) = (40,30,0,0)
         _Flow("Flow XY, wave strength Z, wave speed W", Vector) = (.12,.03,0,.3)
         _OceanTime("Scaled time", Float) = 0
@@ -30,7 +31,7 @@ Shader "Ship/Calm Pixel Ocean"
                 float4 _OceanPixelSize;
                 float4 _Tint, _RepeatSize, _Flow;
                 float4 _CrestMotion, _SourceRect;
-                float _OceanTime, _UseSpriteUV;
+                float _OceanTime, _UseSpriteUV, _Pollution;
             CBUFFER_END
             struct Attributes { float3 positionOS : POSITION; float2 uv : TEXCOORD0; };
             struct Varyings { float4 positionCS : SV_POSITION; float2 world : TEXCOORD0; float2 uv : TEXCOORD1; };
@@ -92,6 +93,8 @@ Shader "Ship/Calm Pixel Ocean"
                 }
                 color *= _Tint.rgb * (1 + _Flow.z * (.10 * swell + .06 * crest));
                 color += half3(.035,.065,.06) * crest * _Flow.z;
+                half grey=dot(color,half3(.299,.587,.114));
+                color=lerp(color,grey*half3(.9,1.08,.85)+half3(.025,.055,.03),_Pollution);
                 return half4(color, 1);
             }
             ENDHLSL

@@ -72,7 +72,9 @@ public class EnemySpawner : MonoBehaviour
         spawnRandom = false; // Yeni liste geldiğinde rastgele doğmayı otomatik kapat
     }
 
-    private void SpawnEnemy()
+    public void SpawnReinforcement(GameObject prefab){if(prefab)SpawnEnemy(prefab);}
+
+    private void SpawnEnemy(GameObject reinforcement=null)
     {
         if (mainCamera == null) return;
 
@@ -83,7 +85,7 @@ public class EnemySpawner : MonoBehaviour
         if (spawnPool == null || spawnPool.Length == 0) return;
 
         int randomIndex = Random.Range(0, spawnPool.Length);
-        GameObject selectedEnemy = spawnPool[randomIndex];
+        GameObject selectedEnemy = reinforcement?reinforcement:spawnPool[randomIndex];
 
         if (selectedEnemy == null) return;
 
@@ -93,7 +95,12 @@ public class EnemySpawner : MonoBehaviour
         Vector2 spawnDirection = new Vector2(Mathf.Cos(randomAngle * Mathf.Deg2Rad), Mathf.Sin(randomAngle * Mathf.Deg2Rad));
         Vector2 spawnPosition = cameraPos + (spawnDirection * spawnRadius);
 
+        spawnPosition = VoyageHarbor.NearestWater(spawnPosition);
         GameObject spawnedObj = Instantiate(selectedEnemy, spawnPosition, Quaternion.identity);
+
+        spawnedObj.transform.localScale*=1.15f;
+        var spawnedEnemy=spawnedObj.GetComponent<Enemy>();
+        if(spawnedEnemy)spawnedEnemy.movementSpeedMultiplier=1.15f;
 
         // Sahne taraması (FindAnyObjectByType) yapmadan, doğan düşmana gemi referansını doğrudan aktar
         if (playerTransform != null)

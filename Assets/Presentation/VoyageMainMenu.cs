@@ -1,0 +1,25 @@
+using System.Collections;using UnityEngine;using UnityEngine.UI;using UnityEngine.EventSystems;using UnityEngine.InputSystem;using UnityEngine.Video;
+public sealed class VoyageMainMenu:VoyageUI {
+ public static bool IntroVisible{get;private set;}public bool IntroHolding{get;private set;}
+ public VideoClip teamIntro;static bool introPlayed;GameObject menu,settings,cover;SpriteRenderer ocean;VideoPlayer video;RenderTexture videoTexture;bool introDone;Button first;
+ [RuntimeInitializeOnLoadMethod(RuntimeInitializeLoadType.SubsystemRegistration)]static void ResetIntro(){introPlayed=false;IntroVisible=false;}
+ IEnumerator Start(){Time.timeScale=1;var bg=new GameObject("Menu sea");ocean=bg.AddComponent<SpriteRenderer>();ocean.sprite=Resources.Load<Sprite>("Voyage/menu_background");ocean.sharedMaterial=new Material(Shader.Find("Universal Render Pipeline/2D/Sprite-Unlit-Default"));ocean.sortingOrder=-100;
+ menu=Rect("Main menu",root,Vector2.zero,new Vector2(1920,1080)).gameObject;var logo=Picture("Game logo",menu.transform,new Vector2(0,250),new Vector2(1100,500),"logo");logo.preserveAspect=true;first=Button("New game",menu.transform,new Vector2(0,-80),"Yeni Oyun",()=>StorySceneJourney.Instance.NewGame());Button("Settings",menu.transform,new Vector2(0,-220),"Ayarlar",()=>Settings(true));Button("Quit",menu.transform,new Vector2(0,-360),"Çıkış",Quit);
+ Label("Studio credit",menu.transform,new Vector2(0,-490),new Vector2(900,50),"Andronova Games",25);
+ settings=Picture("Settings panel",root,Vector2.zero,new Vector2(1100,780),"settings").gameObject;Label("Heading",settings.transform,new Vector2(0,290),new Vector2(800,70),"Ayarlar",40);VoyageSoundControls.Add(this,settings.transform,100);Button("Back",settings.transform,new Vector2(0,-280),"Geri",()=>Settings(false));settings.SetActive(false);AudioListener.volume=PlayerPrefs.GetFloat("Sound.Master",.85f);
+ if(teamIntro&&!introPlayed){introPlayed=true;IntroVisible=true;menu.SetActive(false);yield return PlayIntro();IntroVisible=false;}ShowMenu();}
+ IEnumerator PlayIntro(){cover=Picture("Team intro",root,Vector2.zero,new Vector2(6000,6000),"").gameObject;cover.GetComponent<Image>().color=Color.black;var raw=Rect("Video picture",root,Vector2.zero,Vector2.zero).gameObject.AddComponent<RawImage>();raw.rectTransform.anchorMin=Vector2.zero;raw.rectTransform.anchorMax=Vector2.one;raw.rectTransform.offsetMin=raw.rectTransform.offsetMax=Vector2.zero;var ratio=raw.gameObject.AddComponent<AspectRatioFitter>();ratio.aspectMode=AspectRatioFitter.AspectMode.FitInParent;ratio.aspectRatio=16f/9;
+ var go=new GameObject("Andronova intro player");video=go.AddComponent<VideoPlayer>();var audio=go.AddComponent<AudioSource>();audio.playOnAwake=false;audio.spatialBlend=0;video.playOnAwake=false;video.source=VideoSource.VideoClip;video.clip=teamIntro;video.renderMode=VideoRenderMode.RenderTexture;video.audioOutputMode=VideoAudioOutputMode.AudioSource;if(teamIntro.audioTrackCount>0){video.controlledAudioTrackCount=1;video.EnableAudioTrack(0,true);video.SetTargetAudioSource(0,audio);}else video.audioOutputMode=VideoAudioOutputMode.None;video.isLooping=false;video.loopPointReached+=_=>introDone=true;video.errorReceived+=(_,error)=>{Debug.LogWarning("Intro video: "+error);introDone=true;};videoTexture=new RenderTexture(1920,1080,0);video.targetTexture=videoTexture;raw.texture=videoTexture;video.Prepare();float deadline=Time.realtimeSinceStartup+10;while(!video.isPrepared&&!introDone&&Time.realtimeSinceStartup<deadline)yield return null;if(video.isPrepared&&!introDone){ratio.aspectRatio=(float)video.width/Mathf.Max(1,video.height);video.Play();while(!introDone)yield return null;}if(video.isPrepared){video.Pause();IntroHolding=true;yield return new WaitForSecondsRealtime(1.7f);IntroHolding=false;}video.Stop();Destroy(go);video=null;Destroy(raw.gameObject);Destroy(cover);videoTexture.Release();Destroy(videoTexture);videoTexture=null;}
+ void ShowMenu(){menu.SetActive(true);EventSystem.current.SetSelectedGameObject(first.gameObject);}
+ void Settings(bool open){settings.SetActive(open);menu.SetActive(!open);EventSystem.current.SetSelectedGameObject(open?settings.GetComponentInChildren<Slider>().gameObject:first.gameObject);}
+ void Update(){if(video&&Keyboard.current!=null&&(Keyboard.current.escapeKey.wasPressedThisFrame||Keyboard.current.spaceKey.wasPressedThisFrame||Keyboard.current.enterKey.wasPressedThisFrame))introDone=true;else if(settings&&settings.activeSelf&&Keyboard.current!=null&&Keyboard.current.escapeKey.wasPressedThisFrame)Settings(false);if(ocean&&Camera.main){float h=Camera.main.orthographicSize*2+1,w=h*Camera.main.aspect+1;ocean.transform.localScale=Vector3.one*Mathf.Max(w/ocean.sprite.bounds.size.x,h/ocean.sprite.bounds.size.y);ocean.transform.position=new Vector3(Mathf.Sin(Time.unscaledTime*.13f)*.04f,0,0);}}
+ void OnDestroy(){IntroVisible=false;if(video)Destroy(video.gameObject);if(videoTexture){videoTexture.Release();Destroy(videoTexture);}}
+ void Quit(){
+ #if UNITY_EDITOR
+ UnityEditor.EditorApplication.isPlaying=false;
+ #else
+ Application.Quit();
+ #endif
+ }
+}
+

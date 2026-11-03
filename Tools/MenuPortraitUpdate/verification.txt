@@ -1,0 +1,21 @@
+Menu, intro, portraits and fresh ship visits
+PASS Andronova clip assigned
+PASS Andronova video actually decodes and plays
+PASS intro has skip control
+PASS provided game logo appears in menu
+PASS harbor officer portrait in entry textbox
+PASS textbox types while ship gameplay is paused
+PASS captain portrait in captain textbox
+PASS dialogue ends and releases controls
+PASS native control and weapons restored after text
+PASS new visit starts purification at zero
+PASS new visit starts with full energy and health
+PASS only level and XP progression persist with correct threshold
+PASS other ship upgrades use fresh authored defaults
+PASS dialogue ends and releases controls
+PASS existing forward-travel purification still works
+PASS pause still freezes purification
+PASS intro does not replay on same-session menu return
+PASS menu New Game opens first underwater chapter
+PASS no runtime errors during current verification
+Scene reloads and runtime-only state mutations used for verification; no authored combat tuning changed.

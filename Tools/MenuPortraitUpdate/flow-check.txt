@@ -1,0 +1,12 @@
+Current flow boundary integration checks (runtime-only accelerated purification and chapter completion setup)
+PASS Fresh water on ShipBattle
+PASS ShipBattle at 100% routes to ThirdUnderwater
+PASS Third underwater chapter starts without first discovery replay
+PASS Shark help completion returns to surface
+PASS Fresh water on SharkBattle
+PASS SharkBattle at 100% routes to WhaleBattle
+PASS Fresh water on WhaleBattle
+PASS WhaleBattle at 100% routes to Finale
+PASS White flag finale safely pauses combat
+PASS White flag visible only at ending
+PASS Final text and menu/restart controls appear

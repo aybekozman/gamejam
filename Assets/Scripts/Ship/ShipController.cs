@@ -118,7 +118,9 @@ public class ShipController : MonoBehaviour
         }
     }
 
-    private void OnSprintPerformed(InputAction.CallbackContext ctx) => Dash();
+    void OnDestroy(){controls?.Dispose();}
+
+    private void OnSprintPerformed(InputAction.CallbackContext ctx) => TryDash(controls.Player.Move.ReadValue<Vector2>());
 
     void Update()
     {
@@ -202,6 +204,9 @@ public class ShipController : MonoBehaviour
 
         if (IsDashing)
         {
+            if(moveInput.sqrMagnitude>.01f)dashDirection=((Vector2)Vector3.RotateTowards(dashDirection,moveInput.normalized,7*Time.fixedDeltaTime,0)).normalized;
+            float heading=Mathf.Atan2(dashDirection.y,dashDirection.x)*Mathf.Rad2Deg-90;
+            transform.rotation=Quaternion.RotateTowards(transform.rotation,Quaternion.Euler(0,0,heading),7*Mathf.Rad2Deg*Time.fixedDeltaTime);
             rb.linearVelocity = dashDirection * dashSpeed;
         }
         else
